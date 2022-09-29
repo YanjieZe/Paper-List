@@ -3,6 +3,7 @@
 - [2022.09.28](#20220928)
 
 ## 2022.09.29
+- [ ] arXiv 2022, [A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
 - [ ] NIPS 2017, [Distral: Robust Multitask Reinforcement Learning](https://arxiv.org/abs/1707.04175)
 
 
