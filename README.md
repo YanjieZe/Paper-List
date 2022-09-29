@@ -5,6 +5,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09.28](#20220928)
 
 ## 2022.09.29
+- [ ] ICLR 2023 submission, [DreamFusion: Text-to-3D using 2D Diffusion](https://openreview.net/forum?id=FjNys5c7VyY)
 - [ ] NIPS 2022, [Decomposing NeRF for Editing via Feature Field Distillation](https://pfnet-research.github.io/distilled-feature-fields/)
 - [ ] 3DV 2022, [Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations](https://www.robots.ox.ac.uk/~vadim/n3f/)
 - [ ] ICLR 2023 submission, [Policy-Induced Self-Supervision Improves Representation Finetuning in Visual RL](https://openreview.net/forum?id=9Q7wZ0Uq4Z6)
