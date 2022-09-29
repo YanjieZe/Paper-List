@@ -5,6 +5,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09.28](#20220928)
 
 ## 2022.09.29
+- [ ] ICLR 2023 submission, [Policy-Induced Self-Supervision Improves Representation Finetuning in Visual RL](https://openreview.net/forum?id=9Q7wZ0Uq4Z6)
 - [ ] ICLR 2023 submission, [3D-IntPhys: Learning 3D Visual Intuitive Physics for Fluids, Rigid Bodies, and Granular Materials](https://openreview.net/forum?id=15lSKp0wBnm)
 - [x] ICLR 2023 submission, [Visual Reinforcement Learning with Self-Supervised 3D Representations](https://openreview.net/forum?id=4gUIeq2lyM)
 - [ ] ICLR 2023 submission, [Comparing Auxiliary Tasks for Learning Representations for Reinforcement Learning](https://openreview.net/forum?id=7Kf5_7-b7q)
