@@ -5,6 +5,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09.28](#20220928)
 
 ## 2022.09.29
+- [ ] ICLR 2022 submission, [3D-IntPhys: Learning 3D Visual Intuitive Physics for Fluids, Rigid Bodies, and Granular Materials](https://openreview.net/forum?id=15lSKp0wBnm)
 - [x] ICLR 2022 submission, [Visual Reinforcement Learning with Self-Supervised 3D Representations](https://openreview.net/forum?id=4gUIeq2lyM)
 - [ ] ICLR 2022 submission, [Comparing Auxiliary Tasks for Learning Representations for Reinforcement Learning](https://openreview.net/forum?id=7Kf5_7-b7q)
 - [x] ICLR 2022 submission, [When and Why Is Pretraining Object-Centric Representations Good for Reinforcement Learning? ](https://openreview.net/forum?id=oL2uVCVlyf)
