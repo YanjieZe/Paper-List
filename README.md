@@ -1,4 +1,10 @@
 # Paper Daily
+- [2022.09.29](#20220929)
+- [2022.09.28](#20220928)
+
+## 2022.09.29
+- [ ] NIPS 2017, [Distral: Robust Multitask Reinforcement Learning](https://arxiv.org/abs/1707.04175)
+
 
 ## 2022.09.28
 - [x] arXiv 2022, [Learning to Learn with Generative Models of Neural Network Checkpoints](https://www.wpeebles.com/Gpt)
