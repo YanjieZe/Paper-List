@@ -5,7 +5,7 @@
 ## 2022.09.29
 - [x] ICLR 2022 submission, [Visual Reinforcement Learning with Self-Supervised 3D Representations](https://openreview.net/forum?id=4gUIeq2lyM)
 - [ ] ICLR 2022 submission, [Comparing Auxiliary Tasks for Learning Representations for Reinforcement Learning](https://openreview.net/forum?id=7Kf5_7-b7q)
-- [ ] ICLR 2022 submission, [When and Why Is Pretraining Object-Centric Representations Good for Reinforcement Learning? ](https://openreview.net/forum?id=oL2uVCVlyf)
+- [x] ICLR 2022 submission, [When and Why Is Pretraining Object-Centric Representations Good for Reinforcement Learning? ](https://openreview.net/forum?id=oL2uVCVlyf)
 - [ ] arXiv 2022, [A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
 - [ ] NIPS 2017, [Distral: Robust Multitask Reinforcement Learning](https://arxiv.org/abs/1707.04175)
 
