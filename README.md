@@ -5,7 +5,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09.28](#20220928)
 
 ## 2022.09.30
-- [ ] ICML 2022, [The (Un)Surprising Effectiveness of Pre-Trained Vision Models for Control](https://sites.google.com/view/pvr-control)
+- [x] ICML 2021, [RRL: Resnet as representation for Reinforcement Learning](https://arxiv.org/abs/2107.03380)
+- [x] ICML 2022, [The (Un)Surprising Effectiveness of Pre-Trained Vision Models for Control](https://sites.google.com/view/pvr-control)
 
 ## 2022.09.29
 - [x] ICLR 2023 submission, [DreamFusion: Text-to-3D using 2D Diffusion](https://openreview.net/forum?id=FjNys5c7VyY)
