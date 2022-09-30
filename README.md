@@ -1,8 +1,11 @@
 # Paper Daily
 A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
-
+- [2022.09.30](#20220930)
 - [2022.09.29](#20220929)
 - [2022.09.28](#20220928)
+
+## 2022.09.30
+- [ ] ICML 2022, [The (Un)Surprising Effectiveness of Pre-Trained Vision Models for Control](https://sites.google.com/view/pvr-control)
 
 ## 2022.09.29
 - [x] ICLR 2023 submission, [DreamFusion: Text-to-3D using 2D Diffusion](https://openreview.net/forum?id=FjNys5c7VyY)
@@ -11,7 +14,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [ ] ICLR 2023 submission, [Policy-Induced Self-Supervision Improves Representation Finetuning in Visual RL](https://openreview.net/forum?id=9Q7wZ0Uq4Z6)
 - [ ] ICLR 2023 submission, [3D-IntPhys: Learning 3D Visual Intuitive Physics for Fluids, Rigid Bodies, and Granular Materials](https://openreview.net/forum?id=15lSKp0wBnm)
 - [x] ICLR 2023 submission, [Visual Reinforcement Learning with Self-Supervised 3D Representations](https://openreview.net/forum?id=4gUIeq2lyM)
-- [ ] ICLR 2023 submission, [Comparing Auxiliary Tasks for Learning Representations for Reinforcement Learning](https://openreview.net/forum?id=7Kf5_7-b7q)
+- [x] ICLR 2023 submission, [Comparing Auxiliary Tasks for Learning Representations for Reinforcement Learning](https://openreview.net/forum?id=7Kf5_7-b7q)
 - [x] ICLR 2023 submission, [When and Why Is Pretraining Object-Centric Representations Good for Reinforcement Learning? ](https://openreview.net/forum?id=oL2uVCVlyf)
 - [ ] arXiv 2022, [A Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
 - [ ] NIPS 2017, [Distral: Robust Multitask Reinforcement Learning](https://arxiv.org/abs/1707.04175)
