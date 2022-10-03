@@ -1,11 +1,12 @@
 # Paper Daily
 A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
-- [2022.10.01](#20221001)
+- [2022.10.02](#20221002)
 - [2022.09.30](#20220930)
 - [2022.09.29](#20220929)
 - [2022.09.28](#20220928)
 
-## 2022.10.01
+## 2022.10.02
+- [x] NIPS 2022, [Pre-Trained Image Encoder for Generalizable Visual Reinforcement Learning](https://openreview.net/forum?id=E-0zNz5J5BM)
 
 
 ## 2022.09.30
@@ -31,4 +32,3 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [x] NIPS 2022, [Visual Prompting via Image Inpainting](https://yossigandelsman.github.io/visual_prompt/)
 - [x] arXiv 2022, [Exploring Visual Prompts for Adapting Large-Scale Models](https://hjbahng.github.io/visual_prompting/)
 - [x] NIPS 2022, [Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels?](https://arxiv.org/abs/2206.05266)
-- [x] NIPS 2022, [Pre-Trained Image Encoder for Generalizable Visual Reinforcement Learning](https://openreview.net/forum?id=E-0zNz5J5BM)
