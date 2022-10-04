@@ -1,9 +1,14 @@
 # Paper Daily
 A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
+- [2022.10.03](#20221003)
 - [2022.10.02](#20221002)
 - [2022.09.30](#20220930)
 - [2022.09.29](#20220929)
 - [2022.09.28](#20220928)
+
+## 2022.10.03
+- [x] NIPS 2020 DRL workshop, [Reinforcement Learning with Latent Flow
+](https://arxiv.org/abs/2101.01857)
 
 ## 2022.10.02
 - [x] NIPS 2022, [Pre-Trained Image Encoder for Generalizable Visual Reinforcement Learning](https://openreview.net/forum?id=E-0zNz5J5BM)
