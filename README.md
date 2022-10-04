@@ -1,10 +1,13 @@
 # Paper Daily
 A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
+- [2022.10.04](#20221004)
 - [2022.10.03](#20221003)
 - [2022.10.02](#20221002)
 - [2022.09.30](#20220930)
 - [2022.09.29](#20220929)
 - [2022.09.28](#20220928)
+## 200.10.04 
+- [x] ICLR 2022, [Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning](https://arxiv.org/abs/2107.09645)
 
 ## 2022.10.03
 - [x] NIPS 2020 DRL workshop, [Reinforcement Learning with Latent Flow
