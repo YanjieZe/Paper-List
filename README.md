@@ -6,7 +6,10 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09.30](#20220930)
 - [2022.09.29](#20220929)
 - [2022.09.28](#20220928)
-## 200.10.04 
+## 2022.10.08
+- [ ] NIPS 2020, [Denoising Diffusion Probabilistic Models](https://hojonathanho.github.io/diffusion/)
+
+## 2022.10.04 
 - [ ] arXiv 2022, [VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training](https://sites.google.com/view/vip-rl)
 - [x] ICLR 2022, [Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning](https://arxiv.org/abs/2107.09645)
 
