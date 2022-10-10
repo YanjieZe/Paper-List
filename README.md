@@ -9,7 +9,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09.29](#20220929)
 - [2022.09.28](#20220928)
 ## 2022.10.09
-- [x] NIPS 2020, RAD: [Reinforcement Learning with Augmented Data](https://arxiv.org/abs/2004.14990)
+- [x] NIPS 2020, RAD: [Reinforcement Learning with Augmented Data](https://mishalaskin.github.io/rad/)
 
 ## 2022.10.08
 - [ ] NIPS 2020, DDPM: [Denoising Diffusion Probabilistic Models](https://hojonathanho.github.io/diffusion/)
