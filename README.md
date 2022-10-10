@@ -1,13 +1,18 @@
 # Paper Daily
 A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
+- [2022.10.09](#20221009)
+- [2022.10.08](#20221008)
 - [2022.10.04](#20221004)
 - [2022.10.03](#20221003)
 - [2022.10.02](#20221002)
 - [2022.09.30](#20220930)
 - [2022.09.29](#20220929)
 - [2022.09.28](#20220928)
+## 2022.10.09
+- [x] NIPS 2020, RAD: [Reinforcement Learning with Augmented Data](https://arxiv.org/abs/2004.14990)
+
 ## 2022.10.08
-- [ ] NIPS 2020, [Denoising Diffusion Probabilistic Models](https://hojonathanho.github.io/diffusion/)
+- [ ] NIPS 2020, DDPM: [Denoising Diffusion Probabilistic Models](https://hojonathanho.github.io/diffusion/)
 
 ## 2022.10.04 
 - [ ] arXiv 2022, [VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training](https://sites.google.com/view/vip-rl)
