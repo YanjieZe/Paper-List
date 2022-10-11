@@ -8,6 +8,10 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09.30](#20220930)
 - [2022.09.29](#20220929)
 - [2022.09.28](#20220928)
+
+## 2022.10.11
+- [ ] arXiv 2022, [Diffusion Models: A Comprehensive Survey of Methods and Applications
+](https://arxiv.org/abs/2209.00796), [github](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)
 ## 2022.10.09
 - [x] NIPS 2020, RAD: [Reinforcement Learning with Augmented Data](https://mishalaskin.github.io/rad/)
 
