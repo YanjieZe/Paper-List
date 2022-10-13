@@ -1,14 +1,12 @@
 # Paper Daily
 A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
-- [2022.10.11](#20221011)
-- [2022.10.09](#20221009)
-- [2022.10.08](#20221008)
-- [2022.10.04](#20221004)
-- [2022.10.03](#20221003)
-- [2022.10.02](#20221002)
-- [2022.09.30](#20220930)
-- [2022.09.29](#20220929)
-- [2022.09.28](#20220928)
+- [2022.10](#202210)
+- [2022.09](#202209)
+
+# 2022.10
+
+## 2022.10.13
+- [x] CVPR 2021, DINO: [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294)
 
 ## 2022.10.11
 - [ ] arXiv 2022, [Diffusion Models: A Comprehensive Survey of Methods and Applications
@@ -33,7 +31,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 ## 2022.10.02
 - [x] NIPS 2022, [Pre-Trained Image Encoder for Generalizable Visual Reinforcement Learning](https://openreview.net/forum?id=E-0zNz5J5BM)
 
-
+# 2022.09
 ## 2022.09.30
 - [x] ICML 2021, [RRL: Resnet as representation for Reinforcement Learning](https://arxiv.org/abs/2107.03380)
 - [x] ICML 2022, [The (Un)Surprising Effectiveness of Pre-Trained Vision Models for Control](https://sites.google.com/view/pvr-control)
