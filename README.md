@@ -4,6 +4,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.10
+## 2022.10.16
+- [ ] arXiv 2021, [Deep ViT Features as Dense Visual Descriptors](https://dino-vit-features.github.io/)
 
 ## 2022.10.13
 - [x] CVPR 2021, DINO: [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294)
