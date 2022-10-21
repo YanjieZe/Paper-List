@@ -4,6 +4,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.10
+## 2022.10.21
+- [ ] CVPR 2021, [pixelNeRF: Neural Radiance Fields from One or Few Images](http://alexyu.net/pixelnerf/)
 
 ## 2022.10.19
 - [ ] CVPR 2022, Stable Diffusion: [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
