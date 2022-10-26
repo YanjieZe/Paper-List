@@ -4,6 +4,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.10
+## 2022.10.26
+- [x] ICCV 2019, [Rethinking ImageNet Pre-Training](https://openaccess.thecvf.com/content_ICCV_2019/html/He_Rethinking_ImageNet_Pre-Training_ICCV_2019_paper.html)
+
 ## 2022.10.21
 - [ ] CVPR 2021, [pixelNeRF: Neural Radiance Fields from One or Few Images](http://alexyu.net/pixelnerf/)
 
