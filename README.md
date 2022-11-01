@@ -1,7 +1,12 @@
 # Paper Daily
 A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
+- [2022.11](#202211)
 - [2022.10](#202210)
 - [2022.09](#202209)
+
+# 2022.11
+## 2022.11.1
+- [x] ICLR 2023 submission, [On the Data-Efficiency with Contrastive Image Transformation in Reinforcement Learning](https://openreview.net/forum?id=-nm-rHXi5ga)
 
 # 2022.10
 ## 2022.10.26
