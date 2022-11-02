@@ -5,6 +5,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.11
+## 2022.11.2
+- [ ] CoRL 2022, [VIOLA: Imitation Learning for Vision-Based Manipulation
+with Object Proposals Priors](https://ut-austin-rpl.github.io/VIOLA/)
 
 ## 2022.11.1
 - [ ] CoRL 2021, [Understanding the World Through Action](https://arxiv.org/abs/2110.12543)
