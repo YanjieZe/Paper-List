@@ -5,7 +5,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.11
+
 ## 2022.11.1
+- [ ] CoRL 2021, [Understanding the World Through Action](https://arxiv.org/abs/2110.12543)
 - [ ] CoRL 2022, [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://peract.github.io/)
 - [ ] CVPR 2022, NeuRay: [Neural Rays for Occlusion-aware Image-based Rendering](https://liuyuan-pal.github.io/NeuRay/)
 - [x] ICLR 2023 submission, [On the Data-Efficiency with Contrastive Image Transformation in Reinforcement Learning](https://openreview.net/forum?id=-nm-rHXi5ga)
