@@ -6,6 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.4
+- [ ] Science 2018, [Neural scene representation and rendering](https://www.science.org/doi/full/10.1126/science.aar6170?casa_token=mMOPfU38pmUAAAAA%3Ag3g42rBQjGlg3KHpMP-VsHICITTy3-mzZHkG0K4iKf3d8rnv7vXH8GUYhkdYrvzD5S7PymCod4C5WZDR)
 - [ ] ICLR 2023 submission, [On the Feasibility of Cross-Task Transfer with Model-Based Reinforcement Learning ](https://openreview.net/forum?id=KB1sc5pNKFv)
 
 ## 2022.11.2
