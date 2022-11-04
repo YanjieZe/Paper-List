@@ -5,6 +5,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.11
+## 2022.11.4
+- [ ] ICLR 2023 submission, [On the Feasibility of Cross-Task Transfer with Model-Based Reinforcement Learning ](https://openreview.net/forum?id=KB1sc5pNKFv)
+
 ## 2022.11.2
 - [ ] CoRL 2022, [VIOLA: Imitation Learning for Vision-Based Manipulation
 with Object Proposals Priors](https://ut-austin-rpl.github.io/VIOLA/)
