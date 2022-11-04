@@ -57,7 +57,7 @@ with Object Proposals Priors](https://ut-austin-rpl.github.io/VIOLA/)
 # 2022.09
 ## 2022.09.30
 - [x] ICML 2021, [RRL: Resnet as representation for Reinforcement Learning](https://arxiv.org/abs/2107.03380)
-- [x] ICML 2022, [The (Un)Surprising Effectiveness of Pre-Trained Vision Models for Control](https://sites.google.com/view/pvr-control)
+- [x] ICML 2022, PVR: [The (Un)Surprising Effectiveness of Pre-Trained Vision Models for Control](https://sites.google.com/view/pvr-control)
 - [x] NIPS 2022, [Decomposing NeRF for Editing via Feature Field Distillation](https://pfnet-research.github.io/distilled-feature-fields/)
 - [x] 3DV 2022, N3F: [Neural Feature Fusion Fields: 3D Distillation of Self-Supervised 2D Image Representations](https://www.robots.ox.ac.uk/~vadim/n3f/)
 
