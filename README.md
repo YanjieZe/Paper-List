@@ -5,6 +5,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.11
+## 2022.11.6
+- [x] NIPS 2022, [CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion](https://croco.europe.naverlabs.com/public/index.html)
+
 ## 2022.11.5
 - [ ] CVPR 2017, [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
 - [ ] NIPS 2017, [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://proceedings.neurips.cc/paper/2017/hash/d8bf84be3800d12f74d8b05e9b89836f-Abstract.html)
