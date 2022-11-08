@@ -12,6 +12,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 ## 2022.11.5
 - [ ] CVPR 2017, [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593)
 - [ ] NIPS 2017, [PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://proceedings.neurips.cc/paper/2017/hash/d8bf84be3800d12f74d8b05e9b89836f-Abstract.html)
+- [ ] CVPR 2020, MoCo: [Momentum Contrast for Unsupervised Visual Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.html)
 - [ ] arXiv 2020, MoCov2: [Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297)
 
 ## 2022.11.4
