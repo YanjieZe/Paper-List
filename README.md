@@ -7,7 +7,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 # 2022.11
 ## 2022.11.8
 - [x] CoRL 2021, NeRF-dy: [3D Neural Scene Representations for Visuomotor Control](https://3d-representation-learning.github.io/nerf-dy/) 
-
+- [ ] ICRA 2022, [Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation](https://yilundu.github.io/ndf/)
 ## 2022.11.6
 - [ ] CoRL 2021, [Dex-NeRF: Using a Neural Radiance field to Grasp Transparent Objects](https://sites.google.com/view/dex-nerf)
 - [x] NIPS 2022, [CroCo: Self-Supervised Pre-training for 3D Vision Tasks by Cross-View Completion](https://croco.europe.naverlabs.com/public/index.html)
