@@ -6,6 +6,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.10
+- [ ] ICML 2021. [Unsupervised Learning of Visual 3D Keypoints for Control](https://proceedings.mlr.press/v139/chen21b.html)
+- [ ] arXiv 2020, [Keypoints into the future: Self-supervised correspondence in model-based reinforcement learning](https://arxiv.org/abs/2009.05085)
 - [x] CVPR 2019, [Learning Correspondence from the Cycle-Consistency of Time](https://ajabri.github.io/timecycle/)
 
 ## 2022.11.8
