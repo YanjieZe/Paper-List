@@ -5,6 +5,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.11
+## 2022.11.10
+- [ ] CVPR 2019, [Learning Correspondence from the Cycle-Consistency of Time](https://ajabri.github.io/timecycle/)
+
 ## 2022.11.8
 - [ ] NIPS 2019, [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://www.vincentsitzmann.com/srns/)
 - [x] CoRL 2021, NeRF-dy: [3D Neural Scene Representations for Visuomotor Control](https://3d-representation-learning.github.io/nerf-dy/) 
