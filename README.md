@@ -70,7 +70,7 @@ with Object Proposals Priors](https://ut-austin-rpl.github.io/VIOLA/)
 
 
 ## 2022.10.03
-- [x] NIPS 2020 DRL workshop, [Reinforcement Learning with Latent Flow
+- [x] NIPS 2020 DRL workshop, Flare: [Reinforcement Learning with Latent Flow
 ](https://arxiv.org/abs/2101.01857)
 
 ## 2022.10.02
