@@ -6,6 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.10
+- [ ] RAL 2019, [Self-Supervised Correspondence in Visuomotor Policy Learning](https://arxiv.org/abs/1909.06933)
 - [ ] arXiv 2022, [Attention Beats Concatenation for Conditioning Neural Fields](https://arxiv.org/abs/2209.10684)
 - [ ] ICML 2021. [Unsupervised Learning of Visual 3D Keypoints for Control](https://proceedings.mlr.press/v139/chen21b.html)
 - [ ] arXiv 2020, [Keypoints into the future: Self-supervised correspondence in model-based reinforcement learning](https://arxiv.org/abs/2009.05085)
