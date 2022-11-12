@@ -7,7 +7,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 # 2022.11
 ## 2022.11.11
 - [ ] ICLR 2022, DrQ-v2: [Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning](https://arxiv.org/abs/2107.09645)
-- [ ] ICML 2022, TD-MPC: [Temporal Difference Learning for Model Predictive Control](https://nicklashansen.github.io/td-mpc/)
+- [ ] ICML 2022, TD-MPC: [Temporal Difference Learning for Model Predictive Control](https://arxiv.org/abs/2203.04955)
 ## 2022.11.10
 - [x] ICML 2020, [CURL: Contrastive Unsupervised Representations for Reinforcement Learning](https://mishalaskin.github.io/curl/)
 - [ ] RAL 2019, [Self-Supervised Correspondence in Visuomotor Policy Learning](https://arxiv.org/abs/1909.06933)
