@@ -5,6 +5,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.11
+# 2022.11.12
+- [ ] ICML 2021, ATC: [Decoupling Representation Learning from Reinforcement Learning](http://proceedings.mlr.press/v139/stooke21a.html)
+
 ## 2022.11.11
 - [ ] ICLR 2022, DrQ-v2: [Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning](https://arxiv.org/abs/2107.09645)
 - [ ] ICML 2022, TD-MPC: [Temporal Difference Learning for Model Predictive Control](https://arxiv.org/abs/2203.04955)
