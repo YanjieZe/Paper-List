@@ -6,6 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.14
+- [ ] arXiv 2022, [Masked World Models for Visual Control](https://sites.google.com/view/mwm-rl)
 - [ ] NIPS 2020, [Space-Time Correspondence as a Contrastive Random Walk](https://ajabri.github.io/videowalk/)
 ## 2022.11.12
 - [ ] ICML 2021, ATC: [Decoupling Representation Learning from Reinforcement Learning](http://proceedings.mlr.press/v139/stooke21a.html)
