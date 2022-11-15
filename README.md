@@ -6,6 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.14
+- [ ] ICLR 2021 rejection, D4RL: [Datasets for Deep Data-Driven Reinforcement Learning](https://sites.google.com/view/d4rl/home)
 - [ ] NIPS 2020, CQL: [Conservative Q-Learning for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html)
 - [ ] ICLR 2023 submission, [Offline Q-learning on Diverse Multi-Task Data Both Scales And Generalizes](https://openreview.net/forum?id=4-k7kUavAj)
 - [ ] ICLR 2021, REDQ: [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982)
