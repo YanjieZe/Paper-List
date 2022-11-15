@@ -6,6 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.14
+- [ ] ICLR 2023 submission, [Offline Q-learning on Diverse Multi-Task Data Both Scales And Generalizes](https://openreview.net/forum?id=4-k7kUavAj)
 - [ ] ICLR 2021, REDQ: [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982)
 - [ ] arXiv 2022, [Masked World Models for Visual Control](https://sites.google.com/view/mwm-rl)
 - [ ] NIPS 2020, [Space-Time Correspondence as a Contrastive Random Walk](https://ajabri.github.io/videowalk/)
