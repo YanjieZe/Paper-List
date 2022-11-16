@@ -6,7 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 # 2022.11.16
-- [ ] NIPS 2022, [Mask-based Latent Reconstruction for Reinforcement Learning](https://openreview.net/forum?id=-zlJOVc580)
+- [ ] NIPS 2022, MLR: [Mask-based Latent Reconstruction for Reinforcement Learning](https://openreview.net/forum?id=-zlJOVc580)
 
 ## 2022.11.14
 - [ ] ICLR 2021 rejection, D4RL: [Datasets for Deep Data-Driven Reinforcement Learning](https://sites.google.com/view/d4rl/home)
