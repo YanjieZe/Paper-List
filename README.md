@@ -6,6 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 # 2022.11.16
+- [ ] NIPS 2016, GAIL: [Generative adversarial imitation learning](https://proceedings.neurips.cc/paper/2016/hash/cc7e2b878868cbae992d1fb743995d8f-Abstract.html)
 - [ ] NIPS 2022, MLR: [Mask-based Latent Reconstruction for Reinforcement Learning](https://openreview.net/forum?id=-zlJOVc580)
 
 ## 2022.11.14
