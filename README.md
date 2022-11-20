@@ -5,6 +5,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.11
+# 2022.11.19
+- [ ] RAL 2020, RLBench, [RLBench: The Robot Learning Benchmark & Learning Environment](https://sites.google.com/view/rlbench)
+
 # 2022.11.18
 - [ ] NIPS 2022, [PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies](https://arxiv.org/abs/2206.04670)
 - [ ] CoRL 2022, PerAct: [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://peract.github.io/)
