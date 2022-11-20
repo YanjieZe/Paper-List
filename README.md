@@ -5,15 +5,18 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.11
-# 2022.11.19
+## 2022.11.20
+- [ ] NIPS 2017, [One-Shot Imitation Learning](https://sites.google.com/view/nips2017-one-shot-imitation/home)
+
+## 2022.11.19
 - [ ] CoRL 2020, [Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://meta-world.github.io/)
 - [ ] RAL 2020, [RLBench: The Robot Learning Benchmark & Learning Environment](https://sites.google.com/view/rlbench)
 
-# 2022.11.18
+## 2022.11.18
 - [ ] NIPS 2022, [PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies](https://arxiv.org/abs/2206.04670)
 - [ ] CoRL 2022, PerAct: [Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation](https://peract.github.io/)
 
-# 2022.11.16
+## 2022.11.16
 - [ ] NIPS 2016, GAIL: [Generative adversarial imitation learning](https://proceedings.neurips.cc/paper/2016/hash/cc7e2b878868cbae992d1fb743995d8f-Abstract.html)
 - [ ] NIPS 2022, MLR: [Mask-based Latent Reconstruction for Reinforcement Learning](https://openreview.net/forum?id=-zlJOVc580)
 
