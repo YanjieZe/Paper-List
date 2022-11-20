@@ -6,7 +6,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 # 2022.11.19
-- [ ] RAL 2020, RLBench, [RLBench: The Robot Learning Benchmark & Learning Environment](https://sites.google.com/view/rlbench)
+- [ ] CoRL 2020, [Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning](https://meta-world.github.io/)
+- [ ] RAL 2020, [RLBench: The Robot Learning Benchmark & Learning Environment](https://sites.google.com/view/rlbench)
 
 # 2022.11.18
 - [ ] NIPS 2022, [PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies](https://arxiv.org/abs/2206.04670)
