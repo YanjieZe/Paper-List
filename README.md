@@ -5,6 +5,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.11
+## 2022.11.21
+- [ ] ICML 2022, Diffuser:[Planning with Diffusion for Flexible Behavior Synthesis](https://diffusion-planning.github.io/)
 ## 2022.11.20
 - [ ] NIPS 2022, [LION: Latent Point Diffusion Models for 3D Shape Generation](https://nv-tlabs.github.io/LION/)
 - [ ] NIPS 2022, [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
