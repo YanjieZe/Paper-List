@@ -6,6 +6,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.20
+= [ ] NIPS 2022, [LION: Latent Point Diffusion Models for 3D Shape Generation](https://nv-tlabs.github.io/LION/)
+- [ ] NIPS 2022, [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://nv-tlabs.github.io/GET3D/)
 - [ ] arXiv 2022, [Novel View Synthesis with Diffusion Models](https://3d-diffusion.github.io/)
 - [ ] NIPS 2017, VQ-VAE: [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
 - [ ] NIPS 2017, [One-Shot Imitation Learning](https://sites.google.com/view/nips2017-one-shot-imitation/home)
