@@ -6,6 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.20
+- [ ] NIPS 2017, VQ-VAE: [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
 - [ ] NIPS 2017, [One-Shot Imitation Learning](https://sites.google.com/view/nips2017-one-shot-imitation/home)
 
 ## 2022.11.19
