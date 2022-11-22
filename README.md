@@ -6,6 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.21
+- [ ] ICLR 2023 submission, Diffusion-QL: [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://openreview.net/forum?id=AHvFDPi-FA)
 - [ ] NIPS 2022, BeT: [Behavior Transformers: Cloning k modes with one stone](https://mahis.life/bet/)
 - [ ] ICLR 2023 submission, Diffusion-BC: [Imitating Human Behaviour with Diffusion Models](https://openreview.net/forum?id=Pv1GPQzRrC8)
 - [ ] ICML 2022, Diffuser: [Planning with Diffusion for Flexible Behavior Synthesis](https://diffusion-planning.github.io/)
