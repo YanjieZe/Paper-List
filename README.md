@@ -8,7 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 ## 2022.11.24
 - [ ] RSS 2018, DAPG: [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://sites.google.com/view/deeprl-dexterous-manipulation)
 - [ ] ECCV 2022, [DexMV: Imitation Learning for Dexterous Manipulation from Human Videos](https://yzqin.github.io/dexmv/)
-- [ ] CoRL 2022, [RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments](https://openreview.net/forum?id=VD0nXUG5Qk)
+- [x] CoRL 2022, [RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments](https://openreview.net/forum?id=VD0nXUG5Qk)
 
 ## 2022.11.23
 - [ ] ICML 2021, [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
