@@ -5,6 +5,10 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.11
+## 2022.11.24
+- [ ] ECCV 2022, [DexMV: Imitation Learning for Dexterous Manipulation from Human Videos](https://yzqin.github.io/dexmv/)
+- [ ] CoRL 2022, [RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments](https://openreview.net/forum?id=VD0nXUG5Qk)
+
 ## 2022.11.23
 - [ ] ICML 2021, [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
 ## 2022.11.21
