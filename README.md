@@ -6,7 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.23
-- [ ] ICML 2021, [Perceiver, General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
+- [ ] ICML 2021, [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
 ## 2022.11.21
 - [ ] ICLR 2023 submission, Diffusion-QL: [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://openreview.net/forum?id=AHvFDPi-FA)
 - [ ] NIPS 2022, BeT: [Behavior Transformers: Cloning k modes with one stone](https://mahis.life/bet/)
