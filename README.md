@@ -6,6 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.24
+- [ ] CVPR 2021, [Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time](https://stevenlsw.github.io/Semi-Hand-Object/)
 - [ ] CVPR 2022, [Coarse-to-Fine Q-attention: Efficient Learning for Visual Robotic Manipulation via Discretisation](https://arxiv.org/abs/2106.12534)
 - [ ] RSS 2018, DAPG: [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://sites.google.com/view/deeprl-dexterous-manipulation)
 - [ ] ECCV 2022, [DexMV: Imitation Learning for Dexterous Manipulation from Human Videos](https://yzqin.github.io/dexmv/)
