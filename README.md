@@ -6,7 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.24
-- [ ] CVPR 2022, [Coarse-to-Fine Q-attention: Efficient Learning for Visual Robotic Manipulation via Discretisation](https://sites.google.com/view/c2f-q-attention)
+- [ ] CVPR 2022, [Coarse-to-Fine Q-attention: Efficient Learning for Visual Robotic Manipulation via Discretisation](https://arxiv.org/abs/2106.12534)
 - [ ] RSS 2018, DAPG: [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://sites.google.com/view/deeprl-dexterous-manipulation)
 - [ ] ECCV 2022, [DexMV: Imitation Learning for Dexterous Manipulation from Human Videos](https://yzqin.github.io/dexmv/)
 - [x] CoRL 2022, [RoboTube: Learning Household Manipulation from Human Videos with Simulated Twin Environments](https://openreview.net/forum?id=VD0nXUG5Qk)
