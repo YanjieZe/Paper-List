@@ -5,6 +5,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.11
+## 2022.11.27
+- [ ] arXiv 2022, [NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields](https://arxiv.org/abs/2210.04932)
+
 ## 2022.11.24
 - [ ] CVPR 2021, [Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time](https://stevenlsw.github.io/Semi-Hand-Object/)
 - [ ] CVPR 2022, [Coarse-to-Fine Q-attention: Efficient Learning for Visual Robotic Manipulation via Discretisation](https://arxiv.org/abs/2106.12534)
