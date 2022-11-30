@@ -6,6 +6,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.11
 ## 2022.11.29
+- [ ] ICLR 2021, [Learning Cross-Domain Correspondence for Control with Dynamics Cycle-Consistency](https://sjtuzq.github.io/cycle_dynamics.html)
 - [ ] CoRL 2021, [DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video](https://vision.cs.utexas.edu/projects/dexvip-dexterous-grasp-pose-prior/)
 ## 2022.11.27
 - [ ] arXiv 2022, [NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields](https://arxiv.org/abs/2210.04932)
