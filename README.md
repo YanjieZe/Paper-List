@@ -5,6 +5,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.11
+## 2022.11.30
+- [ ] ICML 2021, [RRL: Resnet as representation for Reinforcement Learning](https://sites.google.com/view/abstractions4rl)
+
 ## 2022.11.29
 - [ ] ICLR 2021, [Learning Cross-Domain Correspondence for Control with Dynamics Cycle-Consistency](https://sjtuzq.github.io/cycle_dynamics.html)
 - [ ] CoRL 2021, [DexVIP: Learning Dexterous Grasping with Human Hand Pose Priors from Video](https://vision.cs.utexas.edu/projects/dexvip-dexterous-grasp-pose-prior/)
