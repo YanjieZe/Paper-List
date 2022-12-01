@@ -1,5 +1,6 @@
 # Paper Daily
 A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
+- [2022.12](#202212) 
 - [2022.11](#202211)
 - [2022.10](#202210)
 - [2022.09](#202209)
