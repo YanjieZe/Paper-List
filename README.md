@@ -7,6 +7,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.12
 ## 2022.12.2
+- [x] Blog, [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
 - [ ] NIPS 2022, [Visual Pre-training for Navigation: What Can We Learn from Noise?](https://yanweiw.github.io/noise2ptz/)
 
 ## 2022.12.1
