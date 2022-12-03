@@ -4,7 +4,11 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.11](#202211)
 - [2022.10](#202210)
 - [2022.09](#202209)
+
 # 2022.12
+## 2022.12.2
+- [ ] NIPS 2022, [Visual Pre-training for Navigation: What Can We Learn from Noise?](https://yanweiw.github.io/noise2ptz/)
+
 ## 2022.12.1
 - [ ] arXiv 2022, [Learning to Imitate Object Interactions from Internet Videos](https://austinapatel.github.io/imitate-video/)
 - [ ] CoRL 2022, [DexPoint: Generalizable Point Cloud Reinforcement Learning for Sim-to-Real Dexterous Manipulation](https://yzqin.github.io/dexpoint/)
