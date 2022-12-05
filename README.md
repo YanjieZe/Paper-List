@@ -6,6 +6,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.12
+## 2022.12.5
+- [ ] Siggraph Asia 2022, [Differentiable Point-Based Radiance Fields for Efficient View Synthesis](https://arxiv.org/abs/2205.14330)
+
 ## 2022.12.2
 - [x] Blog, [ChatGPT: Optimizing Language Models for Dialogue](https://openai.com/blog/chatgpt/)
 - [ ] NIPS 2022, [Visual Pre-training for Navigation: What Can We Learn from Noise?](https://yanweiw.github.io/noise2ptz/)
