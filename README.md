@@ -7,6 +7,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.12
 ## 2022.12.6
+- [ ] arXiv 2022, [InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://arxiv.org/abs/2212.03191)
 - [ ] CVPR 2022, [Point-NeRF: Point-based Neural Radiance Fields](https://xharlie.github.io/projects/project_sites/pointnerf/index.html)
 
 ## 2022.12.5
