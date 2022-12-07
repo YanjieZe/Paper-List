@@ -6,6 +6,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.12
+## 2022.12.6
+- [ ] CVPR 2022, [Point-NeRF: Point-based Neural Radiance Fields](https://xharlie.github.io/projects/project_sites/pointnerf/index.html)
+
 ## 2022.12.5
 - [ ] Siggraph Asia 2022, [Differentiable Point-Based Radiance Fields for Efficient View Synthesis](https://arxiv.org/abs/2205.14330)
 
