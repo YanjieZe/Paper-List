@@ -6,6 +6,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.12
+## 2022.12.18
+- [ ] EMNLP 2020, [Experience Grounds Language](https://arxiv.org/abs/2004.10151)
 ## 2022.12.11
 - CVPR 2022, [Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes](https://openaccess.thecvf.com/content/CVPR2022/html/You_Canonical_Voting_Towards_Robust_Oriented_Bounding_Box_Detection_in_3D_CVPR_2022_paper.html)
 
