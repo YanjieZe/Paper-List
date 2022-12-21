@@ -6,6 +6,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.12
+## 2022.12.21
+- [ ] arXiv 2022, [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)
+
 ## 2022.12.19
 - [ ] arXiv 2022, [RT-1: Robotics Transformer for Real-World Control at Scale](https://robotics-transformer.github.io/)
 
