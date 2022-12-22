@@ -6,6 +6,10 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.12
+## 2022.12.22
+- [ ] arXiv 2022, [Dexterous Manipulation from Images: Autonomous Real-World RL via Substep Guidance](https://sites.google.com/view/dexterous-avail/)
+- [ ] ICLR 2022, [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795)
+
 ## 2022.12.21
 - [ ] arXiv 2022, [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)
 
