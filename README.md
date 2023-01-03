@@ -1,9 +1,14 @@
 # Paper Daily
 A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
+- [2023.01](#202301)
 - [2022.12](#202212) 
 - [2022.11](#202211)
 - [2022.10](#202210)
 - [2022.09](#202209)
+
+# 2023.01
+## 2023.01.03
+- ICRA 2020, [DexPilot: Vision Based Teleoperation of  Dexterous Robotic Hand-Arm System](https://sites.google.com/view/dex-pilot)
 
 # 2022.12
 ## 2022.12.22
