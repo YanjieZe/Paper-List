@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.01
+## 2023.01.04
+- ECCV 2020, [PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding](https://arxiv.org/abs/2007.10985)
+
 ## 2023.01.03
 - ICRA 2020, [DexPilot: Vision Based Teleoperation of  Dexterous Robotic Hand-Arm System](https://sites.google.com/view/dex-pilot)
 
