@@ -9,6 +9,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 # 2023.01
 ## 2023.01.06
 - CVPR 2018, [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.html)
+- CVPR 2017, [OctNet: Learning Deep 3D Representations at High Resolutions](https://arxiv.org/abs/1611.05009)
 
 ## 2023.01.05
 - NIPS 2019, [Point-Voxel CNN for Efficient 3D Deep Learning](https://pvcnn.mit.edu/)
