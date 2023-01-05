@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.01
+## 2023.01.05
+- NIPS 2022, [Point Transformer V2: Grouped Vector Attention and Partition-based Pooling](https://arxiv.org/abs/2210.05666)
+
 ## 2023.01.04
 - ECCV 2020, [PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding](https://arxiv.org/abs/2007.10985)
 
@@ -15,8 +18,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.12
 ## 2022.12.22
-- [ ] arXiv 2022, [Dexterous Manipulation from Images: Autonomous Real-World RL via Substep Guidance](https://sites.google.com/view/dexterous-avail/)
-- [ ] ICLR 2022, [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795)
+- arXiv 2022, [Dexterous Manipulation from Images: Autonomous Real-World RL via Substep Guidance](https://sites.google.com/view/dexterous-avail/)
+- ICLR 2022, [Perceiver IO: A General Architecture for Structured Inputs & Outputs](https://arxiv.org/abs/2107.14795)
 
 ## 2022.12.21
 - [ ] arXiv 2022, [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)
