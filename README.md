@@ -10,6 +10,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 ## 2023.01.05
 - NIPS 2022, [Point Transformer V2: Grouped Vector Attention and Partition-based Pooling](https://arxiv.org/abs/2210.05666)
 - ICCV 2021, [Point Transformer](https://arxiv.org/abs/2012.09164)
+- ICLR 2021, Vision Transformer: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
 
 ## 2023.01.04
 - ECCV 2020, [PointContrast: Unsupervised Pre-training for 3D Point Cloud Understanding](https://arxiv.org/abs/2007.10985)
