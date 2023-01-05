@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.01
 ## 2023.01.05
+- NIPS 2019, [Point-Voxel CNN for Efficient 3D Deep Learning](https://pvcnn.mit.edu/)
 - NIPS 2022, [Point Transformer V2: Grouped Vector Attention and Partition-based Pooling](https://arxiv.org/abs/2210.05666)
 - ICCV 2021, [Point Transformer](https://arxiv.org/abs/2012.09164)
 - ICLR 2021, Vision Transformer: [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929)
