@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.01
+## 2023.01.08
+- IROS 2022, [Sequential Manipulation Planning on Scene Graph](https://pku.ai/publication/vkc-planning2022iros/)
+
 ## 2023.01.06
 - CVPR 2018, [VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.html)
 - CVPR 2017, [OctNet: Learning Deep 3D Representations at High Resolutions](https://arxiv.org/abs/1611.05009)
