@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.01
 ## 2023.01.08
+- ICML 2017, [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://proceedings.mlr.press/v70/higgins17a.html)
 - IROS 2022, [Sequential Manipulation Planning on Scene Graph](https://pku.ai/publication/vkc-planning2022iros/)
 
 ## 2023.01.06
