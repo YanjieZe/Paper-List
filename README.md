@@ -7,6 +7,10 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.01
+## 2023.01.11
+- arXiv 2023, DreamerV3: [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104)
+- ICML 2021, [Reinforcement Learning with Prototypical Representations](https://arxiv.org/abs/2102.11271)
+
 ## 2023.01.08
 - ICML 2017, [DARLA: Improving Zero-Shot Transfer in Reinforcement Learning](https://proceedings.mlr.press/v70/higgins17a.html)
 - IROS 2022, [Sequential Manipulation Planning on Scene Graph](https://pku.ai/publication/vkc-planning2022iros/)
