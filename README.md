@@ -8,6 +8,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.01
 ## 2023.01.12
+- arXiv 2023, [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://isaac-orbit.github.io/)
+- arXiv 2023, MJPC: [Predictive Sampling: Real-time Behaviour Synthesis with MuJoCo](https://arxiv.org/abs/2212.00541)
 - ECCV 2022, [Video Extrapolation in Space and Time](https://cs.stanford.edu/~yzzhang/projects/vest/)
 
 ## 2023.01.11
