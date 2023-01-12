@@ -56,7 +56,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 ## 2022.12.10
 - RSS 2022, [Robotic Telekinesis: Learning a Robotic Hand Imitator by Watching Humans on Youtube](https://robotic-telekinesis.github.io/)
 - [ ] RSS 2022, [Human-to-Robot Imitation in the Wild](https://human2robot.github.io/)
-- [ ] CoRL 2022, [VideoDex: Learning Dexterity from Internet Videos](https://video-dex.github.io/)
+- [x] CoRL 2022, [VideoDex: Learning Dexterity from Internet Videos](https://video-dex.github.io/)
 
 ## 2022.12.6
 - [ ] arXiv 2022, [InternVideo: General Video Foundation Models via Generative and Discriminative Learning](https://arxiv.org/abs/2212.03191)
