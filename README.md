@@ -10,6 +10,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 ## 2023.01.14
 - NIPS 2021, [MarioNette: Self-Supervised Sprite Learning](https://people.csail.mit.edu/smirnov/marionette/)
 - arXiv 2023, [Neural Radiance Field Codebooks](https://arxiv.org/abs/2301.04101)
+- ICLR 2023 submission, [Transformers are Sample-Efficient World Models](https://arxiv.org/abs/2209.00588)
 
 ## 2023.01.12
 - arXiv 2023, [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://isaac-orbit.github.io/)
