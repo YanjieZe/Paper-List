@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.01
 ## 2023.01.14
+- NIPS 2021, [MarioNette: Self-Supervised Sprite Learning](https://people.csail.mit.edu/smirnov/marionette/)
 - arXiv 2023, [Neural Radiance Field Codebooks](https://arxiv.org/abs/2301.04101)
 
 ## 2023.01.12
