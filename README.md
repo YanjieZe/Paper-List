@@ -12,6 +12,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - arXiv 2023, [Neural Radiance Field Codebooks](https://arxiv.org/abs/2301.04101)
 - ICLR 2023 submission, [Transformers are Sample-Efficient World Models](https://arxiv.org/abs/2209.00588)
 - NIPS 2017, VQ-VAE: [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937)
+- ICML 2016, PixelCNN: [Pixel Recurrent Neural Networks](https://arxiv.org/abs/1601.06759)
 
 ## 2023.01.12
 - arXiv 2023, [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://isaac-orbit.github.io/)
