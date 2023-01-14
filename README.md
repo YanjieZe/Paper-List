@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.01
+## 2023.01.14
+- arXiv 2023, [Neural Radiance Field Codebooks](https://arxiv.org/abs/2301.04101)
+
 ## 2023.01.12
 - arXiv 2023, [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://isaac-orbit.github.io/)
 - arXiv 2023, MJPC: [Predictive Sampling: Real-time Behaviour Synthesis with MuJoCo](https://arxiv.org/abs/2212.00541)
