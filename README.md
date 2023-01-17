@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.01
+## 2023.01.17
+- ICLR 2018, GAT: [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
+
 ## 2023.01.16
 - CVPR 2021 oral, VQGAN: [Taming Transformers for High-Resolution Image Synthesis](https://compvis.github.io/taming-transformers/)
 - blog, [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
