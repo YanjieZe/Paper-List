@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.01
+## 2023.01.18
+- NIPS 2022, [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
+
 ## 2023.01.17
 - ICLR 2018, GAT: [Graph Attention Networks](https://arxiv.org/abs/1710.10903)
 
