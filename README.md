@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.01
+## 2023.01.19
+- arXiv 2023, [Visual Dexterity: In-hand Dexterous Manipulation from Depth](https://taochenshh.github.io/projects/visual-dexterity)
+
 ## 2023.01.18
 - ECCV 2018, [Videos as Space-Time Region Graphs](https://arxiv.org/abs/1806.01810v2)
 - CVPR 2022, [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://cassiepython.github.io/clipnerf/)
