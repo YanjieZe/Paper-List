@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.01
 ## 2023.01.18
+- ECCV 2018, [Videos as Space-Time Region Graphs](https://arxiv.org/abs/1806.01810v2)
 - CVPR 2022, [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://cassiepython.github.io/clipnerf/)
 - NIPS 2022, [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
 
