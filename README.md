@@ -139,7 +139,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [ ] NIPS 2020, CQL: [Conservative Q-Learning for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html)
 - [ ] ICLR 2023 submission, [Offline Q-learning on Diverse Multi-Task Data Both Scales And Generalizes](https://openreview.net/forum?id=4-k7kUavAj)
 - [ ] ICLR 2021, REDQ: [Randomized Ensembled Double Q-Learning: Learning Fast Without a Model](https://arxiv.org/abs/2101.05982)
-- [ ] arXiv 2022, [Masked World Models for Visual Control](https://sites.google.com/view/mwm-rl)
+- [ ] arXiv 2022 -> CoRL 2022, MWM: [Masked World Models for Visual Control](https://sites.google.com/view/mwm-rl)
 - [ ] NIPS 2020, [Space-Time Correspondence as a Contrastive Random Walk](https://ajabri.github.io/videowalk/)
 ## 2022.11.12
 - [ ] ICML 2021, ATC: [Decoupling Representation Learning from Reinforcement Learning](http://proceedings.mlr.press/v139/stooke21a.html)
