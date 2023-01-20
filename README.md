@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.01
+## 2023.01.20
+- CoRL 2022, [BC-Z: Zero-Shot Task Generalization with Robotic Imitation Learning](https://sites.google.com/view/bc-z/home)
+
 ## 2023.01.19
 - arXiv 2023, [Visual Dexterity: In-hand Dexterous Manipulation from Depth](https://taochenshh.github.io/projects/visual-dexterity)
 
