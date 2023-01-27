@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.01
 ## 2023.01.27
+- ICML 2021, CLIP: [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
 - CoRL 2021, [CLIPort: What and Where Pathways for Robotic Manipulation](https://cliport.github.io/)
 
 ## 2023.01.22
