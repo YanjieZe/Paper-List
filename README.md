@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.01
+## 2023.01.27
+- CoRL 2021, [CLIPort: What and Where Pathways for Robotic Manipulation](https://cliport.github.io/)
+
 ## 2023.01.22
 - arXiv 2023, MCC: [Multiview Compressive Coding for 3D Reconstruction](https://mcc3d.github.io/)
 
