@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.01
 ## 2023.01.28
+- arXiv 2022, [PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning](https://arxiv.org/abs/2211.11682)
 - CVPR 2022, [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413)
 
 ## 2023.01.27
