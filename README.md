@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.01
+## 2023.01.28
+- CVPR 2022, [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413)
+
 ## 2023.01.27
 - arXiv 2022, [Learning 3D Representations from 2D Pre-trained Models via Image-to-Point Masked Autoencoders](https://arxiv.org/abs/2212.06785v1)
 - ICML 2021, CLIP: [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
