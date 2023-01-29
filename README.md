@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.01
+## 2023.01.30
+- arXiv 2022, PureCLIPNeRF: [Understanding Pure CLIP Guidance for Voxel Grid NeRF Models](https://hanhung.github.io/PureCLIPNeRF/)
+
 ## 2023.01.28
 - arXiv 2022, [PointCLIP V2: Adapting CLIP for Powerful 3D Open-world Learning](https://arxiv.org/abs/2211.11682)
 - CVPR 2022, [PointCLIP: Point Cloud Understanding by CLIP](https://arxiv.org/abs/2112.02413)
