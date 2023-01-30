@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.01
 ## 2023.01.30
+- NIPS 2016, VGAE: [Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308)
 - arXiv 2022, [Domain Generalization using Pretrained Models without Fine-tuning](https://arxiv.org/abs/2203.04600)
 - ICLR 2022, [Fine-Tuning can Distort Pretrained Features and Underperform Out-of-Distribution](https://arxiv.org/abs/2202.10054)
 - arXiv 2022, PureCLIPNeRF: [Understanding Pure CLIP Guidance for Voxel Grid NeRF Models](https://hanhung.github.io/PureCLIPNeRF/)
