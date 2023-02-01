@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 # 2023.02
 ## 2023.02.01
+- CVPR 2019, StyleGAN: [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 - CVPR 2021, [Closed-Form Factorization of Latent Semantics in GANs](https://genforce.github.io/sefa/)
 
 # 2023.01
