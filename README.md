@@ -1,10 +1,14 @@
 # Paper Daily
 A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
+- [2023.02](#202301)
 - [2023.01](#202301)
 - [2022.12](#202212) 
 - [2022.11](#202211)
 - [2022.10](#202210)
 - [2022.09](#202209)
+# 2023.02
+## 2023.02.01
+- CVPR 2021, [Closed-Form Factorization of Latent Semantics in GANs](https://genforce.github.io/sefa/)
 
 # 2023.01
 ## 2023.01.30
