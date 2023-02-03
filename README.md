@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 # 2023.02
 ## 2023.02.02
+- CoRL 2022, [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/abs/2203.12601)
 - CVPR 2019, NOCS: [Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation](https://arxiv.org/abs/1901.02970)
 - ICLR 2023, [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://kywind.github.io/self-pose)
 
