@@ -7,9 +7,12 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.10](#202210)
 - [2022.09](#202209)
 # 2023.02
-## 2023.02.02
+## 2023.02.03
+- CVPR 2022, [Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations](https://arxiv.org/abs/2207.01164)
 - CoRL 2021, [Learning Language-Conditioned Robot Behavior from Offline Data and Crowd-Sourced Annotation](https://arxiv.org/abs/2109.01115)
 - CoRL 2022, [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/abs/2203.12601)
+
+## 2023.02.02
 - CVPR 2019, NOCS: [Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation](https://arxiv.org/abs/1901.02970)
 - ICLR 2023, [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://kywind.github.io/self-pose)
 
