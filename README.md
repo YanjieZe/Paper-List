@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 # 2023.02
 ## 2023.02.07
+- arXiv 2023, [Benchmarking Robustness in Neural Radiance Fields](https://arxiv.org/abs/2301.04075)
 - ECCV 2016, [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
 
 ## 2023.02.06
