@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 # 2023.02
 ## 2023.02.06
+- NIPS 2018, [Unsupervised Learning of Object Landmarks through Conditional Image Generation](https://www.robots.ox.ac.uk/~vgg/research/unsupervised_landmarks/)
 - NIPS 2021, [Test-Time Personalization with a Transformer for Human Pose Estimation](http://liyizhuo.com/TTP/)
 
 ## 2023.02.03
