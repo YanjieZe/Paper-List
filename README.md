@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 # 2023.02
 ## 2023.02.07
+- CVPR 2022, [GeoNeRF: Generalizing NeRF with Geometry Priors](https://www.idiap.ch/paper/geonerf/)
 - CVPR 2021, [IBRNet: Learning Multi-View Image-Based Rendering](https://ibrnet.github.io/)
 - CoRL 2022, LIRF: [Training Robots to Evaluate Robots: Example-Based Interactive Reward Functions for Policy Learning](https://sites.google.com/view/lirf-corl-2022/)
 - arXiv 2023, [Benchmarking Robustness in Neural Radiance Fields](https://arxiv.org/abs/2301.04075)
