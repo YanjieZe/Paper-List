@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.10](#202210)
 - [2022.09](#202209)
 # 2023.02
+## 2022.02.08
+- CVPR 2020, [Self-supervised Learning of Interpretable Keypoints from Unlabelled Videos](https://www.robots.ox.ac.uk/~vgg/research/unsupervised_pose/）
+
 ## 2023.02.07
 - CVPR 2022, [GeoNeRF: Generalizing NeRF with Geometry Priors](https://www.idiap.ch/paper/geonerf/)
 - CVPR 2021, [IBRNet: Learning Multi-View Image-Based Rendering](https://ibrnet.github.io/)
