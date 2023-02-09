@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.10](#202210)
 - [2022.09](#202209)
 # 2023.02
+## 2022.02.09
+- arXiv 2022, [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://arxiv.org/abs/2212.00792)
+
 ## 2022.02.08
 - CVPR 2020, [Self-supervised Learning of Interpretable Keypoints from Unlabelled Videos](https://www.robots.ox.ac.uk/vgg/research/unsupervised_pose/)
 
