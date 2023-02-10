@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.10](#202210)
 - [2022.09](#202209)
 # 2023.02
+## 2022.02.10
+- NIPS 2022, [VRL3: A Data-Driven Framework for Visual Deep Reinforcement Learning](https://arxiv.org/abs/2202.10324)
+
 ## 2022.02.09
 - arXiv 2023, MV-MWM: [Multi-View Masked World Models for Visual Robotic Manipulation](https://sites.google.com/view/mv-mwm)
 - arXiv 2022, [SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction](https://arxiv.org/abs/2212.00792)
