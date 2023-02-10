@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.10](#202210)
 - [2022.09](#202209)
 # 2023.02
+## 2022.02.11
+- ICLR 2023, [MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations](https://arxiv.org/abs/2212.05698)
+
 ## 2022.02.10
 - NIPS 2017, HER: [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)
 - arXiv 2017, DDPGfD: [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards](https://arxiv.org/abs/1707.08817)
