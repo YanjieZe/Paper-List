@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 # 2023.02
 ## 2022.02.10
+- NIPS 2017, HER: [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)
 - arXiv 2017, DDPGfD: [Leveraging Demonstrations for Deep Reinforcement Learning on Robotics Problems with Sparse Rewards](https://arxiv.org/abs/1707.08817)
 - ICLR 2023 oral, [The Lie Derivative for Measuring Learned Equivariance](https://openreview.net/forum?id=JL7Va5Vy15J)
 - ICLR 2023 oral, [Image as Set of Points](https://openreview.net/forum?id=awnvqZja69)
