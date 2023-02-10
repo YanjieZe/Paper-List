@@ -8,7 +8,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 # 2023.02
 ## 2022.02.10
-- ICLR 2023, [Image as Set of Points](https://openreview.net/forum?id=awnvqZja69)
+- ICLR 2023 oral, [The Lie Derivative for Measuring Learned Equivariance](https://openreview.net/forum?id=JL7Va5Vy15J)
+- ICLR 2023 oral, [Image as Set of Points](https://openreview.net/forum?id=awnvqZja69)
 - NIPS 2019, [Unsupervised State Representation Learning in Atari](https://proceedings.neurips.cc/paper/2019/hash/6fb52e71b837628ac16539c1ff911667-Abstract.html)
 - NIPS 2022, [VRL3: A Data-Driven Framework for Visual Deep Reinforcement Learning](https://arxiv.org/abs/2202.10324)
 
