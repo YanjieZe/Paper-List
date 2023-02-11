@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 # 2023.02
 ## 2022.02.11
+- arXiv 2023, [Predictable MDP Abstraction for Unsupervised Model-Based RL](https://seohong.me/projects/pma/)
 - ICLR 2023, [MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations](https://arxiv.org/abs/2212.05698)
 
 ## 2022.02.10
