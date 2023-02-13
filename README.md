@@ -8,7 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 # 2023.02
 ## 2022.02.13
-- NIPS 2020, [Multi-Task Reinforcement Learning with Soft Modularization](https://rchalyang.github.io/SoftModule/
+- NIPS 2020, [Multi-Task Reinforcement Learning with Soft Modularization](https://rchalyang.github.io/SoftModule/)
 
 ## 2022.02.11
 - arXiv 2023, [Predictable MDP Abstraction for Unsupervised Model-Based RL](https://seohong.me/projects/pma/)
