@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 # 2023.02
 ## 2022.02.14
+- NIPS 2020, Multi-crop: [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882)
 - ICML 2021, DeiT: [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
 - ICML 2022, [Phasic Self-Imitative Reduction for Sparse-Reward Goal-Conditioned Reinforcement Learning](https://proceedings.mlr.press/v162/li22g.html)
 - CoRL 2022 oral, [Watch and Match: Supercharging Imitation with Regularized Optimal Transport](https://rot-robot.github.io/)
