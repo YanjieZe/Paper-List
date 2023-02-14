@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 # 2023.02
 ## 2022.02.14
+- CoRL 2022, [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion](https://manipulation-locomotion.github.io/)
 - arXiv 2023, [ConceptFusion: Open-set Multimodal 3D Mapping](https://concept-fusion.github.io/)
 
 ## 2022.02.13
