@@ -7,6 +7,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.10](#202210)
 - [2022.09](#202209)
 # 2023.02
+## 2022.02.14
+- arXiv 2023, [ConceptFusion: Open-set Multimodal 3D Mapping](https://concept-fusion.github.io/)
+
 ## 2022.02.13
 - ICML 2021, CARE: [Multi-Task Reinforcement Learning with Context-based Representations](https://arxiv.org/abs/2102.06177)
 - NIPS 2020, [Multi-Task Reinforcement Learning with Soft Modularization](https://rchalyang.github.io/SoftModule/)
