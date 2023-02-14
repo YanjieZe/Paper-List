@@ -8,6 +8,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 # 2023.02
 ## 2022.02.14
+- CoRL 2018, [QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation](https://arxiv.org/abs/1806.10293)
 - arXiv 2023, [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442)
 - NIPS 2020, SwAV: [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882)
 - ICML 2021, DeiT: [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
