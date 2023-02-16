@@ -8,6 +8,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.02
+## 2022.02.16
+- CoRL 2022, SayCan: [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://say-can.github.io/)
+
 ## 2022.02.15
 - CoRL 2022 oral, [Watch and Match: Supercharging Imitation with Regularized Optimal Transport](https://rot-robot.github.io/)
 
