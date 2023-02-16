@@ -9,6 +9,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.02
 ## 2022.02.16
+- arXiv 2023, [ConceptFusion: Open-set Multimodal 3D Mapping](https://concept-fusion.github.io/)
 - CoRL 2022, [Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models](https://semantic-abstraction.cs.columbia.edu/)
 - ICRA 2023, [Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding](https://makezur.github.io/FeatureRealisticFusion/)
 - CoRL 2022, SayCan: [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://say-can.github.io/)
@@ -23,7 +24,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - ICML 2021, DeiT: [Training data-efficient image transformers & distillation through attention](https://arxiv.org/abs/2012.12877)
 - ICML 2022, [Phasic Self-Imitative Reduction for Sparse-Reward Goal-Conditioned Reinforcement Learning](https://proceedings.mlr.press/v162/li22g.html)
 - CoRL 2022 oral, [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion](https://manipulation-locomotion.github.io/)
-- arXiv 2023, [ConceptFusion: Open-set Multimodal 3D Mapping](https://concept-fusion.github.io/)
+
 
 ## 2022.02.13
 - ICML 2021, CARE: [Multi-Task Reinforcement Learning with Context-based Representations](https://arxiv.org/abs/2102.06177)
