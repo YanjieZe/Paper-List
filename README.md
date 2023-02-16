@@ -9,6 +9,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.02
 ## 2022.02.16
+- CVPR 2021, [The Functional Correspondence Problem](https://agi-labs.github.io/FuncCorr/)
 - arXiv 2023, [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
 - arXiv 2023, [ConceptFusion: Open-set Multimodal 3D Mapping](https://concept-fusion.github.io/)
 - CoRL 2022, [Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models](https://semantic-abstraction.cs.columbia.edu/)
