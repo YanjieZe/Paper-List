@@ -9,6 +9,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.02
 ## 2022.02.20
+- NIPS 2022, [Pre-Trained Language Models for Interactive Decision-Making](https://arxiv.org/abs/2202.01771)
 - arXiv 2022, [Can Wikipedia Help Offline Reinforcement Learning?](https://arxiv.org/abs/2201.12122)
 
 ## 2022.02.16
