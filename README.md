@@ -8,6 +8,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.02
+## 2022.02.20
+- arXiv 2022, [Can Wikipedia Help Offline Reinforcement Learning?](https://arxiv.org/abs/2201.12122)
+
 ## 2022.02.16
 - ICCV 2021, [The Functional Correspondence Problem](https://agi-labs.github.io/FuncCorr/)
 - arXiv 2023, [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
