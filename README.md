@@ -9,6 +9,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.02
 ## 2022.02.22
+- blog, [ChatGPT for Robotics: Design Principles and Model Abilities](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
 - CVPR 2022 oral, [Plenoxels: Radiance Fields without Neural Networks](https://alexyu.net/plenoxels/)
 - CVPR 2022 oral, DVGO: [Direct Voxel Grid Optimization Super-fast Convergence for Radiance Fields Reconstruction](https://sunset1995.github.io/dvgo/)
 
