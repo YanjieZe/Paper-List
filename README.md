@@ -8,8 +8,11 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.02
+## 2022.02.22
+- CVPR 2022 oral, DVGO: [Direct Voxel Grid Optimization Super-fast Convergence for Radiance Fields Reconstruction](https://sunset1995.github.io/dvgo/)
+
 ## 2022.02.21
-- arXiv 2023, [Efficient Online Reinforcement Learning with Offline Data](https://arxiv.org/abs/2302.02948)
+- arXiv 2023, RLPD: [Efficient Online Reinforcement Learning with Offline Data](https://arxiv.org/abs/2302.02948)
 
 ## 2022.02.20
 - NIPS 2022, [Pre-Trained Language Models for Interactive Decision-Making](https://arxiv.org/abs/2202.01771)
