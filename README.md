@@ -9,6 +9,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.02
 ## 2022.02.23
+- arXiv 2023, [Robust and Versatile Bipedal Jumping Control through Multi-Task Reinforcement Learning](https://arxiv.org/abs/2302.09450)
+- arXiv 2023, [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
 - AISTATS 2020, [A Topology Layer for Machine Learning](https://arxiv.org/abs/1905.12200)
 - ICCV 2021, [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://apchenstu.github.io/mvsnerf/)
 - ECCV 2022, [RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering](https://boese0601.github.io/rc-mvsnet/)
