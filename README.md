@@ -15,6 +15,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - ICCV 2021, [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://apchenstu.github.io/mvsnerf/)
 - ECCV 2022, [RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering](https://boese0601.github.io/rc-mvsnet/)
 - CVPR 2016, Colmap: [Structure-from-Motion Revisited](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.html)
+
 ## 2022.02.22
 - blog, [ChatGPT for Robotics: Design Principles and Model Abilities](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
 - CVPR 2022 oral, [Plenoxels: Radiance Fields without Neural Networks](https://alexyu.net/plenoxels/)
@@ -29,7 +30,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 ## 2022.02.16
 - ICCV 2021, [The Functional Correspondence Problem](https://agi-labs.github.io/FuncCorr/)
-- arXiv 2023, [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
+- arXiv 2023, ControlNet: [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
 - arXiv 2023, [ConceptFusion: Open-set Multimodal 3D Mapping](https://concept-fusion.github.io/)
 - CoRL 2022, [Semantic Abstraction: Open-World 3D Scene Understanding from 2D Vision-Language Models](https://semantic-abstraction.cs.columbia.edu/)
 - ICRA 2023, [Feature-Realistic Neural Fusion for Real-Time, Open Set Scene Understanding](https://makezur.github.io/FeatureRealisticFusion/)
