@@ -9,6 +9,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.02
 ## 2022.02.23
+- AISTATS 2020, [A Topology Layer for Machine Learning](https://arxiv.org/abs/1905.12200)
 - ICCV 2021, [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://apchenstu.github.io/mvsnerf/)
 - ECCV 2022, [RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering](https://boese0601.github.io/rc-mvsnet/)
 - CVPR 2016, Colmap: [Structure-from-Motion Revisited](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.html)
