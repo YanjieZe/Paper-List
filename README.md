@@ -8,6 +8,8 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.02
+## 2022.02.23
+- CVPR 2016, Colmap: [Structure-from-Motion Revisited](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.html)
 ## 2022.02.22
 - blog, [ChatGPT for Robotics: Design Principles and Model Abilities](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
 - CVPR 2022 oral, [Plenoxels: Radiance Fields without Neural Networks](https://alexyu.net/plenoxels/)
