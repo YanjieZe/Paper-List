@@ -8,6 +8,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.02
+## 2022.02.24
+- arXiv 2023, [MimicPlay: Long-Horizon Imitation Learning by Watching Human Play](https://mimic-play.github.io/)
+
 ## 2022.02.23
 - arXiv 2023, [Robust and Versatile Bipedal Jumping Control through Multi-Task Reinforcement Learning](https://arxiv.org/abs/2302.09450)
 - arXiv 2023, [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
