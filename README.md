@@ -8,6 +8,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.02
+## 2022.02.25
+- CoRL 2022, [Learning to Grasp the Ungraspable with Emergent Extrinsic Dexterity](https://sites.google.com/view/grasp-ungraspable/)
+
 ## 2022.02.24
 - arXiv 2023, [MimicPlay: Long-Horizon Imitation Learning by Watching Human Play](https://mimic-play.github.io/)
 
