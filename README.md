@@ -9,6 +9,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.02
 ## 2022.02.26
+- blog, [Planning for AGI and beyond](https://openai.com/blog/planning-for-agi-and-beyond/)
 - TMLR 2022, [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
 
 ## 2022.02.25
