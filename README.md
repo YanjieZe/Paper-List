@@ -8,6 +8,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2023.02
+## 2022.02.26
+- TMLR 2022, [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
+
 ## 2022.02.25
 - CoRL 2022, [Learning to Grasp the Ungraspable with Emergent Extrinsic Dexterity](https://sites.google.com/view/grasp-ungraspable/)
 
