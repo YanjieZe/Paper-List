@@ -9,6 +9,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.02
 ## 2022.02.28
+- ICLR 2023, [VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training](https://sites.google.com/view/vip-rl)
 - ICLR 2023, [Sample-Efficient Reinforcement Learning by Breaking the Replay Ratio Barrier](https://openreview.net/forum?id=OpC-9aBBVJe)
 - NIPS 2017, SELU: [Self-Normalizing Neural Networks](https://arxiv.org/abs/1706.02515)
 - NIPS 2021, [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://sites.google.com/berkeley.edu/decision-transformer)
@@ -347,7 +348,6 @@ with Object Proposals Priors](https://ut-austin-rpl.github.io/VIOLA/)
 -  NIPS 2020, DDPM: [Denoising Diffusion Probabilistic Models](https://hojonathanho.github.io/diffusion/)
 
 ## 2022.10.04 
--  arXiv 2022, [VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training](https://sites.google.com/view/vip-rl)
 -  ICLR 2022, [Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning](https://arxiv.org/abs/2107.09645)
 
 
