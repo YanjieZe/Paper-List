@@ -9,7 +9,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2023.02
 ## 2022.02.28
-- arXiv 2023, [CACTIcacti-logo: A Framework for Scalable Multi-Task Multi-Scene Visual Imitation Learning](https://cacti-framework.github.io/)
+- arXiv 2023, [CACTI: A Framework for Scalable Multi-Task Multi-Scene Visual Imitation Learning](https://cacti-framework.github.io/)
 
 ## 2022.02.27
 - arXiv 2022, [Learning Continuous Grasping Function with a Dexterous Hand from Human Demonstrations](https://arxiv.org/abs/2207.05053)
