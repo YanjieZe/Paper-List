@@ -10,6 +10,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.03
 ## 2022.03.01
+- CVPR 2022, [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 - arXiv 2023, [The Wisdom of Hindsight Makes Language Models Better Instruction Followers](https://arxiv.org/abs/2302.05206)
 - CVPR 2022, [Input-level Inductive Biases for 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/html/Yifan_Input-Level_Inductive_Biases_for_3D_Reconstruction_CVPR_2022_paper.html)
 
