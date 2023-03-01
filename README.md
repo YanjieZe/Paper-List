@@ -1,11 +1,16 @@
 # Paper Daily
 A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
+- [2023.03](#202303)
 - [2023.02](#202302)
 - [2023.01](#202301)
 - [2022.12](#202212) 
 - [2022.11](#202211)
 - [2022.10](#202210)
 - [2022.09](#202209)
+
+# 2022.03
+## 2022.03.01
+- CVPR 2022, [Input-level Inductive Biases for 3D Reconstruction](https://openaccess.thecvf.com/content/CVPR2022/html/Yifan_Input-Level_Inductive_Biases_for_3D_Reconstruction_CVPR_2022_paper.html)
 
 # 2023.02
 ## 2022.02.28
