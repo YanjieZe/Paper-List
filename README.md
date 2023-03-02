@@ -9,6 +9,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.03
+## 2022.03.02
+- ICLR 2023, [Hybrid RL: Using both offline and online data can make RL efficient](https://openreview.net/forum?id=yyBis80iUuU)
+
 ## 2022.03.01
 - CVPR 2022, [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377)
 - arXiv 2023, [The Wisdom of Hindsight Makes Language Models Better Instruction Followers](https://arxiv.org/abs/2302.05206)
