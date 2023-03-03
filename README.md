@@ -10,6 +10,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.03
 ## 2022.03.03
+- CVPR 2022, [Human Hands as Probes for Interactive Object Understanding](https://s-gupta.github.io/hands-as-probes/)
 - CVPR 2023, [SparsePose: Sparse-View Camera Pose Regression and Refinement](https://arxiv.org/abs/2211.16991)
 
 ## 2022.03.02
