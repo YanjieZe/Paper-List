@@ -9,6 +9,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.03
+## 2022.03.03
+- CVPR 2023, [SparsePose: Sparse-View Camera Pose Regression and Refinement](https://arxiv.org/abs/2211.16991)
+
 ## 2022.03.02
 - ICLR 2023, [Hybrid RL: Using both offline and online data can make RL efficient](https://openreview.net/forum?id=yyBis80iUuU)
 
