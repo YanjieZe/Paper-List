@@ -117,7 +117,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - NIPS 2020, [Object-Centric Learning with Slot Attention](https://arxiv.org/abs/2006.15055)
 - NIPS 2019, [Unsupervised Learning of Object Keypoints for Perception and Control](https://proceedings.neurips.cc/paper/2019/hash/dae3312c4c6c7000a37ecfb7b0aeb0e4-Abstract.html)
 - NIPS 2018, [Unsupervised Learning of Object Landmarks through Conditional Image Generation](https://www.robots.ox.ac.uk/~vgg/research/unsupervised_landmarks/)
-- NIPS 2021, [Test-Time Personalization with a Transformer for Human Pose Estimation](http://liyizhuo.com/TTP/)
+- NIPS 2021, TTP: [Test-Time Personalization with a Transformer for Human Pose Estimation](http://liyizhuo.com/TTP/)
 
 ## 2023.02.03
 - CVPR 2022, [Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations](https://arxiv.org/abs/2207.01164)
