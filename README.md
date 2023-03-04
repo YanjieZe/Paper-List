@@ -9,6 +9,11 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.03
+## 2023.03.04
+- arXiv 2023, [Scaling Robot Learning with Semantically Imagined Experience](https://diffusion-rosie.github.io/)
+  - use text-guided diffusion model as data augmentation in robotics
+  - a lot of real robot experiments!
+
 ## 2022.03.03
 - CVPR 2022, [Human Hands as Probes for Interactive Object Understanding](https://s-gupta.github.io/hands-as-probes/)
 - CVPR 2023, [SparsePose: Sparse-View Camera Pose Regression and Refinement](https://arxiv.org/abs/2211.16991)
