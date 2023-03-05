@@ -9,6 +9,11 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.03
+## 2023.03.05
+- arXiv 2022, [CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory](https://mahis.life/clip-fields/)
+  - robot + vision language foundation model + 3D
+  - a lot of real robot experiments
+  - only accepted to CoRL workshop yet
 ## 2023.03.04
 - arXiv 2023, [Scaling Robot Learning with Semantically Imagined Experience](https://diffusion-rosie.github.io/)
   - use text-guided diffusion model as data augmentation in robotics
