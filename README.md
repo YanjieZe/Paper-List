@@ -10,6 +10,10 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.03
 ## 2023.03.05
+- arXiv 2023, [What Makes Representation Learning from Videos Hard for Control?](https://tonyzhaozh.github.io/data/Video_Pretraining_Distribution_Shift.pdf)
+  - a work from Finn's group
+  - study visual representation from video for robotics
+  - takeaway message: *while distribution shifts impact performance, we can often overcome these shortfalls through a combination of diversity coupled with test-time adaptation*
 - arXiv 2022, [CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory](https://mahis.life/clip-fields/)
   - robot + vision language foundation model + 3D
   - a lot of real robot experiments
