@@ -10,6 +10,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.03
 ## 2023.03.05
+- CVPR 2023, [Representation Gap in Deep Reinforcement Learning](https://arxiv.org/abs/2205.14557)
+  - use a simple new objective
+  - simple yet effective
 - ICLR 2022, LSeg: [Language-driven Semantic Segmentation](https://arxiv.org/abs/2201.03546)
   - use CLIP for semantic segmentation. generalizable!
   - produce per-pixel embedding (this is nice)
