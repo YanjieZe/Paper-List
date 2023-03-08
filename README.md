@@ -9,6 +9,11 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.03
+## 2023.03.08 hand pose estimation
+- CVPR 2019 oral, [3D Hand Shape and Pose Estimation from a Single RGB Image](https://sites.google.com/site/geliuhaontu/home/cvpr2019)
+  - they have code and pretrain model: [here](https://github.com/3d-hand-shape/hand-graph-cnn)
+  - use graph CNN to get hand vertices
+
 ## 2023.03.05
 - CVPR 2023, [Representation Gap in Deep Reinforcement Learning](https://arxiv.org/abs/2205.14557)
   - use a simple new objective
