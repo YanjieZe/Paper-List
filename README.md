@@ -9,6 +9,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.03
+## 2023.03.11
+- RSS 2022 best paper award, [Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects](https://irp.cs.columbia.edu/)
+
 ## 2023.03.08
 - CVPR 2019 oral, [3D Hand Shape and Pose Estimation from a Single RGB Image](https://sites.google.com/site/geliuhaontu/home/cvpr2019)
   - they have code and pretrain model: [here](https://github.com/3d-hand-shape/hand-graph-cnn)
