@@ -10,7 +10,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.03
 ## 2023.03.12
-- TOG 2022, Instant-NGP: [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
+- SIGGRAPH 2022, Instant-NGP: [Instant Neural Graphics Primitives with a Multiresolution Hash Encoding](https://nvlabs.github.io/instant-ngp/)
 - ICCV 2021 Best Paper Honorable Mention, [Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields](https://jonbarron.info/mipnerf/)
 
 ## 2023.03.11
