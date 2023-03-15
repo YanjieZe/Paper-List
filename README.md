@@ -9,6 +9,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.03
+## 2023.03.15
+- CVPR 2020 oral, Hand Object Detector: [Understanding Human Hands in Contact at Internet Scale](https://fouheylab.eecs.umich.edu/~dandans/projects/100DOH/)
+
 ## 2023.03.14
 - CVPR 2023, [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://jerryxu.net/ODISE/)
 
