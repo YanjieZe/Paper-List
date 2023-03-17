@@ -11,6 +11,11 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 # 2022.03
 ## 2023.03.17
 - ECCV 2022, Detic: [Detecting Twenty-thousand Classes using Image-level Supervision](https://github.com/facebookresearch/Detic)
+  - Detects any class given class names (using CLIP).
+  - We train the detector on ImageNet-21K dataset with 21K classes.
+  - Cross-dataset generalization to OpenImages and Objects365 without finetuning.
+  - State-of-the-art results on Open-vocabulary LVIS and Open-vocabulary COCO.
+
 - arXiv 2023, [LERF: Language Embedded Radiance Fields ](https://www.lerf.io/)
 
 ## 2023.03.16
