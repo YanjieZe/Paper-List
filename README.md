@@ -10,6 +10,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.03
 ## 2023.03.17
+- ECCV 2022, Detic: [Detecting Twenty-thousand Classes using Image-level Supervision](https://github.com/facebookresearch/Detic)
 - arXiv 2023, [LERF: Language Embedded Radiance Fields ](https://www.lerf.io/)
 
 ## 2023.03.16
