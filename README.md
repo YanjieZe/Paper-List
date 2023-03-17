@@ -9,6 +9,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.03
+## 2023.03.17
+- arXiv 2023, [LERF: Language Embedded Radiance Fields ](https://www.lerf.io/)
+
 ## 2023.03.16
 - arXiv 2023, [Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://arxiv.org/abs/2303.07937)
 
