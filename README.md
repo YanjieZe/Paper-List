@@ -10,6 +10,7 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 
 # 2022.03
 ## 2023.03.21
+- arXiv 2022, [Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation](https://nyu-robot-learning.github.io/dime/)
 - CoRL 2020, PDDM: [Deep Dynamics Models for Learning Dexterous Manipulation](https://sites.google.com/view/pddm/)
 
 ## 2023.03.17
