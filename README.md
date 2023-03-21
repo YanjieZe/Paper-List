@@ -9,6 +9,9 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.03
+## 2023.03.21
+- CoRL 2020, PDDM: [Deep Dynamics Models for Learning Dexterous Manipulation](https://sites.google.com/view/pddm/)
+
 ## 2023.03.17
 - ECCV 2022, Detic: [Detecting Twenty-thousand Classes using Image-level Supervision](https://github.com/facebookresearch/Detic)
   - Detects any class given class names (using CLIP).
