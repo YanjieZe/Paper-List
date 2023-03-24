@@ -9,6 +9,10 @@ A paper list of [Yanjie Ze](https://yanjieze.com/)'s daily reading.
 - [2022.09](#202209)
 
 # 2022.03
+## 2023.03.24
+- arXiv 2023, [TactoFind: A Tactile Only System for Object Retrieval](https://taochenshh.github.io/projects/tactofind#)
+- arXiv 2023, [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://tactile-dexterity.github.io/)
+- arXiv 2023, [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://touchdexterity.github.io/)
 ## 2023.03.21
 - arXiv 2022, [Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation](https://nyu-robot-learning.github.io/dime/)
 - CoRL 2020, PDDM: [Deep Dynamics Models for Learning Dexterous Manipulation](https://sites.google.com/view/pddm/)
