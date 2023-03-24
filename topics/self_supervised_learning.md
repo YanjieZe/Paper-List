@@ -21,7 +21,7 @@
 ## Diffusion Model
 - arXiv 2023, ControlNet: [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
 - ICLR 2023 outstanding paper award, [DreamFusion: Text-to-3D using 2D Diffusion](https://openreview.net/forum?id=FjNys5c7VyY)
-- CVPR 2023, [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://jerryxu.net/ODISE/)
+- CVPR 2023, ODISE: [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://jerryxu.net/ODISE/)
 - arXiv 2023, [Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://arxiv.org/abs/2303.07937)
 - arXiv 2022, NFD: [3D Neural Field Generation using Triplane Diffusion](https://jryanshue.com/nfd/)
 - arXiv 2022, [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)
