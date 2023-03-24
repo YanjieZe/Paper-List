@@ -19,11 +19,12 @@
 - CVPR 2019, StyleGAN: [A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 
 ## Diffusion Model
-- arXiv 2022, [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)
-- ICLR 2023 outstanding paper award, [DreamFusion: Text-to-3D using 2D Diffusion](https://openreview.net/forum?id=FjNys5c7VyY)
 - arXiv 2023, ControlNet: [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
-- arXiv 2023, [Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://arxiv.org/abs/2303.07937)
+- ICLR 2023 outstanding paper award, [DreamFusion: Text-to-3D using 2D Diffusion](https://openreview.net/forum?id=FjNys5c7VyY)
 - CVPR 2023, [Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models](https://jerryxu.net/ODISE/)
+- arXiv 2023, [Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://arxiv.org/abs/2303.07937)
+- arXiv 2022, NFD: [3D Neural Field Generation using Triplane Diffusion](https://jryanshue.com/nfd/)
+- arXiv 2022, [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751)
 - NIPS 2022, [LION: Latent Point Diffusion Models for 3D Shape Generation](https://nv-tlabs.github.io/LION/)
 - arXiv 2022, 3DiM: [Novel View Synthesis with Diffusion Models](https://3d-diffusion.github.io/)
 - CVPR 2022, Stable Diffusion: [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
