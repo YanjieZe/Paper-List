@@ -10,7 +10,7 @@ Topics:
 - Robotics
   - [Robotic Manipulation](topics/robotic_manipulation.md)
   - [Robotic Locomotion](topics/robotic_locomotion.md)
-- [Miscellaneous](topics/mis.md)
+- [Miscellaneous](topics/misc.md)
 
 
 Some personal claims and understandings:
