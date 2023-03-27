@@ -18,5 +18,8 @@ Some personal claims and understandings:
 - Reinforcement learning, robotic manipulation, and computer vision are all intricately connected within the realm of robot learning. While I categorize them as distinct topics, it's worth noting that some papers may be relevant to multiple subjects.
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
+# Recent Random Papers
+- RSS 2021, [RMA: Rapid Motor Adaptation for Legged Robots](https://ashish-kmr.github.io/rma-legged-robots/)
+
 # Contact
 If you have any questions or suggestions, please feel free to contact me at lastyanjieze@gmail.com .
