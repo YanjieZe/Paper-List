@@ -24,6 +24,7 @@
 - ICLR 2022, LSeg: [Language-driven Semantic Segmentation](https://arxiv.org/abs/2201.03546)
   - use CLIP for semantic segmentation. generalizable!
   - produce per-pixel embedding (this is nice)
+- CVPR 2022, [Masked-attention Mask Transformer for Universal Image Segmentation](https://bowenc0221.github.io/mask2former/)
 
 ## Pose Estimation
 - ICLR 2023, [Self-Supervised Geometric Correspondence for Category-Level 6D Object Pose Estimation in the Wild](https://kywind.github.io/self-pose)
