@@ -19,6 +19,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- ICCV 2021, [Where2Act: From Pixels to Actions for Articulated 3D Objects](https://cs.stanford.edu/~kaichun/where2act/)
 - CVPR 2019 oral, [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://github.com/NVlabs/SPADE)
 - RSS 2021, [RMA: Rapid Motor Adaptation for Legged Robots](https://ashish-kmr.github.io/rma-legged-robots/)
 
