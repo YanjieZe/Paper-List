@@ -19,6 +19,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- ICLR 2021, DDIM: [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
 - arXiv 2023, [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 - arXiv 2023, [Your Diffusion Model is Secretly a Zero-Shot Classifier](https://diffusion-classifier.github.io/)
 - CVPR 2023 highlight, [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://totoro97.github.io/projects/f2-nerf/)
