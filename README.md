@@ -19,6 +19,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- arXiv 2023, VC-1: [Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?](https://eai-vc.github.io/)
 - ICLR 2022, DroQ: [Dropout Q-Functions for Doubly Efficient Reinforcement Learning](https://arxiv.org/abs/2110.02034)
 - arXiv 2023, [RoboPianist: A Benchmark for High-Dimensional Robot Control](https://kzakka.com/robopianist/)
 - ICLR 2021, DDIM: [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
