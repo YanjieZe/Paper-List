@@ -6,6 +6,7 @@ Topics:
   - [3D Vision](topics/3d_vision.md)
   - [Reinforcement Learning](topics/reinforcement_learning.md)
   - [Visual Recognition](topics/visual_recognition.md)
+  - [Generative Model](topics/generative_model.md)
   - [Self-Supervised Learning](topics/self_supervised_learning.md)
 - Robotics
   - [Robotic Manipulation](topics/robotic_manipulation.md)
