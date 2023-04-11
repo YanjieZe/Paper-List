@@ -20,6 +20,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- ICLR 2023 notable, [NTFields: Neural Time Fields for Physics-Informed Robot Motion Planning](https://openreview.net/forum?id=ApF0dmi1_9K)
 - arXiv 2023, [For Pre-Trained Vision Models in Motor Control, Not All Policy Learning Methods are Created Equal](https://arxiv.org/abs/2304.04591)
 - code, [Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions](https://github.com/ayaanzhaque/instruct-nerf2nerf)
 - arXiv 2023, [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/abs/2303.05499)
