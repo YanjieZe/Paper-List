@@ -6,6 +6,7 @@
   - [Generative Adversarial Networks](#generative-adversarial-networks)
 
 ## Diffusion Model
+- NIPS 2022, Imagen: [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487)
 - arXiv 2023, ControlNet: [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543)
 - CVPR 2022, Stable Diffusion: [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
 - NIPS 2021, Guided Diffusion: [Diffusion Models Beat GANS on Image Synthesis](https://arxiv.org/abs/2105.05233)

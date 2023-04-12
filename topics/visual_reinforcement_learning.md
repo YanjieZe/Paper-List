@@ -87,7 +87,7 @@
 - CoRL 2022, LIRF: [Training Robots to Evaluate Robots: Example-Based Interactive Reward Functions for Policy Learning](https://sites.google.com/view/lirf-corl-2022/)
 
 ## Language Grounding
-- CoRL 2021, [CLIPort: What and Where Pathways for Robotic Manipulation](https://cliport.github.io/)
+- CoRL 2021, **CLIPort**: What and Where Pathways for Robotic Manipulation, [page](https://cliport.github.io/) / [code](https://github.com/cliport/cliport)
 
 ## Benchmark
 - arXiv 2023, [ORBIT: A Unified Simulation Framework for Interactive Robot Learning Environments](https://isaac-orbit.github.io/)
