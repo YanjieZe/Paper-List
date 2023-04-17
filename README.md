@@ -20,7 +20,8 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
-- arXiv 2023.4, Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields, [page](https://jonbarron.info/zipnerf/)
+- arXiv 2022.10, **Interactive Language**: Talking to Robots in Real Time, [Website](https://interactive-language.github.io/) / [Github](https://github.com/google-research/language-table)
+- arXiv 2023.4, Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields, [Website](https://jonbarron.info/zipnerf/)
 - arXiv 2023.4, SEEM: Segment Everything Everywhere All at Once, [arXiv](https://arxiv.org/abs/2304.06718) / [code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
 - arXiv 2023.4, Internet Explorer: Targeted Representation Learning on the Open Web, [page](https://internet-explorer-ssl.github.io/) / [code](https://github.com/internet-explorer-ssl/internet-explorer)
 - arXiv 2023.03, Consistency Models, [code](https://github.com/openai/consistency_models) / [arXiv](https://arxiv.org/abs/2303.01469)
