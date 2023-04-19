@@ -20,11 +20,12 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
-- arXiv 2023.4, **DINOv2**: Learning Robust Visual Features without Supervision, [arXiv](https://arxiv.org/abs/2304.07193) / [Github](https://github.com/facebookresearch/dinov2)
+- arXiv 2023.04, **ARNOLD**: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes, [Website](https://arnold-benchmark.github.io/)
+- arXiv 2023.04, **DINOv2**: Learning Robust Visual Features without Supervision, [arXiv](https://arxiv.org/abs/2304.07193) / [Github](https://github.com/facebookresearch/dinov2)
 - arXiv 2022.10, **Interactive Language**: Talking to Robots in Real Time, [Website](https://interactive-language.github.io/) / [Github](https://github.com/google-research/language-table)
-- arXiv 2023.4, Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields, [Website](https://jonbarron.info/zipnerf/)
-- arXiv 2023.4, SEEM: Segment Everything Everywhere All at Once, [arXiv](https://arxiv.org/abs/2304.06718) / [code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
-- arXiv 2023.4, Internet Explorer: Targeted Representation Learning on the Open Web, [page](https://internet-explorer-ssl.github.io/) / [code](https://github.com/internet-explorer-ssl/internet-explorer)
+- arXiv 2023.04, Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields, [Website](https://jonbarron.info/zipnerf/)
+- arXiv 2023.04, SEEM: Segment Everything Everywhere All at Once, [arXiv](https://arxiv.org/abs/2304.06718) / [code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
+- arXiv 2023.04, Internet Explorer: Targeted Representation Learning on the Open Web, [page](https://internet-explorer-ssl.github.io/) / [code](https://github.com/internet-explorer-ssl/internet-explorer)
 - arXiv 2023.03, Consistency Models, [code](https://github.com/openai/consistency_models) / [arXiv](https://arxiv.org/abs/2303.01469)
 - arXiv 2023.02, SceneDreamer: Unbounded 3D Scene Generation from 2D Image Collections, [code](https://github.com/FrozenBurning/SceneDreamer) / [page](https://scene-dreamer.github.io/)
 - arXiv 2023.04, [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
