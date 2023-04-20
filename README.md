@@ -20,6 +20,11 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- CVPR 2023, **CLIP^2**: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data, [arXiv](https://arxiv.org/abs/2303.12417)
+- CVPR 2023, **ULIP**: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding, [Github](https://github.com/salesforce/ULIP)
+- CVPR 2023, Learning Video Representations from Large Language Models, [Website](https://facebookresearch.github.io/LaViLa/) / [Github](https://github.com/facebookresearch/LaViLa)
+- CVPR 2023, **PLA**: Language-Driven Open-Vocabulary 3D Scene Understanding, [Website](https://dingry.github.io/projects/PLA)
+- CVPR 2023, **PartSLIP**: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models, [arXiv](https://arxiv.org/abs/2212.01558)
 - CVPR 2023, Mask-Free Video Instance Segmentation, [Website](https://www.vis.xyz/pub/maskfreevis/) / [Github](https://github.com/SysCV/maskfreevis)
 - arXiv 2023.04, **ARNOLD**: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes, [Website](https://arnold-benchmark.github.io/)
 - arXiv 2023.04, **DINOv2**: Learning Robust Visual Features without Supervision, [arXiv](https://arxiv.org/abs/2304.07193) / [Github](https://github.com/facebookresearch/dinov2)
