@@ -21,7 +21,7 @@ Some personal claims and understandings:
 
 # Recent Random Papers
 - CVPR 2023, **CLIP^2**: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data, [arXiv](https://arxiv.org/abs/2303.12417)
-- CVPR 2023, **ULIP**: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding, [Github](https://github.com/salesforce/ULIP)
+- CVPR 2023, **ULIP**: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding, [arXiv](https://arxiv.org/abs/2212.05171) / [Github](https://github.com/salesforce/ULIP)
 - CVPR 2023, Learning Video Representations from Large Language Models, [Website](https://facebookresearch.github.io/LaViLa/) / [Github](https://github.com/facebookresearch/LaViLa)
 - CVPR 2023, **PLA**: Language-Driven Open-Vocabulary 3D Scene Understanding, [Website](https://dingry.github.io/projects/PLA)
 - CVPR 2023, **PartSLIP**: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models, [arXiv](https://arxiv.org/abs/2212.01558)
