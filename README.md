@@ -20,6 +20,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- CVPR 2023, Mask-Free Video Instance Segmentation, [Website](https://www.vis.xyz/pub/maskfreevis/) / [Github](https://github.com/SysCV/maskfreevis)
 - arXiv 2023.04, **ARNOLD**: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes, [Website](https://arnold-benchmark.github.io/)
 - arXiv 2023.04, **DINOv2**: Learning Robust Visual Features without Supervision, [arXiv](https://arxiv.org/abs/2304.07193) / [Github](https://github.com/facebookresearch/dinov2)
 - arXiv 2022.10, **Interactive Language**: Talking to Robots in Real Time, [Website](https://interactive-language.github.io/) / [Github](https://github.com/google-research/language-table)
