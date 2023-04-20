@@ -20,7 +20,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
-- arXiv 2022.05, FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness, [arXiv](https://arxiv.org/abs/2205.14135)/ [Github](https://github.com/HazyResearch/flash-attention)
+- arXiv 2022.05, **FlashAttention**: Fast and Memory-Efficient Exact Attention with IO-Awareness, [arXiv](https://arxiv.org/abs/2205.14135) / [Github](https://github.com/HazyResearch/flash-attention)
 - CVPR 2023, **CLIP^2**: Contrastive Language-Image-Point Pretraining from Real-World Point Cloud Data, [arXiv](https://arxiv.org/abs/2303.12417)
 - CVPR 2023, **ULIP**: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding, [arXiv](https://arxiv.org/abs/2212.05171) / [Github](https://github.com/salesforce/ULIP)
 - CVPR 2023, Learning Video Representations from Large Language Models, [Website](https://facebookresearch.github.io/LaViLa/) / [Github](https://github.com/facebookresearch/LaViLa)
