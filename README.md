@@ -20,6 +20,16 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- CVPR 2023 award candidate, Data-driven Feature Tracking for Event Cameras, [arXiv](https://arxiv.org/abs/2211.12826)
+- CVPR 2023 award candidate, What Can Human Sketches Do for Object Detection?, [Website](http://www.pinakinathc.me/sketch-detect/)
+- CVPR 2023 award candidate, Visual Programming for Compositional Visual Reasoning, [Website](https://prior.allenai.org/projects/visprog)
+- CVPR 2023 award candidate, On Distillation of Guided Diffusion Models, [arXiv](https://arxiv.org/abs/2210.03142)
+- CVPR 2023 award candidate, DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation, [Website](https://dreambooth.github.io/)
+- CVPR 2023 award candidate, Planning-oriented Autonomous Driving, [Github](https://github.com/OpenDriveLab/UniAD)
+- CVPR 2023 award candidate, Neural Dynamic Image-Based Rendering, [Website](https://dynibar.github.io/)
+- CVPR 2023 award candidate, **MobileNeRF**: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures, [Website](https://mobile-nerf.github.io/)
+- CVPR 2023 award candidate, **OmniObject3D**: Large Vocabulary 3D Object Dataset for Realistic Perception, Reconstruction and Generation, [Website](https://omniobject3d.github.io/)
+- CVPR 2023 award candidate, Ego-Body Pose Estimation via Ego-Head Pose Estimation, [Website](https://lijiaman.github.io/projects/egoego/)
 - CVPR 2023, Affordances from Human Videos as a Versatile Representation for Robotics, [Website](https://robo-affordances.github.io/)
 - CVPR 2022, Neural 3D Video Synthesis from Multi-view Video, [Website](https://neural-3d-video.github.io/)
 - ICCV 2021, **Nerfies**: Deformable Neural Radiance Fields, [Website](https://nerfies.github.io/) / [Github](https://github.com/google/nerfies)
