@@ -24,7 +24,7 @@ Some personal claims and understandings:
 - CVPR 2023 award candidate, What Can Human Sketches Do for Object Detection?, [Website](http://www.pinakinathc.me/sketch-detect/)
 - CVPR 2023 award candidate, Visual Programming for Compositional Visual Reasoning, [Website](https://prior.allenai.org/projects/visprog)
 - CVPR 2023 award candidate, On Distillation of Guided Diffusion Models, [arXiv](https://arxiv.org/abs/2210.03142)
-- CVPR 2023 award candidate, DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation, [Website](https://dreambooth.github.io/)
+- CVPR 2023 award candidate, **DreamBooth**: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation, [Website](https://dreambooth.github.io/)
 - CVPR 2023 award candidate, Planning-oriented Autonomous Driving, [Github](https://github.com/OpenDriveLab/UniAD)
 - CVPR 2023 award candidate, Neural Dynamic Image-Based Rendering, [Website](https://dynibar.github.io/)
 - CVPR 2023 award candidate, **MobileNeRF**: Exploiting the Polygon Rasterization Pipeline for Efficient Neural Field Rendering on Mobile Architectures, [Website](https://mobile-nerf.github.io/)
