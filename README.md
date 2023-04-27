@@ -8,6 +8,7 @@ Topics:
   - [Visual Recognition](topics/visual_recognition.md)
   - [Generative Model](topics/generative_model.md)
   - [Self-Supervised Learning](topics/self_supervised_learning.md)
+  - [Large Language Model](topics/llm.md)
 - Robotics
   - [Robotic Manipulation](topics/robotic_manipulation.md)
   - [Robotic Locomotion](topics/robotic_locomotion.md)
@@ -24,7 +25,6 @@ Some personal claims and understandings:
 - ICML 2023, SNeRL: Semantic-aware Neural Radiance Fields for Reinforcement Learning, [Website](https://sjlee.cc/snerl/)
 - ICLR 2023 outstanding paper, Emergence of Maps in the Memories of Blind Navigation Agents, [Openreview](https://openreview.net/forum?id=lTt4KjHSsyl)
 - ICLR 2023 outstanding paper honorable mentions, Disentanglement with Biological Constraints: A Theory of Functional Cell Types, [Openreview](https://openreview.net/forum?id=9Z_GfhZnGH)
-- arXiv 2023.04, LLM as A Robotic Brain: Unifying Egocentric Memory and Control, [arXiv](https://arxiv.org/abs/2304.09349)
 - CVPR 2023 award candidate, Data-driven Feature Tracking for Event Cameras, [arXiv](https://arxiv.org/abs/2211.12826)
 - CVPR 2023 award candidate, What Can Human Sketches Do for Object Detection?, [Website](http://www.pinakinathc.me/sketch-detect/)
 - CVPR 2023 award candidate, Visual Programming for Compositional Visual Reasoning, [Website](https://prior.allenai.org/projects/visprog)
@@ -46,7 +46,6 @@ Some personal claims and understandings:
 - CVPR 2023, **PLA**: Language-Driven Open-Vocabulary 3D Scene Understanding, [Website](https://dingry.github.io/projects/PLA)
 - CVPR 2023, **PartSLIP**: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models, [arXiv](https://arxiv.org/abs/2212.01558)
 - CVPR 2023, Mask-Free Video Instance Segmentation, [Website](https://www.vis.xyz/pub/maskfreevis/) / [Github](https://github.com/SysCV/maskfreevis)
-- arXiv 2023.04, **ARNOLD**: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes, [Website](https://arnold-benchmark.github.io/)
 - arXiv 2023.04, **DINOv2**: Learning Robust Visual Features without Supervision, [arXiv](https://arxiv.org/abs/2304.07193) / [Github](https://github.com/facebookresearch/dinov2)
 - arXiv 2022.10, **Interactive Language**: Talking to Robots in Real Time, [Website](https://interactive-language.github.io/) / [Github](https://github.com/google-research/language-table)
 - arXiv 2023.04, Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields, [Website](https://jonbarron.info/zipnerf/)
