@@ -20,10 +20,11 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
-- CVPR 2022, Depth-supervised NeRF: Fewer Views and Faster Training for Free, [Website](http://www.cs.cmu.edu/~dsnerf/)
-- SIGGRAPH Asia 2022, Efficient Neural Radiance Fields for Interactive Free-viewpoint Video, [Website](https://zju3dv.github.io/enerf/)
+- ICLR 2023 oral, **Decision-Diffuser**: Is Conditional Generative Modeling all you need for Decision-Making?, [Website](https://anuragajay.github.io/decision-diffuser/)
+- CVPR 2022, **Depth-supervised NeRF**: Fewer Views and Faster Training for Free, [Website](http://www.cs.cmu.edu/~dsnerf/)
+- SIGGRAPH Asia 2022, **ENeRF**: Efficient Neural Radiance Fields for Interactive Free-viewpoint Video, [Website](https://zju3dv.github.io/enerf/)
 - ICML 2023, On the power of foundation models, [arXiv](https://arxiv.org/abs/2211.16327)
-- ICML 2023, SNeRL: Semantic-aware Neural Radiance Fields for Reinforcement Learning, [Website](https://sjlee.cc/snerl/)
+- ICML 2023, **SNeRL**: Semantic-aware Neural Radiance Fields for Reinforcement Learning, [Website](https://sjlee.cc/snerl/)
 - ICLR 2023 outstanding paper, Emergence of Maps in the Memories of Blind Navigation Agents, [Openreview](https://openreview.net/forum?id=lTt4KjHSsyl)
 - ICLR 2023 outstanding paper honorable mentions, Disentanglement with Biological Constraints: A Theory of Functional Cell Types, [Openreview](https://openreview.net/forum?id=9Z_GfhZnGH)
 - arXiv 2023.04, LLM as A Robotic Brain: Unifying Egocentric Memory and Control, [arXiv](https://arxiv.org/abs/2304.09349)
