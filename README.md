@@ -20,6 +20,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- CVPR 2023, **GLaD**: Generalizing Dataset Distillation via Deep Generative Prior, [Website](https://georgecazenavette.github.io/glad/)
 - CVPR 2022 oral, **RegNeRF**: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs, [Website](https://m-niemeyer.github.io/regnerf/)
 - CVPR 2023, **FreeNeRF**: Improving Few-shot Neural Rendering with Free Frequency Regularization, [Website](https://jiawei-yang.github.io/FreeNeRF/) / [Github](https://github.com/Jiawei-Yang/FreeNeRF)
 - ICLR 2023 oral, **Decision-Diffuser**: Is Conditional Generative Modeling all you need for Decision-Making?, [Website](https://anuragajay.github.io/decision-diffuser/)
