@@ -21,6 +21,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- arXiv 2023.05, **SPRING**: GPT-4 Out-performs RL Algorithms by Studying Papers and Reasoning, [arXiv](https://arxiv.org/abs/2305.15486)
 - arXiv 2023.05, Training Diffusion Models with Reinforcement Learning, [Website](https://rl-diffusion.github.io/)
 - arXiv 2023.03, Foundation Models for Decision Making: Problems, Methods, and Opportunities, [arXiv](https://arxiv.org/abs/2303.04129)
 - ICLR 2017, Third-Person Imitation Learning, [arXiv](https://arxiv.org/abs/1703.01703)
