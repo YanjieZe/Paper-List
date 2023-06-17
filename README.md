@@ -21,6 +21,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- arXiv 2023.06, Language to Rewards for Robotic Skill Synthesis, [arXiv](https://arxiv.org/abs/2306.08647)
 - arXiv 2023.06, Diffusion Models for Zero-Shot Open-Vocabulary Segmentation, [Website](https://www.robots.ox.ac.uk/~vgg/research/ovdiff/)
 - arXiv 2023.06, **SayTap**: Language to Quadrupedal Locomotion, [Website](https://saytap.github.io/)
 - arXiv 2023.06, **R-MAE**: Regions Meet Masked Autoencoders, [arXiv](https://arxiv.org/abs/2306.05411) / [Github](https://github.com/facebookresearch/r-mae)
