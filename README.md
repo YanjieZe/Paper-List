@@ -21,7 +21,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
-- arXiv 2023.06, TAPIR: Tracking Any Point with per-frame Initialization and temporal Refinement, [Website](https://deepmind-tapir.github.io/)
+- arXiv 2023.06, **TAPIR**: Tracking Any Point with per-frame Initialization and temporal Refinement, [Website](https://deepmind-tapir.github.io/)
 - CVPR 2017, **I3D**: Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset, [arXiv](https://arxiv.org/abs/1705.07750)
 - arXiv 2023.06, Language to Rewards for Robotic Skill Synthesis, [arXiv](https://arxiv.org/abs/2306.08647) / [Website](https://language-to-reward.github.io/)
 - arXiv 2023.06, Diffusion Models for Zero-Shot Open-Vocabulary Segmentation, [Website](https://www.robots.ox.ac.uk/~vgg/research/ovdiff/)
