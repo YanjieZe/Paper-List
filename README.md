@@ -21,6 +21,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- arXiv 2023.06, For SALE: State-Action Representation Learning for Deep Reinforcement Learning, [arXiv](https://arxiv.org/abs/2306.02451) / [Github](https://github.com/sfujim/TD7)
 - arXiv 2023.06, **HomeRobot**: Open Vocabulary Mobile Manipulation, [Website](https://ovmm.github.io/)
 - arXiv 2023.06, Lifelike Agility and Play on Quadrupedal Robots using Reinforcement Learning and Deep Pre-trained Models, [Website](https://tencent-roboticsx.github.io/lifelike-agility-and-play/)
 - arXiv 2023.06, **TAPIR**: Tracking Any Point with per-frame Initialization and temporal Refinement, [Website](https://deepmind-tapir.github.io/)
