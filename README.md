@@ -14,6 +14,9 @@ Topics:
   - [Robotic Locomotion](topics/robotic_locomotion.md)
 - [Miscellaneous](topics/misc.md)
 
+Papers:
+- [ICML 2023](https://icml.cc/virtual/2023/papers.html?filter=titles)
+- [RSS 2023](https://roboticsconference.org/program/papers/)
 
 Some personal claims and understandings:
 - Self-supervised learning serves as a comprehensive framework for learning representations from unlabeled data. Often considered the 'cake' of machine learning, it can be broadly classified into two paradigms: generative modeling and discriminative modeling. Despite the recent remarkable advancements in generative modeling, which primarily focus on the quality of generation, I continue to perceive the issue through the lens of representation learning.
