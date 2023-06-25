@@ -15,7 +15,7 @@ Topics:
 - [Miscellaneous](topics/misc.md)
 
 Papers:
-- [ICML 2023](https://icml.cc/virtual/2023/papers.html?filter=titles)
+- [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference)
 - [RSS 2023](https://roboticsconference.org/program/papers/)
 
 Some personal claims and understandings:
