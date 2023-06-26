@@ -30,7 +30,8 @@ Generation with Dream Fields, [Website](https://ajayj.com/dreamfields) / [GitHub
 - CVPR 2022, Stable Diffusion: High-Resolution Image Synthesis with Latent Diffusion Models, [arXiv](https://arxiv.org/abs/2112.10752)
 - NIPS 2022, Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding, [arXiv](https://arxiv.org/abs/2205.11487)
 - NIPS 2021, Guided Diffusion: Diffusion Models Beat GANS on Image Synthesis, [arXiv](https://arxiv.org/abs/2105.05233)
-- NIPS 2020, DDPM: Denoising Diffusion Probabilistic Models, [Website](https://hojonathanho.github.io/diffusion/)
+- ICLR 2021, Score-Based Generative Modeling through Stochastic Differential Equations, [arXiv](https://arxiv.org/abs/2011.13456)
+- NIPS 2020, **DDPM**: Denoising Diffusion Probabilistic Models, [Website](https://hojonathanho.github.io/diffusion/)
 
 
 
