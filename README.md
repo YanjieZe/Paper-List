@@ -27,7 +27,7 @@ Some personal claims and understandings:
 # Recent Random Papers
 - arXiv 2023.06, **RVT**: Robotic View Transformer for 3D Object Manipulation, [Website](https://robotic-view-transformer.github.io/)
 - arXiv 2023.01, **Ponder**: Point Cloud Pre-training via Neural Rendering, [arXiv](https://arxiv.org/abs/2301.00157)
-- arXiv 2023.06, **SGR**: A Universal Semantic-Geometric Representation for Robotic Manipulation, [Website](https://semantic-geometric-representation.github.io/)
+- arXiv 2023.06, **SGR**: A Universal Semantic-Geometric Representation for Robotic Manipulation, [arXiv](https://arxiv.org/abs/2306.10474) / [Website](https://semantic-geometric-representation.github.io/)
 - arXiv 2023.06, Robot Learning with Sensorimotor Pre-training, [arXiv](https://arxiv.org/abs/2306.10007) / [Website](https://robotic-pretrained-transformer.github.io/)
 - arXiv 2023.06, For SALE: State-Action Representation Learning for Deep Reinforcement Learning, [arXiv](https://arxiv.org/abs/2306.02451) / [Github](https://github.com/sfujim/TD7)
 - arXiv 2023.06, **HomeRobot**: Open Vocabulary Mobile Manipulation, [Website](https://ovmm.github.io/)
