@@ -25,6 +25,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- AAAI 2023, Improving Long-Horizon Imitation Through Instruction Prediction, [arXiv](https://arxiv.org/abs/2306.12554) / [Github](https://github.com/jhejna/instruction-prediction)
 - arXiv 2023.06, **RVT**: Robotic View Transformer for 3D Object Manipulation, [Website](https://robotic-view-transformer.github.io/)
 - arXiv 2023.01, **Ponder**: Point Cloud Pre-training via Neural Rendering, [arXiv](https://arxiv.org/abs/2301.00157)
 - arXiv 2023.06, **SGR**: A Universal Semantic-Geometric Representation for Robotic Manipulation, [arXiv](https://arxiv.org/abs/2306.10474) / [Website](https://semantic-geometric-representation.github.io/)
