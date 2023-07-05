@@ -9,6 +9,7 @@ Topics:
   - [Generative Model](topics/generative_model.md)
   - [Self-Supervised Learning](topics/self_supervised_learning.md)
   - [Large Language Model](topics/llm.md)
+  - [Diffusion Model for RL](topics/diffusion_rl.md)
 - Robotics
   - [Robotic Manipulation](topics/robotic_manipulation.md)
   - [Robotic Locomotion](topics/robotic_locomotion.md)
