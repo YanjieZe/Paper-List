@@ -26,6 +26,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- arXiv 2023.07, **KITE**: Keypoint-Conditioned Policies for Semantic Manipulation, [Website](https://sites.google.com/view/kite-website/home) / [arXiv](https://arxiv.org/abs/2306.16605)
 - arXiv 2023.07, **GRIF**: Goal Representations for Instruction Following: A Semi-Supervised Language Interface to Control, [Website](https://rail-berkeley.github.io/grif/),
 - arXiv 2023.06, Detector-Free Structure from Motion, [Website](https://zju3dv.github.io/DetectorFreeSfM/) / [arXiv](https://arxiv.org/abs/2306.15669)
 - arXiv 2023.06, **REFLECT**: Summarizing Robot Experiences for FaiLure Explanation and CorrecTion, [arXiv](https://arxiv.org/abs/2306.15724) / [Website](https://roboreflect.github.io/)
