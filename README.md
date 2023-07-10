@@ -26,6 +26,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- RSS 2023 best paper nominee, **Voltron**: Language-Driven Representation Learning for Robotics, [Website](https://sites.google.com/view/voltron-robotics) / [Github](https://github.com/siddk/voltron-robotics)
 - RSS 2023, **DexPBT**: Scaling up Dexterous Manipulation for Hand-Arm Systems with Population Based Training, [Website](https://sites.google.com/view/dexpbt) / [arXiv](https://arxiv.org/abs/2305.12127)
 - arXiv 2023.07, **VoxPoser**: Composable 3D Value Maps for Robotic Manipulation with Language Models, [Website](https://voxposer.github.io/)
 - arXiv 2023.07, **KITE**: Keypoint-Conditioned Policies for Semantic Manipulation, [Website](https://sites.google.com/view/kite-website/home) / [arXiv](https://arxiv.org/abs/2306.16605)
