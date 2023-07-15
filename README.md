@@ -26,6 +26,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- ICLR 2023, DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics, [Website](https://sites.google.com/view/dexdeform/) / [Github](https://github.com/sizhe-li/DexDeform)
 - arXiv 2023.07, Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement, [Website](https://anthonysimeonov.github.io/rpdiff-multi-modal/) / [Github](https://github.com/anthonysimeonov/rpdiff)
 - arXiv 2023.07, **SpawnNet**: Learning Generalizable Visuomotor Skills from Pre-trained Networks, [Website](https://xingyu-lin.github.io/spawnnet/) / [Github](https://github.com/johnrso/spawnnet)
 - RSS 2023 best paper nominee, **Voltron**: Language-Driven Representation Learning for Robotics, [Website](https://sites.google.com/view/voltron-robotics) / [Github](https://github.com/siddk/voltron-robotics)
