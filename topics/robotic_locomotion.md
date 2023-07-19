@@ -2,6 +2,7 @@
 - arXiv 2023, **DribbleBot**: Dynamic Legged Manipulation in the Wild, [Website](https://gmargo11.github.io/dribblebot/)
 - arXiv 2023, Learning Humanoid Locomotion with Transformers, [Website](https://humanoid-transformer.github.io/)
 - ICLR 2022, LocoTransformer: [Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers](https://rchalyang.github.io/LocoTransformer/)
+- CoRL 2022 best system paper, Legged Locomotion in Challenging Terrains using Egocentric Vision, [Website](https://vision-locomotion.github.io/)
 - CoRL 2022 oral, [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion](https://manipulation-locomotion.github.io/)
 - RSS 2022, Rapid Locomotion via Reinforcement Learning, [Website](https://agility.csail.mit.edu/)
 - RSS 2021, **RMA**: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/)
