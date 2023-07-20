@@ -26,9 +26,10 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
-- arXiv 2023, **Differentiable Blocks World**: Qualitative 3D Decomposition by Rendering Primitives, [Website](https://www.tmonnier.com/DBW/) / [arXiv](https://arxiv.org/abs/2307.05473)
+- arXiv 2023.07, **Retentive Network**: A Successor to Transformer for Large Language Models, [arXiv](https://arxiv.org/abs/2307.08621) / [Github](https://github.com/microsoft/unilm)
+- arXiv 2023.07, **Differentiable Blocks World**: Qualitative 3D Decomposition by Rendering Primitives, [Website](https://www.tmonnier.com/DBW/) / [arXiv](https://arxiv.org/abs/2307.05473)
 - ICLR 2023, **DexDeform**: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics, [Website](https://sites.google.com/view/dexdeform/) / [Github](https://github.com/sizhe-li/DexDeform)
-- arXiv 2023.07, Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement, [Website](https://anthonysimeonov.github.io/rpdiff-multi-modal/) / [Github](https://github.com/anthonysimeonov/rpdiff)
+- arXiv 2023.07, **RPDiff**: Shelving, Stacking, Hanging: Relational Pose Diffusion for Multi-modal Rearrangement, [Website](https://anthonysimeonov.github.io/rpdiff-multi-modal/) / [Github](https://github.com/anthonysimeonov/rpdiff)
 - arXiv 2023.07, **SpawnNet**: Learning Generalizable Visuomotor Skills from Pre-trained Networks, [Website](https://xingyu-lin.github.io/spawnnet/) / [Github](https://github.com/johnrso/spawnnet)
 - RSS 2023 best paper nominee, **Voltron**: Language-Driven Representation Learning for Robotics, [Website](https://sites.google.com/view/voltron-robotics) / [Github](https://github.com/siddk/voltron-robotics)
 - RSS 2023, **DexPBT**: Scaling up Dexterous Manipulation for Hand-Arm Systems with Population Based Training, [Website](https://sites.google.com/view/dexpbt) / [arXiv](https://arxiv.org/abs/2305.12127)
