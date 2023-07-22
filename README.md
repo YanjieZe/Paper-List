@@ -26,6 +26,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- ICML 2023, Learning Neural Constitutive Laws: From Motion Observations for Generalizable PDE Dynamics, [Website](https://sites.google.com/view/nclaw) / [Github](https://github.com/PingchuanMa/NCLaw)
 - arXiv 2023.07, **TokenFlow**: Consistent Diffusion Features for Consistent Video Editing, [Website](https://diffusion-tokenflow.github.io/)
 - arXiv 2023.07, **PAPR**: Proximity Attention Point Rendering, [Website](https://zvict.github.io/papr/) / [arXiv](https://arxiv.org/abs/2307.11086)
 - arXiv 2023.07, From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought, [arXiv](https://arxiv.org/abs/2306.12672)
