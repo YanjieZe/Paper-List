@@ -26,6 +26,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- ECCV 2022, **SeedFormer**: Patch Seeds based Point Cloud Completion with Upsample Transformer, [arXiv](https://arxiv.org/abs/2207.10315) / [Github](https://github.com/hrzhou2/seedformer)
 - arXiv 2023.07, Waypoint-Based Imitation Learning for Robotic Manipulation, [Website](https://lucys0.github.io/awe/)
 - ICML 2022, **Prompt-DT**: Prompting Decision Transformer for Few-Shot Policy Generalization, [Website](https://mxu34.github.io/PromptDT/)
 - arXiv 2023, Reinforcement Learning from Passive Data via Latent Intentions, [Website](https://dibyaghosh.com/icvf/)
