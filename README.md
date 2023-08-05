@@ -27,7 +27,7 @@ Some personal claims and understandings:
 
 # Recent Random Papers
 - ICRA 1992, Planning optimal grasps, [PDF](https://people.eecs.berkeley.edu/~jfc/papers/92/FCicra92.pdf)
-- RSS 2021, Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations, [arXiv](https://arxiv.org/abs/2104.01542) / [Website](https://sites.google.com/view/rpl-giga2021)
+- RSS 2021, **GIGA**: Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations, [arXiv](https://arxiv.org/abs/2104.01542) / [Website](https://sites.google.com/view/rpl-giga2021)
 - arXiv 2023.08, Learning to Model the World with Language, [Website](https://dynalang.github.io/) / [arXiv](https://arxiv.org/abs/2308.01399)
 - arXiv 2023.07, Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition, [Website](https://www.cs.columbia.edu/~huy/scalingup/)
 - ECCV 2022, **StARformer**: Transformer with State-Action-Reward Representations for Visual Reinforcement Learning, [arXiv](https://arxiv.org/abs/2110.06206) / [Github](https://github.com/elicassion/StARformer)
