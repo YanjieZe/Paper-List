@@ -26,6 +26,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- ICRA 1992, Planning optimal grasps, [PDF](https://people.eecs.berkeley.edu/~jfc/papers/92/FCicra92.pdf)
 - RSS 2021, Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations, [arXiv](https://arxiv.org/abs/2104.01542) / [Website](https://sites.google.com/view/rpl-giga2021)
 - arXiv 2023.08, Learning to Model the World with Language, [Website](https://dynalang.github.io/) / [arXiv](https://arxiv.org/abs/2308.01399)
 - arXiv 2023.07, Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition, [Website](https://www.cs.columbia.edu/~huy/scalingup/)
