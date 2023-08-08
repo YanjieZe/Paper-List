@@ -26,6 +26,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- ICRA 2000, **RRT-Connect**: An Efficient Approach to Single-Query Path Planning, [PDF](http://www.cs.cmu.edu/afs/andrew/scs/cs/15-494-sp13/nslobody/Class/readings/kuffner_icra2000.pdf)
 - CVPR 2017 oral, **Network Dissection**: Quantifying Interpretability of Deep Visual Representations, [arXiv](https://arxiv.org/abs/1704.05796) / [Website](http://netdissect.csail.mit.edu/)
 - NIPS 2020 (spotlight), Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains, [Website](https://bmild.github.io/fourfeat/index.html)
 - ICRA 1992, Planning optimal grasps, [PDF](https://people.eecs.berkeley.edu/~jfc/papers/92/FCicra92.pdf)
