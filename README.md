@@ -19,6 +19,8 @@ Papers:
 - [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference)
 - [RSS 2023](https://roboticsconference.org/program/papers/)
 - [CVPR 2023](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)
+- [ICLR 2023](https://iclr.cc/virtual/2023/papers.html?filter=titles)
+- [NeurIPS 2022](https://neurips.cc/virtual/2022/papers.html?filter=titles)
 
 Some personal claims and understandings:
 - Self-supervised learning serves as a comprehensive framework for learning representations from unlabeled data. Often considered the 'cake' of machine learning, it can be broadly classified into two paradigms: generative modeling and discriminative modeling. Despite the recent remarkable advancements in generative modeling, which primarily focus on the quality of generation, I continue to perceive the issue through the lens of representation learning.
