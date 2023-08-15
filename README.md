@@ -10,6 +10,7 @@ Topics:
   - [Self-Supervised Learning](topics/self_supervised_learning.md)
   - [Large Language Model](topics/llm.md)
   - [Diffusion Model for RL](topics/diffusion_rl.md)
+  - [3D Diffusion Model](topics/3d_diffusion.md)
 - Robotics
   - [Robotic Manipulation](topics/robotic_manipulation.md)
   - [Robotic Locomotion](topics/robotic_locomotion.md)
