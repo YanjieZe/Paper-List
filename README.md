@@ -29,6 +29,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- NeurIPS 2021 spotlight, **NeuS**: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction, [Website](https://lingjie0206.github.io/papers/NeuS/)
 - ICCV 2023, Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models, [Website](https://energy-based-model.github.io/unsupervised-concept-discovery/)
 - AAAI 2018, **FiLM**: Visual Reasoning with a General Conditioning Layer, [arXiv](https://arxiv.org/abs/1709.07871)
 - arXiv 2023.08, **RoboAgent**: Towards Sample Efficient Robot Manipulation with Semantic Augmentations and Action Chunking, [Website](https://robopen.github.io/)
