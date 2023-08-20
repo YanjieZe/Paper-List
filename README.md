@@ -29,6 +29,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- SIGGRAPH 2023, 3D Gaussian Splatting for Real-Time Radiance Field Rendering, [Website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)
 - CoRL 2022, In-Hand Object Rotation via Rapid Motor Adaptation, [arXiv](https://arxiv.org/abs/2210.04887) / [Website](https://haozhi.io/hora/)
 - ICLR 2019, **DPI-Net**: Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids, [Website](http://dpi.csail.mit.edu/)
 - ICLR 2019, **Plan Online, Learn Offline**: Efficient Learning and Exploration via Model-Based Control, [arXiv](https://arxiv.org/abs/1811.01848) / [Website](https://sites.google.com/view/polo-mpc)
