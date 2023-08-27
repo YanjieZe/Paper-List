@@ -30,7 +30,7 @@ Some personal claims and understandings:
 
 # Recent Random Papers
 - arXiv 2023.08.27, **BridgeData V2**: A Dataset for Robot Learning at Scale, [arXiv](https://arxiv.org/abs/2308.12952) / [Website](https://rail-berkeley.github.io/bridgedata/)
-- arXiv 2023.08, Diffusion with Forward Models: Solving Stochastic Inverse Problems Without Direct Supervision, [Website](https://diffusion-with-forward-models.github.io/)
+- arXiv 2023.08, **Diffusion with Forward Models**: Solving Stochastic Inverse Problems Without Direct Supervision, [Website](https://diffusion-with-forward-models.github.io/)
 - ICML 2023, **QRL**: Optimal Goal-Reaching Reinforcement Learning via Quasimetric Learning, [Website](https://www.tongzhouwang.info/quasimetric_rl/) / [Github](https://github.com/quasimetric-learning/quasimetric-rl)
 - arXIv 2023.08, **LAMP:** Language Reward Modulation for Pretraining Reinforcement Learning, [arXiv](https://arxiv.org/abs/2308.12270) / [Github](https://github.com/ademiadeniji/lamp)
 - ICCV 2023, Can Language Models Learn to Listen? [Website](https://people.eecs.berkeley.edu/~evonne_ng/projects/text2listen/)
