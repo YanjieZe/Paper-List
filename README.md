@@ -24,10 +24,6 @@ Papers:
 - [ICLR 2023](https://iclr.cc/virtual/2023/papers.html?filter=titles)
 - [NeurIPS 2022](https://neurips.cc/virtual/2022/papers.html?filter=titles)
 
-Some personal claims and understandings:
-- Self-supervised learning serves as a comprehensive framework for learning representations from unlabeled data. Often considered the 'cake' of machine learning, it can be broadly classified into two paradigms: generative modeling and discriminative modeling. Despite the recent remarkable advancements in generative modeling, which primarily focus on the quality of generation, I continue to perceive the issue through the lens of representation learning.
-- Reinforcement learning, robotic manipulation, and computer vision are all intricately connected within the realm of robot learning. While I categorize them as distinct topics, it's worth noting that some papers may be relevant to multiple subjects.
-- It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
 - ICLR 2023 spotlight, **FluidLab**: A Differentiable Environment for Benchmarking Complex Fluid Manipulation, [Website](https://fluidlab2023.github.io/)
