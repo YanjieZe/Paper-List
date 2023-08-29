@@ -29,6 +29,7 @@ Some personal claims and understandings:
 - It's important to recognize that these topics are not mutually exclusive. For instance, visual reinforcement learning combines elements of visual recognition and reinforcement learning. Additionally, self-supervised learning can be found pervading various areas of the machine learning field.
 
 # Recent Random Papers
+- ICLR 2023 spotlight, **FluidLab**: A Differentiable Environment for Benchmarking Complex Fluid Manipulation, [Website](https://fluidlab2023.github.io/)
 - arXiv 2023.06, **Seal**: Segment Any Point Cloud Sequences by Distilling Vision Foundation Models, [arXiv](https://arxiv.org/abs/2306.09347) / [Website](https://ldkong.com/Seal) / [Github](https://github.com/youquanl/Segment-Any-Point-Cloud)
 - arXiv 2023.08, **BridgeData V2**: A Dataset for Robot Learning at Scale, [arXiv](https://arxiv.org/abs/2308.12952) / [Website](https://rail-berkeley.github.io/bridgedata/)
 - arXiv 2023.08, **Diffusion with Forward Models**: Solving Stochastic Inverse Problems Without Direct Supervision, [Website](https://diffusion-with-forward-models.github.io/)
