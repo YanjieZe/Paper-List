@@ -14,7 +14,9 @@
 - NIPS 2022, **Imagen**: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding, [arXiv](https://arxiv.org/abs/2205.11487)
 - arXiv 2022.07, Classifier-Free Diffusion Guidance, [arXiv](https://arxiv.org/abs/2207.12598)
 - NIPS 2021, **Guided Diffusion**: Diffusion Models Beat GANS on Image Synthesis, [arXiv](https://arxiv.org/abs/2105.05233) / [Github](https://github.com/openai/guided-diffusion)
+- ICLR 2021, **DDIM**: Denoising Diffusion Implicit Models, [arXiv](https://arxiv.org/abs/2010.02502) / [Github](https://github.com/ermongroup/ddim)
 - ICLR 2021, Score-Based Generative Modeling through Stochastic Differential Equations, [arXiv](https://arxiv.org/abs/2011.13456)
+- ICML 2021, **iDDPM**: Improved Denoising Diffusion Probabilistic Models, [arXiv](https://arxiv.org/abs/2102.09672) / [Github](https://github.com/openai/improved-diffusion)
 - NIPS 2020, **DDPM**: Denoising Diffusion Probabilistic Models, [Website](https://hojonathanho.github.io/diffusion/)
 
 
