@@ -26,6 +26,8 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.06, **DreamSim**: Learning New Dimensions of
+Human Visual Similarity using Synthetic Data, [arXiv](https://arxiv.org/abs/2306.09344) / [Website](https://dreamsim-nights.github.io/)
 - ICLR 2023 spotlight, **FluidLab**: A Differentiable Environment for Benchmarking Complex Fluid Manipulation, [Website](https://fluidlab2023.github.io/)
 - arXiv 2023.06, **Seal**: Segment Any Point Cloud Sequences by Distilling Vision Foundation Models, [arXiv](https://arxiv.org/abs/2306.09347) / [Website](https://ldkong.com/Seal) / [Github](https://github.com/youquanl/Segment-Any-Point-Cloud)
 - arXiv 2023.08, **BridgeData V2**: A Dataset for Robot Learning at Scale, [arXiv](https://arxiv.org/abs/2308.12952) / [Website](https://rail-berkeley.github.io/bridgedata/)
