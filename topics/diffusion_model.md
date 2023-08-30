@@ -1,18 +1,19 @@
 # Diffusion Model
 
 ## Controllable
+- ICCV 2023, Unsupervised Compositional Concepts Discovery with Text-to-Image Generative Models, [Website](https://energy-based-model.github.io/unsupervised-concept-discovery/)
 - arXiv 2023.02, **ControlNet**: Adding Conditional Control to Text-to-Image Diffusion Models, [arXiv](https://arxiv.org/abs/2302.05543) / [Github](https://github.com/lllyasviel/ControlNet)
 - CVPR 2023, **DreamBooth**: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation, [Website](https://dreambooth.github.io/)
 - ICLR 2023, **Prompt-to-Prompt** Image Editing with Cross-Attention Control, [arXiv](https://arxiv.org/abs/2208.01626) / [Website](https://prompt-to-prompt.github.io)
 - ICLR 2023, An Image is Worth One Word: Personalizing Text-to-Image Generation using **Textual Inversion**, [Website](https://textual-inversion.github.io/)
-
+- arXiv 2022.07, Classifier-Free Diffusion Guidance, [arXiv](https://arxiv.org/abs/2207.12598)
 
 
 
 ## High Resolution
 - CVPR 2022, **Stable Diffusion**: High-Resolution Image Synthesis with Latent Diffusion Models, [arXiv](https://arxiv.org/abs/2112.10752)
 - NIPS 2022, **Imagen**: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding, [arXiv](https://arxiv.org/abs/2205.11487)
-- NIPS 2021, **Guided Diffusion**: Diffusion Models Beat GANS on Image Synthesis, [arXiv](https://arxiv.org/abs/2105.05233)
+- NIPS 2021, **Guided Diffusion**: Diffusion Models Beat GANS on Image Synthesis, [arXiv](https://arxiv.org/abs/2105.05233) / [Github](https://github.com/openai/guided-diffusion)
 - NIPS 2020, **DDPM**: Denoising Diffusion Probabilistic Models, [Website](https://hojonathanho.github.io/diffusion/)
 
 
