@@ -18,6 +18,7 @@ Topics:
 - [Miscellaneous](topics/misc.md)
 
 Papers:
+- [CoRL 2023](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Conference#accept--oral-)
 - [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference)
 - [RSS 2023](https://roboticsconference.org/program/papers/)
 - [CVPR 2023](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)
@@ -26,6 +27,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.08, **RoboTAP**: Tracking Arbitrary Points for Few-Shot Visual Imitation, [arXiv](https://arxiv.org/abs/2308.15975) / [Website](https://arxiv.org/abs/2308.15975)
 - arXiv 2023.06, **DreamSim**: Learning New Dimensions of
 Human Visual Similarity using Synthetic Data, [arXiv](https://arxiv.org/abs/2306.09344) / [Website](https://dreamsim-nights.github.io/)
 - ICLR 2023 spotlight, **FluidLab**: A Differentiable Environment for Benchmarking Complex Fluid Manipulation, [Website](https://fluidlab2023.github.io/)

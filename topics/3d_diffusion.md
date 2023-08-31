@@ -1,4 +1,5 @@
 # 3D Diffusion Model
+- CoRL 2023, **ChainedDiffuser**: Unifying Diffusion Models with Action Detection Transformers for Multi-task Robotic Manipulation, [OpenReview](https://openreview.net/pdf?id=W0zgY2mBTA8)
 - arXiv 2023.08, **Diffusion with Forward Models**: Solving Stochastic Inverse Problems Without Direct Supervision, [Website](https://diffusion-with-forward-models.github.io/)
 - arXiv 2023.07, **NIFTY**: Neural Object Interaction Fields for Guided Human Motion Synthesis, [Website](https://nileshkulkarni.github.io/nifty/)
 - arXiv 2023.03, Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation, [arXiv](https://arxiv.org/abs/2303.07937) / [GitHub](https://github.com/KU-CVLAB/3DFuse) / [Website](https://ku-cvlab.github.io/3DFuse/)

@@ -26,7 +26,7 @@
 ## Sampling
 - ICLR 2022 outstanding paper award, **Analytic-DPM**: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models
 , [arXiv](https://arxiv.org/abs/2201.06503)
-- NeurIPS 2022, **DPM-Solver**: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps
+- NeurIPS 2022 oral, **DPM-Solver**: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps
 , [arXiv](https://arxiv.org/abs/2206.00927)
 
   
