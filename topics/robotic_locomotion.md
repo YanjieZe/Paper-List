@@ -1,4 +1,6 @@
 # Robotic Locomotion
+
+- RSS 2023, Robust and Versatile Bipedal Jumping Control through Reinforcement Learning, [arXiv](https://arxiv.org/abs/2302.09450)
 - arXiv 2023, **DribbleBot**: Dynamic Legged Manipulation in the Wild, [Website](https://gmargo11.github.io/dribblebot/)
 - arXiv 2023, Learning Humanoid Locomotion with Transformers, [Website](https://humanoid-transformer.github.io/)
 - ICLR 2022, LocoTransformer: [Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers](https://rchalyang.github.io/LocoTransformer/)
