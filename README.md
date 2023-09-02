@@ -14,6 +14,7 @@ Topics:
   - [3D Diffusion Model](topics/3d_diffusion.md)
 - Robotics
   - [Robotic Manipulation](topics/robotic_manipulation.md)
+  - [Dexterous Manipulation](topics/dex_manipulation.md)
   - [Robotic Locomotion](topics/robotic_locomotion.md)
 - [Miscellaneous](topics/misc.md)
 
