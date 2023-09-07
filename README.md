@@ -16,15 +16,20 @@ Topics:
   - [Robotic Manipulation](topics/robotic_manipulation.md)
   - [Dexterous Manipulation](topics/dex_manipulation.md)
   - [Robotic Locomotion](topics/robotic_locomotion.md)
+- Graphics
+  - [Graphics](topics/graphics.md)
 - [Miscellaneous](topics/misc.md)
 
 Papers:
-- [CoRL 2023](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Conference#accept--oral-)
-- [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference)
-- [RSS 2023](https://roboticsconference.org/program/papers/)
-- [CVPR 2023](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)
-- [ICLR 2023](https://iclr.cc/virtual/2023/papers.html?filter=titles)
-- [NeurIPS 2022](https://neurips.cc/virtual/2022/papers.html?filter=titles)
+- 2023
+  - [CoRL 2023](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Conference#accept--oral-)
+  - [ICML 2023](https://openreview.net/group?id=ICML.cc/2023/Conference)
+  - [SIGGRAPH 2023](https://kesen.realtimerendering.com/sig2023.html)
+  - [RSS 2023](https://roboticsconference.org/program/papers/)
+  - [CVPR 2023](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)
+  - [ICLR 2023](https://iclr.cc/virtual/2023/papers.html?filter=titles)
+- 2022
+  - [NeurIPS 2022](https://neurips.cc/virtual/2022/papers.html?filter=titles)
 
 
 # Recent Random Papers
