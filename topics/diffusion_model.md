@@ -21,6 +21,7 @@
 
 
 ## Feature Utilization
+- arXiv 2023.06, Emergent Correspondence from Image Diffusion, [Website](https://diffusionfeatures.github.io/)
 - CVPR 2023, **ODISE**: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models, [Website](https://jerryxu.net/ODISE/)
 
 ## Sampling

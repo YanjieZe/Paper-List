@@ -33,6 +33,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICCV 2023 oral, Tracking Everything Everywhere All at Once, [Website](https://omnimotion.github.io/)
 - arXiv 2023.08, **RoboTAP**: Tracking Arbitrary Points for Few-Shot Visual Imitation, [arXiv](https://arxiv.org/abs/2308.15975) / [Website](https://arxiv.org/abs/2308.15975)
 - arXiv 2023.06, **DreamSim**: Learning New Dimensions of
 Human Visual Similarity using Synthetic Data, [arXiv](https://arxiv.org/abs/2306.09344) / [Website](https://dreamsim-nights.github.io/)
