@@ -33,6 +33,7 @@ Papers:
 
 
 # Recent Random Papers
+- CoRL 2023, **Q-Transformer**: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, [OpenReview](https://openreview.net/pdf?id=0I3su3mkuL)
 - ICCV 2023 oral, Tracking Everything Everywhere All at Once, [Website](https://omnimotion.github.io/)
 - arXiv 2023.08, **RoboTAP**: Tracking Arbitrary Points for Few-Shot Visual Imitation, [arXiv](https://arxiv.org/abs/2308.15975) / [Website](https://arxiv.org/abs/2308.15975)
 - arXiv 2023.06, **DreamSim**: Learning New Dimensions of
