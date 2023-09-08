@@ -4,6 +4,7 @@
   - [Deformable Objects](#deformable-objects)
   - [Scaling Up](#scaling-up)
   - [Gripper Manipulation](#gripper-manipulation)
+  - [Bimanual Manipulation](#bimanual-manipulation)
   - [Language Grounding](#language-grounding)
 
 
@@ -21,6 +22,9 @@
 
 ## Gripper Manipulation
 - CoRL 2022, [Learning to Grasp the Ungraspable with Emergent Extrinsic Dexterity](https://sites.google.com/view/grasp-ungraspable/)
+
+## Bimanual Manipulation
+- IROS 2022, A System for Imitation Learning of Contact-Rich Bimanual Manipulation Policies, [Website](https://bimanualmanipulation.com/)
 
 ## Language Grounding
 - blog, [ChatGPT for Robotics: Design Principles and Model Abilities](https://www.microsoft.com/en-us/research/group/autonomous-systems-group-robotics/articles/chatgpt-for-robotics/)
