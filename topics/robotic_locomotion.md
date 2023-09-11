@@ -8,3 +8,4 @@
 - CoRL 2022 oral, [Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion](https://manipulation-locomotion.github.io/)
 - RSS 2022, Rapid Locomotion via Reinforcement Learning, [Website](https://agility.csail.mit.edu/)
 - RSS 2021, **RMA**: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/)
+- CoRL 2021, Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, [Website](https://leggedrobotics.github.io/legged_gym/) / [Github](https://github.com/leggedrobotics/legged_gym)
