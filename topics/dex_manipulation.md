@@ -9,9 +9,10 @@
 
 
 ## Touch-Based
+- CoRL 2023, General In-Hand Object Rotation with Vision and Touch, [OpenReview](https://openreview.net/pdf?id=RN00jfIV-X)
 - arXiv 2023, [TactoFind: A Tactile Only System for Object Retrieval](https://taochenshh.github.io/projects/tactofind#)
 - arXiv 2023, [Dexterity from Touch: Self-Supervised Pre-Training of Tactile Representations with Robotic Play](https://tactile-dexterity.github.io/)
-- arXiv 2023, [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://touchdexterity.github.io/)
+- RSS 2023, [Rotating without Seeing: Towards In-hand Dexterity through Touch](https://touchdexterity.github.io/)
 
 ## Vision-Based
 - arXiv 2023, [Visual Dexterity: In-hand Dexterous Manipulation from Depth](https://taochenshh.github.io/projects/visual-dexterity)
