@@ -33,6 +33,7 @@ Papers:
 
 
 # Recent Random Papers
+- RSS 2022 Best Student Paper Award Finalist, **ACID**: Action-Conditional Implicit Visual Dynamics for Deformable Object Manipulation, [Website](https://b0ku1.github.io/acid/)
 - CoRL 2023, **REBOOT**: Reuse Data for Bootstrapping Efficient Real-World Dexterous Manipulation, [arXiv](https://arxiv.org/abs/2309.03322) / [Website](https://sites.google.com/view/reboot-dexterous)
 - CoRL 2023, An Unbiased Look at Datasets for Visuo-Motor Pre-Training, [OpenReview](https://openreview.net/pdf?id=qVc7NWYTRZ6)
 - CoRL 2023, **Q-Transformer**: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions, [OpenReview](https://openreview.net/pdf?id=0I3su3mkuL)
