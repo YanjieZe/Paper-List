@@ -59,8 +59,8 @@
 - CVPR 2017, [OctNet: Learning Deep 3D Representations at High Resolutions](https://arxiv.org/abs/1611.05009)
 
 ## Point Cloud
-- NIPS 2022, [PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies](https://arxiv.org/abs/2206.04670)
-- NIPS 2022, [Point Transformer V2: Grouped Vector Attention and Partition-based Pooling](https://arxiv.org/abs/2210.05666)
+- NIPS 2022, **PointNeXt**: Revisiting PointNet++ with Improved Training and Scaling Strategies, [arXiv](https://arxiv.org/abs/2206.04670)
+- NIPS 2022, **Point Transformer V2**: Grouped Vector Attention and Partition-based Pooling, [arXiv](https://arxiv.org/abs/2210.05666)
 - CVPR 2022, [Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes](https://openaccess.thecvf.com/content/CVPR2022/html/You_Canonical_Voting_Towards_Robust_Oriented_Bounding_Box_Detection_in_3D_CVPR_2022_paper.html)
 - ICCV 2021, [Point Transformer](https://arxiv.org/abs/2012.09164)
 - NIPS 2019, [Point-Voxel CNN for Efficient 3D Deep Learning](https://pvcnn.mit.edu/)

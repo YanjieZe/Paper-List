@@ -10,6 +10,7 @@
 
 
 ## High Resolution
+- NIPS 2022, **k-diffusion**: Elucidating the Design Space of Diffusion-Based Generative Models, [arXiv](https://arxiv.org/abs/2206.00364) / [Github](https://github.com/crowsonkb/k-diffusion)
 - CVPR 2022, **Stable Diffusion**: High-Resolution Image Synthesis with Latent Diffusion Models, [arXiv](https://arxiv.org/abs/2112.10752)
 - NIPS 2022, **Imagen**: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding, [arXiv](https://arxiv.org/abs/2205.11487)
 - arXiv 2022.07, Classifier-Free Diffusion Guidance, [arXiv](https://arxiv.org/abs/2207.12598)
