@@ -33,6 +33,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICCV 2023, **PointOdyssey**: A Large-Scale Synthetic Dataset for Long-Term Point Tracking, [arXiv](https://arxiv.org/abs/2307.15055) / [Github](https://github.com/aharley/pips2)
 - arXiv 2023, Compositional Foundation Models for Hierarchical Planning, [Website](https://hierarchical-planning-foundation-model.github.io/)
 - RSS 2022 Best Student Paper Award Finalist, **ACID**: Action-Conditional Implicit Visual Dynamics for Deformable Object Manipulation, [Website](https://b0ku1.github.io/acid/)
 - CoRL 2023, **REBOOT**: Reuse Data for Bootstrapping Efficient Real-World Dexterous Manipulation, [arXiv](https://arxiv.org/abs/2309.03322) / [Website](https://sites.google.com/view/reboot-dexterous)
