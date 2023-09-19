@@ -9,3 +9,4 @@
 - RSS 2022, Rapid Locomotion via Reinforcement Learning, [Website](https://agility.csail.mit.edu/) / [Github](https://github.com/Improbable-AI/rapid-locomotion-rl)
 - RSS 2021, **RMA**: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/) /  [Github](https://github.com/antonilo/rl_locomotion)
 - CoRL 2021, Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, [Website](https://leggedrobotics.github.io/legged_gym/) / [Github](https://github.com/leggedrobotics/legged_gym)
+- RSS 2020 best paper award, Learning Agile Robotic Locomotion Skills by Imitating Animals, [Website](https://xbpeng.github.io/projects/Robotic_Imitation/index.html) / [Github](https://github.com/erwincoumans/motion_imitation)
