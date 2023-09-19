@@ -15,7 +15,7 @@
 - NIPS 2022, **Imagen**: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding, [arXiv](https://arxiv.org/abs/2205.11487)
 - arXiv 2022.07, Classifier-Free Diffusion Guidance, [arXiv](https://arxiv.org/abs/2207.12598)
 - NIPS 2021, **Guided Diffusion**: Diffusion Models Beat GANS on Image Synthesis, [arXiv](https://arxiv.org/abs/2105.05233) / [Github](https://github.com/openai/guided-diffusion)
-- ICLR 2021, **DDIM**: Denoising Diffusion Implicit Models, [arXiv](https://arxiv.org/abs/2010.02502) / [Github](https://github.com/ermongroup/ddim)
+
 - ICLR 2021, Score-Based Generative Modeling through Stochastic Differential Equations, [arXiv](https://arxiv.org/abs/2011.13456)
 - ICML 2021, **iDDPM**: Improved Denoising Diffusion Probabilistic Models, [arXiv](https://arxiv.org/abs/2102.09672) / [Github](https://github.com/openai/improved-diffusion)
 - NIPS 2020, **DDPM**: Denoising Diffusion Probabilistic Models, [Website](https://hojonathanho.github.io/diffusion/)
@@ -26,9 +26,12 @@
 - CVPR 2023, **ODISE**: Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion Models, [Website](https://jerryxu.net/ODISE/)
 
 ## Sampling
+- ICLR 2023 spotlight, **gDDIM**: Generalized denoising diffusion implicit models, [arXiv](https://arxiv.org/abs/2206.05564)
+- ICLR 2023, **DEIS**: Fast Sampling of Diffusion Models with Exponential Integrator, [arXiv](https://arxiv.org/abs/2204.13902) / [Github](https://github.com/qsh-zh/deis)
 - ICLR 2022 outstanding paper award, **Analytic-DPM**: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models
 , [arXiv](https://arxiv.org/abs/2201.06503)
 - NeurIPS 2022 oral, **DPM-Solver**: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps
 , [arXiv](https://arxiv.org/abs/2206.00927)
+- ICLR 2021, **DDIM**: Denoising Diffusion Implicit Models, [arXiv](https://arxiv.org/abs/2010.02502) / [Github](https://github.com/ermongroup/ddim)
 
   
