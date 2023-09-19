@@ -6,6 +6,6 @@
 - ICLR 2022, **LocoTransformer**: Learning Vision-Guided Quadrupedal Locomotion End-to-End with Cross-Modal Transformers, [Website](https://rchalyang.github.io/LocoTransformer/)
 - CoRL 2022 best system paper, Legged Locomotion in Challenging Terrains using Egocentric Vision, [Website](https://vision-locomotion.github.io/)
 - CoRL 2022 oral, **Deep Whole-Body Control**: Learning a Unified Policy for Manipulation and Locomotion, [Website](https://manipulation-locomotion.github.io/)
-- RSS 2022, Rapid Locomotion via Reinforcement Learning, [Website](https://agility.csail.mit.edu/) / [Github](https://github.com/antonilo/rl_locomotion)
-- RSS 2021, **RMA**: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/)
+- RSS 2022, Rapid Locomotion via Reinforcement Learning, [Website](https://agility.csail.mit.edu/) / [Github](https://github.com/Improbable-AI/rapid-locomotion-rl)
+- RSS 2021, **RMA**: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/) /  [Github](https://github.com/antonilo/rl_locomotion)
 - CoRL 2021, Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, [Website](https://leggedrobotics.github.io/legged_gym/) / [Github](https://github.com/leggedrobotics/legged_gym)
