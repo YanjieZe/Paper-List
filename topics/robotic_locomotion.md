@@ -1,5 +1,5 @@
 # Robotic Locomotion
-
+- arXiv 2023.08, Learning Vision-based Pursuit-Evasion Robot Policies, [Website](https://abajcsy.github.io/vision-based-pursuit/) / [arXiv](https://arxiv.org/abs/2308.16185)
 - RSS 2023, Robust and Versatile Bipedal Jumping Control through Reinforcement Learning, [arXiv](https://arxiv.org/abs/2302.09450)
 - arXiv 2023, **DribbleBot**: Dynamic Legged Manipulation in the Wild, [Website](https://gmargo11.github.io/dribblebot/)
 - arXiv 2023, Learning Humanoid Locomotion with Transformers, [Website](https://humanoid-transformer.github.io/)
