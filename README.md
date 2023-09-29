@@ -33,6 +33,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.09, Robotic Offline RL from Internet Videos via Value-Function Pre-Training, [arXiv](https://arxiv.org/abs/2309.13041) / [Website](https://dibyaghosh.com/vptr/)
 - ICCV 2023, **PointOdyssey**: A Large-Scale Synthetic Dataset for Long-Term Point Tracking, [arXiv](https://arxiv.org/abs/2307.15055) / [Github](https://github.com/aharley/pips2)
 - arXiv 2023, Compositional Foundation Models for Hierarchical Planning, [Website](https://hierarchical-planning-foundation-model.github.io/)
 - RSS 2022 Best Student Paper Award Finalist, **ACID**: Action-Conditional Implicit Visual Dynamics for Deformable Object Manipulation, [Website](https://b0ku1.github.io/acid/)
