@@ -33,6 +33,8 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.09, **GELLO**: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators, [Website](https://wuphilipp.github.io/gello_site/) / [arXiv](https://arxiv.org/abs/2309.13037)
+- arXiv 2023.09, Human-Assisted Continual Robot Learning with Foundation Models, [Website](https://sites.google.com/mit.edu/halp-robot-learning) / [arXiv](https://arxiv.org/abs/2309.14321)
 - arXiv 2023.09, Robotic Offline RL from Internet Videos via Value-Function Pre-Training, [arXiv](https://arxiv.org/abs/2309.13041) / [Website](https://dibyaghosh.com/vptr/)
 - ICCV 2023, **PointOdyssey**: A Large-Scale Synthetic Dataset for Long-Term Point Tracking, [arXiv](https://arxiv.org/abs/2307.15055) / [Github](https://github.com/aharley/pips2)
 - arXiv 2023, Compositional Foundation Models for Hierarchical Planning, [Website](https://hierarchical-planning-foundation-model.github.io/)
