@@ -33,6 +33,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.09, **D3Fields**: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [Website](https://robopil.github.io/d3fields/) / [Github](https://github.com/WangYixuan12/d3fields)
 - arXiv 2023.09, **GELLO**: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators, [Website](https://wuphilipp.github.io/gello_site/) / [arXiv](https://arxiv.org/abs/2309.13037)
 - arXiv 2023.09, Human-Assisted Continual Robot Learning with Foundation Models, [Website](https://sites.google.com/mit.edu/halp-robot-learning) / [arXiv](https://arxiv.org/abs/2309.14321)
 - arXiv 2023.09, Robotic Offline RL from Internet Videos via Value-Function Pre-Training, [arXiv](https://arxiv.org/abs/2309.13041) / [Website](https://dibyaghosh.com/vptr/)
