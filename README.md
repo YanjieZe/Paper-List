@@ -33,6 +33,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.09, **DreamGaussian**: Generative Gaussian Splatting for Efficient 3D Content Creation, [Website](https://github.com/dreamgaussian/dreamgaussian) / [Github](https://github.com/dreamgaussian/dreamgaussian)
 - arXiv 2023.09, **D3Fields**: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [Website](https://robopil.github.io/d3fields/) / [Github](https://github.com/WangYixuan12/d3fields)
 - arXiv 2023.09, **GELLO**: A General, Low-Cost, and Intuitive Teleoperation Framework for Robot Manipulators, [Website](https://wuphilipp.github.io/gello_site/) / [arXiv](https://arxiv.org/abs/2309.13037)
 - arXiv 2023.09, Human-Assisted Continual Robot Learning with Foundation Models, [Website](https://sites.google.com/mit.edu/halp-robot-learning) / [arXiv](https://arxiv.org/abs/2309.14321)
