@@ -33,6 +33,7 @@ Papers:
 
 
 # Recent Random Papers
+- NIPS 2023, **SMPLer-X**: Scaling Up Expressive Human Pose and Shape Estimation, [Website](https://caizhongang.github.io/projects/SMPLer-X/) / [Github](https://github.com/caizhongang/SMPLer-X)
 - arXiv 2023.09, **MoDem-V2**: Visuo-Motor World Models for Real-World Robot Manipulation, [arXiv](https://arxiv.org/abs/2309.14236) / [Website](https://sites.google.com/view/modem-v2)
 - arXiv 2023.09, **DreamGaussian**: Generative Gaussian Splatting for Efficient 3D Content Creation, [Website](https://github.com/dreamgaussian/dreamgaussian) / [Github](https://github.com/dreamgaussian/dreamgaussian)
 - arXiv 2023.09, **D3Fields**: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [Website](https://robopil.github.io/d3fields/) / [Github](https://github.com/WangYixuan12/d3fields)
