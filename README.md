@@ -33,6 +33,7 @@ Papers:
 
 
 # Recent Random Papers
+- RSS 2023, SAM-RL: Sensing-Aware Model-Based Reinforcement Learning via Differentiable Physics-Based Simulation and Rendering, [arXiv](https://arxiv.org/abs/2210.15185) / [Website](https://sites.google.com/view/rss-sam-rl)
 - NIPS 2023, **SMPLer-X**: Scaling Up Expressive Human Pose and Shape Estimation, [Website](https://caizhongang.github.io/projects/SMPLer-X/) / [Github](https://github.com/caizhongang/SMPLer-X)
 - arXiv 2023.09, **MoDem-V2**: Visuo-Motor World Models for Real-World Robot Manipulation, [arXiv](https://arxiv.org/abs/2309.14236) / [Website](https://sites.google.com/view/modem-v2)
 - arXiv 2023.09, **DreamGaussian**: Generative Gaussian Splatting for Efficient 3D Content Creation, [Website](https://github.com/dreamgaussian/dreamgaussian) / [Github](https://github.com/dreamgaussian/dreamgaussian)
