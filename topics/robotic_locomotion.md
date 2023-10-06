@@ -1,4 +1,6 @@
 # Robotic Locomotion
+- arXiv 2023.09, CrossLoco: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning, [arXiv](https://arxiv.org/abs/2309.17046)
+- RA-L 2024, SLoMo: A General System for Legged Robot Motion Imitation from Casual Videos, [Website](https://slomo-www.github.io/website/) / [arXiv](https://arxiv.org/abs/2304.14389)
 - arXiv 2023.09, Extreme Parkour with Legged Robots, [Website](https://extreme-parkour.github.io/) / [arXiv](https://arxiv.org/abs/2309.14341)
 - arXiv 2023.09, Prompt a Robot to Walk with Large Language Models, [arXiv](https://arxiv.org/abs/2309.09969) / [Website](https://prompt2walk.github.io/)
 - arXiv 2023.08, Learning Vision-based Pursuit-Evasion Robot Policies, [Website](https://abajcsy.github.io/vision-based-pursuit/) / [arXiv](https://arxiv.org/abs/2308.16185)
