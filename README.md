@@ -22,6 +22,7 @@ Topics:
 
 Papers:
 - 2023
+  - [NeurIPS 2023](https://neurips.cc/virtual/2023/papers.html)
   - [CoRL 2023](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Conference#accept--oral-)
   - [ICML 2023](https://icml.cc/virtual/2023/papers.html?filter=titles)
   - [SIGGRAPH 2023](https://kesen.realtimerendering.com/sig2023.html)
