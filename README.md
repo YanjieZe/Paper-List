@@ -34,6 +34,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICCV 2023, End2End Multi-View Feature Matching with Differentiable Pose Optimization, [Website](https://barbararoessle.github.io/e2e_multi_view_matching/)
 - arXiv 2023.10, Aligning Text-to-Image Diffusion Models with Reward Backpropagation, [Website](https://align-prop.github.io/) / [Github](https://github.com/mihirp1998/AlignProp/)
 - NeurIPS 2023, **EDP**: Efficient Diffusion Policies for Offline Reinforcement Learning, [arXiv](https://arxiv.org/abs/2305.20081) / [Github](https://github.com/sail-sg/edp)
 - arXiv 2023.09, **See to Touch**: Learning Tactile Dexterity through Visual Incentives,  [arXiv](https://arxiv.org/abs/2309.12300) / [Website](https://see-to-touch.github.io/)
