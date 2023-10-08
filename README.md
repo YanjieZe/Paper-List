@@ -34,6 +34,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.09, **Text2Reward**: Automated Dense Reward Function Generation for Reinforcement Learning, [Website](https://text-to-reward.github.io/) / [arXiv](https://arxiv.org/abs/2309.11489)
 - ICCV 2023, End2End Multi-View Feature Matching with Differentiable Pose Optimization, [Website](https://barbararoessle.github.io/e2e_multi_view_matching/)
 - arXiv 2023.10, Aligning Text-to-Image Diffusion Models with Reward Backpropagation, [Website](https://align-prop.github.io/) / [Github](https://github.com/mihirp1998/AlignProp/)
 - NeurIPS 2023, **EDP**: Efficient Diffusion Policies for Offline Reinforcement Learning, [arXiv](https://arxiv.org/abs/2305.20081) / [Github](https://github.com/sail-sg/edp)
