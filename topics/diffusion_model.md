@@ -31,6 +31,7 @@
 ## Sampling
 - ICLR 2023 spotlight, **gDDIM**: Generalized denoising diffusion implicit models, [arXiv](https://arxiv.org/abs/2206.05564)
 - ICLR 2023, **DEIS**: Fast Sampling of Diffusion Models with Exponential Integrator, [arXiv](https://arxiv.org/abs/2204.13902) / [Github](https://github.com/qsh-zh/deis)
+- ICLR 2022, Progressive Distillation for Fast Sampling of Diffusion Models, [Openreview](https://openreview.net/forum?id=TIdIXIpzhoI) / [Github](https://github.com/google-research/google-research/tree/master/diffusion_distillation)
 - ICLR 2022 outstanding paper award, **Analytic-DPM**: an Analytic Estimate of the Optimal Reverse Variance in Diffusion Probabilistic Models
 , [arXiv](https://arxiv.org/abs/2201.06503)
 - NeurIPS 2022 oral, **DPM-Solver**: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps
