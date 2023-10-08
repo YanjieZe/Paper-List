@@ -7,6 +7,9 @@
 - ICLR 2023, **Prompt-to-Prompt** Image Editing with Cross-Attention Control, [arXiv](https://arxiv.org/abs/2208.01626) / [Website](https://prompt-to-prompt.github.io)
 - ICLR 2023, An Image is Worth One Word: Personalizing Text-to-Image Generation using **Textual Inversion**, [Website](https://textual-inversion.github.io/)
 
+## Applications
+- ICLR 2023, **MDM**: Human Motion Diffusion Model, [Website](https://guytevet.github.io/mdm-page/)
+- arXiv 2022.05, Diffusion-LM Improves Controllable Text Generation, [arXiv](https://arxiv.org/abs/2205.14217)
 
 
 ## High Resolution
