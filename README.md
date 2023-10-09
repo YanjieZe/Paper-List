@@ -10,9 +10,9 @@ Topics:
   - [Self-Supervised Learning](topics/self_supervised_learning.md)
   - [Large Language Model](topics/llm.md)
   - [Diffusion Model](topics/diffusion_model.md)
-  - [Gaussian Splatting](topics/gaussian_splatting.md)
   - [Diffusion Model for Robotics](topics/diffusion_robo.md)
-  - [3D Diffusion Model](topics/3d_diffusion.md)
+  - [Gaussian Splatting](topics/gaussian_splatting.md)
+  
 - Robotics
   - [Robotic Manipulation](topics/robotic_manipulation.md)
   - [Dexterous Manipulation](topics/dex_manipulation.md)
