@@ -26,6 +26,7 @@ Papers:
 - 2023
   - [NeurIPS 2023](https://neurips.cc/virtual/2023/papers.html)
   - [CoRL 2023](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Conference#accept--oral-)
+  - [ICCV 2023](https://openaccess.thecvf.com/ICCV2023?day=all)
   - [ICML 2023](https://icml.cc/virtual/2023/papers.html?filter=titles)
   - [SIGGRAPH 2023](https://kesen.realtimerendering.com/sig2023.html)
   - [RSS 2023](https://roboticsconference.org/program/papers/)
@@ -36,6 +37,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICCV 2023, **S3IM**: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields, [Website](https://madaoer.github.io/s3im_nerf/)
 - arXiv 2023.09, **Text2Reward**: Automated Dense Reward Function Generation for Reinforcement Learning, [Website](https://text-to-reward.github.io/) / [arXiv](https://arxiv.org/abs/2309.11489)
 - ICCV 2023, End2End Multi-View Feature Matching with Differentiable Pose Optimization, [Website](https://barbararoessle.github.io/e2e_multi_view_matching/)
 - arXiv 2023.10, Aligning Text-to-Image Diffusion Models with Reward Backpropagation, [Website](https://align-prop.github.io/) / [Github](https://github.com/mihirp1998/AlignProp/)
