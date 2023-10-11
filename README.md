@@ -12,6 +12,7 @@ Topics:
   - [Diffusion Model](topics/diffusion_model.md)
   - [Diffusion Model for Robotics](topics/diffusion_robo.md)
   - [Gaussian Splatting](topics/gaussian_splatting.md)
+  - [3D Generation](topics/3d_generation.md)
   
 - Robotics
   - [Robotic Manipulation](topics/robotic_manipulation.md)
