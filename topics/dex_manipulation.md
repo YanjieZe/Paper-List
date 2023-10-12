@@ -46,6 +46,7 @@
 - CoRL 2022, **DexPoint**: Generalizable Point Cloud Reinforcement Learning for Sim-to-Real Dexterous Manipulation, [Website](https://yzqin.github.io/dexpoint/) / [Github](https://github.com/yzqin/dexpoint-release)
 - arXiv 2022, **DIME**: Dexterous Imitation Made Easy: A Learning-Based Framework for Efficient Dexterous Manipulation, [Website](https://nyu-robot-learning.github.io/dime/) / [Code](https://github.com/NYU-robot-learning/DIME-Models)
 - CoRL 2021, **DexVIP**: Learning Dexterous Grasping with Human Hand Pose Priors from Video, [Website](https://vision.cs.utexas.edu/projects/dexvip-dexterous-grasp-pose-prior/)
+- IROS 2020, **DexRes**: Physics-Based Dexterous Manipulations with Estimated Hand Poses and Residual Reinforcement Learning, [arXiv](https://arxiv.org/abs/2008.03285) / [Website](https://sites.google.com/view/dexres/)
 - CoRL 2020, **PDDM**: Deep Dynamics Models for Learning Dexterous Manipulation, [Website](https://sites.google.com/view/pddm/) / [Code](https://github.com/google-research/pddm)
 - RSS 2018, **DAPG**: Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations, [Website](https://sites.google.com/view/deeprl-dexterous-manipulation) / [Code](https://github.com/aravindr93/hand_dapg)
 
