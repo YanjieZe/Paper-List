@@ -37,7 +37,7 @@ Papers:
 
 
 # Recent Random Papers
-- ICLR 2024 submission, TD-MPC2: Scalable, Robust World Models for Continuous Control, [Oepnreview](https://openreview.net/forum?id=Oxh5CstDJU)
+- ICLR 2024 submission, **TD-MPC2**: Scalable, Robust World Models for Continuous Control, [Oepnreview](https://openreview.net/forum?id=Oxh5CstDJU)
 - ICLR 2024 submission, **3D Diffuser Actor**: Multi-task 3D Robot Manipulation with Iterative Error Feedback, [Openreview](https://openreview.net/forum?id=UnsLGUCynE)
 - ICLR 2024 submission, **NeRFuser**: Diffusion Guided Multi-Task 3D Policy Learning, [Openreview](https://openreview.net/forum?id=8GmPLkO0oR)
 - arXiv 2023.10, **Foundation Reinforcement Learning**: towards Embodied Generalist Agents with Foundation Prior Assistance, [arXiv](https://arxiv.org/abs/2310.02635)
