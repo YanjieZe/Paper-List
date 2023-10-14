@@ -37,6 +37,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICLR 2024 submission, **3D Diffuser Actor**: Multi-task 3D Robot Manipulation with Iterative Error Feedback, [Openreview](https://openreview.net/forum?id=UnsLGUCynE)
 - ICLR 2024 submission, **NeRFuser**: Diffusion Guided Multi-Task 3D Policy Learning, [Openreview](https://openreview.net/forum?id=8GmPLkO0oR)
 - arXiv 2023.10, **Foundation Reinforcement Learning**: towards Embodied Generalist Agents with Foundation Prior Assistance, [arXiv](https://arxiv.org/abs/2310.02635)
 - ICCV 2023, **S3IM**: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields, [Website](https://madaoer.github.io/s3im_nerf/)
