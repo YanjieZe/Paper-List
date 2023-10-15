@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.10, Learning to Act from Actionless Video through Dense Correspondences, [Website](https://flow-diffusion.github.io/)
 - NIPS 2023, **CEC**: Cross-Episodic Curriculum for Transformer Agents, [Website](https://cec-agent.github.io/)
 - ICLR 2024 submission, **TD-MPC2**: Scalable, Robust World Models for Continuous Control, [Oepnreview](https://openreview.net/forum?id=Oxh5CstDJU)
 - ICLR 2024 submission, **3D Diffuser Actor**: Multi-task 3D Robot Manipulation with Iterative Error Feedback, [Openreview](https://openreview.net/forum?id=UnsLGUCynE)
