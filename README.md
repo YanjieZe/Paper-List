@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.10, **SuSIE**: Subgoal Synthesis via Image Editing, [Website](https://rail-berkeley.github.io/susie/)
 - arXiv 2023.10, **Universal Visual Decomposer**: Long-Horizon Manipulation Made Easy, [Website](https://zcczhang.github.io/UVD/)
 - arXiv 2023.10, Learning to Act from Actionless Video through Dense Correspondences, [Website](https://flow-diffusion.github.io/)
 - NIPS 2023, **CEC**: Cross-Episodic Curriculum for Transformer Agents, [Website](https://cec-agent.github.io/)
