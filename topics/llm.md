@@ -4,6 +4,7 @@
 ## LLM for decision making
 - arXiv 2023.10, **ITP**: Interactive Task Planning with Language Models, [Website](https://wuphilipp.github.io/itp_site/)
 - arXiv 2023.10, **VLP**: Video Language Planning, [Website](https://video-language-planning.github.io/)
+- arXiv 2023.08, **LAMP**: Language Reward Modulation for Pretraining Reinforcement Learning, [arXiv](https://arxiv.org/abs/2308.12270) / [Github](https://github.com/ademiadeniji/lamp)
 
 - arXiv 2023.04, **ARNOLD**: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes, [Website](https://arnold-benchmark.github.io/)
 - arXiv 2023.04, **LLM as A Robotic Brain**: Unifying Egocentric Memory and Control, [arXiv](https://arxiv.org/abs/2304.09349)
