@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.10, **LAMP**: Learn A Motion Pattern for Few-Shot-Based Video Generation, [Website](https://rq-wu.github.io/projects/LAMP/)
 - arXiv 2023.10, **4K4D**: Real-Time 4D View Synthesis at 4K Resolution, [Website](https://zju3dv.github.io/4k4d/)
 - arXiv 2023.10, **SuSIE**: Subgoal Synthesis via Image Editing, [Website](https://rail-berkeley.github.io/susie/)
 - arXiv 2023.10, **Universal Visual Decomposer**: Long-Horizon Manipulation Made Easy, [Website](https://zcczhang.github.io/UVD/)
