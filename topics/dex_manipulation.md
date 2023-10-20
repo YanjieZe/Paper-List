@@ -40,6 +40,7 @@
 
 
 ## Algorithm
+- arXiv 2023.10, **Eureka**: Human-Level Reward Design via Coding Large Language Models, [Website](https://eureka-research.github.io/) / [Github](https://github.com/eureka-research/Eureka)
 - CoRL 2023 oral, **KODex**: On the Utility of Koopman Operator Theory in Learning Dexterous Manipulation Skills, [arXiv](https://arxiv.org/abs/2303.13446) / [Website](https://sites.google.com/view/kodex-corl)
 - CoRL 2023, **DEFT**: Dexterous Fine-Tuning for Real-World Hand Policies, [OpenReview](https://openreview.net/forum?id=wH23nZpVTF6) / [Website](https://dexterousfinetuning.github.io/)
 - CoRL 2023, Dexterous Functional Grasping, [OpenReview](https://openreview.net/forum?id=93qz1k6_6h) / [Website](https://dexfunc.github.io/)
