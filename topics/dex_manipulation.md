@@ -27,9 +27,11 @@
 ## In-Hand Manipulation
 - CoRL 2023, General In-Hand Object Rotation with Vision and Touch, [OpenReview](https://openreview.net/pdf?id=RN00jfIV-X)
 - arXiv 2023, **Visual Dexterity**: In-hand Dexterous Manipulation from Depth, [Website](https://taochenshh.github.io/projects/visual-dexterity)
+- ICRA 2023, **DeXtreme**: Transfer of Agile In-hand Manipulation from Simulation to Reality, [Website](https://dextreme.org/)
 - RSS 2023, **Rotating without Seeing**: Towards In-hand Dexterity through Touch, [Website](https://touchdexterity.github.io/)
 - CoRL 2022, **HORA**: In-Hand Object Rotation via Rapid Motor Adaptation, [Website](https://haozhi.io/hora/) / [Github](https://github.com/HaozhiQi/hora/)
 - CoRL 2021, A System for General In-Hand Object Re-Orientation, [Website](https://taochenshh.github.io/projects/in-hand-reorientation)
+- [Website](https://dextreme.org/)
 
 ## Teleoperation
 - RSS 2022, **Robotic Telekinesis**: Learning a Robotic Hand Imitator by Watching Humans on Youtube. [Website](https://robotic-telekinesis.github.io/)
