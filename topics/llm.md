@@ -5,6 +5,7 @@
 - arXiv 2023.10, **Eureka**: Human-Level Reward Design via Coding Large Language Models, [Website](https://eureka-research.github.io/)
 - arXiv 2023.10, **ITP**: Interactive Task Planning with Language Models, [Website](https://wuphilipp.github.io/itp_site/)
 - arXiv 2023.10, **VLP**: Video Language Planning, [Website](https://video-language-planning.github.io/)
+- arXiv 2023.10, **VLM-RM**: Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning, [Website](https://sites.google.com/view/vlm-rm)
 - arXiv 2023.08, **LAMP**: Language Reward Modulation for Pretraining Reinforcement Learning, [arXiv](https://arxiv.org/abs/2308.12270) / [Github](https://github.com/ademiadeniji/lamp)
 
 - arXiv 2023.04, **ARNOLD**: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes, [Website](https://arnold-benchmark.github.io/)
