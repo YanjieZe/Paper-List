@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.03, **PLEX**: Making the Most of the Available Data for Robotic Manipulation Pretraining, [arXiv](https://arxiv.org/abs/2303.08789)
 - arXiv 2023.10.19, **SoM**: Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V, [Website](https://som-gpt4v.github.io/) / [arXiv](https://arxiv.org/abs/2310.11441)
 - arXiv 2023.10, **LAMP**: Learn A Motion Pattern for Few-Shot-Based Video Generation, [Website](https://rq-wu.github.io/projects/LAMP/)
 - arXiv 2023.10, **4K4D**: Real-Time 4D View Synthesis at 4K Resolution, [Website](https://zju3dv.github.io/4k4d/)
