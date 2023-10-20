@@ -1,7 +1,7 @@
 # Large Language Model (LLM)
 
 
-## LLM for decision making
+## LLM + decision making
 - arXiv 2023.10, **Eureka**: Human-Level Reward Design via Coding Large Language Models, [Website](https://eureka-research.github.io/)
 - arXiv 2023.10, **ITP**: Interactive Task Planning with Language Models, [Website](https://wuphilipp.github.io/itp_site/)
 - arXiv 2023.10, **VLP**: Video Language Planning, [Website](https://video-language-planning.github.io/)
@@ -16,3 +16,7 @@
 
 ## LLM
 - JMLR 2020, **T5**: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, [arXiv](https://arxiv.org/abs/1910.10683)
+
+## LLM + 3D
+- arXiv 2023.10, **3D-GPT**: 3D MODELING WITH LARGE LANGUAGE MODELS, [Website](https://chuny1.github.io/3DGPT/3dgpt.html)
+- arXiv 2023.07, **3D-LLM**: Injecting the 3D World into Large Language Models, [Website](https://vis-www.cs.umass.edu/3dllm/)
