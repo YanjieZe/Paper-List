@@ -10,6 +10,7 @@
 
 
 ## Novel Tasks
+- arXiv 2023.10, **DexCatch**: Learning to Catch Arbitrary Objects with Dexterous Hands, [arXiv](https://arxiv.org/abs/2310.08809) / [Website](https://dexcatch.github.io/)
 - CoRL 2023, **Sequential Dexterity**: Chaining Dexterous Policies for Long-Horizon Manipulation, [Website](https://sequential-dexterity.github.io/) / [Github](https://github.com/sequential-dexterity/SeqDex)
 - CoRL 2023, **RoboPianist**: Dexterous Piano Playing with Deep Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=HDYMjiukjn) / [Website](https://robopianist.github.io/)
 - CoRL 2023, **Dynamic Handover**: Throw and Catch with Bimanual Hands, [OpenReview](https://openreview.net/forum?id=3Z3Z3Z3Z3Z3) / [Website](https://binghao-huang.github.io/dynamic_handover/)
