@@ -19,7 +19,7 @@
 - JMLR 2020, **T5**: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, [arXiv](https://arxiv.org/abs/1910.10683)
 
 ## Vision and Language
-- 2023.10, Fuyu-8B: A Multimodal Architecture for AI Agents, [Website](https://www.adept.ai/blog/fuyu-8b)
+- 2023.10, **Fuyu-8B**: A Multimodal Architecture for AI Agents, [Website](https://www.adept.ai/blog/fuyu-8b)
 - arXiv 2023.10, Frozen Transformers in Language Models are Effective Visual Encoder Layers, [arXiv](https://arxiv.org/abs/2310.12973) / [Github](https://github.com/ziqipang/LM4VisualEncoding)
 - arXiv 2023.10, **SoM**: Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V, [Website](https://som-gpt4v.github.io/) / [arXiv](https://arxiv.org/abs/2310.11441)
 - arXiv 2023.10, **3D-GPT**: 3D MODELING WITH LARGE LANGUAGE MODELS, [Website](https://chuny1.github.io/3DGPT/3dgpt.html)
