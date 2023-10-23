@@ -25,4 +25,6 @@
 - NIPS 2023 oral, **LLaVA**: Large Language and Vision Assistant, [Website](https://llava-vl.github.io/)
 
 ## LLM
+- arXiv 2022.03, Training Compute-Optimal Large Language Models, [arXiv](https://arxiv.org/abs/2203.15556)
 - JMLR 2020, **T5**: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, [arXiv](https://arxiv.org/abs/1910.10683)
+- arXiv 2020.01, Scaling Laws for Neural Language Models, [arXiv](https://arxiv.org/abs/2001.08361)
