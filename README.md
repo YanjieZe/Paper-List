@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- CoRL 2023, **SAQ**: Action-Quantized Offline Reinforcement Learning for Robotic Skill Learning, [Website](https://saqrl.github.io/)
 - arXiv 2023.10, Mastering Robot Manipulation with Multimodal Prompts through Pretraining and Multi-task Fine-tuning, [arXiv](https://arxiv.org/abs/2310.09676)
 - arXiv 2023.03, **PLEX**: Making the Most of the Available Data for Robotic Manipulation Pretraining, [arXiv](https://arxiv.org/abs/2303.08789)
 - arXiv 2023.10, **LAMP**: Learn A Motion Pattern for Few-Shot-Based Video Generation, [Website](https://rq-wu.github.io/projects/LAMP/)
