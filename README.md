@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- NeurIPS 2022, **CodeRL**: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning, [arXiv](https://arxiv.org/abs/2207.01780) / [Github](https://github.com/salesforce/CodeRL)
 - arXiv 2023.10, **Robot Fine-Tuning Made Easy**: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning, [Website](https://robofume.github.io/)
 - CoRL 2023, **SAQ**: Action-Quantized Offline Reinforcement Learning for Robotic Skill Learning, [Website](https://saqrl.github.io/)
 - arXiv 2023.10, Mastering Robot Manipulation with Multimodal Prompts through Pretraining and Multi-task Fine-tuning, [arXiv](https://arxiv.org/abs/2310.09676)
