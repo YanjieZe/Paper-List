@@ -2,6 +2,7 @@
 
 
 ## LLM + decision making
+- ICLR 2024 submission, **GenBot**: Generative Simulation Empowers Automated Robotic Skill Learning at Scale, [OpenReview](https://openreview.net/forum?id=fZZ4ubttru) / [Website](https://generativesimulation.github.io/)
 - arXiv 2023.10, Language Models as **Zero-Shot Trajectory Generators**, [Website](https://www.robot-learning.uk/language-models-trajectory-generators) / [Github](https://github.com/kwonathan/language-models-trajectory-generators)
 - arXiv 2023.10, **RoboTool**: Creative Robot Tool Use with Large Language Models, [Website](https://creative-robotool.github.io/)
 - arXiv 2023.10, **Eureka**: Human-Level Reward Design via Coding Large Language Models, [Website](https://eureka-research.github.io/)
