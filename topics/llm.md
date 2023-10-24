@@ -2,6 +2,7 @@
 
 
 ## LLM + decision making
+- arXiv 2023.10, Language Models as **Zero-Shot Trajectory Generators**, [Website](https://www.robot-learning.uk/language-models-trajectory-generators) / [Github](https://github.com/kwonathan/language-models-trajectory-generators)
 - arXiv 2023.10, **RoboTool**: Creative Robot Tool Use with Large Language Models, [Website](https://creative-robotool.github.io/)
 - arXiv 2023.10, **Eureka**: Human-Level Reward Design via Coding Large Language Models, [Website](https://eureka-research.github.io/)
 - arXiv 2023.10, **ITP**: Interactive Task Planning with Language Models, [Website](https://wuphilipp.github.io/itp_site/)
