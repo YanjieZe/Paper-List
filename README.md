@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.10, **EquivAct**: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation, [Website](https://equivact.github.io/)
 - NeurIPS 2022, **CodeRL**: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning, [arXiv](https://arxiv.org/abs/2207.01780) / [Github](https://github.com/salesforce/CodeRL)
 - arXiv 2023.10, **Robot Fine-Tuning Made Easy**: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning, [Website](https://robofume.github.io/)
 - CoRL 2023, **SAQ**: Action-Quantized Offline Reinforcement Learning for Robotic Skill Learning, [Website](https://saqrl.github.io/)
