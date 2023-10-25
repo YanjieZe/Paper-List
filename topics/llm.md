@@ -10,7 +10,7 @@
 - arXiv 2023.10, **VLP**: Video Language Planning, [Website](https://video-language-planning.github.io/)
 - arXiv 2023.10, **VLM-RM**: Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning, [Website](https://sites.google.com/view/vlm-rm)
 - arXiv 2023.08, **LAMP**: Language Reward Modulation for Pretraining Reinforcement Learning, [arXiv](https://arxiv.org/abs/2308.12270) / [Github](https://github.com/ademiadeniji/lamp)
-
+- CoRL 2023 oral, **Language to Rewards** for Robotic Skill Synthesis, [Website](https://language-to-reward.github.io/)
 - arXiv 2023.04, **ARNOLD**: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes, [Website](https://arnold-benchmark.github.io/)
 - arXiv 2023.04, **LLM as A Robotic Brain**: Unifying Egocentric Memory and Control, [arXiv](https://arxiv.org/abs/2304.09349)
 - NIPS 2022 oral, Pre-Trained Language Models for Interactive Decision-Making, [Website](https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/)
