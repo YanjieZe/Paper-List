@@ -13,6 +13,7 @@
 
 
 ## High Resolution
+- arXiv 2023.10, Matryoshka Diffusion Models, [arXiv](https://arxiv.org/abs/2310.15111)
 - arXiv 2023.10, **Latent Consistency Models**: Synthesizing High-Resolution Images with Few-step Inference, [Website](https://latent-consistency-models.github.io/)
 - arXiv 2022.10, **Imagen Video**: High Definition Video Generation with Diffusion Models, [arXiv](https://arxiv.org/abs/2210.02303) / [Website](https://imagen.research.google/video/)
 - NIPS 2022, **k-diffusion**: Elucidating the Design Space of Diffusion-Based Generative Models, [arXiv](https://arxiv.org/abs/2206.00364) / [Github](https://github.com/crowsonkb/k-diffusion)
