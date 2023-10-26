@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.10, **SAM-CLIP**: Merging Vision Foundation Models towards Semantic and Spatial Understanding, [arXiv](https://arxiv.org/abs/2310.15308)
 - arXiv 2023.10, **TD-MPC2**: Scalable, Robust World Models for Continuous Control, [arXiv](https://arxiv.org/abs/2310.16828) / [Github](https://github.com/nicklashansen/tdmpc2)
 - arXiv 2023.10, **EquivAct**: SIM(3)-Equivariant Visuomotor Policies beyond Rigid Object Manipulation, [Website](https://equivact.github.io/)
 - NeurIPS 2022, **CodeRL**: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning, [arXiv](https://arxiv.org/abs/2207.01780) / [Github](https://github.com/salesforce/CodeRL)
