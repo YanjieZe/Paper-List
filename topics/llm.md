@@ -1,7 +1,7 @@
 # Large Language Model (LLM)
 
 
-## LLM + decision making
+## LLM + Decision Making
 - ICLR 2024 submission, **GenBot**: Generative Simulation Empowers Automated Robotic Skill Learning at Scale, [OpenReview](https://openreview.net/forum?id=fZZ4ubttru) / [Website](https://generativesimulation.github.io/)
 - arXiv 2023.10, Language Models as **Zero-Shot Trajectory Generators**, [Website](https://www.robot-learning.uk/language-models-trajectory-generators) / [Github](https://github.com/kwonathan/language-models-trajectory-generators)
 - arXiv 2023.10, **RoboTool**: Creative Robot Tool Use with Large Language Models, [Website](https://creative-robotool.github.io/)
@@ -9,24 +9,36 @@
 - arXiv 2023.10, **ITP**: Interactive Task Planning with Language Models, [Website](https://wuphilipp.github.io/itp_site/)
 - arXiv 2023.10, **VLP**: Video Language Planning, [Website](https://video-language-planning.github.io/)
 - arXiv 2023.10, **VLM-RM**: Vision-Language Models are Zero-Shot Reward Models for Reinforcement Learning, [Website](https://sites.google.com/view/vlm-rm)
+- arXiv 2023.08, Learning to **Model the World** with Language, [Website](https://dynalang.github.io/) / [arXiv](https://arxiv.org/abs/2308.01399)
 - arXiv 2023.08, **LAMP**: Language Reward Modulation for Pretraining Reinforcement Learning, [arXiv](https://arxiv.org/abs/2308.12270) / [Github](https://github.com/ademiadeniji/lamp)
-- CoRL 2023 oral, **Language to Rewards** for Robotic Skill Synthesis, [Website](https://language-to-reward.github.io/)
+- arXiv 2023.07, From Word Models to World Models: Translating from Natural Language to the Probabilistic Language of Thought, [arXiv](https://arxiv.org/abs/2306.12672)
+- arXiv 2023.07, **GRIF**: Goal Representations for Instruction Following: A Semi-Supervised Language Interface to Control, [Website](https://rail-berkeley.github.io/grif/),
+- arXiv 2023.06, **SayTap**: Language to Quadrupedal Locomotion, [Website](https://saytap.github.io/)
+- arXiv 2023.05, **Voyager**: An Open-Ended Embodied Agent with Large Language Models, [Website](https://voyager.minedojo.org/)
 - arXiv 2023.04, **ARNOLD**: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes, [Website](https://arnold-benchmark.github.io/)
 - arXiv 2023.04, **LLM as A Robotic Brain**: Unifying Egocentric Memory and Control, [arXiv](https://arxiv.org/abs/2304.09349)
+- CoRL 2023 oral, **VoxPoser**: Composable 3D Value Maps for Robotic Manipulation with Language Models, [Website](https://voxposer.github.io/)
+- CoRL 2023 oral, **Language to Rewards** for Robotic Skill Synthesis, [Website](https://language-to-reward.github.io/)
+- CoRL 2023, **Scaling Up and Distilling Down**: Language-Guided Robot Skill Acquisition, [Website](https://www.cs.columbia.edu/~huy/scalingup/)
+- RSS 2023 best paper nominee, **Voltron**: Language-Driven Representation Learning for Robotics, [Website](https://sites.google.com/view/voltron-robotics) / [Github](https://github.com/siddk/voltron-robotics)
+- arXiv 2022.10, **Interactive Language**: Talking to Robots in Real Time, [Website](https://interactive-language.github.io/) / [Github](https://github.com/google-research/language-table)
+- arXiv 2022.01, Can Wikipedia Help Offline Reinforcement Learning? [OpenReview](https://openreview.net/forum?id=eHrqmewX1B-) / [Github](https://github.com/machelreid/can-wikipedia-help-offline-rl)
 - NIPS 2022 oral, Pre-Trained Language Models for Interactive Decision-Making, [Website](https://shuangli-project.github.io/Pre-Trained-Language-Models-for-Interactive-Decision-Making/)
 - ICML 2022, **Language Models as Zero-Shot Planners**: Extracting Actionable Knowledge for Embodied Agents, [Website](https://wenlong.page/language-planner/)
 - CoRL 2022 oral, **Say-Can**: Do As I Can, Not As I Say: Grounding Language in Robotic Affordances, [Website](https://say-can.github.io/)
-- arXiv 2022.01, Can Wikipedia Help Offline Reinforcement Learning? [OpenReview](https://openreview.net/forum?id=eHrqmewX1B-) / [Github](https://github.com/machelreid/can-wikipedia-help-offline-rl)
 
-## Vision and Language
+## LLM + Multi Modality
 - 2023.10, **Fuyu-8B**: A Multimodal Architecture for AI Agents, [Website](https://www.adept.ai/blog/fuyu-8b)
 - arXiv 2023.10, Frozen Transformers in Language Models are Effective Visual Encoder Layers, [arXiv](https://arxiv.org/abs/2310.12973) / [Github](https://github.com/ziqipang/LM4VisualEncoding)
 - arXiv 2023.10, **SoM**: Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V, [Website](https://som-gpt4v.github.io/) / [arXiv](https://arxiv.org/abs/2310.11441)
 - arXiv 2023.10, **3D-GPT**: 3D MODELING WITH LARGE LANGUAGE MODELS, [Website](https://chuny1.github.io/3DGPT/3dgpt.html)
-- NIPS 2023, **3D-LLM**: Injecting the 3D World into Large Language Models, [Website](https://vis-www.cs.umass.edu/3dllm/)
+- NIPS 2023 spotlight, **3D-LLM**: Injecting the 3D World into Large Language Models, [Website](https://vis-www.cs.umass.edu/3dllm/)
 - NIPS 2023 oral, **LLaVA**: Large Language and Vision Assistant, [Website](https://llava-vl.github.io/)
+- ICCV 2023, Can Language Models Learn to Listen? [Website](https://people.eecs.berkeley.edu/~evonne_ng/projects/text2listen/)
 
 ## LLM
+- arXiv 2023.07, **Retentive Network**: A Successor to Transformer for Large Language Models, [arXiv](https://arxiv.org/abs/2307.08621) / [Github](https://github.com/microsoft/unilm)
 - arXiv 2022.03, Training Compute-Optimal Large Language Models, [arXiv](https://arxiv.org/abs/2203.15556)
+- arXiv 2023.02, LLaMA: Open and Efficient Foundation Language Models, [arXiv](https://arxiv.org/abs/2302.13971)
 - JMLR 2020, **T5**: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer, [arXiv](https://arxiv.org/abs/1910.10683)
 - arXiv 2020.01, Scaling Laws for Neural Language Models, [arXiv](https://arxiv.org/abs/2001.08361)
