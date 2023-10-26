@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2022.04, Simplicial Embeddings in Self-Supervised Learning and Downstream Classification, [arXiv](https://arxiv.org/abs/2204.00616)
 - arXiv 2023.10, **SparseDFF**: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation, [arXiv](https://arxiv.org/abs/2310.16838)
 - arXiv 2023.10, **SAM-CLIP**: Merging Vision Foundation Models towards Semantic and Spatial Understanding, [arXiv](https://arxiv.org/abs/2310.15308)
 - arXiv 2023.10, **TD-MPC2**: Scalable, Robust World Models for Continuous Control, [arXiv](https://arxiv.org/abs/2310.16828) / [Github](https://github.com/nicklashansen/tdmpc2)
