@@ -1,4 +1,5 @@
 # 3D Generation
+- arXiv 2023.10, **HyperFields**: Towards Zero-Shot Generation of NeRFs from Text, [Website](https://threedle.github.io/hyperfields/) / [arXiv](https://arxiv.org/abs/2310.17075)
 - arXiv 2023.10, **Zero123++**: a Single Image to Consistent Multi-view Diffusion Base Model, [Github](https://github.com/SUDO-AI-3D/zero123plus) / [arXiv](https://arxiv.org/abs/2310.15110)
 - ICLR 2024 submission, **Instant3D**: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model, [Website](https://instant-3d.github.io/)
 - ICLR 2024 submission, **LRM**: Large Reconstruction Model for Single Image to 3D, [Website](https://scalei3d.github.io/LRM/)
