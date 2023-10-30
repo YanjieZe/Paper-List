@@ -3,6 +3,7 @@
 
 ## LLM + Decision Making
 - arXiv 2023.10, **Gen2Sim**: Scaling up Robot Learning in Simulation with Generative Models, [arXiv](https://arxiv.org/abs/2310.18308) / [Website](https://gen2sim.github.io/)
+- arXiv 2023.10, **GenSim**: Generating Robotic Simulation Tasks via Large Language Models, [Website](https://liruiw.github.io/gensim/)
 - arXiv 2023.10, **LLaRP**: Large Language Models as Generalizable Policies for Embodied Tasks, [Website](https://llm-rl.github.io/)
 - ICLR 2024 submission, **GenBot**: Generative Simulation Empowers Automated Robotic Skill Learning at Scale, [OpenReview](https://openreview.net/forum?id=fZZ4ubttru) / [Website](https://generativesimulation.github.io/)
 - arXiv 2023.10, Language Models as **Zero-Shot Trajectory Generators**, [Website](https://www.robot-learning.uk/language-models-trajectory-generators) / [Github](https://github.com/kwonathan/language-models-trajectory-generators)
