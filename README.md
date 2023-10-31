@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.10, Explaining the Decisions of Deep Policy Networks for Robotic Manipulations, [arXiv](https://arxiv.org/abs/2310.19432)
 - ICML 2022, The **primacy bias** in deep reinforcement learning, [arXiv](https://arxiv.org/abs/2205.07802)
 - ICML 2023 oral, The **dormant neuron** phenomenon in deep reinforcement learning, [arXiv](https://arxiv.org/abs/2302.12902)
 - arXiv 2022.04, Simplicial Embeddings in Self-Supervised Learning and Downstream Classification, [arXiv](https://arxiv.org/abs/2204.00616)
