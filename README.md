@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- CoRL 2023 workshop, **FMB**: a Functional Manipulation Benchmark for Generalizable Robotic Learning, [OpenReview](https://openreview.net/pdf?id=055oRimwls)
 - 2023.10, Non-parametric regression for robot learning on manifolds, [arXiv](https://arxiv.org/abs/2310.19561)
 - IROS 2021, Explaining the Decisions of Deep Policy Networks for Robotic Manipulations, [arXiv](https://arxiv.org/abs/2310.19432)
 - ICML 2022, The **primacy bias** in deep reinforcement learning, [arXiv](https://arxiv.org/abs/2205.07802)
