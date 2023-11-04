@@ -18,6 +18,7 @@
 
 
 ## Tactile
+- arXiv 2023.11, **M3L**: The Power of the Senses: Generalizable Manipulation from Vision and Touch through Masked Multimodal Learning, [Website](https://sferrazza.cc/m3l_site/)
 - CoRL 2023, General In-Hand Object Rotation with Vision and Touch, [OpenReview](https://openreview.net/pdf?id=RN00jfIV-X)
 - ICRA 2023, **TactoFind**: A Tactile Only System for Object Retrieval, [Website](https://taochenshh.github.io/projects/tactofind#)
 - arXiv 2023, **Dexterity from Touch**: Self-Supervised Pre-Training of Tactile Representations with Robotic Play, [Website](https://tactile-dexterity.github.io/)
