@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- CoRL 2023 best system paper, **RoboCook**: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools, [Website](https://hshi74.github.io/robocook/)
 - CoRL 2023, Learning to Design and Use Tools for Robotic Manipulation, [Website](https://robotic-tool-design.github.io/)
 - arXiv 2023.10, Learning to (Learn at Test Time), [arXiv](https://arxiv.org/abs/2310.13807) / [Github](https://github.com/test-time-training/mttt)
 - CoRL 2023 workshop, **FMB**: a Functional Manipulation Benchmark for Generalizable Robotic Learning, [OpenReview](https://openreview.net/pdf?id=055oRimwls) / [Website](https://sites.google.com/view/manipulationbenchmark)
