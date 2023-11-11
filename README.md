@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICLR 2024 submission, Differentiable Trajectory Optimization as a Policy Class for Reinforcement and Imitation Learning, [OpenReview](https://openreview.net/forum?id=HL5P4H8eO2)
 - CoRL 2023 best system paper, **RoboCook**: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools, [Website](https://hshi74.github.io/robocook/)
 - CoRL 2023, Learning to Design and Use Tools for Robotic Manipulation, [Website](https://robotic-tool-design.github.io/)
 - arXiv 2023.10, Learning to (Learn at Test Time), [arXiv](https://arxiv.org/abs/2310.13807) / [Github](https://github.com/test-time-training/mttt)
