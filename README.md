@@ -24,7 +24,7 @@ Topics:
 
 Papers:
 - 2023
-  - [ICLR 2024 submission](https://openreview.net/group?id=ICLR.cc/2024/Conference)
+  - [ICLR 2024 submission](https://openreview.net/group?id=ICLR.cc/2024/Conference) / [scores](https://guoqiangwei.xyz/iclr2024_stats/iclr2024_submissions.html)
   - [NeurIPS 2023](https://neurips.cc/virtual/2023/papers.html)
   - [CoRL 2023](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Conference#accept--oral-)
   - [ICCV 2023](https://openaccess.thecvf.com/ICCV2023?day=all)
@@ -38,7 +38,8 @@ Papers:
 
 
 # Recent Random Papers
-- ICLR 2024 submission, Differentiable Trajectory Optimization as a Policy Class for Reinforcement and Imitation Learning, [OpenReview](https://openreview.net/forum?id=HL5P4H8eO2)
+- ICLR 2024 submission, Generalization in diffusion models arises from geometry-adaptive harmonic representation, [OpenReview](https://openreview.net/forum?id=ANvmVS2Yr0)
+- ICLR 2024 submission, **DiffTOP**: Differentiable Trajectory Optimization as a Policy Class for Reinforcement and Imitation Learning, [OpenReview](https://openreview.net/forum?id=HL5P4H8eO2)
 - CoRL 2023 best system paper, **RoboCook**: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools, [Website](https://hshi74.github.io/robocook/)
 - CoRL 2023, Learning to Design and Use Tools for Robotic Manipulation, [Website](https://robotic-tool-design.github.io/)
 - arXiv 2023.10, Learning to (Learn at Test Time), [arXiv](https://arxiv.org/abs/2310.13807) / [Github](https://github.com/test-time-training/mttt)
