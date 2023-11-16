@@ -42,6 +42,7 @@
 
 ## Algorithm
 - arXiv 2023.10, **Eureka**: Human-Level Reward Design via Coding Large Language Models, [Website](https://eureka-research.github.io/) / [Github](https://github.com/eureka-research/Eureka)
+- NIPS 2023, **GraspGF**: Learning Score-based Grasping Primitive for Human-assisting Dexterous Grasping, [arXiv](https://arxiv.org/abs/2309.06038) / [Website](https://sites.google.com/view/graspgf)
 - CoRL 2023 oral, **Diff-LfD**: Contact-aware Model-based Learning from Visual Demonstration for Robotic Manipulation via Differentiable Physics-based Simulation and Rendering, [Website](https://sites.google.com/view/diff-lfd)
 - CoRL 2023 oral, **KODex**: On the Utility of Koopman Operator Theory in Learning Dexterous Manipulation Skills, [arXiv](https://arxiv.org/abs/2303.13446) / [Website](https://sites.google.com/view/kodex-corl)
 - CoRL 2023, **DEFT**: Dexterous Fine-Tuning for Real-World Hand Policies, [OpenReview](https://openreview.net/forum?id=wH23nZpVTF6) / [Website](https://dexterous-finetuning.github.io/)
