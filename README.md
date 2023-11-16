@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICLR 2023 oral, **Extreme Q-Learning**: MaxEnt RL without Entropy, [Website](https://div99.github.io/XQL/)
 - ICRA 2024 submission, Visual Manipulation with Legs, [Website](https://hacleg.github.io/)
 - ICLR 2024 submission, Generalization in diffusion models arises from geometry-adaptive harmonic representation, [OpenReview](https://openreview.net/forum?id=ANvmVS2Yr0)
 - ICLR 2024 submission, **DiffTOP**: Differentiable Trajectory Optimization as a Policy Class for Reinforcement and Imitation Learning, [OpenReview](https://openreview.net/forum?id=HL5P4H8eO2)
