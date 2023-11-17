@@ -1,4 +1,6 @@
 # Robotic Locomotion
+- arXiv 2023.11, **GOAT**: GO to Any Thing, [Website](https://theophilegervet.github.io/projects/goat/)
+- ICRA 2024 submission, Visual **Manipulation with Legs**, [Website](https://hacleg.github.io/)
 - arXiv 2023.10, **Grow Your Limits**: Continuous Improvement with Real-World RL for Robotic Locomotion, [Website](https://github.com/realquantumcookie/APRL) / [arXiv](https://arxiv.org/abs/2310.17634)
 - arXiv 2023.09, Learning Vision-Based Bipedal Locomotion for Challenging Terrain, [arXiv](https://arxiv.org/abs/2309.14594) / [Twitter](https://x.com/AlanPaulFern1/status/1709693615973265733?s=20)
 - arXiv 2023.10, **Generalized Animal Imitator**: Agile Locomotion with Versatile Motion Prior, [Website](https://rchalyang.github.io/VIM/) / [arXiv](https://arxiv.org/abs/2310.01408)
