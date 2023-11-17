@@ -17,6 +17,7 @@
 
 
 ## Offline RL
+- ICLR 2023, **X-QL**: Extreme Q-Learning: MaxEnt RL without Entropy, [Website](https://div99.github.io/XQL/)
 - ICLR 2023, **Diffusion-QL**: Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=AHvFDPi-FA)
 - ICLR 2022, **IQL**: Offline Reinforcement Learning with Implicit Q-Learning, [arXiv](https://arxiv.org/abs/2110.06169)
 - NIPS 2021, **Decision Transformer**: Reinforcement Learning via Sequence Modeling, [Website](https://sites.google.com/berkeley.edu/decision-transformer)
