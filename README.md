@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- NIPS 2023 workshop, Vision-Language Models Provide Promptable Representations for Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=AVg8WnI5ba)
 - ICLR 2023 oral, **Extreme Q-Learning**: MaxEnt RL without Entropy, [Website](https://div99.github.io/XQL/)
 - ICRA 2024 submission, Visual Manipulation with Legs, [Website](https://hacleg.github.io/)
 - ICLR 2024 submission, Generalization in diffusion models arises from geometry-adaptive harmonic representation, [OpenReview](https://openreview.net/forum?id=ANvmVS2Yr0)
