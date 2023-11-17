@@ -17,9 +17,10 @@
 
 
 ## Offline RL
-- ICLR 2023, Diffusion-QL: [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://openreview.net/forum?id=AHvFDPi-FA)
-- NIPS 2021, [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://sites.google.com/berkeley.edu/decision-transformer)
-- NIPS 2020, CQL: [Conservative Q-Learning for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html)
+- ICLR 2023, **Diffusion-QL**: Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=AHvFDPi-FA)
+- ICLR 2022, **IQL**: Offline Reinforcement Learning with Implicit Q-Learning, [arXiv](https://arxiv.org/abs/2110.06169)
+- NIPS 2021, **Decision Transformer**: Reinforcement Learning via Sequence Modeling, [Website](https://sites.google.com/berkeley.edu/decision-transformer)
+- NIPS 2020, **CQL**: Conservative Q-Learning for Offline Reinforcement Learning, [Website](https://proceedings.neurips.cc/paper/2020/hash/0d2b2061826a5df3221116a5085a6052-Abstract.html)
 - ICLR 2021 rejection, D4RL: [Datasets for Deep Data-Driven Reinforcement Learning](https://sites.google.com/view/d4rl/home)
 
 ## Imitation Learning
