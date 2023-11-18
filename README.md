@@ -10,7 +10,7 @@ Topics:
   - [Self-Supervised Learning](topics/self_supervised_learning.md)
   - [Large Language Model](topics/llm.md)
   - [Diffusion Model](topics/diffusion_model.md)
-  - [Diffusion Model for Robotics](topics/diffusion_robo.md)
+  - [Diffusion Model for Robotics](topics/diffusion_robo.md) / [survey](https://github.com/apexrl/diff4rlsurvey)
   - [Gaussian Splatting](topics/gaussian_splatting.md)
   - [3D Generation](topics/3d_generation.md)
   
