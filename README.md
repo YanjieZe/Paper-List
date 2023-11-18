@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICLR 2024 submission, **Privileged Sensing** Scaffolds Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=EpVe8jAjdx)
 - ICLR 2024 submission, **SafeDiffuser**: Safe Planning with Diffusion Probabilistic Models, [arXiv](https://arxiv.org/abs/2306.00148) / [Website](https://safediffuser.github.io/safediffuser/)
 - NIPS 2023 workshop, Vision-Language Models Provide Promptable Representations for Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=AVg8WnI5ba)
 - ICLR 2023 oral, **Extreme Q-Learning**: MaxEnt RL without Entropy, [Website](https://div99.github.io/XQL/)
