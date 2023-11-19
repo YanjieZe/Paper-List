@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.09, Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning, [arXiv](https://arxiv.org/abs/2309.16984)
 - ICLR 2024 submission, Improved Techniques for Training Consistency Models, [OpenReview](https://openreview.net/forum?id=WNzy9bRDvG) / [arXiv](https://arxiv.org/abs/2310.14189)
 - ICLR 2024 submission, **Privileged Sensing** Scaffolds Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=EpVe8jAjdx)
 - ICLR 2024 submission, **SafeDiffuser**: Safe Planning with Diffusion Probabilistic Models, [arXiv](https://arxiv.org/abs/2306.00148) / [Website](https://safediffuser.github.io/safediffuser/)
