@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- NIPS 2021, **Stochastic Solutions** for Linear Inverse Problems using the Prior Implicit in a Denoiser, [arXiv](https://arxiv.org/abs/2007.13640)
 - ICLR 2024 submission, Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=v8jdwkUNXb) / [arXiv](https://arxiv.org/abs/2309.16984)
 - ICLR 2024 submission, Improved Techniques for Training Consistency Models, [OpenReview](https://openreview.net/forum?id=WNzy9bRDvG) / [arXiv](https://arxiv.org/abs/2310.14189)
 - ICLR 2024 submission, **Privileged Sensing** Scaffolds Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=EpVe8jAjdx)
