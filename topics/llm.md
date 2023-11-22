@@ -2,6 +2,7 @@
 
 
 ## LLM + Decision Making
+- arXiv 2023.11, **GPT-4V(ision) for Robotics**: Multimodal Task Planning from Human Demonstration, [Website](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)
 - arXiv 2023.10, **RoboGen**: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation, [Website](https://robogen-ai.github.io/) / [Github](https://github.com/Genesis-Embodied-AI/RoboGen)
 - arXiv 2023.10, **Gen2Sim**: Scaling up Robot Learning in Simulation with Generative Models, [arXiv](https://arxiv.org/abs/2310.18308) / [Website](https://gen2sim.github.io/)
 - arXiv 2023.10, **GenSim**: Generating Robotic Simulation Tasks via Large Language Models, [Website](https://liruiw.github.io/gensim/)
