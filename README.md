@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- RSS 2018, **Asymmetric Actor Critic** for Image-Based Robot Learning, [arXiv](https://arxiv.org/abs/1710.06542)
 - ICLR 2022, **RvS**: What is Essential for Offline RL via Supervised Learning?, [arXiv](https://arxiv.org/abs/2112.10751)
 - NIPS 2021, **Stochastic Solutions** for Linear Inverse Problems using the Prior Implicit in a Denoiser, [arXiv](https://arxiv.org/abs/2007.13640)
 - ICLR 2024 submission, Consistency Models as a Rich and Efficient Policy Class for Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=v8jdwkUNXb) / [arXiv](https://arxiv.org/abs/2309.16984)
