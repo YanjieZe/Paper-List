@@ -1,4 +1,5 @@
 # Gaussian Splatting
+- arXiv 2023.11, **SuGaR**: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering, [arXiv](https://arxiv.org/abs/2311.12775)
 - arXiv 2023.11, **PhysGaussian**: Physics-Integrated 3D Gaussians for Generative Dynamics, [Website](https://xpandora.github.io/PhysGaussian/)
 - arXiv 2023.10, Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting, [arXiv](https://arxiv.org/abs/2310.10642)
 - arXiv 2023.10, **GaussianDreamer**: Fast Generation from Text to 3D Gaussian Splatting with Point Cloud Priors, [Website](https://taoranyi.com/gaussiandreamer/) / [arXIv](https://arxiv.org/abs/2310.08529)
