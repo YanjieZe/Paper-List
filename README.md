@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICLR 2024 submission, **RLIF**: Interactive Imitation Learning as Reinforcement Learning, [Website](https://rlif-page.github.io/) / [arXiv](https://arxiv.org/abs/2311.12996)
 - CVPR 2024 submission, **PIE-NeRF**: Physics-based Interactive Elastodynamics with NeRF, [arXiv](https://arxiv.org/abs/2311.13099)
 - RSS 2018, **Asymmetric Actor Critic** for Image-Based Robot Learning, [arXiv](https://arxiv.org/abs/1710.06542)
 - ICLR 2022, **RvS**: What is Essential for Offline RL via Supervised Learning?, [arXiv](https://arxiv.org/abs/2112.10751)
