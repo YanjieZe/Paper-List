@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- CoRL 2023 best paper, **Distilled Feature Fields** Enable Few-Shot Language-Guided Manipulation, [Website](https://f3rm.github.io/)
 - ICLR 2024 submission, **RLIF**: Interactive Imitation Learning as Reinforcement Learning, [Website](https://rlif-page.github.io/) / [arXiv](https://arxiv.org/abs/2311.12996)
 - CVPR 2024 submission, **PIE-NeRF**: Physics-based Interactive Elastodynamics with NeRF, [arXiv](https://arxiv.org/abs/2311.13099)
 - RSS 2018, **Asymmetric Actor Critic** for Image-Based Robot Learning, [arXiv](https://arxiv.org/abs/1710.06542)
