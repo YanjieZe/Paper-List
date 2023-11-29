@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- NIPS 2023, **Provable Guarantees for Generative Behavior Cloning**: Bridging Low-Level Stability and High-Level Behavior, [OpenReview](https://openreview.net/forum?id=PhFVF0gwid)
 - CoRL 2023 best paper, **Distilled Feature Fields** Enable Few-Shot Language-Guided Manipulation, [Website](https://f3rm.github.io/)
 - ICLR 2024 submission, **RLIF**: Interactive Imitation Learning as Reinforcement Learning, [Website](https://rlif-page.github.io/) / [arXiv](https://arxiv.org/abs/2311.12996)
 - CVPR 2024 submission, **PIE-NeRF**: Physics-based Interactive Elastodynamics with NeRF, [arXiv](https://arxiv.org/abs/2311.13099)
