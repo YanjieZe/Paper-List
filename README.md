@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2023 best demo award, **Diffusion Illusions**: Hiding Images in Plain Sight, [Website](https://diffusionillusions.com/)
 - CVPR 2024 submission, Do text-free diffusion models learn discriminative visual representations? [Website](https://mgwillia.github.io/diffssl/)
 - CVPR 2024 submission, **Visual Anagrams**: Synthesizing Multi-View Optical Illusions with Diffusion Models, [Website](https://dangeng.github.io/visual_anagrams/)
 - NIPS 2023, **Provable Guarantees for Generative Behavior Cloning**: Bridging Low-Level Stability and High-Level Behavior, [OpenReview](https://openreview.net/forum?id=PhFVF0gwid)
