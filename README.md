@@ -38,6 +38,8 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, Do text-free diffusion models learn discriminative visual representations? [Website](https://mgwillia.github.io/diffssl/)
+- CVPR 2024 submission, **Visual Anagrams**: Synthesizing Multi-View Optical Illusions with Diffusion Models, [Website](https://dangeng.github.io/visual_anagrams/)
 - NIPS 2023, **Provable Guarantees for Generative Behavior Cloning**: Bridging Low-Level Stability and High-Level Behavior, [OpenReview](https://openreview.net/forum?id=PhFVF0gwid)
 - CoRL 2023 best paper, **Distilled Feature Fields** Enable Few-Shot Language-Guided Manipulation, [Website](https://f3rm.github.io/)
 - ICLR 2024 submission, **RLIF**: Interactive Imitation Learning as Reinforcement Learning, [Website](https://rlif-page.github.io/) / [arXiv](https://arxiv.org/abs/2311.12996)
