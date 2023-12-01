@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **Animate Anyone**: Consistent and Controllable Image-to-Video Synthesis for Character Animation, [Website](https://humanaigc.github.io/animate-anyone/) / [Github](https://github.com/HumanAIGC/AnimateAnyone)
 - CVPR 2023 best demo award, **Diffusion Illusions**: Hiding Images in Plain Sight, [Website](https://diffusionillusions.com/)
 - CVPR 2024 submission, Do text-free diffusion models learn discriminative visual representations? [Website](https://mgwillia.github.io/diffssl/)
 - CVPR 2024 submission, **Visual Anagrams**: Synthesizing Multi-View Optical Illusions with Diffusion Models, [Website](https://dangeng.github.io/visual_anagrams/)
