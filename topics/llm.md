@@ -33,6 +33,7 @@
 - CoRL 2022 oral, **Say-Can**: Do As I Can, Not As I Say: Grounding Language in Robotic Affordances, [Website](https://say-can.github.io/)
 
 ## LLM + Multi Modality
+- CVPR 2024 submission, **PoseGPT**: Chatting about 3D Human Pose, [Website](https://yfeng95.github.io/posegpt/)
 - 2023.10, **MM-Vid**: Advancing Video Understanding with GPT-4V(ision), [Website](https://multimodal-vid.github.io/)
 - 2023.10, **Fuyu-8B**: A Multimodal Architecture for AI Agents, [Website](https://www.adept.ai/blog/fuyu-8b)
 - arXiv 2023.10, Frozen Transformers in Language Models are Effective Visual Encoder Layers, [arXiv](https://arxiv.org/abs/2310.12973) / [Github](https://github.com/ziqipang/LM4VisualEncoding)
