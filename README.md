@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **SODA**: Bottleneck Diffusion Models for Representation Learning, [Website](https://soda-diffusion.github.io/)
 - CVPR 2024 submission, Exploiting **Diffusion Prior** for Generalizable Pixel-Level Semantic Prediction, [Website](https://shinying.github.io/dmp/)
 - arXiv 2023.11, Initializing Models with Larger Ones, [arXiv](https://arxiv.org/abs/2311.18823)
 - CVPR 2024 submission, **Animate Anyone**: Consistent and Controllable Image-to-Video Synthesis for Character Animation, [Website](https://humanaigc.github.io/animate-anyone/) / [Github](https://github.com/HumanAIGC/AnimateAnyone)
