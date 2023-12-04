@@ -43,7 +43,6 @@ Papers:
 - CVPR 2024 submission, **Oryon**: Open-Vocabulary Object 6D Pose Estimation, [Website](https://jcorsetti.github.io/oryon-website/)
 - CVPR 2024 submission, **Dense Optical Tracking**: Connecting the Dots, [Website](https://16lemoing.github.io/dot/)
 - CVPR 2024 submission, Sequential Modeling Enables Scalable Learning for **Large Vision Models**, [Website](https://yutongbai.com/lvm.html)
-- CVPR 2024 submission, **Gaussian Grouping**: Segment and Edit Anything in 3D Scenes, [Website](https://github.com/lkeab/gaussian-grouping)
 - CVPR 2024 submission, **VideoBooth**: Diffusion-based Video Generation with Image Prompts, [Website](https://vchitect.github.io/VideoBooth-project/)
 - CVPR 2024 submission, **SODA**: Bottleneck Diffusion Models for Representation Learning, [Website](https://soda-diffusion.github.io/)
 - CVPR 2024 submission, Exploiting **Diffusion Prior** for Generalizable Pixel-Level Semantic Prediction, [Website](https://shinying.github.io/dmp/)
