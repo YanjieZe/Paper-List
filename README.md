@@ -38,6 +38,8 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **EvE**: Exploiting Generative Priors for Radiance Field Enrichment, [Website](https://eve-nvs.github.io/)
+- CVPR 2024 submission, **Oryon**: Open-Vocabulary Object 6D Pose Estimation, [Website](https://jcorsetti.github.io/oryon-website/)
 - CVPR 2024 submission, **Dense Optical Tracking**: Connecting the Dots, [Website](https://16lemoing.github.io/dot/)
 - CVPR 2024 submission, Sequential Modeling Enables Scalable Learning for **Large Vision Models**, [Website](https://yutongbai.com/lvm.html)
 - CVPR 2024 submission, **Gaussian Grouping**: Segment and Edit Anything in 3D Scenes, [Website](https://github.com/lkeab/gaussian-grouping)
