@@ -1,4 +1,5 @@
 # Gaussian Splatting
+- CVPR 2024 submission, **MD-Splatting**: Learning Metric Deformation from 4D Gaussians in Highly Deformable Scenes, [Website](https://md-splatting.github.io/)
 - CVPR 2024 submission, **Scaffold-GS**: Structured 3D Gaussians for View-Adaptive Rendering, [Website](https://city-super.github.io/scaffold-gs/)
 - arXiv 2023.11, **HumanGaussian**: Text-Driven 3D Human Generation with Gaussian Splatting, [Website](https://alvinliu0.github.io/projects/HumanGaussian)
 - arXiv 2023.11, **SuGaR**: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering, [arXiv](https://arxiv.org/abs/2311.12775)
