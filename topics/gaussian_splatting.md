@@ -1,4 +1,5 @@
 # Gaussian Splatting
+- CVPR 2024 submission, **SAGA**: Segment Any 3D Gaussians, [Website](https://jumpat.github.io/SAGA/)
 - CVPR 2024 submission, **SC-GS**: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes, [Website](https://yihua7.github.io/SC-GS-web/)
 - CVPR 2024 submission, **Gaussian Grouping**: Segment and Edit Anything in 3D Scenes, [Website](https://github.com/lkeab/gaussian-grouping)
 - CVPR 2024 submission, **FSGS**: Real-Time Few-Shot View Synthesis using Gaussian Splatting, [Website](https://zehaozhu.github.io/FSGS/)
