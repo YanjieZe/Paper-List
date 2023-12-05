@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **DiffiT**: Diffusion Vision Transformers for Image Generation, [arXiv](https://arxiv.org/abs/2312.02139)
 - CVPR 2024 submission, Learning from **One Continuous Video Stream**, [arXiv](https://arxiv.org/abs/2312.00598)
 - CVPR 2024 submission, **EvE**: Exploiting Generative Priors for Radiance Field Enrichment, [Website](https://eve-nvs.github.io/)
 - CVPR 2024 submission, **Oryon**: Open-Vocabulary Object 6D Pose Estimation, [Website](https://jcorsetti.github.io/oryon-website/)
