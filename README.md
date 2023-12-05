@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **VideoSwap**: Customized Video Subject Swapping with Interactive Semantic Point Correspondence, [Website](https://videoswap.github.io/)
 - CVPR 2024 submission, **IMProv**: Inpainting-based Multimodal Prompting for Computer Vision Tasks, [Website](https://jerryxu.net/IMProv/)
 - CVPR 2024 submission, Generative **Powers of Ten**, [Website](https://powers-of-10.github.io/)
 - CVPR 2024 submission, **DiffiT**: Diffusion Vision Transformers for Image Generation, [arXiv](https://arxiv.org/abs/2312.02139)
