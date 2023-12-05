@@ -38,6 +38,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **MagicAnimate**: Temporally Consistent Human Image Animation using Diffusion Model, [Github](https://github.com/magic-research/magic-animate)
 - CVPR 2024 submission, **VideoSwap**: Customized Video Subject Swapping with Interactive Semantic Point Correspondence, [Website](https://videoswap.github.io/)
 - CVPR 2024 submission, **IMProv**: Inpainting-based Multimodal Prompting for Computer Vision Tasks, [Website](https://jerryxu.net/IMProv/)
 - CVPR 2024 submission, Generative **Powers of Ten**, [Website](https://powers-of-10.github.io/)
