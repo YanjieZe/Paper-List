@@ -38,6 +38,8 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **FaceStudio**: Put Your Face Everywhere in Seconds, [Website](https://icoz69.github.io/facestudio/)
+- CVPR 2024 submission, **ImageDream**: Image-Prompt Multi-view Diffusion for 3D Generation, [Website](https://Image-Dream.github.io)
 - CVPR 2024 submission, **Fine-grained Controllable Video Generation** via Object Appearance and Context, [Website](https://hhsinping.github.io/factor/)
 - CVPR 2024 submission, **AmbiGen**: Generating Ambigrams from Pre-trained Diffusion Model, [Website](https://raymond-yeh.com/AmbiGen/)
 - CVPR 2024 submission, **ReconFusion**: 3D Reconstruction with Diffusion Priors, [Website](https://reconfusion.github.io/)
