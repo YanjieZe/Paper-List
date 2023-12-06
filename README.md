@@ -38,6 +38,9 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **Fine-grained Controllable Video Generation** via Object Appearance and Context, [Website](https://hhsinping.github.io/factor/)
+- CVPR 2024 submission, **AmbiGen**: Generating Ambigrams from Pre-trained Diffusion Model, [Website](https://raymond-yeh.com/AmbiGen/)
+- CVPR 2024 submission, **ReconFusion**: 3D Reconstruction with Diffusion Priors, [Website](https://reconfusion.github.io/)
 - CVPR 2024 submission, **Ego-Exo4D**: Understanding Skilled Human Activity from First- and Third-Person Perspectives, [arXiv](https://arxiv.org/abs/2311.18259) / [Website](https://ego-exo4d-data.org/)
 - CVPR 2024 submission, **MagicAnimate**: Temporally Consistent Human Image Animation using Diffusion Model, [Github](https://github.com/magic-research/magic-animate)
 - CVPR 2024 submission, **VideoSwap**: Customized Video Subject Swapping with Interactive Semantic Point Correspondence, [Website](https://videoswap.github.io/)
