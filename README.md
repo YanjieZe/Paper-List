@@ -38,6 +38,9 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, Language-Informed Visual Concept Learning, [Website](https://ai.stanford.edu/~yzzhang/projects/concept-axes/)
+- CVPR 2024 submission, **RCG**: Self-conditioned Image Generation via Generating Representations, [arXiv](https://arxiv.org/abs/2312.03701) / [Github](https://github.com/LTH14/rcg)
+- CVPR 2024 submission, **Describing Differences in Image Sets** with Natural Language, [Website](https://understanding-visual-datasets.github.io/VisDiff-website/)
 - CVPR 2024 submission, **FaceStudio**: Put Your Face Everywhere in Seconds, [Website](https://icoz69.github.io/facestudio/)
 - CVPR 2024 submission, **ImageDream**: Image-Prompt Multi-view Diffusion for 3D Generation, [Website](https://Image-Dream.github.io)
 - CVPR 2024 submission, **Fine-grained Controllable Video Generation** via Object Appearance and Context, [Website](https://hhsinping.github.io/factor/)
