@@ -19,6 +19,7 @@ Topics:
   - [Dexterous Manipulation](topics/dex_manipulation.md)
   - [Robotic Locomotion](topics/robotic_locomotion.md)
   - [Mobile Manipulation](topics/mobile_manipulation.md)
+  - [Humanoid](topics/humanoid.md)
 - Graphics
   - [Graphics](topics/graphics.md)
 - [Miscellaneous](topics/misc.md)
