@@ -39,6 +39,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.12, Real-World Humanoid Locomotion with Reinforcement Learning, [Website](https://learning-humanoid-locomotion.github.io/)
 - CVPR 2024 submission, Language-Informed Visual Concept Learning, [Website](https://ai.stanford.edu/~yzzhang/projects/concept-axes/)
 - CVPR 2024 submission, **RCG**: Self-conditioned Image Generation via Generating Representations, [arXiv](https://arxiv.org/abs/2312.03701) / [Github](https://github.com/LTH14/rcg)
 - CVPR 2024 submission, **Describing Differences in Image Sets** with Natural Language, [Website](https://understanding-visual-datasets.github.io/VisDiff-website/)
