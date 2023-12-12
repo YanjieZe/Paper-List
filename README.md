@@ -40,6 +40,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **Alchemist**: Parametric Control of Material Properties with Diffusion Models, [Website](https://prafullsharma.net/alchemist/)
 - CVPR 2024 submission, **Reconstructing Hands in 3D** with Transformers, [Website](https://geopavlakos.github.io/hamer/)
 - CVPR 2024 submission, Language-Informed Visual Concept Learning, [Website](https://ai.stanford.edu/~yzzhang/projects/concept-axes/)
 - CVPR 2024 submission, **RCG**: Self-conditioned Image Generation via Generating Representations, [arXiv](https://arxiv.org/abs/2312.03701) / [Github](https://github.com/LTH14/rcg)
