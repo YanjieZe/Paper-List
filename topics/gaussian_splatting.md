@@ -1,4 +1,5 @@
 # Gaussian Splatting
+- CVPR 2024 submission, **Gaussian3Diff**: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing, [Website](https://nirvanalan.github.io/projects/gaussian3diff/)
 - CVPR 2024 submission, **GaussianAvatars**: Photorealistic Head Avatars with Rigged 3D Gaussians, [Website](https://shenhanqian.github.io/gaussian-avatars)
 - CVPR 2024 submission, **SAGA**: Segment Any 3D Gaussians, [Website](https://jumpat.github.io/SAGA/)
 - CVPR 2024 submission, **SC-GS**: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes, [Website](https://yihua7.github.io/SC-GS-web/)
