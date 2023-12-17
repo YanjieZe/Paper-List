@@ -1,4 +1,5 @@
 # Gaussian Splatting
+- CVPR 2024 submission, **Gaussian Splatting SLAM**, [Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)
 - CVPR 2024 submission, **Physically Embodied Gaussian Splatting**: Embedding Physical Priors into a Visual 3D World Model For Robotics, [Website](https://embodied-gaussians.github.io/)
 - CVPR 2024 submission, **COLMAP-Free** 3D Gaussian Splatting, [Website](https://oasisyang.github.io/colmap-free-3dgs/)
 - CVPR 2024 submission, **Gaussian3Diff**: 3D Gaussian Diffusion for 3D Full Head Synthesis and Editing, [Website](https://nirvanalan.github.io/projects/gaussian3diff/)
