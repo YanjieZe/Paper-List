@@ -40,6 +40,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **Point Transformer V3**: Simpler, Faster, Stronger, [arXiv](https://arxiv.org/abs/2312.10035) / [Github](https://github.com/Pointcept/PointTransformerV3)
 - CVPR 2024 submission, **Alchemist**: Parametric Control of Material Properties with Diffusion Models, [Website](https://prafullsharma.net/alchemist/)
 - CVPR 2024 submission, **Reconstructing Hands in 3D** with Transformers, [Website](https://geopavlakos.github.io/hamer/)
 - CVPR 2024 submission, Language-Informed Visual Concept Learning, [Website](https://ai.stanford.edu/~yzzhang/projects/concept-axes/)
