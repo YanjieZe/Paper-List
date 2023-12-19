@@ -40,6 +40,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **MobileSAMv2**: Faster Segment Anything to Everything, [Github](https://github.com/ChaoningZhang/MobileSAM)
 - CVPR 2024 submission, **AnyDoor**: Zero-shot Object-level Image Customization, [Github](https://github.com/damo-vilab/AnyDoor)
 - CVPR 2024 submission, **Point Transformer V3**: Simpler, Faster, Stronger, [arXiv](https://arxiv.org/abs/2312.10035) / [Github](https://github.com/Pointcept/PointTransformerV3)
 - CVPR 2024 submission, **Alchemist**: Parametric Control of Material Properties with Diffusion Models, [Website](https://prafullsharma.net/alchemist/)
