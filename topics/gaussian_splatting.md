@@ -1,4 +1,5 @@
 # Gaussian Splatting
+- CVPR 2024 submission, **pixelSplat**: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction, [arXiv](https://arxiv.org/abs/2312.12337) / [Github](https://pixelsplat.github.io/)
 - CVPR 2024 submission, **Gaussian Splatting SLAM**, [Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)
 - CVPR 2024 submission, **Physically Embodied Gaussian Splatting**: Embedding Physical Priors into a Visual 3D World Model For Robotics, [Website](https://embodied-gaussians.github.io/)
 - CVPR 2024 submission, **COLMAP-Free** 3D Gaussian Splatting, [Website](https://oasisyang.github.io/colmap-free-3dgs/)
