@@ -40,6 +40,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, Zero-Shot **Metric Depth** with a Field-of-View Conditioned Diffusion Model, [Website](https://diffusion-vision.github.io/dmd/)
 - ICLR 2023, **Deep Learning on 3D Neural Fields**, [arXiv](https://arxiv.org/abs/2312.13277)
 - CVPR 2024 submission, **Tracking Any Object Amodally**, [Website](https://tao-amodal.github.io/)
 - CVPR 2024 submission, **MobileSAMv2**: Faster Segment Anything to Everything, [Github](https://github.com/ChaoningZhang/MobileSAM)
