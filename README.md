@@ -40,6 +40,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **Ponymation**: Learning 3D Animal Motions from Unlabeled Online Videos, [arXiv](https://arxiv.org/abs/2312.13604) / [Website](https://keqiangsun.github.io/projects/ponymation/)
 - CVPR 2024 submission, **V\***: Guided Visual Search as a Core Mechanism in Multimodal LLMs, [Website](https://vstar-seal.github.io/)
 - NIPS 2021 outstanding paper, Deep Reinforcement Learning at the Edge of the Statistical Precipice, [arXiv](https://arxiv.org/abs/2108.13264) / [Website](https://agarwl.github.io/rliable/)
 - CVPR 2024 submission, Zero-Shot **Metric Depth** with a Field-of-View Conditioned Diffusion Model, [Website](https://diffusion-vision.github.io/dmd/)
