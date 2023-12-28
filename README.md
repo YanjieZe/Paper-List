@@ -23,10 +23,12 @@ Topics:
 - Graphics
   - [Graphics](topics/graphics.md)
 - [Miscellaneous](topics/misc.md)
+- [Best Papers](topics/best_papers.md)
 
 Papers:
-- 2023
+- 2024
   - [ICLR 2024 submission](https://openreview.net/group?id=ICLR.cc/2024/Conference) / [scores](https://guoqiangwei.xyz/iclr2024_stats/iclr2024_submissions.html)
+- 2023
   - [NeurIPS 2023](https://neurips.cc/virtual/2023/papers.html)
   - [CoRL 2023](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Conference#accept--oral-)
   - [ICCV 2023](https://openaccess.thecvf.com/ICCV2023?day=all)
