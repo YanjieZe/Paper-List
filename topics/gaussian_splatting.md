@@ -1,4 +1,6 @@
 # Gaussian Splatting
+- CVPR 2024 submission, **Spacetime Gaussian Feature Splatting** for Real-Time Dynamic View Synthesis, [Website](https://oppo-us-research.github.io/SpacetimeGaussians-website/)
+- CVPR 2024 submission, **DreamGaussian4D**: Generative 4D Gaussian Splatting, [Website](https://jiawei-ren.github.io/projects/dreamgaussian4d/) / [Github](https://github.com/jiawei-ren/dreamgaussian4d)
 - CVPR 2024 submission, **LangSplat**: 3D Language Gaussian Splatting, [Website](https://langsplat.github.io)
 - CVPR 2024 submission, **pixelSplat**: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction, [arXiv](https://arxiv.org/abs/2312.12337) / [Website](https://pixelsplat.github.io/) / [Github](https://github.com/dcharatan/pixelsplat)
 - CVPR 2024 submission, **Gaussian Splatting SLAM**, [Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)
