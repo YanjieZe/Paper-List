@@ -42,6 +42,8 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 submission, **Learning Vision from Models** Rivals Learning Vision from Data, [arXiv](https://arxiv.org/abs/2312.17742) / [Github](https://github.com/google-research/syn-rep-learn)
+- CVPR 2024 submission, Visual Point Cloud Forecasting enables **Scalable Autonomous Driving**, [arXiv](https://arxiv.org/abs/2312.17655) / [Github](https://github.com/OpenDriveLab/ViDAR)
 - CVPR 2024 submission, **Ponymation**: Learning 3D Animal Motions from Unlabeled Online Videos, [arXiv](https://arxiv.org/abs/2312.13604) / [Website](https://keqiangsun.github.io/projects/ponymation/)
 - CVPR 2024 submission, **V\***: Guided Visual Search as a Core Mechanism in Multimodal LLMs, [Website](https://vstar-seal.github.io/)
 - NIPS 2021 outstanding paper, Deep Reinforcement Learning at the Edge of the Statistical Precipice, [arXiv](https://arxiv.org/abs/2108.13264) / [Website](https://agarwl.github.io/rliable/)
