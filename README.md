@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.01, **ATM**: Any-point Trajectory Modeling for Policy Learning, [Website](https://xingyu-lin.github.io/atm/)
 - CVPR 2024 submission, **Learning Vision from Models** Rivals Learning Vision from Data, [arXiv](https://arxiv.org/abs/2312.17742) / [Github](https://github.com/google-research/syn-rep-learn)
 - CVPR 2024 submission, Visual Point Cloud Forecasting enables **Scalable Autonomous Driving**, [arXiv](https://arxiv.org/abs/2312.17655) / [Github](https://github.com/OpenDriveLab/ViDAR)
 - CVPR 2024 submission, **Ponymation**: Learning 3D Animal Motions from Unlabeled Online Videos, [arXiv](https://arxiv.org/abs/2312.13604) / [Website](https://keqiangsun.github.io/projects/ponymation/)
