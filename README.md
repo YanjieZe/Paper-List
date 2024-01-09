@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.01, **Dr2Net**: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning, [arXiv](https://arxiv.org/abs/2401.04105)
 - arXiv 2023.12, **3D-LFM**: Lifting Foundation Model, [Website](https://3dlfm.github.io/)
 - arXiv 2024.01, **DVT**: Denoising Vision Transformers, [Website](https://jiawei-yang.github.io/DenoisingViT/)
 - arXiv 2024.01, **Open-Vocabulary SAM**: Segment and Recognize Twenty-thousand Classes Interactively, [Website](https://www.mmlab-ntu.com/project/ovsam/) / [Code](https://github.com/HarborYuan/ovsam)
