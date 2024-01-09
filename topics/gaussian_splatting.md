@@ -1,4 +1,5 @@
 # Gaussian Splatting
+- arXiv 2024.01, **AGG**: Amortized Generative 3D Gaussians for Single Image to 3D, [Website](https://ir1d.github.io/AGG/)
 - CVPR 2024 submission, 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering, [Website](https://github.com/hustvl/4DGaussians)
 - CVPR 2024 submission, **Spacetime Gaussian Feature Splatting** for Real-Time Dynamic View Synthesis, [Website](https://oppo-us-research.github.io/SpacetimeGaussians-website/)
 - CVPR 2024 submission, **DreamGaussian4D**: Generative 4D Gaussian Splatting, [Website](https://jiawei-ren.github.io/projects/dreamgaussian4d/) / [Github](https://github.com/jiawei-ren/dreamgaussian4d)
