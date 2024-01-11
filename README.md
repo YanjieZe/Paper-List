@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.01, **URHand**: Universal Relightable Hands, [Website](https://frozenburning.github.io/projects/urhand/)
 - arXiv 2023.12, **Mamba**: Linear-Time Sequence Modeling with Selective State Spaces, [arXiv](https://arxiv.org/abs/2312.00752) / [Github](https://github.com/state-spaces/mamba)
 - ICLR 2022, **S4**: Efficiently Modeling Long Sequences with Structured State Spaces, [arXiv](https://arxiv.org/abs/2111.00396)
 - arXiv 2024.01, **Dr2Net**: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning, [arXiv](https://arxiv.org/abs/2401.04105)
