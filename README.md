@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICLR 2024 spotlight, **H-GAP**: Humanoid Control with a Generalist Planner, [Website](https://yingchenxu.com/hgap/) / [Github](https://github.com/facebookresearch/hgap)
 - arXiv 2024.01, **URHand**: Universal Relightable Hands, [Website](https://frozenburning.github.io/projects/urhand/)
 - arXiv 2023.12, **Mamba**: Linear-Time Sequence Modeling with Selective State Spaces, [arXiv](https://arxiv.org/abs/2312.00752) / [Github](https://github.com/state-spaces/mamba)
 - ICLR 2022, **S4**: Efficiently Modeling Long Sequences with Structured State Spaces, [arXiv](https://arxiv.org/abs/2111.00396)
