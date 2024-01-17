@@ -42,6 +42,9 @@ Papers:
 
 
 # Recent Random Papers
+- ICLR 2024 oral, **UniSim**: Learning Interactive Real-World Simulators, [OpenReview](https://openreview.net/forum?id=sFyTZEqmUY)
+- ICLR 2024 oral, **ASID**: Active Exploration for System Identification and Reconstruction in Robotic Manipulation, [OpenReview](https://openreview.net/forum?id=jNR6s6OSBT)
+- ICLR 2024 oral, Mastering **Memory Tasks** with World Models, [OpenReview](https://openreview.net/forum?id=1vDArHJ68h)
 - ICLR 2024 oral, Predictive auxiliary objectives in deep RL mimic learning in the brain, [OpenReview](https://openreview.net/forum?id=agPpmEgf8C)
 - ICLR 2024 oral, **Is ImageNet worth 1 video?** Learning strong image encoders from 1 long unlabelled video, [arXiv](https://arxiv.org/abs/2310.08584) / [OpenReview](https://openreview.net/forum?id=Yen1lGns2o)
 - ICLR 2024 spotlight, **H-GAP**: Humanoid Control with a Generalist Planner, [Website](https://yingchenxu.com/hgap/) / [Github](https://github.com/facebookresearch/hgap)
