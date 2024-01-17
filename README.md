@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICLR 2024 oral, **Is ImageNet worth 1 video?** Learning strong image encoders from 1 long unlabelled video, [arXiv](https://arxiv.org/abs/2310.08584) / [OpenReview](https://openreview.net/forum?id=Yen1lGns2o)
 - ICLR 2024 spotlight, **H-GAP**: Humanoid Control with a Generalist Planner, [Website](https://yingchenxu.com/hgap/) / [Github](https://github.com/facebookresearch/hgap)
 - arXiv 2024.01, **URHand**: Universal Relightable Hands, [Website](https://frozenburning.github.io/projects/urhand/)
 - arXiv 2023.12, **Mamba**: Linear-Time Sequence Modeling with Selective State Spaces, [arXiv](https://arxiv.org/abs/2312.00752) / [Github](https://github.com/state-spaces/mamba)
