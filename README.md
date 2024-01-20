@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.01, **DiffusionGPT**: LLM-Driven Text-to-Image Generation System, [arXiv](https://arxiv.org/abs/2401.10061)
 - arXiv 2023.12, **PhysHOI**: Physics-Based Imitation of Dynamic Human-Object Interaction, [Website](https://wyhuai.github.io/physhoi-page/)
 - ICLR 2024 oral, **UniSim**: Learning Interactive Real-World Simulators, [OpenReview](https://openreview.net/forum?id=sFyTZEqmUY)
 - ICLR 2024 oral, **ASID**: Active Exploration for System Identification and Reconstruction in Robotic Manipulation, [OpenReview](https://openreview.net/forum?id=jNR6s6OSBT)
