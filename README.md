@@ -42,6 +42,8 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.01, **WorldDreamer**: Towards General World Models for Video Generation via Predicting Masked Tokens, [Website](https://world-dreamer.github.io/)
+- arXiv 2024.01, **VMamba**: Visual State Space Model, [Github](https://github.com/MzeroMiko/VMamba)
 - arXiv 2024.01, **DiffusionGPT**: LLM-Driven Text-to-Image Generation System, [arXiv](https://arxiv.org/abs/2401.10061) /[Website](https://diffusiongpt.github.io/)
 - arXiv 2023.12, **PhysHOI**: Physics-Based Imitation of Dynamic Human-Object Interaction, [Website](https://wyhuai.github.io/physhoi-page/)
 - ICLR 2024 oral, **UniSim**: Learning Interactive Real-World Simulators, [OpenReview](https://openreview.net/forum?id=sFyTZEqmUY)
