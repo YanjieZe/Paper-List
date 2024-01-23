@@ -42,6 +42,9 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.01, **Spatial VLM**: Endowing Vision-Language Models with Spatial Reasoning Capabilities, [Website](https://spatial-vlm.github.io/)
+- arXiv 2024.01, Multimodal **Visual-Tactile Representation** Learning through Self-Supervised Contrastive Pre-Training, [arXiv](https://arxiv.org/abs/2401.12024)
+- arXiv 2024.01, **OK-Robot**: What Really Matters in Integrating Open-Knowledge Models for Robotics, [Website](https://ok-robot.github.io/)
 - L4DC 2023, **Agile Catching** with Whole-Body MPC and Blackbox Policy Learning, [arXiv](https://arxiv.org/abs/2306.08205)
 - arXiv 2024.01, **Depth Anything**: Unleashing the Power of Large-Scale Unlabeled Data, [Github](https://github.com/LiheYoung/Depth-Anything?tab=readme-ov-file)
 - arXiv 2024.01, **WorldDreamer**: Towards General World Models for Video Generation via Predicting Masked Tokens, [Website](https://world-dreamer.github.io/)
