@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.01, **WildRGB-D**: RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos, [Website](https://wildrgbd.github.io/)
 - arXiv 2024.01, **Spatial VLM**: Endowing Vision-Language Models with Spatial Reasoning Capabilities, [Website](https://spatial-vlm.github.io/)
 - arXiv 2024.01, Multimodal **Visual-Tactile Representation** Learning through Self-Supervised Contrastive Pre-Training, [arXiv](https://arxiv.org/abs/2401.12024)
 - arXiv 2024.01, **OK-Robot**: What Really Matters in Integrating Open-Knowledge Models for Robotics, [Website](https://ok-robot.github.io/)
