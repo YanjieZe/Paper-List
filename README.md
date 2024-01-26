@@ -27,7 +27,7 @@ Topics:
 
 Papers:
 - 2024
-  - [ICLR 2024 submission](https://openreview.net/group?id=ICLR.cc/2024/Conference) / [scores](https://guoqiangwei.xyz/iclr2024_stats/iclr2024_submissions.html)
+  - [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference) / [scores](https://guoqiangwei.xyz/iclr2024_stats/iclr2024_submissions.html)
 - 2023
   - [NeurIPS 2023](https://neurips.cc/virtual/2023/papers.html)
   - [CoRL 2023](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Conference#accept--oral-)
@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.01, **pix2gestalt**: Amodal Segmentation by Synthesizing Wholes, [Website](https://gestalt.cs.columbia.edu/)
 - arXiv 2024.01, **DAE**: Deconstructing Denoising Diffusion Models for Self-Supervised Learning, [arXiv](https://arxiv.org/abs/2401.14404)
 - ICLR 2024, **DittoGym**: Learning to Control Soft Shape-Shifting Robots, [Website](https://dittogym.github.io/)
 - arXiv 2024.01, **WildRGB-D**: RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos, [Website](https://wildrgbd.github.io/)
