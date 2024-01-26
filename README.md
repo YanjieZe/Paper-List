@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.01, **DAE**: Deconstructing Denoising Diffusion Models for Self-Supervised Learning, [arXiv](https://arxiv.org/abs/2401.14404)
 - ICLR 2024, **DittoGym**: Learning to Control Soft Shape-Shifting Robots, [Website](https://dittogym.github.io/)
 - arXiv 2024.01, **WildRGB-D**: RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos, [Website](https://wildrgbd.github.io/)
 - arXiv 2024.01, **Spatial VLM**: Endowing Vision-Language Models with Spatial Reasoning Capabilities, [Website](https://spatial-vlm.github.io/)
