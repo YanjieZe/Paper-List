@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICRA 2024, **SERL**: A Software Suite for Sample-Efficient Robotic Reinforcement Learning, [Website](https://serl-robot.github.io/)
 - arXiv 2024.01, Generative Expressive Robot Behaviors using Large Language Models, [arXiv](https://arxiv.org/abs/2401.14673)
 - ICLR 2024, **CrossLoco**: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=UCfz492fM8)
 - arXiv 2024.01, **pix2gestalt**: Amodal Segmentation by Synthesizing Wholes, [Website](https://gestalt.cs.columbia.edu/)
