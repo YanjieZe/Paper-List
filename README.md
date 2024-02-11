@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICML 2024 submission, **Latent Graph Diffusion**: A Unified Framework for Generation and Prediction on Graphs, [arXiv](https://arxiv.org/abs/2402.02518)
 - ICLR 2024 spotlight, **AMAGO**: Scalable In-Context Reinforcement Learning for Adaptive Agents, [arXiv](https://arxiv.org/abs/2310.09971)
 - arXiv 2024.02, Offline Actor-Critic Reinforcement Learning Scales to Large Models, [arXiv](https://arxiv.org/abs/2402.05546)
 - arXiv 2024.02, **V-IRL**: Grounding Virtual Intelligence in Real Life, [Website](https://virl-platform.github.io/)
