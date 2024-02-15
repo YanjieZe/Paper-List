@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.07, Diffusion Models Beat GANs on Image Classification, [arXiv](https://arxiv.org/abs/2307.08702)
 - ICCV 2023 oral, **DDAE**: Denoising Diffusion Autoencoders are Unified Self-supervised Learners, [arXiv](https://arxiv.org/abs/2303.09769)
 - arXiv 2024.12, **Mosaic-SDF** for 3D Generative Models, [arXiv](https://arxiv.org/abs/2312.09222)
 - arXiv 2024.02, **POCO**: Policy Composition From and For Heterogeneous Robot Learning, [Website](https://liruiw.github.io/policycomp/)
