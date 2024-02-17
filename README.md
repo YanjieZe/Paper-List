@@ -42,6 +42,8 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2023.12, **W.A.L.T**: Photorealistic Video Generation with Diffusion Models, [Website](https://walt-video-diffusion.github.io/)
+- arXiv 2024.02, **Universal Manipulation Interface**: In-The-Wild Robot Teaching Without In-The-Wild Robots, [Website](https://umi-gripper.github.io/)
 - ICCV 2023 oral, **DiT**: Scalable Diffusion Models with Transformers, [Website](https://www.wpeebles.com/DiT)
 - arXiv 2023.07, Diffusion Models Beat GANs on Image Classification, [arXiv](https://arxiv.org/abs/2307.08702)
 - ICCV 2023 oral, **DDAE**: Denoising Diffusion Autoencoders are Unified Self-supervised Learners, [arXiv](https://arxiv.org/abs/2303.09769)
