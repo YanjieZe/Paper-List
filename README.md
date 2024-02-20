@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.02, **Pedipulate**: Enabling Manipulation Skills using a Quadruped Robot's Leg, [arXiv](https://arxiv.org/abs/2402.10837)
 - arXiv 2024.02, **LMPC**: Learning to Learn Faster from Human Feedback with Language Model Predictive Control, [Website](https://robot-teaching.github.io/)
 - arXiv 2023.12, **W.A.L.T**: Photorealistic Video Generation with Diffusion Models, [Website](https://walt-video-diffusion.github.io/)
 - arXiv 2024.02, **Universal Manipulation Interface**: In-The-Wild Robot Teaching Without In-The-Wild Robots, [Website](https://umi-gripper.github.io/)
