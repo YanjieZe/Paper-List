@@ -49,7 +49,7 @@ Papers:
 - ICCV 2023 oral, **DiT**: Scalable Diffusion Models with Transformers, [Website](https://www.wpeebles.com/DiT)
 - arXiv 2023.07, Diffusion Models Beat GANs on Image Classification, [arXiv](https://arxiv.org/abs/2307.08702)
 - ICCV 2023 oral, **DDAE**: Denoising Diffusion Autoencoders are Unified Self-supervised Learners, [arXiv](https://arxiv.org/abs/2303.09769)
-- arXiv 2024.12, **Mosaic-SDF** for 3D Generative Models, [arXiv](https://arxiv.org/abs/2312.09222)
+- arXiv 2024.12, **Mosaic-SDF** for 3D Generative Models, [arXiv](https://arxiv.org/abs/2312.09222) / [Website](https://lioryariv.github.io/msdf/)
 - arXiv 2024.02, **POCO**: Policy Composition From and For Heterogeneous Robot Learning, [Website](https://liruiw.github.io/policycomp/)
 - ICML 2024 submission, **Latent Graph Diffusion**: A Unified Framework for Generation and Prediction on Graphs, [arXiv](https://arxiv.org/abs/2402.02518)
 - ICLR 2024 spotlight, **AMAGO**: Scalable In-Context Reinforcement Learning for Adaptive Agents, [arXiv](https://arxiv.org/abs/2310.09971)
