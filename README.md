@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- CoRL 2020, **DSR**: Learning 3D Dynamic Scene Representations for Robot Manipulation, [Website](https://dsr-net.cs.columbia.edu/)
 - ICLR 2024 oral, Cameras as Rays: Pose Estimation via **Ray Diffusion**, [Website](https://jasonyzhang.com/RayDiffusion/)
 - arXiv 2024.02, **Pedipulate**: Enabling Manipulation Skills using a Quadruped Robot's Leg, [arXiv](https://arxiv.org/abs/2402.10837)
 - arXiv 2024.02, **LMPC**: Learning to Learn Faster from Human Feedback with Language Model Predictive Control, [Website](https://robot-teaching.github.io/)
