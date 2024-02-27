@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.02, **Genie**: Generative Interactive Environments, [arXiv](https://arxiv.org/abs/2402.15391) / [Website](https://sites.google.com/view/genie-2024/)
 - arXiv 2024.02, **CyberDemo**: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation, [arXiv](https://arxiv.org/abs/2402.14795) / [Website](https://cyber-demo.github.io/)
 - CoRL 2020, **DSR**: Learning 3D Dynamic Scene Representations for Robot Manipulation, [Website](https://dsr-net.cs.columbia.edu/)
 - ICLR 2024 oral, Cameras as Rays: Pose Estimation via **Ray Diffusion**, [Website](https://jasonyzhang.com/RayDiffusion/)
