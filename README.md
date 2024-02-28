@@ -42,6 +42,8 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.02, **Diffusion Meets DAgger**: Supercharging Eye-in-hand Imitation Learning, [Website](https://sites.google.com/view/diffusion-meets-dagger)
+- arXiv 2024.02, Massive Activations in Large Language Models, [Website](https://eric-mingjie.github.io/massive-activations/index.html)
 - arXiv 2024.02, Dynamics-Guided Diffusion Model for **Robot Manipulator Design**, [Website](https://dgdm-robot.github.io/)
 - arXiv 2024.02, Expressive Whole-Body Control for **Humanoid Robots**, [Website](https://expressive-humanoid.github.io/)
 - arXiv 2024.02, **Genie**: Generative Interactive Environments, [arXiv](https://arxiv.org/abs/2402.15391) / [Website](https://sites.google.com/view/genie-2024/)
