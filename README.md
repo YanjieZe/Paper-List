@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.02, **Transparent Image Layer Diffusion** using Latent Transparency, [Website](https://arxiv.org/abs/2402.17113)
 - arXiv 2024.02, **Diffusion Meets DAgger**: Supercharging Eye-in-hand Imitation Learning, [Website](https://sites.google.com/view/diffusion-meets-dagger)
 - arXiv 2024.02, Massive Activations in Large Language Models, [Website](https://eric-mingjie.github.io/massive-activations/index.html)
 - arXiv 2024.02, Dynamics-Guided Diffusion Model for **Robot Manipulator Design**, [Website](https://dgdm-robot.github.io/)
