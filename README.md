@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.02, **Disentangled 3D Scene Gen­eration** with Layout Learning, [Website](https://dave.ml/layoutlearning/)
 - ICLR 2024 spotlight, **FLD**: Fourier Latent Dynamics for Structured Motion Representation and Learning, [Github](https://github.com/mit-biomimetics/fld) / [Website](https://sites.google.com/view/iclr2024-fld/home)
 - arXiv 2024.02, **Transparent Image Layer Diffusion** using Latent Transparency, [Website](https://arxiv.org/abs/2402.17113)
 - arXiv 2024.02, **Diffusion Meets DAgger**: Supercharging Eye-in-hand Imitation Learning, [Website](https://sites.google.com/view/diffusion-meets-dagger)
