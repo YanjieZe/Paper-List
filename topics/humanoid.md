@@ -1,5 +1,5 @@
 # Humanoid
-- ICCV 2023, **Perpetual Humanoid Control** for Real-time Simulated Avatars,[Website](https://www.zhengyiluo.com/PHC-Site/)
+- ICCV 2023, **Perpetual Humanoid Control** for Real-time Simulated Avatars, [Website](https://www.zhengyiluo.com/PHC-Site/)
 - arXiv 2024.02, **Expressive Whole-Body Control** for Humanoid Robots, [Website](https://expressive-humanoid.github.io/)
 - ICLR 2024 spotlight, **FLD**: Fourier Latent Dynamics for Structured Motion Representation and Learning, [Github](https://github.com/mit-biomimetics/fld) / [Website](https://sites.google.com/view/iclr2024-fld/home)
 - ICLR 2024 spotlight, **H-GAP**: Humanoid Control with a Generalist Planner, [Website](https://yingchenxu.com/hgap/) / [Github](https://github.com/facebookresearch/hgap)
