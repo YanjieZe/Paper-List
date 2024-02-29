@@ -1,5 +1,6 @@
 # Humanoid
 - arXiv 2024.02, **Expressive Whole-Body Control** for Humanoid Robots, [Website](https://expressive-humanoid.github.io/)
+- arXiv 2023.12, **PhysHOI**: Physics-Based Imitation of Dynamic Human-Object Interaction, [Website](https://wyhuai.github.io/physhoi-page/)
 - ICLR 2024 spotlight, **FLD**: Fourier Latent Dynamics for Structured Motion Representation and Learning, [Github](https://github.com/mit-biomimetics/fld) / [Website](https://sites.google.com/view/iclr2024-fld/home)
 - ICLR 2024 spotlight, **H-GAP**: Humanoid Control with a Generalist Planner, [Website](https://yingchenxu.com/hgap/) / [Github](https://github.com/facebookresearch/hgap)
 - ICLR 2024, **CrossLoco**: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=UCfz492fM8)
