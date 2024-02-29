@@ -1,5 +1,4 @@
 # Humanoid
-- ICCV 2023, **PHC**: **Perpetual Humanoid Control** for Real-time Simulated Avatars, [Website](https://www.zhengyiluo.com/PHC-Site/)
 - arXiv 2024.02, **Expressive Whole-Body Control** for Humanoid Robots, [Website](https://expressive-humanoid.github.io/)
 - ICLR 2024 spotlight, **FLD**: Fourier Latent Dynamics for Structured Motion Representation and Learning, [Github](https://github.com/mit-biomimetics/fld) / [Website](https://sites.google.com/view/iclr2024-fld/home)
 - ICLR 2024 spotlight, **H-GAP**: Humanoid Control with a Generalist Planner, [Website](https://yingchenxu.com/hgap/) / [Github](https://github.com/facebookresearch/hgap)
@@ -7,10 +6,12 @@
 - ICLR 2024, **Habitat 3.0**: A Co-Habitat for Humans, Avatars, and Robots, [OpenReview](https://openreview.net/forum?id=4znwzG92CE)
 - Humanoids 2023 oral, Deep **Imitation Learning** for Humanoid Loco-manipulation through Human Teleoperation, [Website](https://ut-austin-rpl.github.io/TRILL/)
 - arXiv 2023.12, Real-World Humanoid Locomotion with **Reinforcement Learning**, [Website](https://learning-humanoid-locomotion.github.io/)
+- ICCV 2023, **PHC**: **Perpetual Humanoid Control** for Real-time Simulated Avatars, [Website](https://www.zhengyiluo.com/PHC-Site/)
 - NIPS 2023, **SMPLer-X**: Scaling Up Expressive Human Pose and Shape Estimation, [Website](https://caizhongang.github.io/projects/SMPLer-X/) / [Github](https://github.com/caizhongang/SMPLer-X)
 - ICLR 2023, **MDM**: Human Motion Diffusion Model, [Website](https://guytevet.github.io/mdm-page/)
 - TOG 2022, **ASE**: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters, [arXiv](https://arxiv.org/abs/2205.01906) / [Github](https://github.com/nv-tlabs/ASE)
 
 # Humanoid Robot
 - [Unitree H1](https://www.unitree.com/h1/)
-- 
+- [BostomDynamics ATLAS](https://bostondynamics.com/atlas/)
+- [PAL TALOS](https://pal-robotics.com/robots/talos/)
