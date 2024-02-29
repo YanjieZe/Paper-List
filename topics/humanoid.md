@@ -8,4 +8,4 @@
 - Humanoids 2023 oral, Deep **Imitation Learning** for Humanoid Loco-manipulation through Human Teleoperation, [Website](https://ut-austin-rpl.github.io/TRILL/)
 - arXiv 2023.12, Real-World Humanoid Locomotion with **Reinforcement Learning**, [Website](https://learning-humanoid-locomotion.github.io/)
 - NIPS 2023, **SMPLer-X**: Scaling Up Expressive Human Pose and Shape Estimation, [Website](https://caizhongang.github.io/projects/SMPLer-X/) / [Github](https://github.com/caizhongang/SMPLer-X)
-- ICLR 2023, **Human Motion Diffusion Model**, [Website](https://guytevet.github.io/mdm-page/)
+- ICLR 2023, **MDM**: Human Motion Diffusion Model, [Website](https://guytevet.github.io/mdm-page/)
