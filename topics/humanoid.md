@@ -10,6 +10,8 @@
 - NIPS 2023, **SMPLer-X**: Scaling Up Expressive Human Pose and Shape Estimation, [Website](https://caizhongang.github.io/projects/SMPLer-X/) / [Github](https://github.com/caizhongang/SMPLer-X)
 - ICLR 2023, **MDM**: Human Motion Diffusion Model, [Website](https://guytevet.github.io/mdm-page/)
 - TOG 2022, **ASE**: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters, [arXiv](https://arxiv.org/abs/2205.01906) / [Github](https://github.com/nv-tlabs/ASE)
+- TOG 2021, **AMP**: adversarial motion priors for stylized physics-based character control, [Website](https://xbpeng.github.io/projects/AMP/)
+
 
 # Humanoid Robot
 - [Unitree H1](https://www.unitree.com/h1/)
