@@ -1,4 +1,5 @@
 # Humanoid
+- arXiv 2024.02, Humanoid Locomotion as **Next Token Prediction**, [arXiv](https://arxiv.org/abs/2402.19469)
 - CVPR 2024, **Egocentric Whole-Body Motion Capture** with FisheyeViT and Diffusion-Based Motion Refinement, [Website](https://people.mpi-inf.mpg.de/~jianwang/projects/egowholemocap/index.html)
 - arXiv 2024.02, **Expressive Whole-Body Control** for Humanoid Robots, [Website](https://expressive-humanoid.github.io/)
 - arXiv 2023.12, **PhysHOI**: Physics-Based Imitation of Dynamic Human-Object Interaction, [Website](https://wyhuai.github.io/physhoi-page/)
