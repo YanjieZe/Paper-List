@@ -13,7 +13,7 @@
 - ICLR 2023, **MDM**: Human Motion Diffusion Model, [Website](https://guytevet.github.io/mdm-page/)
 - TOG 2022, **ASE**: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters, [arXiv](https://arxiv.org/abs/2205.01906) / [Github](https://github.com/nv-tlabs/ASE)
 - TOG 2021, **AMP**: adversarial motion priors for stylized physics-based character control, [Website](https://xbpeng.github.io/projects/AMP/)
-
+- CoRL 2021, Learning to Walk in Minutes Using **Massively Parallel** Deep Reinforcement Learning, Github](https://github.com/leggedrobotics/legged_gym)
 
 # Humanoid Robot
 - [Unitree H1](https://www.unitree.com/h1/)
