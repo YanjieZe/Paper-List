@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.02, **Mirage**: Cross-Embodiment Zero-Shot Policy Transfer with Cross-Painting, [Website](https://robot-mirage.github.io/)
 - CVPR 2024, **Diffusion 3D Features (Diff3F)**: Decorating Untextured Shapes with Distilled Semantic Features, [Website](https://diff3f.github.io/)
 - arXiv 2024.02, **Disentangled 3D Scene Gen­eration** with Layout Learning, [Website](https://dave.ml/layoutlearning/)
 - arXiv 2024.02, **Transparent Image Layer Diffusion** using Latent Transparency, [Website](https://arxiv.org/abs/2402.17113)
