@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024, **Diffusion 3D Features (Diff3F)**: Decorating Untextured Shapes with Distilled Semantic Features, [Website](https://diff3f.github.io/)
 - arXiv 2024.02, **Disentangled 3D Scene Gen­eration** with Layout Learning, [Website](https://dave.ml/layoutlearning/)
 - arXiv 2024.02, **Transparent Image Layer Diffusion** using Latent Transparency, [Website](https://arxiv.org/abs/2402.17113)
 - arXiv 2024.02, **Diffusion Meets DAgger**: Supercharging Eye-in-hand Imitation Learning, [Website](https://sites.google.com/view/diffusion-meets-dagger)
