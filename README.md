@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024, **DUSt3R**: Geometric 3D Vision Made Easy, [Github](https://github.com/naver/dust3r)
 - CVPR 2018 best paper, **TASKONOMY**: Disentangling Task Transfer Learning, [Website](http://taskonomy.stanford.edu/)
 - arXiv 2024.02, **Mirage**: Cross-Embodiment Zero-Shot Policy Transfer with Cross-Painting, [Website](https://robot-mirage.github.io/)
 - CVPR 2024, **Diffusion 3D Features (Diff3F)**: Decorating Untextured Shapes with Distilled Semantic Features, [Website](https://diff3f.github.io/)
