@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- SIGGRAPH Asia 2023, **CamP**: Camera Preconditioning for Neural Radiance Fields, [Website](https://camp-nerf.github.io/) / [Github](https://github.com/jonbarron/camp_zipnerf)
 - arXiv 2024.02, **Extreme Cross-Embodiment Learning** for Manipulation and Navigation, [Website](https://extreme-cross-embodiment.github.io/)
 - CVPR 2024, **DUSt3R**: Geometric 3D Vision Made Easy, [Github](https://github.com/naver/dust3r)
 - CVPR 2018 best paper, **TASKONOMY**: Disentangling Task Transfer Learning, [Website](http://taskonomy.stanford.edu/)
