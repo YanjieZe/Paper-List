@@ -42,6 +42,9 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.03, **Point Could Mamba**: Point Cloud Learning via State Space Model, [arXiv](https://arxiv.org/abs/2403.00762)
+- CVPR 2024, Rethinking Few-shot 3D Point Cloud Semantic Segmentation, [arXiv](https://arxiv.org/abs/2403.00592)
+- ICLR 2024, Can Transformers Capture Spatial Relations between Objects? [arXiv](https://arxiv.org/abs/2403.00729) / [Website](https://sites.google.com/view/spatial-relation)
 - SIGGRAPH Asia 2023, **CamP**: Camera Preconditioning for Neural Radiance Fields, [Website](https://camp-nerf.github.io/) / [Github](https://github.com/jonbarron/camp_zipnerf)
 - arXiv 2024.02, **Extreme Cross-Embodiment Learning** for Manipulation and Navigation, [Website](https://extreme-cross-embodiment.github.io/)
 - CVPR 2024, **DUSt3R**: Geometric 3D Vision Made Easy, [Github](https://github.com/naver/dust3r)
