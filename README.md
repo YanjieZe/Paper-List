@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.03, **TripoSR**: Fast 3D Object Reconstruction from a Single Image, [Github](https://github.com/VAST-AI-Research/TripoSR)
 - arXiv 2024.03, **Point Could Mamba**: Point Cloud Learning via State Space Model, [arXiv](https://arxiv.org/abs/2403.00762)
 - CVPR 2024, Rethinking Few-shot 3D Point Cloud Semantic Segmentation, [arXiv](https://arxiv.org/abs/2403.00592)
 - ICLR 2024, Can Transformers Capture Spatial Relations between Objects? [arXiv](https://arxiv.org/abs/2403.00729) / [Website](https://sites.google.com/view/spatial-relation)
