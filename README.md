@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICLR 2023 spotlight, Multi-skill Mobile Manipulation for Object Rearrangement, [Github](https://github.com/Jiayuan-Gu/hab-mobile-manipulation)
 - CVPR 2024, **Gaussian Splatting SLAM**, [Github](https://github.com/muskie82/MonoGS)
 - arXiv 2024.03, **TripoSR**: Fast 3D Object Reconstruction from a Single Image, [Github](https://github.com/VAST-AI-Research/TripoSR)
 - arXiv 2024.03, **Point Could Mamba**: Point Cloud Learning via State Space Model, [arXiv](https://arxiv.org/abs/2403.00762)
