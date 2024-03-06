@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.03, **MOKA**: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting, [Website](https://moka-manipulation.github.io/)
 - arXiv 2024.03, **VQ-BeT**: Behavior Generation with Latent Actions, [arXiv](https://arxiv.org/abs/2403.03181) / [Website](https://sjlee.cc/vq-bet/)
 - **Humanoid-Gym**: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer, [Website](https://sites.google.com/view/humanoid-gym/)
 - arXiv 2024.03, Twisting Lids Off with Two Hands, [Website](https://toruowo.github.io/bimanual-twist/)
