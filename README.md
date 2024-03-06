@@ -42,6 +42,8 @@ Papers:
 
 
 # Recent Random Papers
+- **Humanoid-Gym**: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer, [Website](https://sites.google.com/view/humanoid-gym/)
+- arXiv 2024.03, Twisting Lids Off with Two Hands, [Website](https://toruowo.github.io/bimanual-twist/)
 - ICLR 2023 spotlight, Multi-skill Mobile Manipulation for Object Rearrangement, [Github](https://github.com/Jiayuan-Gu/hab-mobile-manipulation)
 - CVPR 2024, **Gaussian Splatting SLAM**, [Github](https://github.com/muskie82/MonoGS)
 - arXiv 2024.03, **TripoSR**: Fast 3D Object Reconstruction from a Single Image, [Github](https://github.com/VAST-AI-Research/TripoSR)
