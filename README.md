@@ -42,6 +42,9 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024, **Hierarchical Diffusion Policy** for Kinematics-Aware Multi-Task Robotic Manipulation, [arXiv](https://arxiv.org/abs/2403.03890) / [Website](https://yusufma03.github.io/projects/hdp/)
+- arXiv 2024.03, Reconciling Reality through Simulation: A **Real-to-Sim-to-Real** Approach for Robust Manipulation, [Website](https://real-to-sim-to-real.github.io/RialTo/)
+- ICRA 2024, **Dexterous Legged Locomotion** in Confined 3D Spaces with Reinforcement Learning, [arXiv](https://arxiv.org/abs/2403.03848)
 - arXiv 2024.03, **MOKA**: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting, [Website](https://moka-manipulation.github.io/)
 - arXiv 2024.03, **VQ-BeT**: Behavior Generation with Latent Actions, [arXiv](https://arxiv.org/abs/2403.03181) / [Website](https://sjlee.cc/vq-bet/)
 - **Humanoid-Gym**: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer, [Website](https://sites.google.com/view/humanoid-gym/)
