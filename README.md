@@ -42,6 +42,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICRA 2024, Learning to walk in confined spaces using 3D representation, [arXiv](https://arxiv.org/abs/2403.00187)
 - CVPR 2024, **Hierarchical Diffusion Policy** for Kinematics-Aware Multi-Task Robotic Manipulation, [arXiv](https://arxiv.org/abs/2403.03890) / [Website](https://yusufma03.github.io/projects/hdp/)
 - arXiv 2024.03, Reconciling Reality through Simulation: A **Real-to-Sim-to-Real** Approach for Robust Manipulation, [Website](https://real-to-sim-to-real.github.io/RialTo/)
 - ICRA 2024, **Dexterous Legged Locomotion** in Confined 3D Spaces with Reinforcement Learning, [arXiv](https://arxiv.org/abs/2403.03848)
