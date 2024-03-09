@@ -27,6 +27,7 @@ Topics:
 
 Papers:
 - 2024
+  - [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers)
   - [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference) / [scores](https://guoqiangwei.xyz/iclr2024_stats/iclr2024_submissions.html)
 - 2023
   - [NeurIPS 2023](https://neurips.cc/virtual/2023/papers.html)
