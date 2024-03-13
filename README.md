@@ -43,6 +43,10 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.03, Learning **Generalizable Feature Fields** for Mobile Manipulation, [arXiv](https://arxiv.org/abs/2403.07563)
+- arXiv 2024.03, **DexCap**: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, [arXiv](https://arxiv.org/abs/2403.07788)
+- arXiv 2024.03, **TeleMoMa**: A Modular and Versatile Teleoperation System for Mobile Manipulation, [arXiv](https://arxiv.org/abs/2403.07869)
+- arXiv 2024.03, **OPEN TEACH**: A Versatile Teleoperation System for Robotic Manipulation, [arXiv](https://arxiv.org/abs/2403.07870)
 - CVPR 2020 oral, **SuperGlue**: Learning Feature Matching with Graph Neural Networks, [Github](https://github.com/magicleap/SuperGluePretrainedNetwork)
 - ICRA 2024, Learning to walk in confined spaces using 3D representation, [arXiv](https://arxiv.org/abs/2403.00187)
 - CVPR 2024, **Hierarchical Diffusion Policy** for Kinematics-Aware Multi-Task Robotic Manipulation, [arXiv](https://arxiv.org/abs/2403.03890) / [Website](https://yusufma03.github.io/projects/hdp/)
