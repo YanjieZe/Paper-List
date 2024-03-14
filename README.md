@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.03, **ManiGaussian**: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, [arXiv](https://arxiv.org/abs/2403.08321)
 - arXiv 2024.03, Learning **Generalizable Feature Fields** for Mobile Manipulation, [arXiv](https://arxiv.org/abs/2403.07563)
 - arXiv 2024.03, **DexCap**: Scalable and Portable Mocap Data Collection System for Dexterous Manipulation, [arXiv](https://arxiv.org/abs/2403.07788)
 - arXiv 2024.03, **TeleMoMa**: A Modular and Versatile Teleoperation System for Mobile Manipulation, [arXiv](https://arxiv.org/abs/2403.07869)
