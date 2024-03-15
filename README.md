@@ -43,6 +43,8 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.03, **PaperBot**: Learning to Design Real-World Tools Using Paper, [arXiv](https://arxiv.org/abs/2403.09566)
+- arXiv 2024.03, **GaussianGrasper**: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, [arXiv](https://arxiv.org/abs/2403.09637)
 - arXiv 2024.03, A Decade's Battle on **Dataset Bias**: Are We There Yet? [arXiv](https://arxiv.org/abs/2403.08632)
 - arXiv 2024.03, **ManiGaussian**: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, [arXiv](https://arxiv.org/abs/2403.08321)
 - arXiv 2024.03, Learning **Generalizable Feature Fields** for Mobile Manipulation, [arXiv](https://arxiv.org/abs/2403.07563)
