@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.03, **HumanoidBench**: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [Website](https://sferrazza.cc/humanoidbench_site/)
 - arXiv 2024.03, **PaperBot**: Learning to Design Real-World Tools Using Paper, [arXiv](https://arxiv.org/abs/2403.09566)
 - arXiv 2024.03, **GaussianGrasper**: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, [arXiv](https://arxiv.org/abs/2403.09637)
 - arXiv 2024.03, A Decade's Battle on **Dataset Bias**: Are We There Yet? [arXiv](https://arxiv.org/abs/2403.08632)
