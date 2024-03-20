@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICLR 2024 oral, **Ghost on the Shell**: An Expressive Representation of General 3D Shapes, [Website](https://gshell3d.github.io/)
 - arXiv 2024.03, **HumanoidBench**: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [Website](https://sferrazza.cc/humanoidbench_site/)
 - arXiv 2024.03, **PaperBot**: Learning to Design Real-World Tools Using Paper, [arXiv](https://arxiv.org/abs/2403.09566)
 - arXiv 2024.03, **GaussianGrasper**: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, [arXiv](https://arxiv.org/abs/2403.09637)
