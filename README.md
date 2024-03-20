@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.03, **FeatUp**: A Model-Agnostic Framework for Features at Any Resolution, [arXiv](https://arxiv.org/abs/2403.10516)
 - arXiv 2024.03, **Vid2Robot**: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers, [arXiv](https://arxiv.org/abs/2403.12943)
 - arXiv 2024.03, **Yell At Your Robot**: Improving On-the-Fly from Language Corrections, [arXiv](https://arxiv.org/abs/2403.12910)
 - arXiv 2024.03, **DROID**: A Large-Scale In-the-Wild Robot Manipulation Dataset, [Website](https://droid-dataset.github.io/)
