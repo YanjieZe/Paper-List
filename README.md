@@ -43,6 +43,9 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.03, **GRM**: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation, [Website](https://justimyhxu.github.io/projects/grm/)
+- arXiv 2024.03, **MVSplat**: Efficient 3D Gaussian Splatting from Sparse Multi-View Images, [Website](https://donydchen.github.io/mvsplat/)
+- arXiv 2024.03, **LiFT**: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors, [Website](https://www.cs.umd.edu/~sakshams/LiFT/)
 - SIGGRAPH 2023, **VET**: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering, [Github](https://github.com/lfranke/vet)
 - arXiv 2024.03, On **Pretraining Data Diversity** for Self-Supervised Learning, [arXiv](https://arxiv.org/abs/2403.13808)
 - arXiv 2024.03, **FeatUp**: A Model-Agnostic Framework for Features at Any Resolution, [arXiv](https://arxiv.org/abs/2403.10516) / [Github](https://github.com/mhamilton723/FeatUp)
