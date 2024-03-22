@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- SIGGRAPH 2023, **VET**: Visual Error Tomography for Point Cloud Completion and High-Quality Neural Rendering, [Github](https://github.com/lfranke/vet)
 - arXiv 2024.03, On **Pretraining Data Diversity** for Self-Supervised Learning, [arXiv](https://arxiv.org/abs/2403.13808)
 - arXiv 2024.03, **FeatUp**: A Model-Agnostic Framework for Features at Any Resolution, [arXiv](https://arxiv.org/abs/2403.10516) / [Github](https://github.com/mhamilton723/FeatUp)
 - arXiv 2024.03, **Vid2Robot**: End-to-end Video-conditioned Policy Learning with Cross-Attention Transformers, [arXiv](https://arxiv.org/abs/2403.12943)
