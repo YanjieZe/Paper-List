@@ -1,5 +1,5 @@
 # Gaussian Splatting
-- arXiv 2024.03, **Gaussian-Flow**: 4D Reconstruction with Dynamic 3D Gaussian Particle, [Website](https://nju-3dv.github.io/projects/Gaussian-Flow/)
+- arXiv 2023.12, **Gaussian-Flow**: 4D Reconstruction with Dynamic 3D Gaussian Particle, [Website](https://nju-3dv.github.io/projects/Gaussian-Flow/)
 - arXiv 2024.01, **AGG**: Amortized Generative 3D Gaussians for Single Image to 3D, [Website](https://ir1d.github.io/AGG/)
 - CVPR 2024 submission, 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering, [Website](https://github.com/hustvl/4DGaussians)
 - CVPR 2024 submission, **Spacetime Gaussian Feature Splatting** for Real-Time Dynamic View Synthesis, [Website](https://oppo-us-research.github.io/SpacetimeGaussians-website/)
