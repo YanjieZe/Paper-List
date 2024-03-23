@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICCV 2021, **DPT**: Vision Transformers for Dense Prediction, [arXiv](https://arxiv.org/abs/2103.13413)
 - arXiv 2024.03, **GRM**: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation, [Website](https://justimyhxu.github.io/projects/grm/)
 - arXiv 2024.03, **MVSplat**: Efficient 3D Gaussian Splatting from Sparse Multi-View Images, [Website](https://donydchen.github.io/mvsplat/)
 - arXiv 2024.03, **LiFT**: A Surprisingly Simple Lightweight Feature Transform for Dense ViT Descriptors, [Website](https://www.cs.umd.edu/~sakshams/LiFT/)
