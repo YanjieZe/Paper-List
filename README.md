@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.03, Imitation Bootstrapped Reinforcement Learning, [arXiv](https://arxiv.org/abs/2311.02198)
 - arXiv 2024.03, **Visual Whole-Body Control** for Legged Loco-Manipulation, [arXiv](https://arxiv.org/abs/2403.16967)
 - arXiv 2024.03, **S2**: When Do We Not Need Larger Vision Models? [arXiv](https://arxiv.org/abs/2403.13043)
 - ICCV 2021, **DPT**: Vision Transformers for Dense Prediction, [arXiv](https://arxiv.org/abs/2103.13413)
