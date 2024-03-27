@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.03, Leveraging **Symmetry** in RL-based Legged Locomotion Control, [arXiv](https://arxiv.org/abs/2403.17320)
 - arXiv 2024.03, **RoboDuet**: A Framework Affording Mobile-Manipulation and Cross-Embodiment, [arXiv](https://arxiv.org/abs/2403.17367)
 - arXiv 2024.03, Imitation Bootstrapped Reinforcement Learning, [arXiv](https://arxiv.org/abs/2311.02198)
 - arXiv 2024.03, **Visual Whole-Body Control** for Legged Loco-Manipulation, [arXiv](https://arxiv.org/abs/2403.16967)
