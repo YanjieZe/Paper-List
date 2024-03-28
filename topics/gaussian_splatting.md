@@ -1,4 +1,5 @@
 # Gaussian Splatting
+- arXiv 2023.03, **Gamba**: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [arXiv](https://arxiv.org/abs/2403.18795)
 - arXiv 2023.12, **Gaussian-Flow**: 4D Reconstruction with Dynamic 3D Gaussian Particle, [Website](https://nju-3dv.github.io/projects/Gaussian-Flow/)
 - arXiv 2024.01, **AGG**: Amortized Generative 3D Gaussians for Single Image to 3D, [Website](https://ir1d.github.io/AGG/)
 - CVPR 2024 submission, 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering, [Website](https://github.com/hustvl/4DGaussians)
