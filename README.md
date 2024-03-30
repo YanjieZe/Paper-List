@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024, **Lift3D**: Zero-Shot Lifting of Any 2D Vision Model to 3D, [Website](https://mukundvarmat.github.io/Lift3D/)
 - arXiv 2024.03, **LocoMan**: Advancing Versatile Quadrupedal Dexterity with Lightweight Loco-Manipulators, [arXiv](https://arxiv.org/abs/2403.18197)
 - arXiv 2024.03, Leveraging **Symmetry** in RL-based Legged Locomotion Control, [arXiv](https://arxiv.org/abs/2403.17320)
 - arXiv 2024.03, **RoboDuet**: A Framework Affording Mobile-Manipulation and Cross-Embodiment, [arXiv](https://arxiv.org/abs/2403.17367)
