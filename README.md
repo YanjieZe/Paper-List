@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024, **GenH2R**: Learning Generalizable Human-to-Robot Handover via Scalable Simulation, Demonstration, and Imitation, [Website](https://genh2r.github.io/)
 - arXiv 2024.04, **PreAfford**: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments, [Website](https://air-discover.github.io/PreAfford/)
 - CVPR 2024, **Lift3D**: Zero-Shot Lifting of Any 2D Vision Model to 3D, [Website](https://mukundvarmat.github.io/Lift3D/)
 - arXiv 2024.03, **LocoMan**: Advancing Versatile Quadrupedal Dexterity with Lightweight Loco-Manipulators, [arXiv](https://arxiv.org/abs/2403.18197)
