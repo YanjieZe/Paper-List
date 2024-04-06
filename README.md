@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.04, **PreAfford**: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments, [Website](https://air-discover.github.io/PreAfford/)
 - CVPR 2024, **Lift3D**: Zero-Shot Lifting of Any 2D Vision Model to 3D, [Website](https://mukundvarmat.github.io/Lift3D/)
 - arXiv 2024.03, **LocoMan**: Advancing Versatile Quadrupedal Dexterity with Lightweight Loco-Manipulators, [arXiv](https://arxiv.org/abs/2403.18197)
 - arXiv 2024.03, Leveraging **Symmetry** in RL-based Legged Locomotion Control, [arXiv](https://arxiv.org/abs/2403.17320)
