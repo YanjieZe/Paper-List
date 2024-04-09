@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.04, Finding Visual Task Vectors, [arXiv](https://arxiv.org/abs/2404.05729)
 - NeurIPS 2022, Visual Prompting via **Image Inpainting**, [arXiv](https://arxiv.org/abs/2209.00647)
 - CVPR 2024 highlight, **SpatialTracker**: Tracking Any 2D Pixels in 3D Space, [Website](https://henry123-boy.github.io/SpaTracker/)
 - CVPR 2024, **NeRF2Physics**: Physical Property Understanding from Language-Embedded Feature Fields, [Website](https://ajzhai.github.io/NeRF2Physics/)
