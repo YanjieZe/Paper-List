@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 highlight, **SpatialTracker**: Tracking Any 2D Pixels in 3D Space, [Website](https://henry123-boy.github.io/SpaTracker/)
 - CVPR 2024, **NeRF2Physics**: Physical Property Understanding from Language-Embedded Feature Fields, [Website](https://ajzhai.github.io/NeRF2Physics/)
 - CVPR 2024, **Scaling Laws of Synthetic Images** for Model Training ... for Now, [arXiv](https://arxiv.org/abs/2312.04567)
 - CVPR 2024, A Vision Check-up for Language Models, [arXiv](https://arxiv.org/abs/2401.01862)
