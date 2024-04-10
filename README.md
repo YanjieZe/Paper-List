@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.04, Reconstructing **Hand-Held Objects** in 3D, [arXiv](https://arxiv.org/abs/2404.06507)
 - ICRA 2024, **Actor-Critic Model Predictive Control**, [arXiv](https://arxiv.org/abs/2306.09852)
 - arXiv 2024.04, Finding Visual Task Vectors, [arXiv](https://arxiv.org/abs/2404.05729)
 - NeurIPS 2022, Visual Prompting via **Image Inpainting**, [arXiv](https://arxiv.org/abs/2209.00647)
