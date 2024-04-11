@@ -43,6 +43,9 @@ Papers:
 
 
 # Recent Random Papers
+- CVPR 2024 oral, **MicKey**: Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences, [Website](https://nianticlabs.github.io/mickey/)
+- arXiv 2024.04, **ZeST**: Zero-Shot Material Transfer from a Single Image, [Website](https://ttchengab.github.io/zest/)
+- arXiv 2024.03, **Keypoint Action Tokens** Enable In-Context Imitation Learning in Robotics, [Website](https://www.robot-learning.uk/keypoint-action-tokens)
 - arXiv 2024.04, Reconstructing **Hand-Held Objects** in 3D, [arXiv](https://arxiv.org/abs/2404.06507)
 - ICRA 2024, **Actor-Critic Model Predictive Control**, [arXiv](https://arxiv.org/abs/2306.09852)
 - arXiv 2024.04, Finding Visual Task Vectors, [arXiv](https://arxiv.org/abs/2404.05729)
