@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.04, **QuasiSim**: Parameterized Quasi-Physical Simulators for Dexterous Manipulations Transfer, [Website](https://meowuu7.github.io/QuasiSim/)
 - arXiv 2024.04, **Policy-Guided Diffusion**, [arXiv](https://arxiv.org/abs/2404.06356) / [Github](https://github.com/EmptyJackson/policy-guided-diffusion)
 - RoboSoft 2024, Body Design and Gait Generation of **Chair-Type Asymmetrical Tripedal** Low-rigidity Robot, [Website](https://shin0805.github.io/chair-type-tripedal-robot/)
 - CVPR 2024 oral, **MicKey**: Matching 2D Images in 3D: Metric Relative Pose from Metric Correspondences, [Website](https://nianticlabs.github.io/mickey/)
