@@ -1,5 +1,5 @@
 # Humanoid
-- arXiv 2024.03, Learning Human-to-Humanoid **Real-Time Whole-Body Teleoperation**, [Website](https://human2humanoid.com/) 
+- arXiv 2024.03, **H2O**: Learning Human-to-Humanoid **Real-Time Whole-Body Teleoperation**, [Website](https://human2humanoid.com/) 
 - arXiv 2024.02, Humanoid Locomotion as **Next Token Prediction**, [arXiv](https://arxiv.org/abs/2402.19469)
 - CVPR 2024, **Egocentric Whole-Body Motion Capture** with FisheyeViT and Diffusion-Based Motion Refinement, [Website](https://people.mpi-inf.mpg.de/~jianwang/projects/egowholemocap/index.html)
 - arXiv 2024.02, **Expressive Whole-Body Control** for Humanoid Robots, [Website](https://expressive-humanoid.github.io/)
@@ -16,7 +16,8 @@
 - TOG 2022, **ASE**: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters, [arXiv](https://arxiv.org/abs/2205.01906) / [Github](https://github.com/nv-tlabs/ASE)
 - TOG 2021, **AMP**: adversarial motion priors for stylized physics-based character control, [Website](https://xbpeng.github.io/projects/AMP/)
 - CoRL 2021, Learning to Walk in Minutes Using **Massively Parallel** Deep Reinforcement Learning, Github](https://github.com/leggedrobotics/legged_gym)
-
+- TOG 2018, **DeepMimic**: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills, [Website](https://xbpeng.github.io/projects/DeepMimic/index.html)
+- 
 # Humanoid Robot
 - [Unitree H1](https://www.unitree.com/h1/)
 - [BostomDynamics ATLAS](https://bostondynamics.com/atlas/)
