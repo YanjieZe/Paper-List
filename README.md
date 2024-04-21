@@ -43,6 +43,8 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2015.09, **MPPI**: Model Predictive Path Integral Control using Covariance Variable Importance Sampling, [arXiv](https://arxiv.org/abs/1509.01149)
+- arXiv 2023.07, Sampling-based Model Predictive Control Leveraging Parallelizable Physics Simulations, [arXiv](https://arxiv.org/abs/2307.09105) / [Github](https://github.com/tud-airlab/mppi-isaac)
 - arXiv 2024.04, **BLINK**: Multimodal Large Language Models Can See but Not Perceive, [Website](https://zeyofu.github.io/blink/)
 - arXiv 2024.04, **Factorized Diffusion**: Perceptual Illusions by Noise Decomposition, [Website](https://dangeng.github.io/factorized_diffusion/)
 - CVPR 2024, Probing the 3D Awareness of Visual Foundation Models, [arXiv](https://arxiv.org/abs/2404.08636)
