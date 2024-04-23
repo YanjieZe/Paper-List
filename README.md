@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.04, **PhysDreamer**: Physics-Based Interaction with 3D Objects via Video Generation, [Website](https://physdreamer.github.io/)
 - arXiv 2015.09, **MPPI**: Model Predictive Path Integral Control using Covariance Variable Importance Sampling, [arXiv](https://arxiv.org/abs/1509.01149)
 - arXiv 2023.07, Sampling-based Model Predictive Control Leveraging Parallelizable Physics Simulations, [arXiv](https://arxiv.org/abs/2307.09105) / [Github](https://github.com/tud-airlab/mppi-isaac)
 - arXiv 2024.04, **BLINK**: Multimodal Large Language Models Can See but Not Perceive, [Website](https://zeyofu.github.io/blink/)
