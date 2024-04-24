@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICRA 2024 workshop, Object-Aware **Gaussian Splatting for Robotic Manipulation**, [OpenReview](https://openreview.net/forum?id=gdRI43hDgo)
 - arXiv 2024.04, **PhysDreamer**: Physics-Based Interaction with 3D Objects via Video Generation, [Website](https://physdreamer.github.io/)
 - arXiv 2015.09, **MPPI**: Model Predictive Path Integral Control using Covariance Variable Importance Sampling, [arXiv](https://arxiv.org/abs/1509.01149)
 - arXiv 2023.07, Sampling-based Model Predictive Control Leveraging Parallelizable Physics Simulations, [arXiv](https://arxiv.org/abs/2307.09105) / [Github](https://github.com/tud-airlab/mppi-isaac)
