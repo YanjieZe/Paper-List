@@ -12,6 +12,7 @@
 - ICLR 2024, **Habitat 3.0**: A Co-Habitat for Humans, Avatars, and Robots, [OpenReview](https://openreview.net/forum?id=4znwzG92CE)
 - Humanoids 2023 oral, Deep **Imitation Learning** for Humanoid Loco-manipulation through Human Teleoperation, [Website](https://ut-austin-rpl.github.io/TRILL/)
 - arXiv 2023.12, Real-World Humanoid Locomotion with **Reinforcement Learning**, [Website](https://learning-humanoid-locomotion.github.io/)
+- arXiv 2023.10, Sim-to-Real Learning for **Humanoid Box Loco-Manipulation**, [arXiv](https://arxiv.org/abs/2310.03191)
 - ICCV 2023, **PHC**: **Perpetual Humanoid Control** for Real-time Simulated Avatars, [Website](https://www.zhengyiluo.com/PHC-Site/)
 - NIPS 2023, **SMPLer-X**: Scaling Up Expressive Human Pose and Shape Estimation, [Website](https://caizhongang.github.io/projects/SMPLer-X/) / [Github](https://github.com/caizhongang/SMPLer-X)
 - ICLR 2023, **MDM**: Human Motion Diffusion Model, [Website](https://guytevet.github.io/mdm-page/)
