@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- ICCV 2023, Canonical Factors for Hybrid Neural Fields, [Website](https://brentyi.github.io/tilted/)
 - arXiv 2024.04, **HATO**: Learning Visuotactile Skills with Two Multifingered Hands, [Website](https://toruowo.github.io/hato/)
 - arXiv 2024.04, **SpringGrasp**: Synthesizing Compliant Dexterous Grasps under Shape Uncertainty, [Website](https://stanford-tml.github.io/SpringGrasp/)
 - ICRA 2024 workshop, Object-Aware **Gaussian Splatting for Robotic Manipulation**, [OpenReview](https://openreview.net/forum?id=gdRI43hDgo)
