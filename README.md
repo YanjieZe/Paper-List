@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.04, **SpringGrasp**: Synthesizing Compliant Dexterous Grasps under Shape Uncertainty, [Website](https://stanford-tml.github.io/SpringGrasp/)
 - ICRA 2024 workshop, Object-Aware **Gaussian Splatting for Robotic Manipulation**, [OpenReview](https://openreview.net/forum?id=gdRI43hDgo)
 - arXiv 2024.04, **PhysDreamer**: Physics-Based Interaction with 3D Objects via Video Generation, [Website](https://physdreamer.github.io/)
 - arXiv 2015.09, **MPPI**: Model Predictive Path Integral Control using Covariance Variable Importance Sampling, [arXiv](https://arxiv.org/abs/1509.01149)
