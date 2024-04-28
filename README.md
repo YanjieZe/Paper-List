@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- SIIGRAPH 2023, **OctFormer**: Octree-based Transformers for 3D Point Clouds, [Website](https://wang-ps.github.io/octformer.html)
 - arXiv 2024.04, **Clio**: Real-time Task-Driven Open-Set 3D Scene Graphs, [arXiv](https://arxiv.org/abs/2404.13696)
 - ICCV 2023, Canonical Factors for Hybrid Neural Fields, [Website](https://brentyi.github.io/tilted/)
 - arXiv 2024.04, **HATO**: Learning Visuotactile Skills with Two Multifingered Hands, [Website](https://toruowo.github.io/hato/)
