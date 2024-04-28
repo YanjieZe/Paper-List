@@ -1,6 +1,7 @@
 # Humanoid
 - SIGGRAPH 2023, Synthesizing Physical Character-Scene Interactions, [Website](https://xbpeng.github.io/projects/InterPhys/index.html)
 - SIGGRAPH 2023 best paper honorable mention, Learning Physically Simulated Tennis Skills from Broadcast Videos, [Website](https://xbpeng.github.io/projects/Vid2Player3D/index.html)
+- SIGGRAPH 2023, Object Motion Guided Human Motion Synthesis, [Website](https://lijiaman.github.io/projects/omomo/)
 - arXiv 2024.03, **H2O**: Learning Human-to-Humanoid **Real-Time Whole-Body Teleoperation**, [Website](https://human2humanoid.com/) 
 - arXiv 2024.02, Humanoid Locomotion as **Next Token Prediction**, [arXiv](https://arxiv.org/abs/2402.19469)
 - CVPR 2024, **Egocentric Whole-Body Motion Capture** with FisheyeViT and Diffusion-Based Motion Refinement, [Website](https://people.mpi-inf.mpg.de/~jianwang/projects/egowholemocap/index.html)
