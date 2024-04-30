@@ -1,4 +1,4 @@
-![image](https://github.com/YanjieZe/Paper-List/assets/59699800/79444535-5f3f-4a42-bff7-eee12b4d9f6a)# A Paper List of [Yanjie Ze](https://yanjieze.com/)
+# A Paper List of [Yanjie Ze](https://yanjieze.com/)
 
 Topics:
 - Learning
