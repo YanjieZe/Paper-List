@@ -1,4 +1,4 @@
-# A Paper List of [Yanjie Ze](https://yanjieze.com/)
+![image](https://github.com/YanjieZe/Paper-List/assets/59699800/79444535-5f3f-4a42-bff7-eee12b4d9f6a)# A Paper List of [Yanjie Ze](https://yanjieze.com/)
 
 Topics:
 - Learning
@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.04, Editable Image Elements for Controllable Synthesis, [Website](https://jitengmu.github.io/Editable_Image_Elements/)
 - arXiv 2024.04, **EgoPet**: Egomotion and Interaction Data from an Animal's Perspective, [Website](https://www.amirbar.net/egopet/)
 - SIIGRAPH 2023, **OctFormer**: Octree-based Transformers for 3D Point Clouds, [Website](https://wang-ps.github.io/octformer.html)
 - arXiv 2024.04, **Clio**: Real-time Task-Driven Open-Set 3D Scene Graphs, [arXiv](https://arxiv.org/abs/2404.13696)
