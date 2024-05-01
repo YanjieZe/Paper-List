@@ -1,4 +1,5 @@
 # Gaussian Splatting
+- SIGGRAPH 2024, **2DGS**: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, [Website](https://surfsplatting.github.io/)
 - arXiv 2024.03, Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians, [arXiv](https://arxiv.org/abs/2403.09434)
 - arXiv 2024.04, **2DGS**: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, [Website](https://surfsplatting.github.io/)
 - arXiv 2024.03, **Gamba**: Marry Gaussian Splatting with Mamba for single view 3D reconstruction, [arXiv](https://arxiv.org/abs/2403.18795)
