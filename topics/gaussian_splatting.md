@@ -1,4 +1,5 @@
 # Gaussian Splatting
+- arXiv 2024.04, **GS-LRM**: Large Reconstruction Model for 3D Gaussian Splatting, [Website](https://sai-bi.github.io/project/gs-lrm/)
 - SIGGRAPH 2024, **2DGS**: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, [Website](https://surfsplatting.github.io/)
 - arXiv 2024.03, Reconstruction and Simulation of Elastic Objects with Spring-Mass 3D Gaussians, [arXiv](https://arxiv.org/abs/2403.09434)
 - arXiv 2024.04, **2DGS**: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, [Website](https://surfsplatting.github.io/)
