@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- RSS 2023, **IndustReal**: Transferring Contact-Rich Assembly Tasks from Simulation to Reality, [Website](https://sites.google.com/nvidia.com/industreal)
 - arXiv 2024.04, Editable Image Elements for Controllable Synthesis, [Website](https://jitengmu.github.io/Editable_Image_Elements/)
 - arXiv 2024.04, **EgoPet**: Egomotion and Interaction Data from an Animal's Perspective, [Website](https://www.amirbar.net/egopet/)
 - SIIGRAPH 2023, **OctFormer**: Octree-based Transformers for 3D Point Clouds, [Website](https://wang-ps.github.io/octformer.html)
