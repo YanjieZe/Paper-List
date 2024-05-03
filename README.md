@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.05, **DrEureka**: Language Model Guided Sim-To-Real Transfer, [Website](https://eureka-research.github.io/dr-eureka/)
 - arXiv 2024.05, Customizing Text-to-Image Models with a Single Image Pair, [Website](https://paircustomization.github.io/)
 - arXiv 2024.05, **SATO**: Stable Text-to-Motion Framework, [arXiv](https://arxiv.org/abs/2405.01461)
 - ICRA 2024, Learning Force Control for Legged Manipulation, [arXiv](https://arxiv.org/abs/2405.01402)
