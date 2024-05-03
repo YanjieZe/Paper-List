@@ -43,6 +43,11 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.05, Customizing Text-to-Image Models with a Single Image Pair, [Website](https://paircustomization.github.io/)
+- arXiv 2024.05, **SATO**: Stable Text-to-Motion Framework, [arXiv](https://arxiv.org/abs/2405.01461)
+- ICRA 2024, Learning Force Control for Legged Manipulation, [arXiv](https://arxiv.org/abs/2405.01402)
+- arXiv 2024.05, **IntervenGen**: Interventional Data Generation for Robust and Data-Efficient Robot Imitation Learning, [arXiv](https://arxiv.org/abs/2405.01472)
+- arXiv 2024.05, **Track2Act**: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation, [arXiv](https://arxiv.org/abs/2405.01527)
 - arXiv 2024.04, **KAN**: Kolmogorov-Arnold Networks, [arXiv](https://arxiv.org/abs/2404.19756)
 - RSS 2023, **IndustReal**: Transferring Contact-Rich Assembly Tasks from Simulation to Reality, [Website](https://sites.google.com/nvidia.com/industreal)
 - arXiv 2024.04, Editable Image Elements for Controllable Synthesis, [Website](https://jitengmu.github.io/Editable_Image_Elements/)
