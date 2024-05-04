@@ -1,5 +1,8 @@
 # Large Language Model (LLM)
 
+## Recent
+- arXiv 2024.04, **LEGENT**: Open Platform for Embodied Agents, [arXiv](https://arxiv.org/abs/2404.18243)
+- CVPR 2024, **Vila**: On pretraining for visual language models, [arXiv](https://arxiv.org/abs/2312.07533)
 
 ## LLM + Decision Making
 - arXiv 2023.11, **GPT-4V(ision) for Robotics**: Multimodal Task Planning from Human Demonstration, [Website](https://microsoft.github.io/GPT4Vision-Robot-Manipulation-Prompts/)
