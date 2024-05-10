@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.05, **Humanoid Parkour** Learning, [Website](https://humanoid4parkour.github.io/)
 - arXiv 2024.05, Evaluating Real-World Robot Manipulation Policies in Simulation, [Website](https://simpler-env.github.io/)
 - arXiv 2024.05, **ScrewMimic**: Bimanual Imitation from Human Videos with Screw Space Projection, [Website](https://robin-lab.cs.utexas.edu/ScrewMimic/)
 - arXiv 2024.04, **DiffuseLoco**: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets, [arXiv](https://arxiv.org/abs/2404.19264)
