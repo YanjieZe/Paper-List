@@ -35,7 +35,7 @@ Papers:
   - [ICCV 2023](https://openaccess.thecvf.com/ICCV2023?day=all)
   - [ICML 2023](https://icml.cc/virtual/2023/papers.html?filter=titles)
   - [SIGGRAPH 2023](https://kesen.realtimerendering.com/sig2023.html)
-  - [RSS 2023](https://roboticsconference.org/program/papers/)
+  - [RSS 2023](https://roboticsconference.org/2023/program/papers/)
   - [CVPR 2023](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)
   - [ICLR 2023](https://iclr.cc/virtual/2023/papers.html?filter=titles)
 - 2022
@@ -44,7 +44,7 @@ Papers:
 
 # Recent Random Papers
 - arXiv 2024.05, **SPIN**: Simultaneous Perception, Interaction and Navigation, [Website](https://spin-robot.github.io/)
-- arXiv 2024.05, **Consistency Policy**: Accelerated Visuomotor Policies via Consistency Distillation, [Website](https://consistency-policy.github.io/)
+- RSS 2024, **Consistency Policy**: Accelerated Visuomotor Policies via Consistency Distillation, [Website](https://consistency-policy.github.io/)
 - arXiv 2024.05, **Humanoid Parkour** Learning, [Website](https://humanoid4parkour.github.io/)
 - arXiv 2024.05, Evaluating Real-World Robot Manipulation Policies in Simulation, [Website](https://simpler-env.github.io/)
 - arXiv 2024.05, **ScrewMimic**: Bimanual Imitation from Human Videos with Screw Space Projection, [Website](https://robin-lab.cs.utexas.edu/ScrewMimic/)
