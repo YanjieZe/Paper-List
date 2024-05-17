@@ -43,6 +43,8 @@ Papers:
 
 
 # Recent Random Papers
+- SIGGRAPH 2024, **Text-to-Vector Generation** with Neural Path Representation, [Website](https://intchous.github.io/T2V-NPR/)
+- arXiv 2024.05, **Toon3D**: Seeing Cartoons from a New Perspective, [Website](https://toon3d.studio/)
 - arXiv 2024.05, **TRANSIC**: Sim-to-Real Policy Transfer by Learning from Online Correction, [Website](https://transic-robot.github.io/)
 - RSS 2024, **Natural Language** Can Help Bridge the Sim2Real Gap, [arXiv](https://arxiv.org/abs/2405.10020)
 - ICML 2024, The **Platonic Representation** Hypothesis, [arXiv](https://arxiv.org/abs/2405.07987)
