@@ -43,7 +43,7 @@ Papers:
 
 
 # Recent Random Papers
-- arXiv 2024.05, The Platonic Representation Hypothesis, [arXiv](https://arxiv.org/abs/2405.07987)
+- ICML 2024, The Platonic Representation Hypothesis, [arXiv](https://arxiv.org/abs/2405.07987)
 - arXiv 2024.05, **SPIN**: Simultaneous Perception, Interaction and Navigation, [Website](https://spin-robot.github.io/)
 - RSS 2024, **Consistency Policy**: Accelerated Visuomotor Policies via Consistency Distillation, [Website](https://consistency-policy.github.io/)
 - arXiv 2024.05, **Humanoid Parkour** Learning, [Website](https://humanoid4parkour.github.io/)
