@@ -43,7 +43,8 @@ Papers:
 
 
 # Recent Random Papers
-- ICML 2024, The Platonic Representation Hypothesis, [arXiv](https://arxiv.org/abs/2405.07987)
+- RSS 2024, **Natural Language** Can Help Bridge the Sim2Real Gap, [arXiv](https://arxiv.org/abs/2405.10020)
+- ICML 2024, The **Platonic Representation** Hypothesis, [arXiv](https://arxiv.org/abs/2405.07987)
 - arXiv 2024.05, **SPIN**: Simultaneous Perception, Interaction and Navigation, [Website](https://spin-robot.github.io/)
 - RSS 2024, **Consistency Policy**: Accelerated Visuomotor Policies via Consistency Distillation, [Website](https://consistency-policy.github.io/)
 - arXiv 2024.05, **Humanoid Parkour** Learning, [Website](https://humanoid4parkour.github.io/)
