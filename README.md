@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.05, **TRANSIC**: Sim-to-Real Policy Transfer by Learning from Online Correction, [Website](https://transic-robot.github.io/)
 - RSS 2024, **Natural Language** Can Help Bridge the Sim2Real Gap, [arXiv](https://arxiv.org/abs/2405.10020)
 - ICML 2024, The **Platonic Representation** Hypothesis, [arXiv](https://arxiv.org/abs/2405.07987)
 - arXiv 2024.05, **SPIN**: Simultaneous Perception, Interaction and Navigation, [Website](https://spin-robot.github.io/)
