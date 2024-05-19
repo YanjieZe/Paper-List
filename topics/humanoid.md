@@ -1,4 +1,5 @@
 # Humanoid
+- arXiv 2024.05, **I-CTRL**: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning, [aXiv](https://arxiv.org/abs/2405.08726)
 - SIGGRAPH 2023, Synthesizing Physical Character-Scene Interactions, [Website](https://xbpeng.github.io/projects/InterPhys/index.html)
 - SIGGRAPH 2023 best paper honorable mention, Learning Physically Simulated Tennis Skills from Broadcast Videos, [Website](https://xbpeng.github.io/projects/Vid2Player3D/index.html)
 - SIGGRAPH 2023, Object Motion Guided Human Motion Synthesis, [Website](https://lijiaman.github.io/projects/omomo/)
