@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.05, **Pandora**: Towards General World Model with Natural Language Actions and Video States, [Website](https://world-model.maitrix.org/)
 - arXiv 2024.05, **Images that Sound**: Composing Images and Sounds on a Single Canvas, [Website](https://ificl.github.io/images-that-sound/)
 - SIGGRAPH 2024, **Text-to-Vector Generation** with Neural Path Representation, [Website](https://intchous.github.io/T2V-NPR/)
 - arXiv 2024.03, **GeoWizard**: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image, [Website](https://fuxiao0719.github.io/projects/geowizard/)
