@@ -44,6 +44,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- RSS 2024, **RoboCasa**: Large-Scale Simulation of Everyday Tasks for Generalist Robots, [Website](https://robocasa.ai/)
 - CVPR 2024, **OmniGlue**: Generalizable Feature Matching with Foundation Model Guidance, [Website](https://hwjiang1510.github.io/OmniGlue/)
 - arXiv 2024.05, **Pandora**: Towards General World Model with Natural Language Actions and Video States, [Website](https://world-model.maitrix.org/)
 - arXiv 2024.05, **Images that Sound**: Composing Images and Sounds on a Single Canvas, [Website](https://ificl.github.io/images-that-sound/)
