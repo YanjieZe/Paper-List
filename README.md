@@ -43,6 +43,7 @@ Papers:
 
 
 # Recent Random Papers
+- arXiv 2024.05, **Model-based Diffusion** for Trajectory Optimization, [Website](https://lecar-lab.github.io/mbd/)
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
 - RSS 2024, **RoboCasa**: Large-Scale Simulation of Everyday Tasks for Generalist Robots, [Website](https://robocasa.ai/)
 - CVPR 2024, **OmniGlue**: Generalizable Feature Matching with Foundation Model Guidance, [Website](https://hwjiang1510.github.io/OmniGlue/)
