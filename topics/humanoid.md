@@ -1,5 +1,5 @@
 # Humanoid
-- arXiv 2024.05, **Hierarchical World Models** as Visual Whole-Body Humanoid Controllers, {Website](https://www.nicklashansen.com/rlpuppeteer/)
+- arXiv 2024.05, **Hierarchical World Models** as Visual Whole-Body Humanoid Controllers, [Website](https://www.nicklashansen.com/rlpuppeteer/)
 - ICCV 2023, Humans in 4D: Reconstructing and Tracking Humans with Transformers, [Website](https://shubham-goel.github.io/4dhumans/)
 - arXiv 2024.05, **I-CTRL**: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning, [aXiv](https://arxiv.org/abs/2405.08726)
 - SIGGRAPH 2023, Synthesizing Physical Character-Scene Interactions, [Website](https://xbpeng.github.io/projects/InterPhys/index.html)
