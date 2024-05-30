@@ -1,4 +1,5 @@
 # Humanoid
+- arXiv 2024.05, Fusing uncalibrated IMUs and handheld smartphone video to reconstruct knee kinematics, [arXiv](https://arxiv.org/abs/2405.17368) / [Twitter](https://x.com/peabody124/status/1795500136119840883)
 - arXiv 2024.05, **Hierarchical World Models** as Visual Whole-Body Humanoid Controllers, [Website](https://www.nicklashansen.com/rlpuppeteer/)
 - ICCV 2023, Humans in 4D: Reconstructing and Tracking Humans with Transformers, [Website](https://shubham-goel.github.io/4dhumans/)
 - arXiv 2024.05, **I-CTRL**: Imitation to Control Humanoid Robots Through Constrained Reinforcement Learning, [aXiv](https://arxiv.org/abs/2405.08726)
