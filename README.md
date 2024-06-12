@@ -44,6 +44,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- CVPR 2024 highlight, Image Neural Field Diffusion Models, [Website](https://yinboc.github.io/infd/)
 - RSS 2024, **MPI**: Learning Manipulation by Predicting Interaction, [Website](https://opendrivelab.github.io/mpi.github.io/)
 - arXiv 2024.05, **Model-based Diffusion** for Trajectory Optimization, [Website](https://lecar-lab.github.io/mbd/)
 - RSS 2024, **RoboCasa**: Large-Scale Simulation of Everyday Tasks for Generalist Robots, [Website](https://robocasa.ai/)
