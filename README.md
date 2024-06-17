@@ -44,6 +44,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- CVPR 2024 oral, **DSINE**: Rethinking Inductive Biases for Surface Normal Estimation, [Website](https://baegwangbin.github.io/DSINE/)
 - arXiv 2024.06, **An Image is Worth More Than 16x16 Patches**: Exploring Transformers on Individual Pixels, [arXiv](https://arxiv.org/abs/2406.09415)
 - arXiv 2024.06, **BAKU**: An Efficient Transformer for Multi-Task Policy Learning, [Website](https://baku-robot.github.io/)
 - CVPR 2024 highlight, Image Neural Field Diffusion Models, [Website](https://yinboc.github.io/infd/)
