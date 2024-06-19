@@ -1,4 +1,5 @@
 # Gaussian Splatting
+- arXiv 2024.06, **Physically Embodied Gaussian Splatting**: A Realtime Correctable World Model for Robotics, [Website](https://arxiv.org/abs/2406.10788)
 - arXiv 2024.05, **DreamScene4D**: Dynamic Multi-Object Scene Generation from Monocular Videos, [Website](https://dreamscene4d.github.io/)
 - arXiv 2024.04, **GS-LRM**: Large Reconstruction Model for 3D Gaussian Splatting, [Website](https://sai-bi.github.io/project/gs-lrm/)
 - SIGGRAPH 2024, **2DGS**: 2D Gaussian Splatting for Geometrically Accurate Radiance Fields, [Website](https://surfsplatting.github.io/)
