@@ -46,6 +46,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.07, **UnSAM**: Segment Anything without Supervision, [Github](https://github.com/frank-xwang/UnSAM)
 - arXiv 2024.06, **Dreamitate**: Real-World Visuomotor Policy Learning via Video Generation, [Website](https://dreamitate.cs.columbia.edu/)
 - CVPR 2024 best paper, Generative Image Dynamics, [Website](https://generative-dynamics.github.io/)
 - CVPR 2024 highlight, **XCube**: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies, [Website](https://research.nvidia.com/labs/toronto-ai/xcube/)
