@@ -46,6 +46,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- SIGGRAPH 2024 Best Paper Honorable Mention, CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets, [Website](https://sites.google.com/view/clay-3dlm)
 - arXiv 2024.07, **UnSAM**: Segment Anything without Supervision, [Github](https://github.com/frank-xwang/UnSAM)
 - arXiv 2024.06, **Dreamitate**: Real-World Visuomotor Policy Learning via Video Generation, [Website](https://dreamitate.cs.columbia.edu/)
 - CVPR 2024 best paper, Generative Image Dynamics, [Website](https://generative-dynamics.github.io/)
