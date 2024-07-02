@@ -46,6 +46,10 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- RSS 2024, **RoboPack**: Learning Tactile-Informed Dynamics Models for Dense Packing, [Website](https://robo-pack.github.io/)
+- arXiv 2024.07, **EquiBot**: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning, [Website](https://equi-bot.github.io/)
+- arXiv 2024.07, **Sparse Diffusion Policy**: A Sparse, Reusable, and Flexible Policy for Robot Learning, [arXiv](https://arxiv.org/abs/2407.01531) / [Website](https://forrest-110.github.io/sparse_diffusion_policy/)
+- arXiv 2024.07, **Open-TeleVision**: Teleoperation with Immersive Active Visual Feedback, [Website](https://robot-tv.github.io/)
 - SIGGRAPH 2024 Best Paper Honorable Mention, CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets, [Website](https://sites.google.com/view/clay-3dlm)
 - arXiv 2024.07, **UnSAM**: Segment Anything without Supervision, [Github](https://github.com/frank-xwang/UnSAM)
 - arXiv 2024.06, **Dreamitate**: Real-World Visuomotor Policy Learning via Video Generation, [Website](https://dreamitate.cs.columbia.edu/)
