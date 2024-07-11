@@ -46,6 +46,9 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.07, Continuous Control with **Coarse-to-fine Reinforcement Learning**, [Website](https://younggyo.me/cqn/)
+- arXiv 2024.07, **BiGym**: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark, [Website](https://chernyadev.github.io/bigym/)
+- arXiv 2024.07, **Generative Image as Action Models**, [Website](https://genima-robot.github.io/)
 - arXiv 2024.07, **Omnigrasp**: Grasping Diverse Objects with Simulated Humanoids, [Website](https://www.zhengyiluo.com/Omnigrasp-Site/)
 - RSS 2024, **RoboPack**: Learning Tactile-Informed Dynamics Models for Dense Packing, [Website](https://robo-pack.github.io/)
 - arXiv 2024.07, **EquiBot**: SIM(3)-Equivariant Diffusion Policy for Generalizable and Data Efficient Learning, [Website](https://equi-bot.github.io/)
