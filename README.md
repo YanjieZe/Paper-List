@@ -46,6 +46,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- SIGGRAPH 2024, **Neural Gaussian Scale-Space Fields**, [Website](https://neural-gaussian-scale-space-fields.mpi-inf.mpg.de/)
 - arXiv 2024.07, A Simulation Benchmark for **Autonomous Racing** with Large-Scale Human Data, [Website](https://assetto-corsa-gym.github.io/)
 - arXiv 2024.07, **From Imitation to Refinement**: Residual RL for Precise Visual Assembly,[Website](https://residual-assembly.github.io/)
 - arXiv 2024.07, **Shape of Motion**: 4D Reconstruction from a Single Video, [Website](https://shape-of-motion.github.io/)
