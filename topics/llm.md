@@ -1,6 +1,7 @@
 # Large Language Model (LLM)
 
 ## Recent
+- arXiv 2023.08, **LISA**: Reasoning Segmentation via Large Language Model, [arXiv](https://arxiv.org/abs/2308.00692)
 - arXiv 2024.04, **LEGENT**: Open Platform for Embodied Agents, [arXiv](https://arxiv.org/abs/2404.18243)
 - CVPR 2024, **Vila**: On pretraining for visual language models, [arXiv](https://arxiv.org/abs/2312.07533)
 - arXiv 2023.10, What's the Magic Word? A **Control Theory of LLM Prompting**, [arXiv](https://arxiv.org/abs/2310.04444) 
