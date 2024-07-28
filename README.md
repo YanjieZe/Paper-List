@@ -48,6 +48,8 @@ Papers:
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
 - arXiv 2024.07, **Flow** as the Cross-Domain Manipulation Interface, [arXiv](https://arxiv.org/abs/2407.15208)
 - RSS 2024, Offline Imitation Learning Through **Graph Search and Retrieval**, [arXiv](https://arxiv.org/abs/2407.15403)
+- CVPR 2024, **HOLD**: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video, [Website](https://zc-alexfan.github.io/hold)
+- CVPR 2023, **ARCTIC**: A Dataset for Dexterous Bimanual Hand-Object Manipulation, [Website](https://arctic.is.tue.mpg.de/)
 - SIGGRAPH 2024, **Neural Gaussian Scale-Space Fields**, [Website](https://neural-gaussian-scale-space-fields.mpi-inf.mpg.de/)
 - arXiv 2024.07, A Simulation Benchmark for **Autonomous Racing** with Large-Scale Human Data, [Website](https://assetto-corsa-gym.github.io/)
 - arXiv 2024.07, **From Imitation to Refinement**: Residual RL for Precise Visual Assembly,[Website](https://residual-assembly.github.io/)
