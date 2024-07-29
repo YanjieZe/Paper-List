@@ -46,6 +46,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.07, Lessons from Learning to **Spin “Pens”**, [Website](https://penspin.github.io/)
 - arXiv 2024.07, **Flow** as the Cross-Domain Manipulation Interface, [arXiv](https://arxiv.org/abs/2407.15208)
 - RSS 2024, Offline Imitation Learning Through **Graph Search and Retrieval**, [arXiv](https://arxiv.org/abs/2407.15403)
 - CVPR 2024, **HOLD**: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video, [Website](https://zc-alexfan.github.io/hold)
