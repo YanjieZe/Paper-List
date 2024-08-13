@@ -46,6 +46,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.08, **Body Transformer**: Leveraging Robot Embodiment for Policy Learning, [arXiv](https://arxiv.org/abs/2408.06316)
 - ICML 2024 oral, **SAPG**: Split and Aggregate Policy Gradients, [Website](https://sapg-rl.github.io/)
 - Humanoid 2006, Dynamic Pen Spinning Using a High-speed Multifingered Hand with High-speed Tactile Sensor
 - IROS 2024, Radiance Fields for Robotic Teleoperation, [arXiv](https://arxiv.org/abs/2407.20194)
