@@ -46,6 +46,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.08, **Splatt3R**: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs, [Website](https://splatt3r.active.vision/)
 - arXiv 2024.08, **CrossFormer**: Scaling Cross-Embodied Learning for Manipulation, Navigation, Locomotion, and Aviation, [Website](https://crossformer-model.github.io/)
 - arXiv 2024.08, **UniT**: Unified Tactile Representation for Robot Learning, [Website](https://zhengtongxu.github.io/unifiedtactile.github.io/)
 - arXiv 2024.08, **Body Transformer**: Leveraging Robot Embodiment for Policy Learning, [arXiv](https://arxiv.org/abs/2408.06316)
