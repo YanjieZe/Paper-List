@@ -46,6 +46,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.08, **SkillMimic**: Learning Reusable Basketball Skills from Demonstrations, [Website](https://ingrid789.github.io/SkillMimic/)
 - arXiv 2024.08, **ReKep**: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation, [Website](https://rekep-robot.github.io/)
 - arXiv 2024.08, In-Context Imitation Learning via Next-Token Prediction, [arXiv](https://arxiv.org/abs/2408.15980)
 - arXiv 2024.08, **GameNGen**: Diffusion Models Are Real-Time Game Engines, [Website](https://gamengen.github.io/)
