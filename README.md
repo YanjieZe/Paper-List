@@ -46,6 +46,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.08, **Bidirectional Decoding**: Improving Action Chunking via Closed-Loop Resampling, [Website](https://bid-robot.github.io/)
 - arXiv 2024.08, **Unsupervised-to-Online** Reinforcement Learning, [arXiv](https://www.arxiv.org/abs/2408.14785)
 - arXiv 2024.08, **SkillMimic**: Learning Reusable Basketball Skills from Demonstrations, [Website](https://ingrid789.github.io/SkillMimic/)
 - arXiv 2024.08, **ReKep**: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation, [Website](https://rekep-robot.github.io/)
