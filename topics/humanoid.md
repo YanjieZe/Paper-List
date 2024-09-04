@@ -1,4 +1,5 @@
 # Humanoid
+- SIGGRAPH Asia 2024, **GVHMR**: World-Grounded Human Motion Recovery via Gravity-View Coordinates, [Website](https://zju3dv.github.io/gvhmr/)
 - arXiv 2024.07, **SMPLOlympics**: Sports Environments for Physically Simulated Humanoids, [Website](https://smplolympics.github.io/SMPLOlympics-Site/)
 - arXiv 2024.06, **HumanPlus**: Humanoid Shadowing and Imitation from Humans, [Website](https://humanoid-ai.github.io/)
 - arXiv 2024.06, **WoCoCo**: Learning Whole-Body Humanoid Control with Sequential Contacts, [Website](https://lecar-lab.github.io/wococo/)
