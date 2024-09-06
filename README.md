@@ -27,6 +27,7 @@ Topics:
 
 Papers:
 - 2024
+  - [CoRL 2024](https://openreview.net/group?id=robot-learning.org/CoRL/2024/Conference#tab-accept)
   - [RSS 2024](https://roboticsconference.org/program/papers/)
   - [3DV 2024](https://3dvconf.github.io/2024/accepted-papers/)
   - [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) / [interactive overview](https://public.tableau.com/views/CVPR2024/PaperList?%3AshowVizHome=no)
