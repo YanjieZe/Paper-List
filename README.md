@@ -47,6 +47,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- CoRL 2024, **VISTA**: View-Invariant Policy Learning via Zero-Shot Novel View Synthesis, [arXiv](https://arxiv.org/abs/2409.03685)
 - arXiv 2024.08, **Bidirectional Decoding**: Improving Action Chunking via Closed-Loop Resampling, [Website](https://bid-robot.github.io/)
 - arXiv 2024.08, **Unsupervised-to-Online** Reinforcement Learning, [arXiv](https://www.arxiv.org/abs/2408.14785)
 - arXiv 2024.08, **SkillMimic**: Learning Reusable Basketball Skills from Demonstrations, [Website](https://ingrid789.github.io/SkillMimic/)
