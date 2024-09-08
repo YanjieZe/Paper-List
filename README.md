@@ -47,6 +47,14 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- CoRL 2024, **Object-Centric Dexterous Manipulation** from Human Motion Data, [OpenReview](https://openreview.net/forum?id=KAzku0Uyh1)
+- CoRL 2024, **ALOHA Unleashed**: A Simple Recipe for Robot Dexterity, [OpenReview](https://openreview.net/forum?id=gvdXE7ikHI)
+- CoRL 2024, **GenDP**: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy, [OpenReview](https://openreview.net/forum?id=7wMlwhCvjS)
+- CoRL 2024, **Dynamic 3D Gaussian Tracking** for Graph-Based Neural Dynamics Modeling, [OpenReview](https://openreview.net/forum?id=itKJ5uu1gW)
+- CoRL 2024, Learning Robotic Locomotion Affordances and **Photorealistic Simulators from Human-Captured Data**, [OpenReview](https://openreview.net/forum?id=55tYfHvanf)
+- CoRL 2024, **D3RoMa**: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation, [OpenReview](https://openreview.net/forum?id=7E3JAys1xO)
+- CoRL 2024, **Action Space Design** in Reinforcement Learning for Robot Motor Skills, [OpenReview](https://openreview.net/forum?id=GGuNkjQSrk)
+- CoRL 2024, So You Think You Can Scale Up **Autonomous Robot Data Collection**?, [OpenReview](https://openreview.net/forum?id=XrxLGzF0lJ)
 - CoRL 2024, **VISTA**: View-Invariant Policy Learning via Zero-Shot Novel View Synthesis, [arXiv](https://arxiv.org/abs/2409.03685)
 - arXiv 2024.08, **Bidirectional Decoding**: Improving Action Chunking via Closed-Loop Resampling, [Website](https://bid-robot.github.io/)
 - arXiv 2024.08, **Unsupervised-to-Online** Reinforcement Learning, [arXiv](https://www.arxiv.org/abs/2408.14785)
