@@ -53,7 +53,6 @@ Papers:
 - CoRL 2024, **ALOHA Unleashed**: A Simple Recipe for Robot Dexterity, [OpenReview](https://openreview.net/forum?id=gvdXE7ikHI)
 - CoRL 2024, **GenDP**: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy, [OpenReview](https://openreview.net/forum?id=7wMlwhCvjS)
 - CoRL 2024, **Dynamic 3D Gaussian Tracking** for Graph-Based Neural Dynamics Modeling, [OpenReview](https://openreview.net/forum?id=itKJ5uu1gW)
-- CoRL 2024, Learning Robotic Locomotion Affordances and **Photorealistic Simulators from Human-Captured Data**, [OpenReview](https://openreview.net/forum?id=55tYfHvanf)
 - CoRL 2024, **D3RoMa**: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation, [OpenReview](https://openreview.net/forum?id=7E3JAys1xO)
 - CoRL 2024, **Action Space Design** in Reinforcement Learning for Robot Motor Skills, [OpenReview](https://openreview.net/forum?id=GGuNkjQSrk)
 - CoRL 2024, So You Think You Can Scale Up **Autonomous Robot Data Collection**?, [OpenReview](https://openreview.net/forum?id=XrxLGzF0lJ)
