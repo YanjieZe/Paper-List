@@ -47,6 +47,8 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- CoRL 2024, **LucidSim**: Learning Agile Visual Locomotion from Generated Images, [OpenReview](https://openreview.net/forum?id=cGswIOxHcN)
+- CoRL 2024, Learning Robotic Locomotion Affordances and **Photorealistic Simulators from Human-Captured Data**, [OpenReview](https://openreview.net/forum?id=1TEZ1hiY5m)
 - CoRL 2024, **Object-Centric Dexterous Manipulation** from Human Motion Data, [OpenReview](https://openreview.net/forum?id=KAzku0Uyh1)
 - CoRL 2024, **ALOHA Unleashed**: A Simple Recipe for Robot Dexterity, [OpenReview](https://openreview.net/forum?id=gvdXE7ikHI)
 - CoRL 2024, **GenDP**: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy, [OpenReview](https://openreview.net/forum?id=7wMlwhCvjS)
