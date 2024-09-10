@@ -52,6 +52,7 @@ Papers:
 - IROS 2024, Learning to **Walk and Fly** with Adversarial Motion Priors, [arXiv](https://arxiv.org/abs/2309.12784)
 - arXiv 2024.09, **Robot Utility Models**: General Policies for Zero-Shot Deployment in New Environments, [Website](https://robotutilitymodels.com/)
 - CoRL 2024, **LucidSim**: Learning Agile Visual Locomotion from Generated Images, [OpenReview](https://openreview.net/forum?id=cGswIOxHcN)
+- CoRL 2024, **OKAMI**: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [Website](https://openreview.net/forum?id=URj5TQTAXM&referrer=%5Bthe%20profile%20of%20Yuke%20Zhu%5D(%2Fprofile%3Fid%3D~Yuke_Zhu1))
 - CoRL 2024, Learning Robotic Locomotion Affordances and **Photorealistic Simulators from Human-Captured Data**, [OpenReview](https://openreview.net/forum?id=1TEZ1hiY5m)
 - CoRL 2024, **Object-Centric Dexterous Manipulation** from Human Motion Data, [OpenReview](https://openreview.net/forum?id=KAzku0Uyh1)
 - CoRL 2024, **ALOHA Unleashed**: A Simple Recipe for Robot Dexterity, [OpenReview](https://openreview.net/forum?id=gvdXE7ikHI)
