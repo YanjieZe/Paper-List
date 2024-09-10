@@ -47,6 +47,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- CoRL 2024, Continuously Improving Mobile Manipulation with **Autonomous Real-World RL**, [Website](https://continual-mobile-manip.github.io/)
 - arXiv 2024.09, **Neural MP**: A Generalist Neural Motion Planner, [Website](https://mihdalal.github.io/neuralmotionplanner/)
 - IROS 2024, Learning to **Walk and Fly** with Adversarial Motion Priors, [arXiv](https://arxiv.org/abs/2309.12784)
 - arXiv 2024.09, **Robot Utility Models**: General Policies for Zero-Shot Deployment in New Environments, [Website](https://robotutilitymodels.com/)
