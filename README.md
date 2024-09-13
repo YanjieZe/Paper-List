@@ -47,6 +47,8 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.09, **HOP**: Hand-object interaction pretraining from videos, [Website](https://hgaurav2k.github.io/hop/)
+- arXiv 2024.09, **AnySkin**: Plug-and-play Skin Sensing for Robotic Touch, [Website](https://any-skin.github.io/)
 - CoRL 2024, Continuously Improving Mobile Manipulation with **Autonomous Real-World RL**, [Website](https://continual-mobile-manip.github.io/)
 - arXiv 2024.09, **Neural MP**: A Generalist Neural Motion Planner, [Website](https://mihdalal.github.io/neuralmotionplanner/)
 - IROS 2024, Learning to **Walk and Fly** with Adversarial Motion Priors, [arXiv](https://arxiv.org/abs/2309.12784)
