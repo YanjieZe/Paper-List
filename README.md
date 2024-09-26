@@ -47,6 +47,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.09, **Full-Order Sampling-Based MPC** for Torque-Level Locomotion Control via Diffusion-Style Annealing, [Website](https://lecar-lab.github.io/dial-mpc/)
 - arXiv 2024.09, **Blox-Net**: Generative Design-for-Robot-Assembly using VLM Supervision, Physics Simulation, and A Robot with Reset, [Website](https://bloxnet.org/)
 - arXiv 2024.06, **DigiRL**: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning, [Website](https://digirl-agent.github.io/)
 - arXiv 2024.09, **ClearDepth**: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation, [arXiv](https://arxiv.org/abs/2409.08926)
