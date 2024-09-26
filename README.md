@@ -46,8 +46,9 @@ Papers:
 
 
 # Recent Random Papers
-- arXiv 2024, **ClearDepth**: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation, [arXiv](https://arxiv.org/abs/2409.08926)
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024, **DigiRL**: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning, [Website](https://digirl-agent.github.io/)
+- arXiv 2024, **ClearDepth**: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation, [arXiv](https://arxiv.org/abs/2409.08926)
 - arXiv 2024.09, **HOP**: Hand-object interaction pretraining from videos, [Website](https://hgaurav2k.github.io/hop/)
 - arXiv 2024.09, **AnySkin**: Plug-and-play Skin Sensing for Robotic Touch, [Website](https://any-skin.github.io/)
 - CoRL 2024, Continuously Improving Mobile Manipulation with **Autonomous Real-World RL**, [Website](https://continual-mobile-manip.github.io/)
