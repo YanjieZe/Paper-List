@@ -47,6 +47,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.09, **Helpful DoggyBot**: Open-World Object Fetching using Legged Robots and Vision-Language Models, [Website](https://helpful-doggybot.github.io/)
 - arXiv 2024.09 / CoRL 2024 Oral, **Robot See Robot Do**: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction, [Website](https://robot-see-robot-do.github.io/)
 - arXiv 2024.09, **Full-Order Sampling-Based MPC** for Torque-Level Locomotion Control via Diffusion-Style Annealing, [Website](https://lecar-lab.github.io/dial-mpc/)
 - arXiv 2024.09, **Blox-Net**: Generative Design-for-Robot-Assembly using VLM Supervision, Physics Simulation, and A Robot with Reset, [Website](https://bloxnet.org/)
