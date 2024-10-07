@@ -47,6 +47,8 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.10, Learning Humanoid Locomotion over Challenging Terrain, [arXiv](https://arxiv.org/abs/2410.03654)
+- arXiv 2024.10, Estimating Body and Hand Motion in an Ego-sensed World, [arXiv](https://arxiv.org/abs/2410.03665)
 - arXiv 2024.09, **Opt2Skill**: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation, [arXiv](https://arxiv.org/abs/2409.20514)
 - arXiv 2024.09, **Helpful DoggyBot**: Open-World Object Fetching using Legged Robots and Vision-Language Models, [Website](https://helpful-doggybot.github.io/)
 - arXiv 2024.09 / CoRL 2024 Oral, **Robot See Robot Do**: Imitating Articulated Object Manipulation with Monocular 4D Reconstruction, [Website](https://robot-see-robot-do.github.io/)
