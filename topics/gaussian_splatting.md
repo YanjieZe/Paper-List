@@ -1,4 +1,5 @@
 # Gaussian Splatting
+- arXiv 2024.03, **RAIN-GS**: Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting, [Website](https://cvlab-kaist.github.io/RAIN-GS/)
 - arXiv 2024.03, **GaussianGrasper**: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, [arXiv](https://arxiv.org/abs/2403.09637)
 - arXiv 2024.07, **EgoGaussian**: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting, [Website](https://zdwww.github.io/egogs.github.io/)
 - arXiv 2024.06, **Physically Embodied Gaussian Splatting**: A Realtime Correctable World Model for Robotics, [Website](https://arxiv.org/abs/2406.10788)
