@@ -47,6 +47,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.10, One Step Diffusion via **Shortcut Models**, [arXiv](https://arxiv.org/abs/2410.12557)
 - arXiv 2024.10, **BUMBLE**: Unifying Reasoning and Acting with Vision-Language Models for Building-wide Mobile Manipulation, [Website](https://robin-lab.cs.utexas.edu/BUMBLE/)
 - arXiv 2024.10, **Run-time Observation Interventions**: Make Vision-Language-Action Models More Visually Robust, [Website](https://aasherh.github.io/byovla/)
 - arXiv 2024.10, **MonST3R**: A Simple Approach for Estimating Geometry in the Presence of Motion, [Website](https://monst3r-project.github.io/)
