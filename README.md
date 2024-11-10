@@ -48,6 +48,7 @@ Papers:
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
 - arXiv 2024.10, **DELTA**: Dense Efficient Long-range 3D Tracking for any video, [website](https://snap-research.github.io/DELTA/)
+- arXiv 2024.10, **π0**: A Vision-Language-Action Flow Model for General Robot Control, [arXiv](https://arxiv.org/abs/2410.24164) / [website](https://www.physicalintelligence.company/blog/pi0)
 - arXiv 2024.10, One Step Diffusion via **Shortcut Models**, [arXiv](https://arxiv.org/abs/2410.12557)
 - arXiv 2024.10, **BUMBLE**: Unifying Reasoning and Acting with Vision-Language Models for Building-wide Mobile Manipulation, [Website](https://robin-lab.cs.utexas.edu/BUMBLE/)
 - arXiv 2024.10, **Run-time Observation Interventions**: Make Vision-Language-Action Models More Visually Robust, [Website](https://aasherh.github.io/byovla/)
