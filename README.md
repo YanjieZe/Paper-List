@@ -47,6 +47,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.07, **From Imitation to Refinement** -- Residual RL for Precise Assembly, [arXiv](https://arxiv.org/abs/2407.16677) / [website](https://residual-assembly.github.io/)
 - arXiv 2024.10, **HIL-SERL**: Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning, [website](https://hil-serl.github.io/) / [arXiv](https://arxiv.org/abs/2410.21845)
 - arXiv 2024.10, **DELTA**: Dense Efficient Long-range 3D Tracking for any video, [website](https://snap-research.github.io/DELTA/)
 - arXiv 2024.10, **π0**: A Vision-Language-Action Flow Model for General Robot Control, [arXiv](https://arxiv.org/abs/2410.24164) / [website](https://www.physicalintelligence.company/blog/pi0)
