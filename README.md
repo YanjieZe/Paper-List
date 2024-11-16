@@ -26,6 +26,8 @@ Topics:
 - [Best Papers](topics/best_papers.md)
 
 Papers:
+- 2025
+  - [ICLR 2025 scores](https://papercopilot.com/statistics/iclr-statistics/iclr-2025-statistics/)
 - 2024
   - [CoRL 2024](https://openreview.net/group?id=robot-learning.org/CoRL/2024/Conference#tab-accept)
   - [RSS 2024](https://roboticsconference.org/program/papers/)
