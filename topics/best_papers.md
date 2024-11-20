@@ -1,3 +1,6 @@
+# CoRL
+- 2024 best paper, PoliFormer: Scaling On-Policy RL with Transformers Results in Masterful Navigators, [arXiv](https://arxiv.org/abs/2406.20083)
+- 2024 best paper, One Model to Drift Them All: Physics-Informed Conditional Diffusion Model for Driving at the Limits, [OpenReview](https://openreview.net/forum?id=0gDbaEtVrd)
 
 # RSS
 - 2023 best paper, Time Optimal Ergodic Search, [link](https://roboticsconference.org/2023/program/papers/082/)
@@ -13,4 +16,5 @@
 - 2024 best manipulation paper, **SARA-RT**: Scaling up Robotics Transformers with Self-Adaptive Robust Attention, [arXiv](https://arxiv.org/abs/2312.01990)
 
 # Graphics
+- 2024 SIGGRAPH Best Paper, Repulsive Shells, [website](https://www.cs.cmu.edu/~kmcrane/Projects/RepulsiveShells/index.html)
 - 2023 SIGGRAPH Asia best paper, Fluid Simulation on Neural Flow Maps, [Github](https://github.com/yitongdeng-projects/neural_flow_maps_code) / [Website](https://yitongdeng-projects.github.io/neural_flow_maps_webpage/)
