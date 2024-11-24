@@ -10,7 +10,7 @@ Papers:
 - 2025
   - [ICLR 2025 scores](https://papercopilot.com/statistics/iclr-statistics/iclr-2025-statistics/)
 - 2024
-  - [CoRL 2024](https://openreview.net/group?id=robot-learning.org/CoRL/2024/Conference#tab-accept)
+  - [CoRL 2024](https://openreview.net/group?id=robot-learning.org/CoRL/2024/Conference#tab-accept) / [statistics](https://papercopilot.com/statistics/corl-statistics/corl-2024-statistics/)
   - [RSS 2024](https://roboticsconference.org/program/papers/)
   - [3DV 2024](https://3dvconf.github.io/2024/accepted-papers/)
   - [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) / [interactive overview](https://public.tableau.com/views/CVPR2024/PaperList?%3AshowVizHome=no)
