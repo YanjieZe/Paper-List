@@ -1,6 +1,7 @@
 # Dexterous Manipulation
 
 - [Dexterous Manipulation](#dexterous-manipulation)
+  - [Hardware](#hardware)
   - [Novel Tasks](#novel-tasks)
   - [Tactile](#tactile)
   - [In-Hand Manipulation](#in-hand-manipulation)
@@ -8,18 +9,23 @@
   - [Algorithm](#algorithm)
 
 
+## Hardware
+- arXiv 2024.08, **EyeSight Hand**: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation, [arXiv](https://arxiv.org/abs/2408.06265)
+- arXiv 2024.06, **LEAP Hand V2**: Dexterous, Low-cost Anthropomorphic Hybrid Rigid Soft Hand for Robot Learning, [OpenReview](https://openreview.net/forum?id=eQomRzRZEP)
+- arXiv 2023.09, **LEAP Hand**: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning, [website](https://leaphand.com/)
+- arXiv 2023.09, **A Wearable Robotic Hand for Hand-over-Hand Imitation Learning**, [website](https://sites.google.com/view/hiro-hand/%E9%A6%96%E9%A1%B5)
+
 
 ## Novel Tasks
 - arXiv 2023.12, **Vegetable Peeling**: A Case Study in Constrained Dexterous Manipulation, [Website](https://taochenshh.github.io/projects/veg-peeling)
 - arXiv 2023.10, **DexCatch**: Learning to Catch Arbitrary Objects with Dexterous Hands, [arXiv](https://arxiv.org/abs/2310.08809) / [Website](https://dexcatch.github.io/)
-- CoRL 2023, **Sequential Dexterity**: Chaining Dexterous Policies for Long-Horizon Manipulation, [Website](https://sequential-dexterity.github.io/) / [Github](https://github.com/sequential-dexterity/SeqDex)
+- arXiv 2023.09, **Sequential Dexterity**: Chaining Dexterous Policies for Long-Horizon Manipulation, [Website](https://sequential-dexterity.github.io/) / [Github](https://github.com/sequential-dexterity/SeqDex)
 - CoRL 2023, **RoboPianist**: Dexterous Piano Playing with Deep Reinforcement Learning, [OpenReview](https://openreview.net/forum?id=HDYMjiukjn) / [Website](https://robopianist.github.io/)
 - CoRL 2023, **Dynamic Handover**: Throw and Catch with Bimanual Hands, [OpenReview](https://openreview.net/forum?id=3Z3Z3Z3Z3Z3) / [Website](https://binghao-huang.github.io/dynamic_handover/)
 - SIGGRAPH 2022, Learning to use chopsticks in diverse gripping styles, [arXiv](https://arxiv.org/abs/2205.14313) / [Github](https://github.com/chopsticks-research2022/learning2usechopsticks)
 
 
 ## Tactile
-- arXiv 2024.08, EyeSight Hand: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation, [arXiv](https://arxiv.org/abs/2408.06265)
 - arXiv 2023.12, **Neural feels with neural fields**: Visuo-tactile perception for in-hand manipulation, [Website](https://suddhu.github.io/neural-feels/)
 - ICRA 2024 submission, **Robot Synesthesia**: In-Hand Manipulation with Visuotactile Sensing, [Website](https://yingyuan0414.github.io/visuotactile/)
 - RSS 2023, Sampling Based Exploration for Reinforcement Learning of Dexterous Manipulation, [Website](https://sbrl.cs.columbia.edu/)

@@ -1,28 +1,9 @@
 # A Paper List of [Yanjie Ze](https://yanjieze.com/)
 
 Topics:
-- Learning
-  - [Visual Reinforcement Learning](topics/visual_reinforcement_learning.md)
-  - [3D Vision](topics/3d_vision.md)
-  - [Reinforcement Learning](topics/reinforcement_learning.md)
-  - [Visual Recognition](topics/visual_recognition.md)
-  - [Generative Model](topics/generative_model.md)
-  - [Self-Supervised Learning](topics/self_supervised_learning.md)
-  - [Large Language Model](topics/llm.md)
-  - [Diffusion Model](topics/diffusion_model.md)
-  - [Diffusion Model for Robotics](topics/diffusion_robo.md) / [survey](https://github.com/apexrl/diff4rlsurvey)
-  - [Gaussian Splatting](topics/gaussian_splatting.md)
-  - [3D Generation](topics/3d_generation.md)
-  
-- Robotics
-  - [Robotic Manipulation](topics/robotic_manipulation.md)
-  - [Dexterous Manipulation](topics/dex_manipulation.md)
-  - [Robotic Locomotion](topics/robotic_locomotion.md)
-  - [Mobile Manipulation](topics/mobile_manipulation.md)
-  - [Humanoid](topics/humanoid.md)
-- Graphics
-  - [Graphics](topics/graphics.md)
-- [Miscellaneous](topics/misc.md)
+- [Humanoid Robots](https://github.com/YanjieZe/awesome-humanoid-robot-learning)
+- [Dexterous Manipulation](topics/dex_manipulation.md)
+- [3D Robot Learning](topics/3d_robotic_learning.md)
 - [Best Papers](topics/best_papers.md)
 
 Papers:
