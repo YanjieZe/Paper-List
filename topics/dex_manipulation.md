@@ -19,6 +19,7 @@
 
 
 ## Tactile
+- arXiv 2024.08, EyeSight Hand: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation, [arXiv](https://arxiv.org/abs/2408.06265)
 - arXiv 2023.12, **Neural feels with neural fields**: Visuo-tactile perception for in-hand manipulation, [Website](https://suddhu.github.io/neural-feels/)
 - ICRA 2024 submission, **Robot Synesthesia**: In-Hand Manipulation with Visuotactile Sensing, [Website](https://yingyuan0414.github.io/visuotactile/)
 - RSS 2023, Sampling Based Exploration for Reinforcement Learning of Dexterous Manipulation, [Website](https://sbrl.cs.columbia.edu/)
