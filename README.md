@@ -30,6 +30,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.11, Learning-based Trajectory Tracking for Bird-inspired **Flapping-Wing Robots**, [arXiv](https://arxiv.org/abs/2411.15130)
 - arXiv 2024.11, **WildLMA**: Long Horizon Loco-MAnipulation in the Wild, [website](https://wildlma.github.io/)
 - SIGGRAPH ASIA 2024, **CBIL**: Collective Behavior Imitation Learning for Fish from Real Videos, [website](https://frank-zy-dou.github.io/projects/CBIL/index.html)
 - arXiv 2024.11, Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation, [website](https://aidx-lab.org/manipulation/humanoids24)
