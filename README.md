@@ -30,6 +30,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.11, Inference-Time Policy Steering through Human Interactions, [arXiv](https://arxiv.org/abs/2411.16627)
 - arXiv 2024.11, **The Matrix**: Infinite-Horizon World Generation with Real-Time Moving Control, [website](https://thematrix1999.github.io/)
 - arXiv 2024.11, Learning-based Trajectory Tracking for Bird-inspired **Flapping-Wing Robots**, [arXiv](https://arxiv.org/abs/2411.15130)
 - arXiv 2024.11, **WildLMA**: Long Horizon Loco-MAnipulation in the Wild, [website](https://wildlma.github.io/)
