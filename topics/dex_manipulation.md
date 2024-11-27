@@ -2,6 +2,7 @@
 
 - [Dexterous Manipulation](#dexterous-manipulation)
   - [Hardware](#hardware)
+  - [Grasping](#grasping)
   - [Novel Tasks](#novel-tasks)
   - [Tactile](#tactile)
   - [In-Hand Manipulation](#in-hand-manipulation)
@@ -17,6 +18,8 @@
 
 ## Grasping
 - arXiv 2024.11, **FunGrasp**: Functional Grasping for Diverse Dexterous Hands, [website](https://hly-123.github.io/FunGrasp/)
+- arXiv 2024.11, **Get a Grip**: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer, [website](https://sites.google.com/view/get-a-grip-dataset)
+- arXiv 2024.07, **DextrAH-G**: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics, [website](https://sites.google.com/view/dextrah-g)
 
 ## Novel Tasks
 - arXiv 2023.12, **Vegetable Peeling**: A Case Study in Constrained Dexterous Manipulation, [Website](https://taochenshh.github.io/projects/veg-peeling)
