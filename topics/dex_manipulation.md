@@ -15,6 +15,8 @@
 - arXiv 2023.09, **LEAP Hand**: Low-Cost, Efficient, and Anthropomorphic Hand for Robot Learning, [website](https://leaphand.com/)
 - arXiv 2023.09, **A Wearable Robotic Hand for Hand-over-Hand Imitation Learning**, [website](https://sites.google.com/view/hiro-hand/%E9%A6%96%E9%A1%B5)
 
+## Grasping
+- arXiv 2024.11, **FunGrasp**: Functional Grasping for Diverse Dexterous Hands, [website](https://hly-123.github.io/FunGrasp/)
 
 ## Novel Tasks
 - arXiv 2023.12, **Vegetable Peeling**: A Case Study in Constrained Dexterous Manipulation, [Website](https://taochenshh.github.io/projects/veg-peeling)
