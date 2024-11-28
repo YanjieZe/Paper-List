@@ -30,6 +30,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.11, **CAT4D**: Create Anything in 4D with Multi-View Video Diffusion Models, [website](https://cat-4d.github.io/)
 - arXiv 2024.11, **Generative Omnimatte**: Learning to Decompose Video into Layers, [website](https://gen-omnimatte.github.io/)
 - arXiv 2024.11, Inference-Time Policy Steering through Human Interactions, [arXiv](https://arxiv.org/abs/2411.16627)
 - arXiv 2024.11, **The Matrix**: Infinite-Horizon World Generation with Real-Time Moving Control, [website](https://thematrix1999.github.io/)
