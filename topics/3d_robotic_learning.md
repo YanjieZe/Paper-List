@@ -10,3 +10,4 @@
 
 ## 3D Representations
 - arXiv 2024.11, **3D Convex Splatting**: Radiance Field Rendering with 3D Smooth Convexes, [website](https://convexsplatting.github.io/)
+- arXiv 2024.06, **CoFie**: Learning Compact Neural Surface Representations with Coordinate Fields, [arXiv](https://arxiv.org/abs/2406.03417)
