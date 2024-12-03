@@ -30,6 +30,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.12, **CASHER**: Robot Learning with Super-Linear Scaling, [website](https://casher-robot-learning.github.io/CASHER/)
 - arXiv 2024.12, **CogACT**: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation, [website](https://cogact.github.io/)
 - arXiv 2024.11, **CAT4D**: Create Anything in 4D with Multi-View Video Diffusion Models, [website](https://cat-4d.github.io/)
 - arXiv 2024.11, **Generative Omnimatte**: Learning to Decompose Video into Layers, [website](https://gen-omnimatte.github.io/)
