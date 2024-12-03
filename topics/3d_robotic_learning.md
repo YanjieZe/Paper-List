@@ -9,6 +9,7 @@
 
 
 ## 3D Representations
+- arXiv 2024.11, SIGGRAPH Asia 2024 best paper, **Quark**: Real-time, High-resolution, and General Neural View Synthesis, [website](https://quark-3d.github.io/)
 - arXiv 2024.11, **3D Convex Splatting**: Radiance Field Rendering with 3D Smooth Convexes, [website](https://convexsplatting.github.io/)
 - arXiv 2024.06, **TutteNet**: Injective 3D Deformations by Composition of 2D Mesh Deformations, [arXiv](https://arxiv.org/abs/2406.12121)
 - arXiv 2024.06, **CoFie**: Learning Compact Neural Surface Representations with Coordinate Fields, [arXiv](https://arxiv.org/abs/2406.03417)
