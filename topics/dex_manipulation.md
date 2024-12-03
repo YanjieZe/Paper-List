@@ -17,6 +17,7 @@
 - arXiv 2023.09, **A Wearable Robotic Hand for Hand-over-Hand Imitation Learning**, [website](https://sites.google.com/view/hiro-hand/%E9%A6%96%E9%A1%B5)
 
 ## Grasping
+- arXiv 2024.12, **DextrAH-RGB**: Visuomotor Policies to Grasp Anything with Dexterous Hands, [arXiv](https://arxiv.org/abs/2412.01791)
 - arXiv 2024.11, **FunGrasp**: Functional Grasping for Diverse Dexterous Hands, [website](https://hly-123.github.io/FunGrasp/)
 - arXiv 2024.11, **Get a Grip**: Multi-Finger Grasp Evaluation at Scale Enables Robust Sim-to-Real Transfer, [website](https://sites.google.com/view/get-a-grip-dataset)
 - arXiv 2024.07, **DextrAH-G**: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics, [website](https://sites.google.com/view/dextrah-g)
