@@ -4,6 +4,7 @@
 - [arXiv 2023.08](https://arxiv.org/abs/2308.16891), **GNFactor**: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields, [website](https://yanjieze.com/GNFactor/)
 
 ## 4D Representations
+- arXiv 2024.12, **MegaSaM**: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos, [website](https://mega-sam.github.io/)
 - arXiv 2024.10, **MonST3R**: A Simple Approach for Estimating Geometry in the Presence of Motion, [website](https://monst3r-project.github.io/)
 - arXiv 2024.05, **MoSca**: Dynamic Gaussian Fusion from Casual Videos via 4D Motion Scaffolds, [website](https://www.cis.upenn.edu/~leijh/projects/mosca/)
 
