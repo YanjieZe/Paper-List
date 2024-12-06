@@ -30,6 +30,8 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.12, Reinforcement Learning from **Wild Animal Videos**, [website](https://elliotchanesane31.github.io/RLWAV/)
+- arXiv 2024.12, **NaVILA**: Legged Robot Vision-Language-Action Model for Navigation, [arXiv](https://arxiv.org/abs/2412.04453)
 - arXiv 2024.12, **Motion Prompting**: Controlling Video Generation with Motion Trajectories, [website](https://motion-prompting.github.io/)
 - arXiv 2024.12, **CASHER**: Robot Learning with Super-Linear Scaling, [website](https://casher-robot-learning.github.io/CASHER/)
 - arXiv 2024.12, **CogACT**: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation, [website](https://cogact.github.io/)
