@@ -17,4 +17,5 @@
 - arXiv 2024.05, Evolutive Rendering Models, [website](https://fnzhan.com/Evolutive-Rendering-Models/
 
 ## Tactile Representations
+- arXiv 2024.12, **NormalFlow**: Fast, Robust, and Accurate Contact-based Object 6DoF Pose Tracking with Vision-based Tactile Sensors, [website](https://joehjhuang.github.io/normalflow/)
 - arXiv 2024.12, **Tactile DreamFusion**: Exploiting Tactile Sensing for 3D Generation, [arXiv](https://arxiv.org/abs/2412.06785)
