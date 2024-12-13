@@ -30,6 +30,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.12, **illusion3d**: 3D Multiview Illusion with 2D Diffusion Priors, [website](https://3d-multiview-illusion.github.io/)
 - arXiv 2024.12, **RLDG**: Robotic Generalist Policy Distillation via Reinforcement Learning, [website](https://generalist-distillation.github.io/)
 - arXiv 2024.12, **SOLAMI**: Social Vision-Language-Action Modeling for Immersive Interaction with 3D Autonomous Characters, [website](https://solami-ai.github.io/)
 - arXiv 2024.12, Reinforcement Learning from **Wild Animal Videos**, [website](https://elliotchanesane31.github.io/RLWAV/)
