@@ -30,6 +30,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.12, **Genesis**: A Generative and Universal Physics Engine for Robotics and Beyond, [website](https://genesis-embodied-ai.github.io/)
 - arXiv 2024.10, **articulate-anything**: Automatic Modeling of Articulated Objects via a Vision-Language Foundation Model, [arXiv](https://arxiv.org/abs/2410.13882) / [website](https://articulate-anything.github.io/)
 - arXiv 2024.12, **HandsOnVLM**: Vision-Language Models for Hand-Object Interaction Prediction, [website](https://www.chenbao.tech/handsonvlm/)
 - arXiv 2024.12, **Meta Motivo**: Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models, [github](https://github.com/facebookresearch/metamotivo)
