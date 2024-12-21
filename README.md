@@ -4,6 +4,7 @@ Topics:
 - [Humanoid Robots](https://github.com/YanjieZe/awesome-humanoid-robot-learning)
 - [Dexterous Manipulation](topics/dex_manipulation.md)
 - [3D Robot Learning](topics/3d_robotic_learning.md)
+- [Robot Foundation Models](topics/robot_foundation_models.md)
 - [Best Papers](topics/best_papers.md)
 
 Papers:
