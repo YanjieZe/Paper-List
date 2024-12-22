@@ -4,6 +4,7 @@
 - [arXiv 2023.08](https://arxiv.org/abs/2308.16891), **GNFactor**: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields, [website](https://yanjieze.com/GNFactor/)
 
 ## 4D Representations
+- arXiv 2024.12, Scaling 4D Representations, [arXiv](https://arxiv.org/abs/2412.15212)
 - arXiv 2024.12, **Stereo4D**: Learning How Things Move in 3D from Internet Stereo Videos, [website](https://stereo4d.github.io/)
 - arXiv 2024.12, **MegaSaM**: Accurate, Fast, and Robust Structure and Motion from Casual Dynamic Videos, [website](https://mega-sam.github.io/)
 - arXiv 2024.10, **MonST3R**: A Simple Approach for Estimating Geometry in the Presence of Motion, [website](https://monst3r-project.github.io/)
