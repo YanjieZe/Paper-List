@@ -10,3 +10,6 @@
 - [arXiv 2024.06](https://arxiv.org/abs/2406.11815), **LLARVA**: Vision-Action Instruction Tuning Enhances Robot Learning, [website](https://llarva24.github.io/)
 - [arXiv 2024.06](https://arxiv.org/abs/2406.09246), **OpenVLA**: An Open-Source Vision-Language-Action Model, [website](https://openvla.github.io/)
 - [arXiv 2024.05](https://arxiv.org/abs/2405.12213), **Octo**: An Open-Source Generalist Robot Policy, [websie](https://octo-models.github.io/) / [github](https://github.com/octo-models/octo)
+
+# Robot World Models
+[link](https://github.com/QinengWang-Aiden/Awesome-embodied-world-model-papers)
