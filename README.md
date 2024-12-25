@@ -31,6 +31,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.12, **VLABench**: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks, [website](https://vlabench.github.io/)
 - arXiv 2024.12, **Video Prediction Policy**: A Generalist Robot Policy with Predictive Visual Representations, [website](https://video-prediction-policy.github.io/)
 - arXiv 2024.12, **RoboMIND**: Benchmark on Multi-embodiment Intelligence Normative Data for Robot Manipulation, [arXiv](https://arxiv.org/abs/2412.13877)
 - arXiv 2024.12, **Towards Generalist Robot Policies**: What Matters in Building Vision-Language-Action Models, [website](https://robovlms.github.io/)
