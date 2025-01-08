@@ -31,6 +31,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- **Cosmos**: World Foundation Model Platform for Physical AI, [website](https://research.nvidia.com/labs/dir/cosmos1/) / [github](https://github.com/NVIDIA/Cosmos)
 - arXiv 2024.12, **ManiBox**: Enhancing Spatial Grasping Generalization via Scalable Simulation Data Generation, [arXiv](https://arxiv.org/abs/2411.01850)
 - arXiv 2024.12, **VLABench**: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks, [website](https://vlabench.github.io/)
 - arXiv 2024.12, **Video Prediction Policy**: A Generalist Robot Policy with Predictive Visual Representations, [website](https://video-prediction-policy.github.io/)
