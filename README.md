@@ -31,6 +31,8 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2025.01, Learning to Transfer Human Hand Skills for Robot Manipulations, [website](https://rureadyo.github.io/MocapRobot/)
+- arXiv 2025.01, **Beyond Sight**: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding, [website](https://fuse-model.github.io/)
 - arXiv 2025.01, **Depth Any Camera**: Zero-Shot Metric Depth Estimation from Any Camera, [website](https://yuliangguo.github.io/depth-any-camera/)
 - arXiv 2024.04, **Metric3Dv2**: A Versatile Monocular Geometric Foundation Model for Zero-shot Metric Depth and Surface Normal Estimation, [website](https://jugghm.github.io/Metric3Dv2/)
 - **Cosmos**: World Foundation Model Platform for Physical AI, [website](https://research.nvidia.com/labs/dir/cosmos1/) / [github](https://github.com/NVIDIA/Cosmos)
