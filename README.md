@@ -31,6 +31,8 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2025.01, **DAViD**: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models, [website](https://snuvclab.github.io/david/)
+- arXiv 2025.01, Predicting 4D Hand Trajectory from Monocular Videos, [website](https://judyye.github.io/haptic-www/)
 - arXiv 2025.01, Learning to Transfer Human Hand Skills for Robot Manipulations, [website](https://rureadyo.github.io/MocapRobot/)
 - arXiv 2025.01, **Beyond Sight**: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding, [website](https://fuse-model.github.io/)
 - arXiv 2025.01, **Depth Any Camera**: Zero-Shot Metric Depth Estimation from Any Camera, [website](https://yuliangguo.github.io/depth-any-camera/)
