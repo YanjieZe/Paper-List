@@ -31,6 +31,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2025.01, **FAST**: Efficient Robot Action Tokenization, [website](https://www.pi.website/research/fast)
 - arXiv 2025.01, **DAViD**: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models, [website](https://snuvclab.github.io/david/)
 - arXiv 2025.01, Predicting 4D Hand Trajectory from Monocular Videos, [website](https://judyye.github.io/haptic-www/)
 - arXiv 2025.01, Learning to Transfer Human Hand Skills for Robot Manipulations, [website](https://rureadyo.github.io/MocapRobot/)
