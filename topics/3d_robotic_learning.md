@@ -23,3 +23,12 @@
 ## Tactile Representations
 - arXiv 2024.12, **NormalFlow**: Fast, Robust, and Accurate Contact-based Object 6DoF Pose Tracking with Vision-based Tactile Sensors, [website](https://joehjhuang.github.io/normalflow/)
 - arXiv 2024.12, **Tactile DreamFusion**: Exploiting Tactile Sensing for 3D Generation, [arXiv](https://arxiv.org/abs/2412.06785)
+
+## Language-Aligned 3D Representations
+- arXiv 2024.10,  **VLM-Grounder**: A VLM Agent for Zero-Shot 3D Visual Grounding, [arXiv](https://arxiv.org/abs/2410.13860)
+- arXiv 2024.05, **Grounded 3D-LLM** with Referent Tokens, [website](https://groundedscenellm.github.io/grounded_3d-llm.github.io/)
+- arXiv 2023.08, **3D-VisTA**: Pre-trained Transformer for 3D Vision and Text Alignment, [arXiv](https://arxiv.org/abs/2308.04352)
+- arXiv 2023.08, **PointLLM**: Empowering Large Language Models to Understand Point Clouds, [website](https://runsenxu.com/projects/PointLLM/)
+- arXiv 2023.05, **ULIP-2**: Towards Scalable Multimodal Pre-training for 3D Understanding, [github](https://github.com/salesforce/ULIP)
+- arXiv 2022.12, **ULIP**: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding, [website](https://tycho-xue.github.io/ULIP/)
+- arXiv 2022.11, **OpenScene**: 3D Scene Understanding with Open Vocabularies, [website](https://pengsongyou.github.io/openscene)
