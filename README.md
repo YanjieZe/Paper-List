@@ -31,6 +31,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2025.01, Improving Vision-Language-Action Model with Online Reinforcement Learning, [arXiv](https://arxiv.org/abs/2501.16664)
 - arXiv 2025.01, **Physics IQ Benchmark**: Do generative video models learn physical principles from watching videos?, [website](https://physics-iq.github.io/)
 - arXiv 2025.01, **FAST**: Efficient Robot Action Tokenization, [website](https://www.pi.website/research/fast)
 - arXiv 2025.01, **DAViD**: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models, [website](https://snuvclab.github.io/david/)
