@@ -31,6 +31,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2025.02, **DexterityGen**: Foundation Controller for Unprecedented Dexterity, [website](https://zhaohengyin.github.io/dexteritygen/)
 - arXiv 2025.02, Strengthening Generative Robot Policies through Predictive World Modeling, [website](https://computationalrobotics.seas.harvard.edu/GPC/)
 - arXiv 2025.01, **CuriousBot**: Interactive Mobile Exploration via Actionable 3D Relational Object Graph, [website](https://bdaiinstitute.github.io/curiousbot/)
 - arXiv 2025.01, Improving Vision-Language-Action Model with Online Reinforcement Learning, [arXiv](https://arxiv.org/abs/2501.16664)
