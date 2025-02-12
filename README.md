@@ -31,6 +31,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.05, Learning Force Control for Legged Manipulation, [arXiv](https://arxiv.org/abs/2405.01402)
 - arXiv 2025.02, **TD-M(PC)2**: Improving Temporal Difference MPC Through Policy Constraint, [website](https://darthutopian.github.io/tdmpc_square/)
 - arXiv 2025.02, **DexterityGen**: Foundation Controller for Unprecedented Dexterity, [website](https://zhaohengyin.github.io/dexteritygen/)
 - arXiv 2025.02, Strengthening Generative Robot Policies through Predictive World Modeling, [website](https://computationalrobotics.seas.harvard.edu/GPC/)
