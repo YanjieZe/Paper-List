@@ -31,6 +31,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2025.02, **RigAnything**: Template-Free Autoregressive Rigging for Diverse 3D Assets, [arXiv](https://arxiv.org/abs/2502.09615)
 - arXiv 2025.02, Robot Data Curation with Mutual Information Estimators, [website](http://joeyhejna.com/demonstration-info/)
 - arXiv 2024.05, Learning Force Control for Legged Manipulation, [arXiv](https://arxiv.org/abs/2405.01402)
 - arXiv 2025.02, **TD-M(PC)2**: Improving Temporal Difference MPC Through Policy Constraint, [website](https://darthutopian.github.io/tdmpc_square/)
