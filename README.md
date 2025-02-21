@@ -31,6 +31,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- IEEE Transactions on Human-Machine Systems 2015, The GRASP Taxonomy of Human Grasp Types, [website](https://ieeexplore.ieee.org/document/7243327)
 - Science Robotics, Intrinsic sense of touch for intuitive physical human-robot interaction, [website](https://www.science.org/stoken/author-tokens/ST-2065/full)
 - arXiv 2025.02, Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation, [website](https://uan.csail.mit.edu/)
 - arXiv 2025.02, **RigAnything**: Template-Free Autoregressive Rigging for Diverse 3D Assets, [arXiv](https://arxiv.org/abs/2502.09615)
