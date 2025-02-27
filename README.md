@@ -31,6 +31,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.02, LiDAR Registration with Visual Foundation Models, [website](https://vfm-registration.cs.uni-freiburg.de/)
 - arXiv 2024.02, FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning, [website](https://jasonjzliu.com/factr/)
 - arXiv 2024.02, DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning, [website](https://demo-generation.github.io/)
 - arXiv 2024.02, AnyDexGrasp: Learning General Dexterous Grasping for Any Hands with Human-level Learning Efficiency, [website](https://graspnet.net/anydexgrasp/)
