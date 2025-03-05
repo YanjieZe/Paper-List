@@ -31,6 +31,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.03, Unified Video Action Model, [website](https://unified-video-action-model.github.io/)
 - arXiv 2024.03, Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups, [website](https://scalable-real2sim.github.io/)
 - arXiv 2024.03, Discrete-Time Hybrid Automata Learning: Legged Locomotion Meets Skateboarding, [arXiv](https://arxiv.org/abs/2503.01842)
 - arXiv 2024.02, InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [arXiv](https://arxiv.org/abs/2502.20390)
