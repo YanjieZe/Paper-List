@@ -12,6 +12,8 @@
 
 
 ## 3D Representations
+- arXiv 2025.03, PointVLA: Injecting the 3D World into Vision-Language-Action Models, [website](https://pointvla.github.io/)
+- [arXiv 2025.03](https://arxiv.org/abs/2503.08950), FP3: A 3D Foundation Policy for Robotic Manipulation
 - arXiv 2025.01, **GPT4Scene**: Understand 3D Scenes from Videos with Vision-Language Models, [arXiv](https://arxiv.org/abs/2501.01428)
 - arXiv 2024.12, **Prompting Depth Anything** for 4K Resolution Accurate Metric Depth Estimation, [website](https://promptda.github.io/)
 - arXiv 2024.11, SIGGRAPH Asia 2024 best paper, **Quark**: Real-time, High-resolution, and General Neural View Synthesis, [website](https://quark-3d.github.io/)
