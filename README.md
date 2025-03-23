@@ -32,6 +32,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2024.03, Learning to Play Piano in the Real World, [website](https://lasr.org/research/learning-to-play-piano)
 - arXiv 2024.03, MotionStreamer: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space, [website](https://zju3dv.github.io/MotionStreamer/)
 - arXiv 2024.03, Unified Video Action Model, [website](https://unified-video-action-model.github.io/)
 - arXiv 2024.03, Scalable Real2Sim: Physics-Aware Asset Generation Via Robotic Pick-and-Place Setups, [website](https://scalable-real2sim.github.io/)
