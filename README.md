@@ -32,6 +32,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2021.09, Geometric Fabrics: Generalizing Classical Mechanics to Capture the Physics of Behavior, [arXiv](https://arxiv.org/abs/2109.10443)
 - arXiv 2023.10, Grasp Multiple Objects with One Hand, [website](https://multigrasp.github.io/)
 - arXiv 2025.03, Learning to Play Piano in the Real World, [website](https://lasr.org/research/learning-to-play-piano)
 - arXiv 2025.03, MotionStreamer: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space, [website](https://zju3dv.github.io/MotionStreamer/)
