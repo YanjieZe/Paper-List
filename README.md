@@ -32,6 +32,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2023.05, Data-Free Learning of Reduced-Order Kinematics, [arXiv](https://arxiv.org/abs/2305.03846)
 - arXiv 2024.04, ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning, [website](https://maniptrans.github.io/)
 - arXiv 2021.09, Geometric Fabrics: Generalizing Classical Mechanics to Capture the Physics of Behavior, [arXiv](https://arxiv.org/abs/2109.10443)
 - arXiv 2023.10, Grasp Multiple Objects with One Hand, [website](https://multigrasp.github.io/)
