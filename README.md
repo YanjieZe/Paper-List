@@ -32,6 +32,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2025.04, ORCA: Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning, [website](https://www.orcahand.com/)
 - arXiv 2025.04, One-Minute Video Generation with Test-Time Training, [website](https://test-time-training.github.io/video-dit/)
 - arXiv 2025.01, Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation, [website](https://metadriverse.github.io/vid2sim/)
 - arXiv 2023.05, Data-Free Learning of Reduced-Order Kinematics, [arXiv](https://arxiv.org/abs/2305.03846)
