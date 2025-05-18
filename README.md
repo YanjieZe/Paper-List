@@ -9,6 +9,7 @@ Topics:
 
 Papers:
 - 2025
+  - [RSS 2025](https://roboticsconference.org/program/papers/)
   - [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)
   - [ICLR 2025 scores](https://papercopilot.com/statistics/iclr-statistics/iclr-2025-statistics/)
 - 2024
