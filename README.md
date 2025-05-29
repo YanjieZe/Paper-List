@@ -33,6 +33,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- [Science Robotics](https://www.science.org/doi/10.1126/scirobotics.ads6192?utm_campaign=SciRobotics&utm_medium=ownedSocial&utm_source=twitter), High-speed control and navigation for quadrupedal robots on complex and discrete terrain
 - [Science Robotics](https://www.science.org/doi/10.1126/scirobotics.adu3922?utm_campaign=SciRobotics&utm_medium=ownedSocial&utm_source=twitter), Learning coordinated badminton skills for legged manipulators
 - arXiv 2025.04, DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments, [website](https://nus-lins-lab.github.io/dexsingweb/)
 - arXiv 2025.04, ORCA: Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning, [website](https://www.orcahand.com/)
