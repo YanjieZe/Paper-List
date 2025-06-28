@@ -33,6 +33,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- arXiv 2025.06, DexWrist: A Robotic Wrist for Constrained and Dynamic Manipulation, [website](https://dexwrist.csail.mit.edu/)
 - arXiv 2025.06, Versatile Loco-Manipulation through Flexible Interlimb Coordination, [website](https://relic-locoman.github.io/)
 - [arXiv 2025.06](https://arxiv.org/abs/2506.01944), Feel the Force: Contact-Driven Learning from Humans
 - SIGGRAPH 2025, RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination, [website](https://microsoft.github.io/renderformer/)
