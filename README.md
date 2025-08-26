@@ -33,6 +33,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- [website](https://toyotaresearchinstitute.github.io/lbm1/), A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation
 - [arXiv 2025.07](https://arxiv.org/abs/2507.07969), Reinforcement Learning with Action Chunking
 - arXiv 2025.06, DexWrist: A Robotic Wrist for Constrained and Dynamic Manipulation, [website](https://dexwrist.csail.mit.edu/)
 - arXiv 2025.06, Versatile Loco-Manipulation through Flexible Interlimb Coordination, [website](https://relic-locoman.github.io/)
