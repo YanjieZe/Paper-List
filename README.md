@@ -33,6 +33,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- [arXiv 2025.12](https://arxiv.org/abs/2512.11130), Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching
 - [website](https://openreview.net/forum?id=Jtjurj7oIJ), Position: Scaling Simulation is Neither Necessary Nor Sufficient for In-the-Wild Robot Manipulation
 - [website](https://www.mitchel.computer/xfactor/), True Self-Supervised Novel View Synthesis is Transferable
 - [arXiv 2025.09](https://arxiv.org/abs/2509.04343), Psychologically Enhanced AI Agents
