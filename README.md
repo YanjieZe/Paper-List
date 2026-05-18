@@ -33,6 +33,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- [arXiv 2026.05](https://articraft3d.github.io/), Articraft: An Agentic System for Scalable Articulated 3D Asset Generation
 - [arXiv 2026.05](https://arxiv.org/abs/2605.16257), DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo
 - [arXiv 2026.03](https://arxiv.org/abs/2603.22435), CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation
 - [arXiv 2025.12](https://arxiv.org/abs/2512.11130), Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching
