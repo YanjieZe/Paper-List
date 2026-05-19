@@ -33,6 +33,7 @@ Papers:
 
 # Recent Random Papers
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
+- [arXiv 2026.05](https://arxiv.org/abs/2605.18722), Dexora: Open-source VLA for High-DoF Bimanual Dexterity
 - [1968](https://apps.dtic.mil/sti/tr/pdf/AD0680036.pdf), The Kinematics of Manipulators Under Computer Control
 - [arXiv 2026.05](https://articraft3d.github.io/), Articraft: An Agentic System for Scalable Articulated 3D Asset Generation
 - [arXiv 2026.05](https://arxiv.org/abs/2605.16257), DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo
