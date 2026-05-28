@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://humanoidmimicgen.github.io/#), HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
 - [arXiv 2026.05](https://arxiv.org/abs/2605.18722), Dexora: Open-source VLA for High-DoF Bimanual Dexterity
 - [1968](https://apps.dtic.mil/sti/tr/pdf/AD0680036.pdf), The Kinematics of Manipulators Under Computer Control
