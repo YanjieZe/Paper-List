@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://nico-bohlinger.github.io/shape-your-body/), Shape Your Body: Value Gradients for Multi-Embodiment Robot Design
 - [website](https://extremcontrol.github.io/), ExtremControl: Low-Latency Humanoid Teleoperation with Direct Extremity Control
 - [website](https://humanoidmimicgen.github.io/#), HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation
 - RSS 2024, **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
