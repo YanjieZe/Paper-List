@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.06](https://arxiv.org/abs/2606.02800), Cosmos 3: Omnimodal World Models for Physical AI
 - [website](https://nico-bohlinger.github.io/shape-your-body/), Shape Your Body: Value Gradients for Multi-Embodiment Robot Design
 - [website](https://extremcontrol.github.io/), ExtremControl: Low-Latency Humanoid Teleoperation with Direct Extremity Control
 - [website](https://humanoidmimicgen.github.io/#), HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation
