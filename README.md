@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.05](https://arxiv.org/abs/2605.18430), Text2CAD-Bench: A Benchmark for LLM-based Text-to-Parametric CAD Generation
 - [github](https://github.com/NVlabs/GRAIL/), GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors
 - [arXiv 2026.06](https://arxiv.org/abs/2606.06139), MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation
 - [arXiv 2026.06](https://arxiv.org/abs/2606.02800), Cosmos 3: Omnimodal World Models for Physical AI
