@@ -32,7 +32,8 @@ Papers:
 
 
 # Recent Random Papers
-- [arXiv 2026](https://arxiv.org/abs/2606.17054), Human Universal Grasping
+- [arXiv 2026.06](https://arxiv.org/abs/2606.16272), TopoRetarget: Interaction-Preserving Retargeting for Dexterous Manipulation
+- [arXiv 2026.06](https://arxiv.org/abs/2606.17054), Human Universal Grasping
 - [website](https://ume-exo.github.io/), Universal Manipulation Exoskeleton Learning Compliant Whole-body Policies with Real-time Torque Feedback
 - [website](https://commissure-inc.github.io/Awesome-UMI/), Awesome UMI
 - [arXiv 2026.05](https://arxiv.org/abs/2605.18430), Text2CAD-Bench: A Benchmark for LLM-based Text-to-Parametric CAD Generation
