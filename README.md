@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.06](https://arxiv.org/abs/2606.20549), Generating Robot Hands from Human Demonstrations
 - [website](https://research.nvidia.com/labs/gear/enpire/), ENPIRE: Agentic Robot Policy Self-Improvement in the Real World
 - [arXiv 2026.06](https://arxiv.org/abs/2606.16272), TopoRetarget: Interaction-Preserving Retargeting for Dexterous Manipulation
 - [arXiv 2026.06](https://arxiv.org/abs/2606.17054), Human Universal Grasping
