@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.06](https://arxiv.org/abs/2606.16370), ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture
 - [arXiv 2026.06](https://arxiv.org/abs/2606.19333), Do as I Do: Dexterous Manipulation Data from Everyday Human Videos
 - [arXiv 2026.06](https://arxiv.org/abs/2606.20549), Generating Robot Hands from Human Demonstrations
 - [website](https://research.nvidia.com/labs/gear/enpire/), ENPIRE: Agentic Robot Policy Self-Improvement in the Real World
