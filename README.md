@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.06](https://arxiv.org/abs/2606.26201), OmniContact: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation
 - [arXiv 2026.06](https://arxiv.org/abs/2606.23680), CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation
 - [arXiv 2026.06](https://arxiv.org/abs/2606.16370), ART-Glove: Articulated Tactile Glove for Contact-Grounded Dexterous Interaction Capture
 - [arXiv 2026.06](https://arxiv.org/abs/2606.19333), Do as I Do: Dexterous Manipulation Data from Everyday Human Videos
