@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.06](https://arxiv.org/abs/2606.29940), WARP: Whole-Body Retargeting for Learning from Offline Human Demonstrations
 - [arXiv 2026.06](https://arxiv.org/abs/2606.30645), VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes
 - [arXiv 2026.06](https://arxiv.org/abs/2606.26201), OmniContact: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation
 - [arXiv 2026.06](https://arxiv.org/abs/2606.23680), CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation
