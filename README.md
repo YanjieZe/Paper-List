@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://transformer-transformer.github.io/), Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design
 - [website](https://yi-shi94.github.io/gpc-page/), GPC: Large-Scale Generative Pretraining for Transferable Motor Control
 - [arXiv 2026.06](https://arxiv.org/abs/2606.29940), WARP: Whole-Body Retargeting for Learning from Offline Human Demonstrations
 - [arXiv 2026.06](https://arxiv.org/abs/2606.30645), VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes
