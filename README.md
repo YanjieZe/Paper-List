@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://www.anthropic.com/research/claude-plays-robotics), Claude plays robotics
 - [website](https://www.anthropic.com/research/global-workspace), A global workspace in language models
 - [website](https://transformer-transformer.github.io/), Transformer Transformer: A Unified Model for Motion-Conditioned Robot Co-design
 - [website](https://yi-shi94.github.io/gpc-page/), GPC: Large-Scale Generative Pretraining for Transferable Motor Control
