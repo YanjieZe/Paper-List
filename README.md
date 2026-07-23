@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://generalistai.com/blog/towards-machines-with-a-thousand-hands), Towards Machines with a Thousand Hands
 - [website](https://www.mimicrobotics.com/blog/introducing-flux-mimic), Introducing FLUX-mimic: Scaling Video-Action Models for General Purpose Dexterity
 - [website](https://limxdynamics.com/cosa05v3/), COSA 0.5
 - [website](https://www.anthropic.com/research/claude-plays-robotics), Claude plays robotics
