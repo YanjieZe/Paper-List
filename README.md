@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://genception.github.io/), Video Generation Models are General-Purpose Vision Learners
 - [website](https://light-loco-parkour.github.io/), LightParkour: Growing Humanoid Parkour Skills through Real2Sim2Real
 - [website](https://shooting-for-contact.github.io/), Shooting for Contact: Contact-Implicit Multiple Shooting for Dynamic Motion Retargeting
 - [website](https://eit-hai.github.io/thea/), Towards the Harness of Embodied Agents
