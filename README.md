@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2025.05](https://arxiv.org/abs/2505.03500), VLAs are Confined yet Capable of Generalizing to Novel Instructions
 - [arXiv 2026.05](https://arxiv.org/pdf/2605.27284), FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies
 - [arXiv 2026.08](https://arxiv.org/abs/2608.10860), Flex-π: A Multi-Stream World-Action Model with Compute Flexibility
 - [github](https://github.com/robbyant/lingbot-video), Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence
