@@ -13,22 +13,22 @@ function tokenHash(value: string) {
 }
 
 async function configuredAdmin() {
-  const email = process.env.PAPER_ADMIN_EMAIL;
+  const username = process.env.PAPER_ADMIN_USERNAME;
   const passwordHash = process.env.PAPER_ADMIN_PASSWORD_HASH;
-  if (!email || !passwordHash) throw new Error("Admin login is not configured");
+  if (!username || !passwordHash) throw new Error("Admin login is not configured");
   const rows = await db()`
-    insert into app_users (email, password_hash)
-    values (${email.toLowerCase()}, ${passwordHash})
-    on conflict (email) do update set password_hash = excluded.password_hash
-    returning id, email, password_hash
+    insert into app_users (username, password_hash)
+    values (${username.toLowerCase()}, ${passwordHash})
+    on conflict (username) do update set password_hash = excluded.password_hash
+    returning id, username, password_hash
   `;
-  return rows[0] as { id: string; email: string; password_hash: string };
+  return rows[0] as { id: string; username: string; password_hash: string };
 }
 
-export async function login(email: string, password: string) {
+export async function login(username: string, password: string) {
   const admin = await configuredAdmin();
-  if (email.toLowerCase() !== admin.email || !(await argon2.verify(admin.password_hash, password))) {
-    throw new HttpError(401, "Invalid email or password");
+  if (username.toLowerCase() !== admin.username || !(await argon2.verify(admin.password_hash, password))) {
+    throw new HttpError(401, "Invalid username or password");
   }
   const token = randomBytes(32).toString("base64url");
   const expiresAt = new Date(Date.now() + SESSION_DAYS * 24 * 60 * 60 * 1000);
@@ -45,7 +45,7 @@ export async function login(email: string, password: string) {
     path: "/",
     expires: expiresAt,
   });
-  return { id: admin.id, email: admin.email };
+  return { id: admin.id, username: admin.username };
 }
 
 export async function logout() {
@@ -60,13 +60,13 @@ export async function currentUser() {
   const token = jar.get(COOKIE_NAME)?.value;
   if (!token) return null;
   const rows = await db()`
-    select u.id, u.email
+    select u.id, u.username
     from sessions s join app_users u on u.id = s.user_id
     where s.token_hash = ${tokenHash(token)} and s.expires_at > now() and u.disabled_at is null
   `;
   if (!rows[0]) return null;
   await db()`update sessions set last_seen_at = now() where token_hash = ${tokenHash(token)}`;
-  return rows[0] as { id: string; email: string };
+  return rows[0] as { id: string; username: string };
 }
 
 export async function requireUser() {

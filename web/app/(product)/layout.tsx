@@ -7,7 +7,7 @@ export default async function ProductLayout({ children }: { children: React.Reac
   const user = await requireUser();
   return (
     <div className="shell">
-      <Navigation email={user.email} />
+      <Navigation username={user.username} />
       <main className="main">{children}</main>
     </div>
   );

@@ -11,7 +11,7 @@ const links = [
   ["Settings", "/settings"],
 ] as const;
 
-export function Navigation({ email }: { email: string }) {
+export function Navigation({ username }: { username: string }) {
   return (
     <aside className="sidebar">
       <Link className="brand" href="/">
@@ -26,7 +26,7 @@ export function Navigation({ email }: { email: string }) {
           <Link href={href} key={href}>{label}</Link>
         ))}
       </nav>
-      <div className="sidebar-foot">{email}<br />Private workspace · public knowledge</div>
+      <div className="sidebar-foot">{username}<br />Private workspace · public knowledge</div>
     </aside>
   );
 }
