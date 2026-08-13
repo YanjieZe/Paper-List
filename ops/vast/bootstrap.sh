@@ -36,6 +36,9 @@ select 'create database paper_os owner paper_os'
 where not exists (select 1 from pg_database where datname = 'paper_os')
 \gexec
 SQL
+PGPASSWORD="$(<"$POSTGRES_SUPERUSER_PASSWORD_FILE")" psql \
+  -v ON_ERROR_STOP=1 -h 127.0.0.1 -p 15432 -U postgres -d paper_os \
+  -c "CREATE EXTENSION IF NOT EXISTS pgcrypto; CREATE EXTENSION IF NOT EXISTS vector; CREATE EXTENSION IF NOT EXISTS pg_trgm;"
 
 set -a
 # shellcheck disable=SC1090
