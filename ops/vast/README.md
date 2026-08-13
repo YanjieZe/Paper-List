@@ -8,7 +8,7 @@ All persistent state lives under `/workspace/paper-list-research-os`:
 - `data/storage/`: private PDF and HTML evidence
 - `backups/`: encrypted backup archives
 
-Supervisor manages `paper-os-web` and `paper-os-worker`. The web app listens only on
+Supervisor manages `paper-os-web`, `paper-os-worker`, and `paper-os-cloudflared`. The web app listens only on
 `127.0.0.1:17171`; a named Cloudflare Tunnel public hostname routes to that origin.
 Cloudflare Access should protect the complete hostname in addition to the application's
 single-user Argon2id login.

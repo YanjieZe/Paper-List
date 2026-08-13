@@ -11,7 +11,8 @@ if [[ "$(id -u)" -ne 0 ]]; then
 fi
 for required in "$repo_dir/.git" "$base_dir/config/production.env" \
   "$base_dir/secrets/database-password" "$base_dir/secrets/admin-password-hash" \
-  "$base_dir/secrets/backup-passphrase" "$hiring_env"; do
+  "$base_dir/secrets/backup-passphrase" "$base_dir/config/cloudflared.yml" \
+  "$base_dir/secrets/cloudflare-tunnel.json" "$hiring_env"; do
   [[ -e "$required" ]] || { echo "Missing $required" >&2; exit 1; }
 done
 
@@ -58,9 +59,10 @@ runuser -u yanjie -- env PATH="$PATH" /usr/local/bin/uv run --project worker pap
 runuser -u yanjie -- env PATH="$PATH" npm run build
 
 chmod 755 "$repo_dir/ops/vast/run-web.sh" "$repo_dir/ops/vast/run-worker.sh" \
-  "$repo_dir/ops/vast/backup.sh"
+  "$repo_dir/ops/vast/run-cloudflared.sh" "$repo_dir/ops/vast/backup.sh"
 install -m 644 "$repo_dir/ops/vast/paper-os-web.conf" /etc/supervisor/conf.d/paper-os-web.conf
 install -m 644 "$repo_dir/ops/vast/paper-os-worker.conf" /etc/supervisor/conf.d/paper-os-worker.conf
+install -m 644 "$repo_dir/ops/vast/paper-os-cloudflared.conf" /etc/supervisor/conf.d/paper-os-cloudflared.conf
 install -m 644 "$repo_dir/ops/vast/paper-os-backup.cron" /etc/cron.d/paper-os-backup
 supervisorctl reread
 supervisorctl update
