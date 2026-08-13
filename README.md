@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.06](https://arxiv.org/abs/2606.15768), LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies
 - [arXiv 2026.05](https://arxiv.org/abs/2605.00078), Being-H0.7: A Latent World-Action Model from Egocentric Videos
 - [arXiv 2026.06](https://arxiv.org/abs/2606.20905), Vesta: A Generalist Embodied Reasoning Model
 - [arXiv 2026.06](https://arxiv.org/abs/2606.16826), ATOM-Bench: A Real-World Benchmark for Atomic Skills and Compositional Generalization in Manipulation Policies
