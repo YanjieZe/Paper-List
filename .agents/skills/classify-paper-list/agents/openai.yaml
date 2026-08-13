@@ -1,0 +1,4 @@
+interface:
+  display_name: "Classify Paper List"
+  short_description: "Sort new README papers into durable research topics"
+  default_prompt: "Use $classify-paper-list to classify the new papers in README.md into the appropriate topic files."
