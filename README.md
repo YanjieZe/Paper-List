@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.08](https://arxiv.org/abs/2608.10860), Flex-π: A Multi-Stream World-Action Model with Compute Flexibility
 - [github](https://github.com/robbyant/lingbot-video), Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence
 - [website](https://genception.github.io/), Video Generation Models are General-Purpose Vision Learners
 - [website](https://light-loco-parkour.github.io/), LightParkour: Growing Humanoid Parkour Skills through Real2Sim2Real
