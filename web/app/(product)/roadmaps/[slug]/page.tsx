@@ -1,0 +1,4 @@
+import { notFound } from "next/navigation";
+import { RoadmapRefresh } from "@/components/roadmap-refresh";
+import { db } from "@/lib/db";
+export default async function RoadmapPage({params}:{params:Promise<{slug:string}>}){const {slug}=await params;const rows=await db()`select * from roadmaps where slug=${slug}`;if(!rows[0])notFound();const roadmap=rows[0];const nodes=await db()`select * from roadmap_nodes where roadmap_id=${roadmap.id} order by ordinal`;return <div className="page"><header className="page-head"><div><div className="eyebrow">Roadmap · {roadmap.status}</div><h1>{roadmap.title}</h1><p className="lead">{roadmap.description}</p></div><RoadmapRefresh slug={slug}/></header><div className="branch-grid">{nodes.map((node)=><article className="branch" key={node.id}><div className="eyebrow">{node.node_type}</div><h2>{node.title}</h2><p className="lead">{node.narrative??"Awaiting evidence-backed synthesis."}</p></article>)}</div></div>}

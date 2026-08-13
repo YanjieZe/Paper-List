@@ -1,0 +1,22 @@
+[Unit]
+Description=Paper-List Research OS worker
+After=network-online.target postgresql.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=paper-os
+Group=paper-os
+WorkingDirectory=/opt/paper-list
+EnvironmentFile=/etc/paper-os/paper-os.env
+ExecStart=/usr/local/bin/uv run --project worker paper-worker run
+Restart=on-failure
+RestartSec=5
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/opt/paper-list/var /opt/paper-list/.git /opt/paper-list/knowledge
+
+[Install]
+WantedBy=multi-user.target

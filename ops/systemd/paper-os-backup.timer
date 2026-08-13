@@ -1,0 +1,10 @@
+[Unit]
+Description=Daily Paper-List Research OS backup
+
+[Timer]
+OnCalendar=*-*-* 03:20:00
+Persistent=true
+RandomizedDelaySec=15m
+
+[Install]
+WantedBy=timers.target
