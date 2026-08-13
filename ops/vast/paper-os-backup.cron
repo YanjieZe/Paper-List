@@ -1,5 +1,0 @@
-SHELL=/bin/bash
-PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-TZ=Asia/Shanghai
-
-35 2 * * * yanjie /workspace/paper-list-research-os/repo/ops/vast/backup.sh >> /workspace/paper-list-research-os/backups/backup.log 2>&1

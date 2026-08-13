@@ -1,5 +1,0 @@
-import Link from "next/link";
-import { db } from "@/lib/db";
-import { formatDate } from "@/lib/format";
-
-export default async function NotificationsPage(){const notifications=await db()`select * from notifications order by created_at desc limit 150`;return <div className="page"><header className="page-head"><div><div className="eyebrow">Attention</div><h1>Notifications</h1><p className="lead">完成、失败、待审核和 Git conflict 都集中在这里，不依赖邮件。</p></div></header><div className="card">{notifications.length?notifications.map((notification)=>{const content=<div className="item-row row"><div><div className="item-title">{notification.title}</div><div className="meta"><span>{notification.kind}</span><span>{formatDate(notification.created_at)}</span></div><p className="lead">{notification.message}</p></div><span>→</span></div>;return notification.href?<Link href={notification.href} key={notification.id}>{content}</Link>:<div key={notification.id}>{content}</div>}):<div className="empty">Nothing needs your attention.</div>}</div></div>}
