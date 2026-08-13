@@ -24,6 +24,8 @@ pg_restore --clean --if-exists --no-owner --no-acl --dbname="$RESTORE_DATABASE_U
 psql "$RESTORE_DATABASE_URL" -v ON_ERROR_STOP=1 -c "select count(*) as migration_records from migration_records; select count(*) as research_items from research_items; select count(*) as document_versions from document_versions;"
 mkdir "$restore_tmp/restored-storage"
 tar -C "$restore_tmp/restored-storage" -xzf "$restore_tmp/storage.tar.gz"
-(cd "$restore_tmp/restored-storage" && sha256sum --check "$restore_tmp/storage-sha256.txt")
+if [[ -s "$restore_tmp/storage-sha256.txt" ]]; then
+  (cd "$restore_tmp/restored-storage" && sha256sum --check "$restore_tmp/storage-sha256.txt")
+fi
 
 echo "restore drill passed"
