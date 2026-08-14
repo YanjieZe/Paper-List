@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.08](https://arxiv.org/abs/2608.02547), Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control?
 - [arXiv 2026.07](https://arxiv.org/abs/2607.03529), Current as Touch: Proprioceptive Contact Feedback for Compliant Dexterous Manipulation
 - [arXiv 2026.06](https://arxiv.org/abs/2606.15768), LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies
 - [arXiv 2026.05](https://arxiv.org/abs/2605.00078), Being-H0.7: A Latent World-Action Model from Egocentric Videos
