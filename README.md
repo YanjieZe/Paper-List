@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://spd.bot/), Pre-training Visual Dexterity in Simulation
 - [arXiv 2026.05](https://arxiv.org/abs/2605.18722), Dexora: Open-source VLA for High-DoF Bimanual Dexterity
 - [arXiv 2026.04](https://arxiv.org/abs/2604.27792), Motubrain: An Advanced World Action Model for Robot Control
 - [arXiv 2026.08](https://arxiv.org/abs/2608.02547), Why Does Action Chunking Improve Behavioral Cloning Performance in Robotic Control?
