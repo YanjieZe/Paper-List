@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.06](https://arxiv.org/abs/2606.26428), Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?
 - [website](https://spd.bot/), Pre-training Visual Dexterity in Simulation
 - [arXiv 2026.05](https://arxiv.org/abs/2605.18722), Dexora: Open-source VLA for High-DoF Bimanual Dexterity
 - [arXiv 2026.04](https://arxiv.org/abs/2604.27792), Motubrain: An Advanced World Action Model for Robot Control
