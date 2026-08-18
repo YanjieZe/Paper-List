@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.08](https://arxiv.org/abs/2608.11521), Keep the Future, Drop the Rollout: RIFT for World Action Models
 - [arXiv 2026.08](https://arxiv.org/abs/2608.11739), G0.5: One Autoregressive Stream for Robot Reasoning and Action
 - [website](https://aus.bot/research/nestdex/), NestDex: Nested Policy Learning with Copilot Assisted Teleoperation for Dexterous Manipulation
 - [arXiv 2020.01](https://arxiv.org/abs/2001.08361), Scaling Laws for Neural Language Models
