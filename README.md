@@ -32,6 +32,8 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.03](https://arxiv.org/abs/2603.22264v1), UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos
+- [website](https://xl-vla.github.io/), XL-VLA: Cross-Hand Latent Representation for Vision-Language-Action Models
 - [website](https://orayyan.com/fetchman), FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences
 - [website](https://huggingface.co/collections/LightwheelAI/egosuite-open100k), EgoSuite-Open100K
 - [website](https://generalistai.com/blog/gen-1.5), Gen-1.5
