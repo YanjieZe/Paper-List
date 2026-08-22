@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://orayyan.com/fetchman), FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences
 - [website](https://huggingface.co/collections/LightwheelAI/egosuite-open100k), EgoSuite-Open100K
 - [website](https://generalistai.com/blog/gen-1.5), Gen-1.5
 - [arXiv 2026.08](https://arxiv.org/abs/2608.11521), Keep the Future, Drop the Rollout: RIFT for World Action Models
