@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://www.spirit-ai.com/en/blog/spirit-v1-5), Spirit-v1.5: Clean Data Is the Enemy of Great Robot Foundation Models
 - [website](https://seohong.me/blog/behavioral-cloning-mystery/), Behavioral cloning mystery
 - [arXiv 2026.08](https://arxiv.org/abs/2608.19891v1), EXIMO: VLM Guided Exploration of VLA Policies
 - [arXiv 2026.03](https://arxiv.org/abs/2603.22264v1), UniDex: A Robot Foundation Suite for Universal Dexterous Hand Control from Egocentric Human Videos
