@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/), Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models
 - [website](https://yuantianyuan01.github.io/FastWAM/), Fast-WAM: Do World Action Models Need Test-time Future Imagination?
 - [website](https://www.spirit-ai.com/en/blog/spirit-v1-5), Spirit-v1.5: Clean Data Is the Enemy of Great Robot Foundation Models
 - [website](https://seohong.me/blog/behavioral-cloning-mystery/), Behavioral cloning mystery
