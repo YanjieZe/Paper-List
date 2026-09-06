@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://metric-ai-lab.github.io/failbench/), FailBench: How Reliable are VLMs at Judging Robot Task Success?
 - [website](https://x2robot.com/en/pages/twindex), TwinDEX: A Twinned System for Dexterous Manipulation from Robot-Free Data
 - [website](https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/), Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models
 - [website](https://yuantianyuan01.github.io/FastWAM/), Fast-WAM: Do World Action Models Need Test-time Future Imagination?
