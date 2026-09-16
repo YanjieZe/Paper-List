@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://robodojo-benchmark.com/report/gpt-6-astra-eval), An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond
 - [website](https://metric-ai-lab.github.io/failbench/), FailBench: How Reliable are VLMs at Judging Robot Task Success?
 - [website](https://x2robot.com/en/pages/twindex), TwinDEX: A Twinned System for Dexterous Manipulation from Robot-Free Data
 - [website](https://developer.nvidia.com/blog/pretrained-to-imagine-fine-tuned-to-act-the-rise-of-world-action-models/), Pretrained to Imagine, Fine-Tuned to Act: The Rise of World-Action Models
