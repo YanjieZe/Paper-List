@@ -17,7 +17,7 @@ Papers:
   - [RSS 2024](https://roboticsconference.org/program/papers/)
   - [3DV 2024](https://3dvconf.github.io/2024/accepted-papers/)
   - [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) / [interactive overview](https://public.tableau.com/views/CVPR2024/PaperList?%3AshowVizHome=no)
-  - [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference) / [scores](https://guoqiangwei.xyz/iclr2024_stats/iclr-2024-statistics/)
+  - [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference) / [scores](https://guoqiangwei.xyz/iclr2024_stats/iclr2024_submissions.html)
 - 2023
   - [NeurIPS 2023](https://neurips.cc/virtual/2023/papers.html)
   - [CoRL 2023](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Conference#accept--oral-)
@@ -208,7 +208,7 @@ Papers:
 - IROS 2024, Learning to **Walk and Fly** with Adversarial Motion Priors, [arXiv](https://arxiv.org/abs/2309.12784)
 - arXiv 2024.09, **Robot Utility Models**: General Policies for Zero-Shot Deployment in New Environments, [Website](https://robotutilitymodels.com/)
 - CoRL 2024, **LucidSim**: Learning Agile Visual Locomotion from Generated Images, [OpenReview](https://openreview.net/forum?id=cGswIOxHcN)
-- CoRL 2024, **OKAMI**: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [Website](https://openreview.net/forum?id=URj5TQTAXM&referrer=%5Bthe%20profile%20of%20Yuke%20Zhu1%5D(%2Fprofile%3Fid%3D~Yuke_Zhu1))
+- CoRL 2024, **OKAMI**: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [Website](https://openreview.net/forum?id=URj5TQTAXM&referrer=%5Bthe%20profile%20of%20Yuke%20Zhu%5D(%2Fprofile%3Fid%3D~Yuke_Zhu1))
 - CoRL 2024, Learning Robotic Locomotion Affordances and **Photorealistic Simulators from Human-Captured Data**, [OpenReview](https://openreview.net/forum?id=1TEZ1hiY5m)
 - CoRL 2024, **Object-Centric Dexterous Manipulation** from Human Motion Data, [OpenReview](https://openreview.net/forum?id=KAzku0Uyh1)
 - CoRL 2024, **ALOHA Unleashed**: A Simple Recipe for Robot Dexterity, [OpenReview](https://openreview.net/forum?id=gvdXE7ikHI)
@@ -436,7 +436,7 @@ Papers:
 - CVPR 2024 submission, **AmbiGen**: Generating Ambigrams from Pre-trained Diffusion Model, [Website](https://raymond-yeh.com/AmbiGen/)
 - CVPR 2024 submission, **ReconFusion**: 3D Reconstruction with Diffusion Priors, [Website](https://reconfusion.github.io/)
 - CVPR 2024 submission, **Ego-Exo4D**: Understanding Skilled Human Activity from First- and Third-Person Perspectives, [arXiv](https://arxiv.org/abs/2311.18259) / [Website](https://ego-exo4d-data.org/)
-- CVPR 2024 submission, **MagicAnimate**: Temporally Consistent Human Image-to-Video Synthesis for Character Animation, [Github](https://github.com/magic-research/magic-animate)
+- CVPR 2024 submission, **MagicAnimate**: Temporally Consistent Human Image Animation using Diffusion Model, [Github](https://github.com/magic-research/magic-animate)
 - CVPR 2024 submission, **VideoSwap**: Customized Video Subject Swapping with Interactive Semantic Point Correspondence, [Website](https://videoswap.github.io/)
 - CVPR 2024 submission, **IMProv**: Inpainting-based Multimodal Prompting for Computer Vision Tasks, [Website](https://jerryxu.net/IMProv/)
 - CVPR 2024 submission, Generative **Powers of Ten**, [Website](https://powers-of-10.github.io/)
@@ -485,7 +485,7 @@ Papers:
 - NeurIPS 2022, **CodeRL**: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning, [arXiv](https://arxiv.org/abs/2207.01780) / [Github](https://github.com/salesforce/CodeRL)
 - arXiv 2023.10, **Robot Fine-Tuning Made Easy**: Pre-Training Rewards and Policies for Autonomous Real-World Reinforcement Learning, [Website](https://robofume.github.io/)
 - CoRL 2023, **SAQ**: Action-Quantized Offline Reinforcement Learning for Robotic Skill Learning, [Website](https://saqrl.github.io/)
-- arXiv 2023.10, Mastering Robot Manipulation with Multimodal Prompts through Pretraining and Multi-task Fine-tuning, [arXiv](https://arxiv.org/abs/2310.09676)
+- arXiv 2023.10, Mastering Robot Manipulation with Multimodal Prompts through Pretraining and Multi-task fine-tuning, [arXiv](https://arxiv.org/abs/2310.09676)
 - arXiv 2023.03, **PLEX**: Making the Most of the Available Data for Robotic Manipulation Pretraining, [arXiv](https://arxiv.org/abs/2303.08789)
 - arXiv 2023.10, **LAMP**: Learn A Motion Pattern for Few-Shot-Based Video Generation, [Website](https://rq-wu.github.io/projects/LAMP/)
 - arXiv 2023.10, **4K4D**: Real-Time 4D View Synthesis at 4K Resolution, [Website](https://zju3dv.github.io/4k4d/)
@@ -641,7 +641,7 @@ Papers:
 - arXiv 2023, Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, [Website](https://tonyzhaozh.github.io/aloha/)
 - RSS 2021, RMA: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/)
 - ICCV 2021, Where2Act: From Pixels to Actions for Articulated 3D Objects, [Website](https://cs.stanford.edu/~kaichun/where2act/)
-- CVPR 2019 oral, Semantic Image Synthesis with Spatially-Adaptive Normalization, [GitHub](https://github.com/NVlabs/SPADE/)
+- CVPR 2019 oral, Semantic Image Synthesis with Spatially-Adaptive Normalization, [GitHub](https://github.com/NVlabs/SPADE)
 
 
 # Contact
