@@ -17,7 +17,7 @@ Papers:
   - [RSS 2024](https://roboticsconference.org/program/papers/)
   - [3DV 2024](https://3dvconf.github.io/2024/accepted-papers/)
   - [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) / [interactive overview](https://public.tableau.com/views/CVPR2024/PaperList?%3AshowVizHome=no)
-  - [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference) / [scores](https://guoqiangwei.xyz/iclr2024_stats/iclr2024_submissions.html)
+  - [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference) / [scores](https://guoqiangwei.xyz/iclr2024_stats/iclr-2024-statistics/)
 - 2023
   - [NeurIPS 2023](https://neurips.cc/virtual/2023/papers.html)
   - [CoRL 2023](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Conference#accept--oral-)
@@ -32,6 +32,11 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.09](https://arxiv.org/abs/2609.17524), Modality-Autoregressive World-Action Models
+- [arXiv 2026.09](https://arxiv.org/abs/2609.17372), XPACE: Joint World and Action Modeling from Heterogeneous Experience
+- [arXiv 2026.09](https://arxiv.org/abs/2609.17376), Large Language Models Develop Belief State Geometry In-Context
+- [arXiv 2026.09](https://arxiv.org/abs/2609.17521), PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control
+- [arXiv 2026.09](https://arxiv.org/abs/2609.17380), OPEN-1B: A Fully Auditable Training Run
 - [website](https://robodojo-benchmark.com/report/gpt-6-astra-eval), An Unexpected Robot Policy: Early Evaluations of GPT-6 Astra on RoboDojo and Beyond
 - [website](https://metric-ai-lab.github.io/failbench/), FailBench: How Reliable are VLMs at Judging Robot Task Success?
 - [website](https://x2robot.com/en/pages/twindex), TwinDEX: A Twinned System for Dexterous Manipulation from Robot-Free Data
@@ -203,7 +208,7 @@ Papers:
 - IROS 2024, Learning to **Walk and Fly** with Adversarial Motion Priors, [arXiv](https://arxiv.org/abs/2309.12784)
 - arXiv 2024.09, **Robot Utility Models**: General Policies for Zero-Shot Deployment in New Environments, [Website](https://robotutilitymodels.com/)
 - CoRL 2024, **LucidSim**: Learning Agile Visual Locomotion from Generated Images, [OpenReview](https://openreview.net/forum?id=cGswIOxHcN)
-- CoRL 2024, **OKAMI**: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [Website](https://openreview.net/forum?id=URj5TQTAXM&referrer=%5Bthe%20profile%20of%20Yuke%20Zhu%5D(%2Fprofile%3Fid%3D~Yuke_Zhu1))
+- CoRL 2024, **OKAMI**: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [Website](https://openreview.net/forum?id=URj5TQTAXM&referrer=%5Bthe%20profile%20of%20Yuke%20Zhu1%5D(%2Fprofile%3Fid%3D~Yuke_Zhu1))
 - CoRL 2024, Learning Robotic Locomotion Affordances and **Photorealistic Simulators from Human-Captured Data**, [OpenReview](https://openreview.net/forum?id=1TEZ1hiY5m)
 - CoRL 2024, **Object-Centric Dexterous Manipulation** from Human Motion Data, [OpenReview](https://openreview.net/forum?id=KAzku0Uyh1)
 - CoRL 2024, **ALOHA Unleashed**: A Simple Recipe for Robot Dexterity, [OpenReview](https://openreview.net/forum?id=gvdXE7ikHI)
@@ -431,7 +436,7 @@ Papers:
 - CVPR 2024 submission, **AmbiGen**: Generating Ambigrams from Pre-trained Diffusion Model, [Website](https://raymond-yeh.com/AmbiGen/)
 - CVPR 2024 submission, **ReconFusion**: 3D Reconstruction with Diffusion Priors, [Website](https://reconfusion.github.io/)
 - CVPR 2024 submission, **Ego-Exo4D**: Understanding Skilled Human Activity from First- and Third-Person Perspectives, [arXiv](https://arxiv.org/abs/2311.18259) / [Website](https://ego-exo4d-data.org/)
-- CVPR 2024 submission, **MagicAnimate**: Temporally Consistent Human Image Animation using Diffusion Model, [Github](https://github.com/magic-research/magic-animate)
+- CVPR 2024 submission, **MagicAnimate**: Temporally Consistent Human Image-to-Video Synthesis for Character Animation, [Github](https://github.com/magic-research/magic-animate)
 - CVPR 2024 submission, **VideoSwap**: Customized Video Subject Swapping with Interactive Semantic Point Correspondence, [Website](https://videoswap.github.io/)
 - CVPR 2024 submission, **IMProv**: Inpainting-based Multimodal Prompting for Computer Vision Tasks, [Website](https://jerryxu.net/IMProv/)
 - CVPR 2024 submission, Generative **Powers of Ten**, [Website](https://powers-of-10.github.io/)
@@ -636,7 +641,7 @@ Papers:
 - arXiv 2023, Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware, [Website](https://tonyzhaozh.github.io/aloha/)
 - RSS 2021, RMA: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/)
 - ICCV 2021, Where2Act: From Pixels to Actions for Articulated 3D Objects, [Website](https://cs.stanford.edu/~kaichun/where2act/)
-- CVPR 2019 oral, Semantic Image Synthesis with Spatially-Adaptive Normalization, [GitHub](https://github.com/NVlabs/SPADE)
+- CVPR 2019 oral, Semantic Image Synthesis with Spatially-Adaptive Normalization, [GitHub](https://github.com/NVlabs/SPADE/)
 
 
 # Contact
