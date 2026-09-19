@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://typesafe.ai/blog/introducing-system-one-models-and-jev), Introducing System One Models & Jev
 - [arXiv 2026.09](https://arxiv.org/abs/2609.20820), Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision
 - [arXiv 2026.09](https://arxiv.org/abs/2609.20744), Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation
 - [arXiv 2026.09](https://arxiv.org/abs/2609.20819), Can 4D Foundation Models Remember?
