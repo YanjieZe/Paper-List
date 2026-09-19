@@ -10,7 +10,7 @@ Topics:
 Papers:
 - 2025
   - [RSS 2025](https://roboticsconference.org/program/papers/)
-  - [CVPR 2025](https://cvpr.thecv.com/Conferences/2025/AcceptedPapers)
+  - [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)
   - [ICLR 2025 scores](https://papercopilot.com/statistics/iclr-statistics/iclr-2025-statistics/)
 - 2024
   - [CoRL 2024](https://openreview.net/group?id=robot-learning.org/CoRL/2024/Conference#tab-accept) / [statistics](https://papercopilot.com/statistics/corl-statistics/corl-2024-statistics/)
@@ -511,7 +511,7 @@ Papers:
 - ICCV 2023, **S3IM**: Stochastic Structural SIMilarity and Its Unreasonable Effectiveness for Neural Fields, [Website](https://madaoer.github.io/s3im_nerf/)
 - arXiv 2023.09, **Text2Reward**: Automated Dense Reward Function Generation for Reinforcement Learning, [Website](https://text-to-reward.github.io/) / [arXiv](https://arxiv.org/abs/2309.11489)
 - ICCV 2023, End2End Multi-View Feature Matching with Differentiable Pose Optimization, [Website](https://barbararoessle.github.io/e2e_multi_view_matching/)
-- arXiv 2023.10, Aligning Text-to-Image Diffusion Models with Reward Backpropagation, [Website](https://align-prop.github.io/) / [Github](https://github.com/mihirp1998/AlignProp/)
+- arXiv 2023.10, Aligning Text-to-Image Diffusion Models with Reward Backpropagation, [Website](https://align-prop.github.io/) / [Github](https://github.com/mihirp1998/AlignProp)
 - NeurIPS 2023, **EDP**: Efficient Diffusion Policies for Offline Reinforcement Learning, [arXiv](https://arxiv.org/abs/2305.20081) / [Github](https://github.com/sail-sg/edp)
 - arXiv 2023.09, **See to Touch**: Learning Tactile Dexterity through Visual Incentives,  [arXiv](https://arxiv.org/abs/2309.12300) / [Website](https://see-to-touch.github.io/)
 - RSS 2023, **SAM-RL**: Sensing-Aware Model-Based Reinforcement Learning via Differentiable Physics-Based Simulation and Rendering, [arXiv](https://arxiv.org/abs/2210.15185) / [Website](https://sites.google.com/view/rss-sam-rl)
