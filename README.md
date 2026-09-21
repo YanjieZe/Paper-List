@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://www.lightorigins.com/blog/light-o1), Light-O1: Scaling Whole-Body Intelligence with Human Action Pretraining
 - [website](https://typesafe.ai/blog/introducing-system-one-models-and-jev), Introducing System One Models & Jev
 - [arXiv 2026.09](https://arxiv.org/abs/2609.20820), Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision
 - [arXiv 2026.09](https://arxiv.org/abs/2609.20744), Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation
