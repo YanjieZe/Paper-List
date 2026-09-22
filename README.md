@@ -32,6 +32,11 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.09](https://arxiv.org/abs/2609.22085), SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation
+- [arXiv 2026.09](https://arxiv.org/abs/2609.21948), GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments
+- [arXiv 2026.09](https://arxiv.org/abs/2609.21983), SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation
+- [arXiv 2026.09](https://arxiv.org/abs/2609.21605), Trading Depth for Time in Recurrent Transformers
+- [arXiv 2026.09](https://arxiv.org/abs/2609.22075), LIMBO: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control
 - [website](https://www.lightorigins.com/blog/light-o1), Light-O1: Scaling Whole-Body Intelligence with Human Action Pretraining
 - [website](https://typesafe.ai/blog/introducing-system-one-models-and-jev), Introducing System One Models & Jev
 - [arXiv 2026.09](https://arxiv.org/abs/2609.20820), Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision
@@ -221,7 +226,7 @@ Papers:
 - IROS 2024, Learning to **Walk and Fly** with Adversarial Motion Priors, [arXiv](https://arxiv.org/abs/2309.12784)
 - arXiv 2024.09, **Robot Utility Models**: General Policies for Zero-Shot Deployment in New Environments, [Website](https://robotutilitymodels.com/)
 - CoRL 2024, **LucidSim**: Learning Agile Visual Locomotion from Generated Images, [OpenReview](https://openreview.net/forum?id=cGswIOxHcN)
-- CoRL 2024, **OKAMI**: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [Website](https://openreview.net/forum?id=URj5TQTAXM&referrer=%5Bthe%20profile%20of%20Yuke%20Zhu%5D(%2Fprofile%3Fid%3D~Yuke_Zhu1))
+- CoRL 2024, **OKAMI**: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation, [Website](https://openreview.net/forum?id=URj5TQTAXM&referrer=%5Bthe%20profile%20of%20Yuke%20Zhu1%5D(%2Fprofile%3Fid%3D~Yuke_Zhu1))
 - CoRL 2024, Learning Robotic Locomotion Affordances and **Photorealistic Simulators from Human-Captured Data**, [OpenReview](https://openreview.net/forum?id=1TEZ1hiY5m)
 - CoRL 2024, **Object-Centric Dexterous Manipulation** from Human Motion Data, [OpenReview](https://openreview.net/forum?id=KAzku0Uyh1)
 - CoRL 2024, **ALOHA Unleashed**: A Simple Recipe for Robot Dexterity, [OpenReview](https://openreview.net/forum?id=gvdXE7ikHI)
