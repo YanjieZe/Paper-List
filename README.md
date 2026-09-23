@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2020.05](https://arxiv.org/abs/2002.05202), GLU Variants Improve Transformer
 - [arXiv 2026.09](https://arxiv.org/abs/2609.24976), DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation
 - [arXiv 2026.09](https://arxiv.org/abs/2609.24487), AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos
 - [arXiv 2026.09](https://arxiv.org/abs/2609.24972), RRSI: Regularized Recursive Self-Improvement of Agent Harnesses
