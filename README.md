@@ -14,7 +14,7 @@ Papers:
   - [ICLR 2025 scores](https://papercopilot.com/statistics/iclr-statistics/iclr-2025-statistics/)
 - 2024
   - [CoRL 2024](https://openreview.net/group?id=robot-learning.org/CoRL/2024/Conference#tab-accept) / [statistics](https://papercopilot.com/statistics/corl-statistics/corl-2024-statistics/)
-  - [RSS 2024](https://roboticsconference.org/program/papers/)
+  - [RSS 2024](https://roboticsconference.org/2024/program/papers/)
   - [3DV 2024](https://3dvconf.github.io/2024/accepted-papers/)
   - [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) / [interactive overview](https://public.tableau.com/views/CVPR2024/PaperList?%3AshowVizHome=no)
   - [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference) / [scores](https://guoqiangwei.xyz/iclr2024_stats/iclr2024_submissions.html)
@@ -32,6 +32,11 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.09](https://arxiv.org/abs/2609.24976), DexTacWAM: A Visuo-Tactile World-Action Model for Dexterous Manipulation
+- [arXiv 2026.09](https://arxiv.org/abs/2609.24487), AgentSTAR: Agentic Shape Tracking and Reconstruction from Monocular Videos
+- [arXiv 2026.09](https://arxiv.org/abs/2609.24972), RRSI: Regularized Recursive Self-Improvement of Agent Harnesses
+- [arXiv 2026.09](https://arxiv.org/abs/2609.24981), GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
+- [arXiv 2026.09](https://arxiv.org/abs/2609.24996), Learning Beyond What Humans Can Demonstrate
 - [arXiv 2026.09](https://arxiv.org/abs/2609.22085), SeeQ: Training Generalist Value Functions for Long-Horizon Robotic Manipulation
 - [arXiv 2026.09](https://arxiv.org/abs/2609.21948), GALA: Geometry-Aware Latent Action Modeling for Vision-Language-Action Model Pretraining across Embodiments
 - [arXiv 2026.09](https://arxiv.org/abs/2609.21983), SkelWAM: A Skeleton-Guided World-Action Model for Zero-Shot Cross-Embodiment Manipulation
@@ -453,7 +458,7 @@ Papers:
 - CVPR 2024 submission, **Fine-grained Controllable Video Generation** via Object Appearance and Context, [Website](https://hhsinping.github.io/factor/)
 - CVPR 2024 submission, **AmbiGen**: Generating Ambigrams from Pre-trained Diffusion Model, [Website](https://raymond-yeh.com/AmbiGen/)
 - CVPR 2024 submission, **ReconFusion**: 3D Reconstruction with Diffusion Priors, [Website](https://reconfusion.github.io/)
-- CVPR 2024 submission, **Ego-Exo4D**: Understanding Skilled Human Activity from First- and Third-Person Perspectives, [arXiv](https://arxiv.org/abs/2311.18259) / [Website](https://ego-exo4d-data.org/)
+- CVPR 2024 submission, **Ego-Exo4D**: Understanding Skilled Human Activity from First- and Third-Person Perspectives, [Website](https://ego-exo4d-data.org/)
 - CVPR 2024 submission, **MagicAnimate**: Temporally Consistent Human Image Animation using Diffusion Model, [Github](https://github.com/magic-research/magic-animate)
 - CVPR 2024 submission, **VideoSwap**: Customized Video Subject Swapping with Interactive Semantic Point Correspondence, [Website](https://videoswap.github.io/)
 - CVPR 2024 submission, **IMProv**: Inpainting-based Multimodal Prompting for Computer Vision Tasks, [Website](https://jerryxu.net/IMProv/)
