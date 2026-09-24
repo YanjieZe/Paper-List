@@ -17,7 +17,7 @@ Papers:
   - [RSS 2024](https://roboticsconference.org/program/papers/)
   - [3DV 2024](https://3dvconf.github.io/2024/accepted-papers/)
   - [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers) / [interactive overview](https://public.tableau.com/views/CVPR2024/PaperList?%3AshowVizHome=no)
-  - [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference) / [scores](https://papercopilot.com/statistics/iclr-statistics/iclr-2024-statistics/)
+  - [ICLR 2024](https://openreview.net/group?id=ICLR.cc/2024/Conference) / [scores](https://guoqiangwei.xyz/iclr2024_stats/iclr2024_submissions.html)
 - 2023
   - [NeurIPS 2023](https://neurips.cc/virtual/2023/papers.html)
   - [CoRL 2023](https://openreview.net/group?id=robot-learning.org/CoRL/2023/Conference#accept--oral-)
@@ -615,7 +615,7 @@ Papers:
 - arXiv 2023.04, **Track Anything**: Segment Anything Meets Videos, [Github](https://github.com/gaomingqi/track-anything)
 - CVPR 2023, **GLaD**: Generalizing Dataset Distillation via Deep Generative Prior, [Website](https://georgecazenavette.github.io/glad/)
 - CVPR 2022 oral, **RegNeRF**: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs, [Website](https://m-niemeyer.github.io/regnerf/)
-- CVPR 2023, **FreeNeRF**: Improving Few-shot Neural Rendering with Free Frequency Regularization, [Website](https://jiawei-yang.github.io/freenerf/) / [Github](https://github.com/Jiawei-Yang/FreeNeRF)
+- CVPR 2023, **FreeNeRF**: Improving Few-shot Neural Rendering with Free Frequency Regularization, [Website](https://jiawei-yang.github.io/FreeNeRF/) / [Github](https://github.com/Jiawei-Yang/FreeNeRF)
 - ICLR 2023 oral, **Decision-Diffuser**: Is Conditional Generative Modeling all you need for Decision-Making?, [Website](https://anuragajay.github.io/decision-diffuser/)
 - CVPR 2022, **Depth-supervised NeRF**: Fewer Views and Faster Training for Free, [Website](http://www.cs.cmu.edu/~dsnerf/)
 - SIGGRAPH Asia 2022, **ENeRF**: Efficient Neural Radiance Fields for Interactive Free-viewpoint Video, [Website](https://zju3dv.github.io/enerf/)
