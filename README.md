@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://embodiedswe.github.io/), EmbodiedSWE: Coding Agents for Long-Horizon Dexterous Robotics
 - [arXiv 2026.09](https://arxiv.org/abs/2609.26457), Recursive self-improvement of AI research agents
 - [arXiv 2026.09](https://arxiv.org/abs/2609.25961), An Action Is Worth One Patch: Unified World-Action Modeling with PatchWAM
 - [arXiv 2026.09](https://arxiv.org/abs/2609.25630), PAKT: Physically-Aligned Kinesthetic Teaching for Reinforcement Learning
