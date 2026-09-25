@@ -32,6 +32,11 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.09](https://arxiv.org/abs/2609.28258), Generalizable Robotic Insertion with World Models
+- [arXiv 2026.09](https://arxiv.org/abs/2609.28339), Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control
+- [arXiv 2026.09](https://arxiv.org/abs/2609.27656), InternW0: A Foundational Physical World Model for Efficient Real-World Interactions
+- [arXiv 2026.09](https://arxiv.org/abs/2609.28431), LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion
+- [arXiv 2026.09](https://arxiv.org/abs/2609.28473), On the Diffusibility of High-Dimensional Latents
 - [website](https://pantheon.inc/research/we-looked-at-the-data), We Looked at the Data
 - [website](https://embodiedswe.github.io/), EmbodiedSWE: Coding Agents for Long-Horizon Dexterous Robotics
 - [arXiv 2026.09](https://arxiv.org/abs/2609.26457), Recursive self-improvement of AI research agents
