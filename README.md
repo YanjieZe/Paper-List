@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [website](https://bfl.ai/models/flux-3-action), FLUX 3 Action
 - [arXiv 2026.09](https://arxiv.org/abs/2609.28258), Generalizable Robotic Insertion with World Models
 - [arXiv 2026.09](https://arxiv.org/abs/2609.28339), Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control
 - [arXiv 2026.09](https://arxiv.org/abs/2609.27656), InternW0: A Foundational Physical World Model for Efficient Real-World Interactions
