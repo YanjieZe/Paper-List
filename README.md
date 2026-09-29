@@ -32,6 +32,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2024.07](https://arxiv.org/abs/2407.20635), Autonomous Improvement of Instruction Following Skills via Foundation Models
 - [arXiv 2026.09](https://arxiv.org/abs/2609.31394), InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data
 - [arXiv 2026.09](https://arxiv.org/abs/2609.31577), Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators
 - [arXiv 2026.09](https://arxiv.org/abs/2609.31619), Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency
