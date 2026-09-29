@@ -32,6 +32,11 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.09](https://arxiv.org/abs/2609.31394), InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data
+- [arXiv 2026.09](https://arxiv.org/abs/2609.31577), Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators
+- [arXiv 2026.09](https://arxiv.org/abs/2609.31619), Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency
+- [arXiv 2026.09](https://arxiv.org/abs/2609.30572), Entropy Regularization: A Free Correction to Cross-Entropy for Verified Demonstrations
+- [arXiv 2026.09](https://arxiv.org/abs/2609.30594), HuGo: LLMs as Whole-Body Policy Code Designers for Humanoid Loco-Manipulation
 - [website](https://bfl.ai/models/flux-3-action), FLUX 3 Action
 - [arXiv 2026.09](https://arxiv.org/abs/2609.28258), Generalizable Robotic Insertion with World Models
 - [arXiv 2026.09](https://arxiv.org/abs/2609.28339), Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control
