@@ -32,6 +32,11 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.09](https://arxiv.org/abs/2609.40134), Tactile Curiosity Drives Robot Interaction
+- [arXiv 2026.09](https://arxiv.org/abs/2609.40341), Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?
+- [arXiv 2026.09](https://arxiv.org/abs/2609.39403), IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining
+- [arXiv 2026.09](https://arxiv.org/abs/2609.40316), Scaling Laws for Looped Mixture of Experts
+- [arXiv 2026.09](https://arxiv.org/abs/2609.39601), GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives
 - [arXiv 2024.07](https://arxiv.org/abs/2407.20635), Autonomous Improvement of Instruction Following Skills via Foundation Models
 - [arXiv 2026.09](https://arxiv.org/abs/2609.31394), InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data
 - [arXiv 2026.09](https://arxiv.org/abs/2609.31577), Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators
