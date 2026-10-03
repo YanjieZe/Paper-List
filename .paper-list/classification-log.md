@@ -13,3 +13,9 @@ All entries present in `README.md` at the baseline commit are intentionally trea
 - Seeded `self_improving_robots_agents.md` with four papers from the 2026-10-03 arXiv scan that are not in README: InterEvolve (2610.02196), DynaHarness (2609.40306), Recova (2610.01178), Failure-Bank Self-Evolution for VLAs (2609.39820).
 - README `Topics` index rewritten; the 21 newest inbox lines were sorted by arXiv ID. Exact duplicate lines inside topic files were removed.
 - Classification was keyword-assisted plus manual overrides; some borderline placements (e.g. generic RL vs. visual imitation) may deserve review.
+
+## 2026-10-03 — daily scan
+
+### Classified
+- [UniWAM: Unified World-Action Model](https://arxiv.org/abs/2610.02054) → `topics/world_action_models.md` / `World-action models (WAM)`
+- [InterEvolve](https://arxiv.org/abs/2610.02196) → already seeded in `topics/self_improving_robots_agents.md`; README inbox line added

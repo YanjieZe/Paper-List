@@ -5,6 +5,7 @@ World models, video-generation-as-policy, and joint world-action models (WAM/VAM
 Sections: [World-action models (WAM)](#world-action-models-wam) · [World models and interactive simulators](#world-models-and-interactive-simulators) · [Latent and model-based world models for control](#latent-and-model-based-world-models-for-control) · [Video prediction for policies and rewards](#video-prediction-for-policies-and-rewards)
 
 ## World-action models (WAM)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.02054), UniWAM: Unified World-Action Model
 - [arXiv 2026.09](https://arxiv.org/abs/2609.38163), Rethinking Representations for World-Action Modeling
 - [arXiv 2026.10](https://arxiv.org/abs/2610.01742), World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories
 - [arXiv 2026.09](https://arxiv.org/abs/2609.40341), Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?

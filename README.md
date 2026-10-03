@@ -46,6 +46,8 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.02196), InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.02054), UniWAM: Unified World-Action Model
 - [arXiv 2026.10](https://arxiv.org/abs/2610.02204), Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents
 - [arXiv 2026.10](https://arxiv.org/abs/2610.02159), When Do Intrinsic Rewards Lead to Exploration?
 - [arXiv 2026.10](https://arxiv.org/abs/2610.02140), Finetuning with Sampling: SFT Learns Better Than You Think
