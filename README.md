@@ -32,6 +32,9 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.00438), Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining
+- [arXiv 2026.10](https://arxiv.org/abs/2610.01742), World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories
+- [arXiv 2026.10](https://arxiv.org/abs/2610.02204), Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents
 - [arXiv 2026.09](https://arxiv.org/abs/2609.40134), Tactile Curiosity Drives Robot Interaction
 - [arXiv 2026.09](https://arxiv.org/abs/2609.40341), Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?
 - [arXiv 2026.09](https://arxiv.org/abs/2609.39403), IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining
