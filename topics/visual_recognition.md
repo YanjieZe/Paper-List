@@ -6,8 +6,24 @@
   - [Pose Estimation](#pose-estimation)
   - [Architecture](#architecture)
   - [Loss Function](#loss-function)
+  - [Added from README inbox](#added-from-readme-inbox)
 
 
+
+## Added from README inbox
+- arXiv 2024.07, **UnSAM**: Segment Anything without Supervision, [Github](https://github.com/frank-xwang/UnSAM)
+- ICCV 2021, **DPT**: Vision Transformers for Dense Prediction, [arXiv](https://arxiv.org/abs/2103.13413)
+- arXiv 2024.01, **pix2gestalt**: Amodal Segmentation by Synthesizing Wholes, [Website](https://gestalt.cs.columbia.edu/)
+- arXiv 2024.01, **Open-Vocabulary SAM**: Segment and Recognize Twenty-thousand Classes Interactively, [Website](https://www.mmlab-ntu.com/project/ovsam/) / [Code](https://github.com/HarborYuan/ovsam)
+- CVPR 2024 submission, **MobileSAMv2**: Faster Segment Anything to Everything, [Github](https://github.com/ChaoningZhang/MobileSAM)
+- CVPR 2017, **I3D**: Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset, [arXiv](https://arxiv.org/abs/1705.07750)
+- arXiv 2023.06, Diffusion Models for Zero-Shot Open-Vocabulary Segmentation, [Website](https://www.robots.ox.ac.uk/~vgg/research/ovdiff/)
+- arXiv 2023.04, **Track Anything**: Segment Anything Meets Videos, [Github](https://github.com/gaomingqi/track-anything)
+- CVPR 2023 award candidate, What Can Human Sketches Do for Object Detection?, [Website](http://www.pinakinathc.me/sketch-detect/)
+- CVPR 2023, Mask-Free Video Instance Segmentation, [Website](https://www.vis.xyz/pub/maskfreevis/) / [Github](https://github.com/SysCV/maskfreevis)
+- arXiv 2023.04, SEEM: Segment Everything Everywhere All at Once, [arXiv](https://arxiv.org/abs/2304.06718) / [code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)
+- arXiv 2023, Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection, [arXiv](https://arxiv.org/abs/2303.05499) / [GitHub](https://github.com/IDEA-Research/GroundingDINO)
+- arXiv 2023, Segment Anything, [Website](https://segment-anything.com/)
 
 ## Detection
 - ECCV 2022, Detic: [Detecting Twenty-thousand Classes using Image-level Supervision](https://github.com/facebookresearch/Detic)

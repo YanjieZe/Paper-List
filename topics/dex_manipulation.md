@@ -8,7 +8,58 @@
   - [In-Hand Manipulation](#in-hand-manipulation)
   - [Teleoperation](#teleoperation)
   - [Algorithm](#algorithm)
+  - [Added from README inbox](#added-from-readme-inbox)
 
+
+## Added from README inbox
+- [arXiv 2026.10](https://arxiv.org/abs/2610.00781), DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention
+- [arXiv 2026.09](https://arxiv.org/abs/2609.28431), LiMA: Bridging Long-term Imagination to Real-time Dexterous Manipulation via Asynchronous Diffusion
+- [website](https://xl-vla.github.io/), XL-VLA: Cross-Hand Latent Representation for Vision-Language-Action Models
+- [website](https://aus.bot/research/nestdex/), NestDex: Nested Policy Learning with Copilot Assisted Teleoperation for Dexterous Manipulation
+- [arXiv 2026.06](https://arxiv.org/abs/2606.26428), Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?
+- [website](https://spd.bot/), Pre-training Visual Dexterity in Simulation
+- [arXiv 2026.05](https://arxiv.org/abs/2605.18722), Dexora: Open-source VLA for High-DoF Bimanual Dexterity
+- [arXiv 2026.07](https://arxiv.org/abs/2607.03529), Current as Touch: Proprioceptive Contact Feedback for Compliant Dexterous Manipulation
+- [website](https://generalistai.com/blog/towards-machines-with-a-thousand-hands), Towards Machines with a Thousand Hands
+- [arXiv 2026.05](https://arxiv.org/abs/2605.16257), DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo
+- [arXiv 2024.08](https://arxiv.org/abs/2408.07855), Complementarity-Free Multi-Contact Modeling and Optimization for Dexterous Manipulation
+- [website](https://toyotaresearchinstitute.github.io/lbm1/), A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation
+- arXiv 2025.06, DexWrist: A Robotic Wrist for Constrained and Dynamic Manipulation, [website](https://dexwrist.csail.mit.edu/)
+- arXiv 2025.04, DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments, [website](https://nus-lins-lab.github.io/dexsingweb/)
+- arXiv 2025.04, ORCA: Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning, [website](https://www.orcahand.com/)
+- arXiv 2024.04, ManipTrans: Efficient Dexterous Bimanual Manipulation Transfer via Residual Learning, [website](https://maniptrans.github.io/)
+- arXiv 2021.09, Geometric Fabrics: Generalizing Classical Mechanics to Capture the Physics of Behavior, [arXiv](https://arxiv.org/abs/2109.10443)
+- arXiv 2023.10, Grasp Multiple Objects with One Hand, [website](https://multigrasp.github.io/)
+- arXiv 2025.03, Learning to Play Piano in the Real World, [website](https://lasr.org/research/learning-to-play-piano)
+- arXiv 2025.02, FACTR: Force-Attending Curriculum Training for Contact-Rich Policy Learning, [website](https://jasonjzliu.com/factr/)
+- arXiv 2025.02, AnyDexGrasp: Learning General Dexterous Grasping for Any Hands with Human-level Learning Efficiency, [website](https://graspnet.net/anydexgrasp/)
+- IEEE Transactions on Human-Machine Systems 2015, The GRASP Taxonomy of Human Grasp Types, [website](https://ieeexplore.ieee.org/document/7243327)
+- Science Robotics, Intrinsic sense of touch for intuitive physical human-robot interaction, [website](https://www.science.org/stoken/author-tokens/ST-2065/full)
+- arXiv 2025.02, **DexterityGen**: Foundation Controller for Unprecedented Dexterity, [website](https://zhaohengyin.github.io/dexteritygen/)
+- arXiv 2024.12, **ManiBox**: Enhancing Spatial Grasping Generalization via Scalable Simulation Data Generation, [arXiv](https://arxiv.org/abs/2411.01850)
+- arXiv 2024.11, Learning Time-Optimal and Speed-Adjustable Tactile In-Hand Manipulation, [website](https://aidx-lab.org/manipulation/humanoids24)
+- arXiv 2024.11, Soft Robotic **Dynamic In-Hand Pen Spinning**, [website](https://soft-spin.github.io/)
+- arXiv 2024.09, **AnySkin**: Plug-and-play Skin Sensing for Robotic Touch, [Website](https://any-skin.github.io/)
+- CoRL 2024, **ALOHA Unleashed**: A Simple Recipe for Robot Dexterity, [OpenReview](https://openreview.net/forum?id=gvdXE7ikHI)
+- arXiv 2024.08, **UniT**: Unified Tactile Representation for Robot Learning, [Website](https://zhengtongxu.github.io/unifiedtactile.github.io/)
+- Humanoid 2006, Dynamic Pen Spinning Using a High-speed Multifingered Hand with High-speed Tactile Sensor
+- arXiv 2024.07, Lessons from Learning to **Spin “Pens”**, [Website](https://penspin.github.io/)
+- CVPR 2023, **ARCTIC**: A Dataset for Dexterous Bimanual Hand-Object Manipulation, [Website](https://arctic.is.tue.mpg.de/)
+- RSS 2024, **RoboPack**: Learning Tactile-Informed Dynamics Models for Dense Packing, [Website](https://robo-pack.github.io/)
+- arXiv 2024.04, **HATO**: Learning Visuotactile Skills with Two Multifingered Hands, [Website](https://toruowo.github.io/hato/)
+- arXiv 2024.04, **SpringGrasp**: Synthesizing Compliant Dexterous Grasps under Shape Uncertainty, [Website](https://stanford-tml.github.io/SpringGrasp/)
+- arXiv 2024.04, **QuasiSim**: Parameterized Quasi-Physical Simulators for Dexterous Manipulations Transfer, [Website](https://meowuu7.github.io/QuasiSim/)
+- arXiv 2024.04, **PreAfford**: Universal Affordance-Based Pre-Grasping for Diverse Objects and Environments, [Website](https://air-discover.github.io/PreAfford/)
+- arXiv 2024.03, Twisting Lids Off with Two Hands, [Website](https://toruowo.github.io/bimanual-twist/)
+- arXiv 2024.02, **CyberDemo**: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation, [arXiv](https://arxiv.org/abs/2402.14795) / [Website](https://cyber-demo.github.io/)
+- arXiv 2024.01, Multimodal **Visual-Tactile Representation** Learning through Self-Supervised Contrastive Pre-Training, [arXiv](https://arxiv.org/abs/2401.12024)
+- arXiv 2024.01, **URHand**: Universal Relightable Hands, [Website](https://frozenburning.github.io/projects/urhand/)
+- arXiv 2023.09, **See to Touch**: Learning Tactile Dexterity through Visual Incentives,  [arXiv](https://arxiv.org/abs/2309.12300) / [Website](https://see-to-touch.github.io/)
+- CoRL 2022, In-Hand Object Rotation via Rapid Motor Adaptation, [arXiv](https://arxiv.org/abs/2210.04887) / [Website](https://haozhi.io/hora/)
+- ICRA 1992, Planning optimal grasps, [PDF](https://people.eecs.berkeley.edu/~jfc/papers/92/FCicra92.pdf)
+- RSS 2021, **GIGA**: Synergies Between Affordance and Geometry: 6-DoF Grasp Detection via Implicit Representations, [arXiv](https://arxiv.org/abs/2104.01542) / [Website](https://sites.google.com/view/rpl-giga2021)
+- RSS 2023, **DexPBT**: Scaling up Dexterous Manipulation for Hand-Arm Systems with Population Based Training, [Website](https://sites.google.com/view/dexpbt) / [arXiv](https://arxiv.org/abs/2305.12127)
+- arXiv 2023, RoboPianist: A Benchmark for High-Dimensional Robot Control, [Website](https://kzakka.com/robopianist/)
 
 ## Hardware
 - arXiv 2024.08, **EyeSight Hand**: Design of a Fully-Actuated Dexterous Robot Hand with Integrated Vision-Based Tactile Sensors and Compliant Actuation, [arXiv](https://arxiv.org/abs/2408.06265)
@@ -43,10 +94,8 @@
 
 
 ## In-Hand Manipulation
-- CoRL 2023, General In-Hand Object Rotation with Vision and Touch, [OpenReview](https://openreview.net/pdf?id=RN00jfIV-X)
 - arXiv 2023, **Visual Dexterity**: In-hand Dexterous Manipulation from Depth, [Website](https://taochenshh.github.io/projects/visual-dexterity)
 - ICRA 2023, **DeXtreme**: Transfer of Agile In-hand Manipulation from Simulation to Reality, [Website](https://dextreme.org/)
-- RSS 2023, **Rotating without Seeing**: Towards In-hand Dexterity through Touch, [Website](https://touchdexterity.github.io/)
 - CoRL 2022, **HORA**: In-Hand Object Rotation via Rapid Motor Adaptation, [Website](https://haozhi.io/hora/) / [Github](https://github.com/HaozhiQi/hora/)
 - CoRL 2021, A System for General In-Hand Object Re-Orientation, [Website](https://taochenshh.github.io/projects/in-hand-reorientation)
 - [Website](https://dextreme.org/)

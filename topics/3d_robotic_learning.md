@@ -1,5 +1,40 @@
 # 3D Robot Learning
 
+## Added from README inbox
+- [arXiv 2026.09](https://arxiv.org/abs/2609.30222), TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations
+- [arXiv 2026.09](https://arxiv.org/abs/2609.19142), PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics
+- arXiv 2025.01, **DAViD**: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models, [website](https://snuvclab.github.io/david/)
+- arXiv 2024.11, **RoboGSim**: A Real2Sim2Real Robotic Gaussian Splatting Simulator, [website](https://robogsim.github.io/)
+- arXiv 2024.10, **DELTA**: Dense Efficient Long-range 3D Tracking for any video, [website](https://snap-research.github.io/DELTA/)
+- arXiv 2024.09, **ClearDepth**: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation, [arXiv](https://arxiv.org/abs/2409.08926)
+- CoRL 2024, **GenDP**: 3D Semantic Fields for Category-Level Generalizable Diffusion Policy, [OpenReview](https://openreview.net/forum?id=7wMlwhCvjS)
+- CoRL 2024, **Dynamic 3D Gaussian Tracking** for Graph-Based Neural Dynamics Modeling, [OpenReview](https://openreview.net/forum?id=itKJ5uu1gW)
+- CoRL 2024, **D3RoMa**: Disparity Diffusion-based Depth Sensing for Material-Agnostic Robotic Manipulation, [OpenReview](https://openreview.net/forum?id=7E3JAys1xO)
+- CoRL 2024, **VISTA**: View-Invariant Policy Learning via Zero-Shot Novel View Synthesis, [arXiv](https://arxiv.org/abs/2409.03685)
+- arXiv 2024.08, **ReKep**: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation, [Website](https://rekep-robot.github.io/)
+- IROS 2024, Radiance Fields for Robotic Teleoperation, [arXiv](https://arxiv.org/abs/2407.20194)
+- arXiv 2024.07, **Flow** as the Cross-Domain Manipulation Interface, [arXiv](https://arxiv.org/abs/2407.15208)
+- arXiv 2024.07, Unifying 3D Representation and Control of Diverse Robots with a Single Camera, [arXiv](https://arxiv.org/abs/2407.08722)
+- RSS 2024, **MPI**: Learning Manipulation by Predicting Interaction, [Website](https://opendrivelab.github.io/mpi.github.io/)
+- ICRA 2024 workshop, Object-Aware **Gaussian Splatting for Robotic Manipulation**, [OpenReview](https://openreview.net/forum?id=gdRI43hDgo)
+- CVPR 2024 highlight, **SpatialTracker**: Tracking Any 2D Pixels in 3D Space, [Website](https://henry123-boy.github.io/SpaTracker/)
+- arXiv 2024.03, **ManiGaussian**: Dynamic Gaussian Splatting for Multi-task Robotic Manipulation, [arXiv](https://arxiv.org/abs/2403.08321)
+- arXiv 2024.03, **MOKA**: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting, [Website](https://moka-manipulation.github.io/)
+- CoRL 2020, **DSR**: Learning 3D Dynamic Scene Representations for Robot Manipulation, [Website](https://dsr-net.cs.columbia.edu/)
+- arXiv 2024.01, **ATM**: Any-point Trajectory Modeling for Policy Learning, [Website](https://xingyu-lin.github.io/atm/)
+- CoRL 2023 best paper, **Distilled Feature Fields** Enable Few-Shot Language-Guided Manipulation, [Website](https://f3rm.github.io/)
+- arXiv 2023.10, **SparseDFF**: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation, [arXiv](https://arxiv.org/abs/2310.16838)
+- arXiv 2023.10, **Universal Visual Decomposer**: Long-Horizon Manipulation Made Easy, [Website](https://zcczhang.github.io/UVD/)
+- ICLR 2024 submission, **3D Diffuser Actor**: Multi-task 3D Robot Manipulation with Iterative Error Feedback, [Openreview](https://openreview.net/forum?id=UnsLGUCynE)
+- ICLR 2024 submission, **NeRFuser**: Diffusion Guided Multi-Task 3D Policy Learning, [Openreview](https://openreview.net/forum?id=8GmPLkO0oR)
+- arXiv 2023.09, **D3Fields**: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation, [Website](https://robopil.github.io/d3fields/) / [Github](https://github.com/WangYixuan12/d3fields)
+- RSS 2022 Best Student Paper Award Finalist, **ACID**: Action-Conditional Implicit Visual Dynamics for Deformable Object Manipulation, [Website](https://b0ku1.github.io/acid/)
+- arXiv 2023.08, **RoboTAP**: Tracking Arbitrary Points for Few-Shot Visual Imitation, [arXiv](https://arxiv.org/abs/2308.15975) / [Website](https://arxiv.org/abs/2308.15975)
+- arXiv 2023.07, **KITE**: Keypoint-Conditioned Policies for Semantic Manipulation, [Website](https://sites.google.com/view/kite-website/home) / [arXiv](https://arxiv.org/abs/2306.16605)
+- arXiv 2023.06, **RVT**: Robotic View Transformer for 3D Object Manipulation, [Website](https://robotic-view-transformer.github.io/)
+- arXiv 2023.06, **SGR**: A Universal Semantic-Geometric Representation for Robotic Manipulation, [arXiv](https://arxiv.org/abs/2306.10474) / [Website](https://semantic-geometric-representation.github.io/)
+- ICML 2023, **SNeRL**: Semantic-aware Neural Radiance Fields for Reinforcement Learning, [Website](https://sjlee.cc/snerl/)
+
 - [arXiv 2024.03](https://arxiv.org/abs/2403.03954), **3D Diffusion Policy**: Generalizable Visuomotor Policy Learning via Simple 3D Representations, [Website](https://3d-diffusion-policy.github.io/)
 - [arXiv 2023.08](https://arxiv.org/abs/2308.16891), **GNFactor**: Multi-Task Real Robot Learning with Generalizable Neural Feature Fields, [website](https://yanjieze.com/GNFactor/)
 

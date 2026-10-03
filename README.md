@@ -1,11 +1,25 @@
 # A Paper List of [Yanjie Ze](https://yanjieze.com/)
 
-Topics:
-- [Humanoid Robots](https://github.com/YanjieZe/awesome-humanoid-robot-learning)
-- [Dexterous Manipulation](topics/dex_manipulation.md)
-- [3D Robot Learning](topics/3d_robotic_learning.md)
+Topics (curated views of the inbox below):
+
+Robot learning
+- [Self-Improving Robots & Agents](topics/self_improving_robots_agents.md)
+- [World Models & World-Action Models](topics/world_action_models.md)
+- [Human Video → Robot Learning](topics/human_video_to_robot.md)
 - [Robot Foundation Models](topics/robot_foundation_models.md)
-- [Best Papers](topics/best_papers.md)
+- [Humanoid](topics/humanoid.md) / [Awesome Humanoid Robot Learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning)
+- [Dexterous Manipulation](topics/dex_manipulation.md)
+- [Robotic Manipulation](topics/robotic_manipulation.md) / [Mobile Manipulation](topics/mobile_manipulation.md) / [Locomotion](topics/robotic_locomotion.md)
+- [3D Robot Learning](topics/3d_robotic_learning.md)
+- [Visual RL / Imitation / Robot Learning](topics/visual_reinforcement_learning.md) / [Reinforcement Learning](topics/reinforcement_learning.md) / [Diffusion for Robotics](topics/diffusion_robo.md)
+
+Vision, generative models and ML
+- [3D Vision](topics/3d_vision.md) / [Gaussian Splatting](topics/gaussian_splatting.md) / [3D Generation](topics/3d_generation.md) / [Graphics](topics/graphics.md)
+- [Diffusion Model](topics/diffusion_model.md) / [Generative Model](topics/generative_model.md)
+- [LLM](topics/llm.md) / [Self-Supervised Learning](topics/self_supervised_learning.md) / [Visual Recognition](topics/visual_recognition.md)
+
+Other
+- [Best Papers](topics/best_papers.md) / [Misc](topics/misc.md)
 
 Papers:
 - 2025
@@ -32,27 +46,27 @@ Papers:
 
 
 # Recent Random Papers
-- [arXiv 2026.10](https://arxiv.org/abs/2610.02140), Finetuning with Sampling: SFT Learns Better Than You Think
+- [arXiv 2026.10](https://arxiv.org/abs/2610.02204), Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents
 - [arXiv 2026.10](https://arxiv.org/abs/2610.02159), When Do Intrinsic Rewards Lead to Exploration?
+- [arXiv 2026.10](https://arxiv.org/abs/2610.02140), Finetuning with Sampling: SFT Learns Better Than You Think
+- [arXiv 2026.10](https://arxiv.org/abs/2610.01742), World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories
 - [arXiv 2026.10](https://arxiv.org/abs/2610.00781), DITTO-X: Forward and Reverse Teleoperation for Dexterous Manipulation and Human Intervention
-- [arXiv 2026.09](https://arxiv.org/abs/2609.28660), Morphometric Imitation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.00438), Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining
+- [arXiv 2026.09](https://arxiv.org/abs/2609.38178), Skill-Space Shooting for Autonomous Robot Policy Improvement
+- [arXiv 2026.09](https://arxiv.org/abs/2609.38177), Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering
+- [arXiv 2026.09](https://arxiv.org/abs/2609.38172), Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation
+- [arXiv 2026.09](https://arxiv.org/abs/2609.38163), Rethinking Representations for World-Action Modeling
+- [arXiv 2026.09](https://arxiv.org/abs/2609.37725), Context Language Models
+- [arXiv 2026.09](https://arxiv.org/abs/2609.35718), Hard Vision, Easy Vision: What GPT-6 Astra Reveals Across Computer Vision
+- [arXiv 2026.09](https://arxiv.org/abs/2609.35715), X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets
+- [arXiv 2026.09](https://arxiv.org/abs/2609.32862), RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents
+- [arXiv 2026.09](https://arxiv.org/abs/2609.32069), Find Something You Can't Do: Agentic Real-World Reinforcement Learning for Self-Improving VLA Models
+- [arXiv 2026.09](https://arxiv.org/abs/2609.31924), HapticWorld: an Interactive World Simulator with Real-time Torque Feedback
 - [arXiv 2026.09](https://arxiv.org/abs/2609.30249), RAPID: Robot Agentic Programming from Demonstrations
 - [arXiv 2026.09](https://arxiv.org/abs/2609.30226), PoEM: Predicting RL Outcomes from Existing Policies
 - [arXiv 2026.09](https://arxiv.org/abs/2609.30222), TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations
 - [arXiv 2026.09](https://arxiv.org/abs/2609.30092), Self-Adaptive VLA for Robust Robot Deployment
-- [arXiv 2026.09](https://arxiv.org/abs/2609.32069), Find Something You Can't Do: Agentic Real-World Reinforcement Learning for Self-Improving VLA Models
-- [arXiv 2026.09](https://arxiv.org/abs/2609.32862), RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents
-- [arXiv 2026.09](https://arxiv.org/abs/2609.35715), X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets
-- [arXiv 2026.09](https://arxiv.org/abs/2609.31924), HapticWorld: an Interactive World Simulator with Real-time Torque Feedback
-- [arXiv 2026.09](https://arxiv.org/abs/2609.35718), Hard Vision, Easy Vision: What GPT-6 Astra Reveals Across Computer Vision
-- [arXiv 2026.09](https://arxiv.org/abs/2609.38163), Rethinking Representations for World-Action Modeling
-- [arXiv 2026.09](https://arxiv.org/abs/2609.38172), Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation
-- [arXiv 2026.09](https://arxiv.org/abs/2609.37725), Context Language Models
-- [arXiv 2026.09](https://arxiv.org/abs/2609.38178), Skill-Space Shooting for Autonomous Robot Policy Improvement
-- [arXiv 2026.09](https://arxiv.org/abs/2609.38177), Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering
-- [arXiv 2026.10](https://arxiv.org/abs/2610.00438), Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining
-- [arXiv 2026.10](https://arxiv.org/abs/2610.01742), World Motion Models: Flexible Sequence Modeling of SE(3) Trajectories
-- [arXiv 2026.10](https://arxiv.org/abs/2610.02204), Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents
+- [arXiv 2026.09](https://arxiv.org/abs/2609.28660), Morphometric Imitation
 - [arXiv 2026.09](https://arxiv.org/abs/2609.40134), Tactile Curiosity Drives Robot Interaction
 - [arXiv 2026.09](https://arxiv.org/abs/2609.40341), Ego4WAM: What Matters When Scaling Egocentric Human Data for Robot Learning?
 - [arXiv 2026.09](https://arxiv.org/abs/2609.39403), IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining

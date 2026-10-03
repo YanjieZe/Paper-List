@@ -1,4 +1,31 @@
 # Robotic Locomotion
+## Added from README inbox
+- [Science Robotics](https://www.science.org/doi/10.1126/scirobotics.ads6192?utm_campaign=SciRobotics&utm_medium=ownedSocial&utm_source=twitter), High-speed control and navigation for quadrupedal robots on complex and discrete terrain
+- [Science Robotics](https://www.science.org/doi/10.1126/scirobotics.adu3922?utm_campaign=SciRobotics&utm_medium=ownedSocial&utm_source=twitter), Learning coordinated badminton skills for legged manipulators
+- arXiv 2025.01, Vid2Sim: Realistic and Interactive Simulation from Video for Urban Navigation, [website](https://metadriverse.github.io/vid2sim/)
+- arXiv 2025.03, Discrete-Time Hybrid Automata Learning: Legged Locomotion Meets Skateboarding, [arXiv](https://arxiv.org/abs/2503.01842)
+- arXiv 2024.05, Learning Force Control for Legged Manipulation, [arXiv](https://arxiv.org/abs/2405.01402)
+- arXiv 2024.11, Learning-based Trajectory Tracking for Bird-inspired **Flapping-Wing Robots**, [arXiv](https://arxiv.org/abs/2411.15130)
+- arXiv 2024.09, **Helpful DoggyBot**: Open-World Object Fetching using Legged Robots and Vision-Language Models, [Website](https://helpful-doggybot.github.io/)
+- arXiv 2024.09, **Full-Order Sampling-Based MPC** for Torque-Level Locomotion Control via Diffusion-Style Annealing, [Website](https://lecar-lab.github.io/dial-mpc/)
+- IROS 2024, Learning to **Walk and Fly** with Adversarial Motion Priors, [arXiv](https://arxiv.org/abs/2309.12784)
+- CoRL 2024, **LucidSim**: Learning Agile Visual Locomotion from Generated Images, [OpenReview](https://openreview.net/forum?id=cGswIOxHcN)
+- arXiv 2024.08, **CrossFormer**: Scaling Cross-Embodied Learning for Manipulation, Navigation, Locomotion, and Aviation, [Website](https://crossformer-model.github.io/)
+- arXiv 2024.05, **SPIN**: Simultaneous Perception, Interaction and Navigation, [Website](https://spin-robot.github.io/)
+- arXiv 2024.04, **DiffuseLoco**: Real-Time Legged Locomotion Control with Diffusion from Offline Datasets, [arXiv](https://arxiv.org/abs/2404.19264)
+- RoboSoft 2024, Body Design and Gait Generation of **Chair-Type Asymmetrical Tripedal** Low-rigidity Robot, [Website](https://shin0805.github.io/chair-type-tripedal-robot/)
+- arXiv 2024.03, **LocoMan**: Advancing Versatile Quadrupedal Dexterity with Lightweight Loco-Manipulators, [arXiv](https://arxiv.org/abs/2403.18197)
+- arXiv 2024.03, Leveraging **Symmetry** in RL-based Legged Locomotion Control, [arXiv](https://arxiv.org/abs/2403.17320)
+- ICRA 2024, Learning to walk in confined spaces using 3D representation, [arXiv](https://arxiv.org/abs/2403.00187)
+- ICRA 2024, **Dexterous Legged Locomotion** in Confined 3D Spaces with Reinforcement Learning, [arXiv](https://arxiv.org/abs/2403.03848)
+- arXiv 2024.02, **Extreme Cross-Embodiment Learning** for Manipulation and Navigation, [Website](https://extreme-cross-embodiment.github.io/)
+- arXiv 2024.02, **Pedipulate**: Enabling Manipulation Skills using a Quadruped Robot's Leg, [arXiv](https://arxiv.org/abs/2402.10837)
+- arXiv 2023.06, **ViNT**: A Foundation Model for Visual Navigation, [Website](https://visualnav-transformer.github.io/)
+- arXiv 2023.06, Lifelike Agility and Play on Quadrupedal Robots using Reinforcement Learning and Deep Pre-trained Models, [Website](https://tencent-roboticsx.github.io/lifelike-agility-and-play/)
+- ICLR 2023 outstanding paper, Emergence of Maps in the Memories of Blind Navigation Agents, [Openreview](https://openreview.net/forum?id=lTt4KjHSsyl)
+- CVPR 2023 highlight, Neural Volumetric Memory for Visual Locomotion Control, [Website](https://rchalyang.github.io/NVM/)
+- RSS 2021, RMA: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/)
+
 - arXiv 2023.11, **GOAT**: GO to Any Thing, [Website](https://theophilegervet.github.io/projects/goat/)
 - ICRA 2024 submission, Visual **Manipulation with Legs**, [Website](https://hacleg.github.io/)
 - arXiv 2023.10, **Grow Your Limits**: Continuous Improvement with Real-World RL for Robotic Locomotion, [Website](https://github.com/realquantumcookie/APRL) / [arXiv](https://arxiv.org/abs/2310.17634)
@@ -20,6 +47,5 @@
 - CoRL 2022 best system paper, Legged Locomotion in Challenging Terrains using Egocentric Vision, [Website](https://vision-locomotion.github.io/)
 - CoRL 2022 oral, **Deep Whole-Body Control**: Learning a Unified Policy for Manipulation and Locomotion, [Website](https://manipulation-locomotion.github.io/)
 - RSS 2022, Rapid Locomotion via Reinforcement Learning, [Website](https://agility.csail.mit.edu/) / [Github](https://github.com/Improbable-AI/rapid-locomotion-rl)
-- RSS 2021, **RMA**: Rapid Motor Adaptation for Legged Robots, [Website](https://ashish-kmr.github.io/rma-legged-robots/) /  [Github](https://github.com/antonilo/rl_locomotion)
 - CoRL 2021, Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning, [Website](https://leggedrobotics.github.io/legged_gym/) / [Github](https://github.com/leggedrobotics/legged_gym)
 - RSS 2020 best paper award, Learning Agile Robotic Locomotion Skills by Imitating Animals, [Website](https://xbpeng.github.io/projects/Robotic_Imitation/index.html) / [Github](https://github.com/erwincoumans/motion_imitation)

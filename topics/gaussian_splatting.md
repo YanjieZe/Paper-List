@@ -1,4 +1,11 @@
 # Gaussian Splatting
+## Added from README inbox
+- arXiv 2024.08, **Splatt3R**: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs, [Website](https://splatt3r.active.vision/)
+- arXiv 2024.03, **GRM**: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation, [Website](https://justimyhxu.github.io/projects/grm/)
+- arXiv 2024.03, **MVSplat**: Efficient 3D Gaussian Splatting from Sparse Multi-View Images, [Website](https://donydchen.github.io/mvsplat/)
+- CVPR 2024, **Gaussian Splatting SLAM**, [Github](https://github.com/muskie82/MonoGS)
+- arXiv 2023.10, **4K4D**: Real-Time 4D View Synthesis at 4K Resolution, [Website](https://zju3dv.github.io/4k4d/)
+
 - arXiv 2024.05, **Splat-MOVER**: Multi-Stage, Open-Vocabulary Robotic Manipulation via Editable Gaussian Splatting, [arXiv](https://arxiv.org/abs/2405.04378)
 - arXiv 2024.03, **RAIN-GS**: Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting, [Website](https://cvlab-kaist.github.io/RAIN-GS/)
 - arXiv 2024.03, **GaussianGrasper**: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping, [arXiv](https://arxiv.org/abs/2403.09637)

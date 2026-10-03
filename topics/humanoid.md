@@ -1,4 +1,34 @@
 # Humanoid
+## Added from README inbox
+- [arXiv 2026.09](https://arxiv.org/abs/2609.38172), Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation
+- [arXiv 2026.09](https://arxiv.org/abs/2609.39403), IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining
+- [arXiv 2026.09](https://arxiv.org/abs/2609.31577), Generate, Track, Improve: Perceptive Multi-Skill Humanoid Locomotion with RL-Fine-Tuned Motion Generators
+- [arXiv 2026.09](https://arxiv.org/abs/2609.22075), LIMBO: Learning and Internalizing Model-Free Barrier Objectives for Agile and Safe Whole-Body Control
+- [arXiv 2026.09](https://arxiv.org/abs/2609.18732), PASSAGE: Scaling Scene-Aligned Motion Learning for Perceptive Humanoid Traversal in Cluttered Environments
+- [website](https://orayyan.com/fetchman), FetchMan: Learning Visual Humanoid Loco-Manipulation Policies from Simulated Experiences
+- [website](https://light-loco-parkour.github.io/), LightParkour: Growing Humanoid Parkour Skills through Real2Sim2Real
+- [arXiv 2026.06](https://arxiv.org/abs/2606.30645), VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes
+- [arXiv 2026.06](https://arxiv.org/abs/2606.26201), OmniContact: Chaining Meta-Skills via Contact Flow for Generalizable Humanoid Loco-Manipulation
+- [arXiv 2026.06](https://arxiv.org/abs/2606.23680), CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation
+- [github](https://github.com/NVlabs/GRAIL/), GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors
+- [arXiv 2026.06](https://arxiv.org/abs/2606.06139), MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation
+- [website](https://extremcontrol.github.io/), ExtremControl: Low-Latency Humanoid Teleoperation with Direct Extremity Control
+- [website](https://humanoidmimicgen.github.io/#), HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning and Adaptation
+- arXiv 2025.06, Versatile Loco-Manipulation through Flexible Interlimb Coordination, [website](https://relic-locoman.github.io/)
+- arXiv 2025.02, InterMimic: Towards Universal Whole-Body Control for Physics-Based Human-Object Interactions, [arXiv](https://arxiv.org/abs/2502.20390)
+- arXiv 2025.02, Bridging the Sim-to-Real Gap for Athletic Loco-Manipulation, [website](https://uan.csail.mit.edu/)
+- arXiv 2024.12, **Meta Motivo**: Zero-Shot Whole-Body Humanoid Control via Behavioral Foundation Models, [github](https://github.com/facebookresearch/metamotivo)
+- arXiv 2024.11, **WildLMA**: Long Horizon Loco-MAnipulation in the Wild, [website](https://wildlma.github.io/)
+- arXiv 2024.10, Learning Humanoid Locomotion over Challenging Terrain, [arXiv](https://arxiv.org/abs/2410.03654)
+- arXiv 2024.09, **Opt2Skill**: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation, [arXiv](https://arxiv.org/abs/2409.20514)
+- arXiv 2024.08, **SkillMimic**: Learning Reusable Basketball Skills from Demonstrations, [Website](https://ingrid789.github.io/SkillMimic/)
+- arXiv 2024.07, **Omnigrasp**: Grasping Diverse Objects with Simulated Humanoids, [Website](https://www.zhengyiluo.com/Omnigrasp-Site/)
+- arXiv 2024.05, **Humanoid Parkour** Learning, [Website](https://humanoid4parkour.github.io/)
+- arXiv 2024.03, **Visual Whole-Body Control** for Legged Loco-Manipulation, [arXiv](https://arxiv.org/abs/2403.16967)
+- arXiv 2024.03, **HumanoidBench**: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation, [Website](https://sferrazza.cc/humanoidbench_site/)
+- **Humanoid-Gym**: Reinforcement Learning for Humanoid Robot with Zero-Shot Sim2Real Transfer, [Website](https://sites.google.com/view/humanoid-gym/)
+- L4DC 2023, **Agile Catching** with Whole-Body MPC and Blackbox Policy Learning, [arXiv](https://arxiv.org/abs/2306.08205)
+
 - SIGGRAPH Asia 2024, **GVHMR**: World-Grounded Human Motion Recovery via Gravity-View Coordinates, [Website](https://zju3dv.github.io/gvhmr/)
 - arXiv 2024.07, **SMPLOlympics**: Sports Environments for Physically Simulated Humanoids, [Website](https://smplolympics.github.io/SMPLOlympics-Site/)
 - arXiv 2024.06, **HumanPlus**: Humanoid Shadowing and Imitation from Humans, [Website](https://humanoid-ai.github.io/)

@@ -1,5 +1,44 @@
 # Large Language Model (LLM)
 
+## Added from README inbox
+- [arXiv 2026.10](https://arxiv.org/abs/2610.02140), Finetuning with Sampling: SFT Learns Better Than You Think
+- [arXiv 2026.09](https://arxiv.org/abs/2609.35718), Hard Vision, Easy Vision: What GPT-6 Astra Reveals Across Computer Vision
+- [arXiv 2026.09](https://arxiv.org/abs/2609.37725), Context Language Models
+- [arXiv 2026.09](https://arxiv.org/abs/2609.38177), Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering
+- [arXiv 2026.09](https://arxiv.org/abs/2609.40316), Scaling Laws for Looped Mixture of Experts
+- [arXiv 2026.09](https://arxiv.org/abs/2609.31619), Learning to Stop without Learning to Stop: Self-Supervised Confidence Training Improves Reasoning Efficiency
+- [arXiv 2026.09](https://arxiv.org/abs/2609.30572), Entropy Regularization: A Free Correction to Cross-Entropy for Verified Demonstrations
+- [arXiv 2026.09](https://arxiv.org/abs/2609.28473), On the Diffusibility of High-Dimensional Latents
+- [arXiv 2026.09](https://arxiv.org/abs/2609.26708), Train Where the Quantized Model Goes: On-Policy Distillation for Low-Bit Reasoning
+- [arXiv 2020.05](https://arxiv.org/abs/2002.05202), GLU Variants Improve Transformer
+- [arXiv 2026.09](https://arxiv.org/abs/2609.21605), Trading Depth for Time in Recurrent Transformers
+- [arXiv 2026.09](https://arxiv.org/abs/2609.20744), Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation
+- [arXiv 2026.09](https://arxiv.org/abs/2609.20751), dQwen3.5: Hybrid-Attention Diffusion Language Models
+- [arXiv 2026.09](https://arxiv.org/abs/2609.19242), Block Parallelism For Efficient Distributed Long-Context Diffusion Language Model Training
+- [arXiv 2026.09](https://arxiv.org/abs/2609.17895), TabPFN-3.5: Technical Report
+- [arXiv 2026.09](https://arxiv.org/abs/2609.17376), Large Language Models Develop Belief State Geometry In-Context
+- [website](https://www.anthropic.com/research/global-workspace), A global workspace in language models
+- [arXiv 2025.09](https://arxiv.org/abs/2509.04343), Psychologically Enhanced AI Agents
+- arXiv 2024.06, **An Image is Worth More Than 16x16 Patches**: Exploring Transformers on Individual Pixels, [arXiv](https://arxiv.org/abs/2406.09415)
+- arXiv 2024.04, **KAN**: Kolmogorov-Arnold Networks, [arXiv](https://arxiv.org/abs/2404.19756)
+- arXiv 2024.04, **BLINK**: Multimodal Large Language Models Can See but Not Perceive, [Website](https://zeyofu.github.io/blink/)
+- CVPR 2024, A Vision Check-up for Language Models, [arXiv](https://arxiv.org/abs/2401.01862)
+- ICLR 2024, Can Transformers Capture Spatial Relations between Objects? [arXiv](https://arxiv.org/abs/2403.00729) / [Website](https://sites.google.com/view/spatial-relation)
+- arXiv 2024.02, Massive Activations in Large Language Models, [Website](https://eric-mingjie.github.io/massive-activations/index.html)
+- arXiv 2024.01, **Spatial VLM**: Endowing Vision-Language Models with Spatial Reasoning Capabilities, [Website](https://spatial-vlm.github.io/)
+- arXiv 2024.01, **VMamba**: Visual State Space Model, [Github](https://github.com/MzeroMiko/VMamba)
+- arXiv 2023.12, **Mamba**: Linear-Time Sequence Modeling with Selective State Spaces, [arXiv](https://arxiv.org/abs/2312.00752) / [Github](https://github.com/state-spaces/mamba)
+- ICLR 2022, **S4**: Efficiently Modeling Long Sequences with Structured State Spaces, [arXiv](https://arxiv.org/abs/2111.00396)
+- arXiv 2024.01, **Dr2Net**: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning, [arXiv](https://arxiv.org/abs/2401.04105)
+- CVPR 2024 submission, **V\***: Guided Visual Search as a Core Mechanism in Multimodal LLMs, [Website](https://vstar-seal.github.io/)
+- NeurIPS 2022, **CodeRL**: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning, [arXiv](https://arxiv.org/abs/2207.01780) / [Github](https://github.com/salesforce/CodeRL)
+- AAAI 2018, **FiLM**: Visual Reasoning with a General Conditioning Layer, [arXiv](https://arxiv.org/abs/1709.07871)
+- ICML 2023, On the power of foundation models, [arXiv](https://arxiv.org/abs/2211.16327)
+- CVPR 2023 award candidate, Visual Programming for Compositional Visual Reasoning, [Website](https://prior.allenai.org/projects/visprog)
+- arXiv 2022.05, **FlashAttention**: Fast and Memory-Efficient Exact Attention with IO-Awareness, [arXiv](https://arxiv.org/abs/2205.14135) / [Github](https://github.com/HazyResearch/flash-attention)
+- arXiv 2023.04, Generative Agents: Interactive Simulacra of Human Behavior, [arXiv](https://arxiv.org/abs/2304.03442)
+- arXiv 2023, Alpaca: A Strong, Replicable Instruction-Following Model, [Website](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+
 ## Recent
 - arXiv 2023.08, **LISA**: Reasoning Segmentation via Large Language Model, [arXiv](https://arxiv.org/abs/2308.00692)
 - arXiv 2024.04, **LEGENT**: Open Platform for Embodied Agents, [arXiv](https://arxiv.org/abs/2404.18243)
