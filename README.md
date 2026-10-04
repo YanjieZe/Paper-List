@@ -46,6 +46,8 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.09](https://arxiv.org/abs/2609.39870), Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence
+- [arXiv 2026.09](https://arxiv.org/abs/2609.40153), Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling
 - [arXiv 2026.10](https://arxiv.org/abs/2610.02204), Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents
 - [arXiv 2026.10](https://arxiv.org/abs/2610.02159), When Do Intrinsic Rewards Lead to Exploration?
 - [arXiv 2026.10](https://arxiv.org/abs/2610.02140), Finetuning with Sampling: SFT Learns Better Than You Think
