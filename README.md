@@ -46,6 +46,10 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.03391), Native Action-Prior Learning from Videos for World Action Models
+- [arXiv 2026.10](https://arxiv.org/abs/2610.03716), MoSE3: Learning World-Space SE(3) at Every Pixel
+- [arXiv 2026.10](https://arxiv.org/abs/2610.03604), Mastering Atari 2600 Games with Discovered Options
+- [arXiv 2026.10](https://arxiv.org/abs/2610.03667), Planning to Learn
 - [arXiv 2026.09](https://arxiv.org/abs/2609.39870), Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence
 - [arXiv 2026.09](https://arxiv.org/abs/2609.40153), Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling
 - [arXiv 2026.10](https://arxiv.org/abs/2610.02204), Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents
