@@ -46,6 +46,10 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.06850), InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.06805), H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning
+- [arXiv 2026.10](https://arxiv.org/abs/2610.05882), Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning
+- [arXiv 2026.10](https://arxiv.org/abs/2610.06235), Encoded but Not in Control: Revealing the Grounding Gap in Vision-Language Robot Policies
 - [arXiv 2026.10](https://arxiv.org/abs/2610.03391), Native Action-Prior Learning from Videos for World Action Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.03716), MoSE3: Learning World-Space SE(3) at Every Pixel
 - [arXiv 2026.10](https://arxiv.org/abs/2610.03604), Mastering Atari 2600 Games with Discovered Options
