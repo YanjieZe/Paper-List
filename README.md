@@ -46,6 +46,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.07056), Behavioral Cloning Mystery
 - [arXiv 2026.10](https://arxiv.org/abs/2610.06850), InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.06805), H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning
 - [arXiv 2026.10](https://arxiv.org/abs/2610.05882), Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning
