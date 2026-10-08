@@ -46,6 +46,10 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.10515), RoboJEPA: Scaling Robotic Latent World Models
+- [arXiv 2026.10](https://arxiv.org/abs/2610.10528), Long-WAM: Scaling the Context of World-Action Models
+- [arXiv 2026.10](https://arxiv.org/abs/2610.09228), Co-Evolving Robot Orchestrators and Policies through Deployment
+- [arXiv 2026.10](https://arxiv.org/abs/2610.09117), Workhorse: Learning Robust Whole-Body Humanoid Loco-Manipulation from Human Data
 - [arXiv 2026.10](https://arxiv.org/abs/2610.06850), InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.06805), H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning
 - [arXiv 2026.10](https://arxiv.org/abs/2610.05882), Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning
