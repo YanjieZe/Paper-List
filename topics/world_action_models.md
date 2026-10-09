@@ -45,6 +45,7 @@ Sections: [World-action models (WAM)](#world-action-models-wam) · [World models
 - ICLR 2024 oral, **UniSim**: Learning Interactive Real-World Simulators, [OpenReview](https://openreview.net/forum?id=sFyTZEqmUY)
 
 ## Latent and model-based world models for control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.10846), Cross-Embodiment Robot Foundation World Models with Latent Actions
 - [arXiv 2026.09](https://arxiv.org/abs/2609.20820), Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision
 - ICLR 2024 oral, Mastering **Memory Tasks** with World Models, [OpenReview](https://openreview.net/forum?id=1vDArHJ68h)
 - arXiv 2023.10, **TD-MPC2**: Scalable, Robust World Models for Continuous Control, [arXiv](https://arxiv.org/abs/2310.16828) / [Github](https://github.com/nicklashansen/tdmpc2)

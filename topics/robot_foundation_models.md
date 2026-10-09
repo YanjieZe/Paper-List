@@ -1,6 +1,7 @@
 # Robot Foundation Models
 
 ## Added from README inbox
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12386), ARC: A Reasoning Recipe for Robot Foundation Models
 - [arXiv 2026.09](https://arxiv.org/abs/2609.35715), X-Reset: Scaling Object-Centric Reinforcement Learning via Cross-Embodiment Resets
 - [arXiv 2026.09](https://arxiv.org/abs/2609.39601), GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives
 - [arXiv 2026.09](https://arxiv.org/abs/2609.25627), MachEmbodied-U0: Unified Understanding and Generation Model for Embodied Intelligence

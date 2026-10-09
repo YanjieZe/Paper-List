@@ -5,6 +5,7 @@ Learning manipulation and whole-body skills from human video, egocentric data, m
 Sections: [Egocentric and human data pretraining](#egocentric-and-human-data-pretraining) · [Capture hardware, retargeting and teleoperation](#capture-hardware-retargeting-and-teleoperation) · [Learning from internet and human video](#learning-from-internet-and-human-video)
 
 ## Egocentric and human data pretraining
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12435), VioLA: Learning Generalist Humanoid Control Policies from Human Data
 - [arXiv 2026.10](https://arxiv.org/abs/2610.00438), Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining
 - [website](https://www.lightorigins.com/blog/light-o1), Light-O1: Scaling Whole-Body Intelligence with Human Action Pretraining
 - [website](https://x2robot.com/en/pages/twindex), TwinDEX: A Twinned System for Dexterous Manipulation from Robot-Free Data

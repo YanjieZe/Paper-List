@@ -19,3 +19,11 @@ All entries present in `README.md` at the baseline commit are intentionally trea
 ### Classified
 - [Magic-W0](https://arxiv.org/abs/2609.39870) → `topics/world_action_models.md` / `World-action models (WAM)`
 - [Dream4ACT](https://arxiv.org/abs/2609.40153) → `topics/world_action_models.md` / `World-action models (WAM)`
+
+## 2026-10-09 — daily scan
+
+### Classified
+- [VioLA](https://arxiv.org/abs/2610.12435) → `topics/human_video_to_robot.md` / `Egocentric and human data pretraining`; `topics/humanoid.md`
+- [LAC-WM](https://arxiv.org/abs/2610.10846) → `topics/world_action_models.md` / `Latent and model-based world models for control`
+- [Success Guided Sampling / Mega-Scale RL](https://arxiv.org/abs/2610.12465) → `topics/reinforcement_learning.md`
+- [ARC](https://arxiv.org/abs/2610.12386) → `topics/robot_foundation_models.md`

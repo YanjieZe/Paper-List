@@ -46,6 +46,10 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12435), VioLA: Learning Generalist Humanoid Control Policies from Human Data
+- [arXiv 2026.10](https://arxiv.org/abs/2610.10846), Cross-Embodiment Robot Foundation World Models with Latent Actions
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12465), A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12386), ARC: A Reasoning Recipe for Robot Foundation Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.06850), InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.06805), H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning
 - [arXiv 2026.10](https://arxiv.org/abs/2610.05882), Mulligan: Performance-Guided Data Collection for Efficient On-Robot Learning

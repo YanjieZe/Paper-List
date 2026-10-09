@@ -10,6 +10,7 @@
   - [Added from README inbox](#added-from-readme-inbox)
 
 ## Added from README inbox
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12465), A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control
 - [arXiv 2026.09](https://arxiv.org/abs/2609.30226), PoEM: Predicting RL Outcomes from Existing Policies
 - [arXiv 2026.09](https://arxiv.org/abs/2609.25630), PAKT: Physically-Aligned Kinesthetic Teaching for Reinforcement Learning
 - [arXiv 2025.07](https://arxiv.org/abs/2507.07969), Reinforcement Learning with Action Chunking
