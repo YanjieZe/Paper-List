@@ -46,6 +46,10 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12464), What 30,000 Hours of Ego-centric Video Does Not Teach
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12099), UNITAS: A 3D-Native World Action Model for Embodied Manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12468), DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12470), Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12435), VioLA: Learning Generalist Humanoid Control Policies from Human Data
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10846), Cross-Embodiment Robot Foundation World Models with Latent Actions
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12465), A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control
