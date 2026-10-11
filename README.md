@@ -46,6 +46,8 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12407), LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC
+- [arXiv 2026.10](https://arxiv.org/abs/2610.12369), Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12464), What 30,000 Hours of Ego-centric Video Does Not Teach
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12099), UNITAS: A 3D-Native World Action Model for Embodied Manipulation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12468), DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training
