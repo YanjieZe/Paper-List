@@ -46,6 +46,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.10515), RoboJEPA: Scaling Robotic Latent World Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12407), LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12369), Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12464), What 30,000 Hours of Ego-centric Video Does Not Teach
