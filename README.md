@@ -46,6 +46,9 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.13117), Forward Dynamics Models
+- [arXiv 2026.10](https://arxiv.org/abs/2610.13024), What Visual Representations Do World Action Models Need?
+- [arXiv 2026.10](https://arxiv.org/abs/2610.13345), Evo-RL: Iterative Robot Reinforcement Learning from Selective Experience
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10515), RoboJEPA: Scaling Robotic Latent World Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12407), LeWAM: A JEPA World Action Model with Diffusion-Steering-Based MPC
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12369), Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement
