@@ -46,6 +46,10 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18873), LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18774), GreenWAM: A World Foundation Model for Robotics
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18596), ACCRUE: Continual Off-Policy Reinforcement Learning for Robot Foundation Models
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18822), EgoMatrix: Physically Faithful Dexterous Robot Demonstrations from Egocentric Human Videos
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13354), AlphaNIST: Emergent Assembly Skills from Binary Task Rewards
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13117), Forward Dynamics Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13024), What Visual Representations Do World Action Models Need?

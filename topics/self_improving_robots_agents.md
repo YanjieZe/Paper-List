@@ -24,6 +24,8 @@ Sections: [Agentic robot self-improvement](#agentic-robot-self-improvement) · [
 - [arXiv 2026.03](https://arxiv.org/abs/2603.22435), CaP-X: A Framework for Benchmarking and Improving Coding Agents for Robot Manipulation
 
 ## Real-world RL and autonomous policy improvement
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18873), LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18596), ACCRUE: Continual Off-Policy Reinforcement Learning for Robot Foundation Models
 - [arXiv 2026.09](https://arxiv.org/abs/2609.30092), Self-Adaptive VLA for Robust Robot Deployment
 - [arXiv 2024.07](https://arxiv.org/abs/2407.20635), Autonomous Improvement of Instruction Following Skills via Foundation Models
 - [arXiv 2026.09](https://arxiv.org/abs/2609.24996), Learning Beyond What Humans Can Demonstrate
