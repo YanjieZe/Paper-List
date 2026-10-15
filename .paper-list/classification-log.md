@@ -27,3 +27,11 @@ All entries present in `README.md` at the baseline commit are intentionally trea
 - [LAC-WM](https://arxiv.org/abs/2610.10846) → `topics/world_action_models.md` / `Latent and model-based world models for control`
 - [Success Guided Sampling / Mega-Scale RL](https://arxiv.org/abs/2610.12465) → `topics/reinforcement_learning.md`
 - [ARC](https://arxiv.org/abs/2610.12386) → `topics/robot_foundation_models.md`
+
+## 2026-10-15 — daily scan
+
+### Classified
+- [λ0](https://arxiv.org/abs/2610.18950) → `topics/human_video_to_robot.md` / `Egocentric and human data pretraining`; `topics/humanoid.md`
+- [FACT](https://arxiv.org/abs/2610.19155) → `topics/human_video_to_robot.md` / `Egocentric and human data pretraining`
+- [LoopWAM](https://arxiv.org/abs/2610.18873) → `topics/world_action_models.md` / `World-action models (WAM)`; `topics/self_improving_robots_agents.md` / `Real-world RL and autonomous policy improvement`
+- [GreenWAM](https://arxiv.org/abs/2610.18774) → `topics/world_action_models.md` / `World-action models (WAM)`

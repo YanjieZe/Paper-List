@@ -1,5 +1,6 @@
 # Humanoid
 ## Added from README inbox
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18950), $λ_0$: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12435), VioLA: Learning Generalist Humanoid Control Policies from Human Data
 - [arXiv 2026.09](https://arxiv.org/abs/2609.38172), Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation
 - [arXiv 2026.09](https://arxiv.org/abs/2609.39403), IronMind: Scaling Humanoid Dexterous Manipulation via Camera-Space Ego-Centric Pretraining

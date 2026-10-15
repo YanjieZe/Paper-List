@@ -46,6 +46,10 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18950), $λ_0$: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18873), LoopWAM: Closed-Loop Generalist Policy Improvement from Deployment Rollouts
+- [arXiv 2026.10](https://arxiv.org/abs/2610.18774), GreenWAM: A World Foundation Model for Robotics
+- [arXiv 2026.10](https://arxiv.org/abs/2610.19155), FACT: A Multimodal Force-Action-Track Foundation Model for Human-to-Robot Dexterity
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13354), AlphaNIST: Emergent Assembly Skills from Binary Task Rewards
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13117), Forward Dynamics Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13024), What Visual Representations Do World Action Models Need?
