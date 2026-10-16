@@ -46,6 +46,9 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.22340), Dexterity from Supervised Play
+- [arXiv 2026.10](https://arxiv.org/abs/2610.22184), Whole-Body Dexterity
+- [arXiv 2026.10](https://arxiv.org/abs/2610.19155), FACT: A Multimodal Force-Action-Track Foundation Model for Human-to-Robot Dexterity
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13354), AlphaNIST: Emergent Assembly Skills from Binary Task Rewards
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13117), Forward Dynamics Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13024), What Visual Representations Do World Action Models Need?
