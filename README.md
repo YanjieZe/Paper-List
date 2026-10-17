@@ -46,6 +46,10 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.22184), Whole-Body Dexterity
+- [arXiv 2026.10](https://arxiv.org/abs/2610.22340), Dexterity from Supervised Play
+- [arXiv 2026.10](https://arxiv.org/abs/2610.22342), Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation
+- [arXiv 2026.10](https://arxiv.org/abs/2610.21915), What Should Robot Policies Learn to Predict? Rethinking Supervision Targets in Vision-Language-Action Learning
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13354), AlphaNIST: Emergent Assembly Skills from Binary Task Rewards
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13117), Forward Dynamics Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.13024), What Visual Representations Do World Action Models Need?
