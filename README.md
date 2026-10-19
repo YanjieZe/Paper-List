@@ -46,6 +46,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.22496), Scaling Online Exploration for Robot Agents
 - [arXiv 2026.10](https://arxiv.org/abs/2610.22184), Whole-Body Dexterity
 - [arXiv 2026.10](https://arxiv.org/abs/2610.22340), Dexterity from Supervised Play
 - [arXiv 2026.10](https://arxiv.org/abs/2610.22342), Spark-0: Scaling Spatially Aligned Tactile Pretraining for Robot Dexterous Manipulation
