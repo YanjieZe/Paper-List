@@ -46,6 +46,9 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.26855), Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience
+- [arXiv 2026.10](https://arxiv.org/abs/2610.25736), Learning from Fleet Experience: A Collective Learning Paradigm for Robots
+- [arXiv 2026.10](https://arxiv.org/abs/2610.26863), Text-to-Image Generative Modeling Without Language Pretraining
 - [arXiv 2026.10](https://arxiv.org/abs/2610.22496), Scaling Online Exploration for Robot Agents
 - [arXiv 2026.10](https://arxiv.org/abs/2610.22184), Whole-Body Dexterity
 - [arXiv 2026.10](https://arxiv.org/abs/2610.22340), Dexterity from Supervised Play
