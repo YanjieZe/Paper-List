@@ -27,3 +27,9 @@ All entries present in `README.md` at the baseline commit are intentionally trea
 - [LAC-WM](https://arxiv.org/abs/2610.10846) → `topics/world_action_models.md` / `Latent and model-based world models for control`
 - [Success Guided Sampling / Mega-Scale RL](https://arxiv.org/abs/2610.12465) → `topics/reinforcement_learning.md`
 - [ARC](https://arxiv.org/abs/2610.12386) → `topics/robot_foundation_models.md`
+
+## 2026-10-21 — daily scan
+
+### Classified
+- [SuperMimic](https://arxiv.org/abs/2610.28480) → `topics/humanoid.md`
+- [Action Influence Maximization](https://arxiv.org/abs/2610.27387) → `topics/world_action_models.md` / `World models and interactive simulators`; `topics/self_improving_robots_agents.md` / `Curiosity, exploration and data engines`

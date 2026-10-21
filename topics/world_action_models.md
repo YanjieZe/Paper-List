@@ -29,6 +29,7 @@ Sections: [World-action models (WAM)](#world-action-models-wam) · [World models
 - arXiv 2024.03, **VQ-BeT**: Behavior Generation with Latent Actions, [arXiv](https://arxiv.org/abs/2403.03181) / [Website](https://sjlee.cc/vq-bet/)
 
 ## World models and interactive simulators
+- [arXiv 2026.10](https://arxiv.org/abs/2610.27387), Training Controllable World Models via Action Influence Maximization
 - [arXiv 2026.09](https://arxiv.org/abs/2609.31924), HapticWorld: an Interactive World Simulator with Real-time Torque Feedback
 - [arXiv 2026.09](https://arxiv.org/abs/2609.27656), InternW0: A Foundational Physical World Model for Efficient Real-World Interactions
 - [arXiv 2026.09](https://arxiv.org/abs/2609.24981), GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation

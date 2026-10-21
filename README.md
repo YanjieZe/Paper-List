@@ -46,6 +46,8 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.28480), SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model
+- [arXiv 2026.10](https://arxiv.org/abs/2610.27387), Training Controllable World Models via Action Influence Maximization
 - [arXiv 2026.10](https://arxiv.org/abs/2610.26855), Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience
 - [arXiv 2026.10](https://arxiv.org/abs/2610.25736), Learning from Fleet Experience: A Collective Learning Paradigm for Robots
 - [arXiv 2026.10](https://arxiv.org/abs/2610.26863), Text-to-Image Generative Modeling Without Language Pretraining
