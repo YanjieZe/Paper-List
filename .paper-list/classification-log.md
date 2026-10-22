@@ -33,3 +33,10 @@ All entries present in `README.md` at the baseline commit are intentionally trea
 ### Classified
 - [SuperMimic](https://arxiv.org/abs/2610.28480) → `topics/humanoid.md`
 - [Action Influence Maximization](https://arxiv.org/abs/2610.27387) → `topics/world_action_models.md` / `World models and interactive simulators`; `topics/self_improving_robots_agents.md` / `Curiosity, exploration and data engines`
+
+## 2026-10-22 — daily scan
+
+### Classified
+- [Agentic World Action Models](https://arxiv.org/abs/2610.30136) → `topics/world_action_models.md` / `World-action models (WAM)`
+- [SpatialDex](https://arxiv.org/abs/2610.29716) → `topics/human_video_to_robot.md` / `Egocentric and human data pretraining`
+- [Real2Sem2Real](https://arxiv.org/abs/2610.28880) → `topics/human_video_to_robot.md` / `Learning from internet and human video`

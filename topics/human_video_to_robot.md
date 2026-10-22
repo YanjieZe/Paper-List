@@ -5,6 +5,7 @@ Learning manipulation and whole-body skills from human video, egocentric data, m
 Sections: [Egocentric and human data pretraining](#egocentric-and-human-data-pretraining) · [Capture hardware, retargeting and teleoperation](#capture-hardware-retargeting-and-teleoperation) · [Learning from internet and human video](#learning-from-internet-and-human-video)
 
 ## Egocentric and human data pretraining
+- [arXiv 2026.10](https://arxiv.org/abs/2610.29716), SpatialDex: Learning Bimanual Dexterity from RGB-Only Human Videos with Spatial Context
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12435), VioLA: Learning Generalist Humanoid Control Policies from Human Data
 - [arXiv 2026.10](https://arxiv.org/abs/2610.00438), Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining
 - [website](https://www.lightorigins.com/blog/light-o1), Light-O1: Scaling Whole-Body Intelligence with Human Action Pretraining
@@ -30,6 +31,7 @@ Sections: [Egocentric and human data pretraining](#egocentric-and-human-data-pre
 - arXiv 2024.02, **Universal Manipulation Interface**: In-The-Wild Robot Teaching Without In-The-Wild Robots, [Website](https://umi-gripper.github.io/)
 
 ## Learning from internet and human video
+- [arXiv 2026.10](https://arxiv.org/abs/2610.28880), Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration
 - [arXiv 2025.06](https://arxiv.org/abs/2506.01944), Feel the Force: Contact-Driven Learning from Humans
 - arXiv 2025.01, Predicting 4D Hand Trajectory from Monocular Videos, [website](https://judyye.github.io/haptic-www/)
 - arXiv 2025.01, Learning to Transfer Human Hand Skills for Robot Manipulations, [website](https://rureadyo.github.io/MocapRobot/)
