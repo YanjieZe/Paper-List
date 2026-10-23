@@ -46,6 +46,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.30814), DRILL: Training World Models to Improve Policies, Not Predict Pixels
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30136), Agentic World Action Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.29716), SpatialDex: Learning Bimanual Dexterity from RGB-Only Human Videos with Spatial Context
 - [arXiv 2026.10](https://arxiv.org/abs/2610.28880), Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration
