@@ -40,3 +40,10 @@ All entries present in `README.md` at the baseline commit are intentionally trea
 - [Agentic World Action Models](https://arxiv.org/abs/2610.30136) → `topics/world_action_models.md` / `World-action models (WAM)`
 - [SpatialDex](https://arxiv.org/abs/2610.29716) → `topics/human_video_to_robot.md` / `Egocentric and human data pretraining`
 - [Real2Sem2Real](https://arxiv.org/abs/2610.28880) → `topics/human_video_to_robot.md` / `Learning from internet and human video`
+
+## 2026-10-26 — daily scan
+
+### Classified
+- [UniAction](https://arxiv.org/abs/2610.32977) → `topics/world_action_models.md` / `World models and interactive simulators`
+- [Ψ-0.6](https://arxiv.org/abs/2610.32177) → `topics/world_action_models.md` / `World models and interactive simulators`
+- [FLORA](https://arxiv.org/abs/2610.31779) → `topics/self_improving_robots_agents.md` / `Curiosity, exploration and data engines`

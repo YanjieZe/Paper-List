@@ -58,6 +58,7 @@ Sections: [Agentic robot self-improvement](#agentic-robot-self-improvement) · [
 - arXiv 2023.05, **Voyager**: An Open-Ended Embodied Agent with Large Language Models, [Website](https://voyager.minedojo.org/)
 
 ## Curiosity, exploration and data engines
+- [arXiv 2026.10](https://arxiv.org/abs/2610.31779), FLORA: An Open Model Suite for Scaling Robotics Data Engines
 - [arXiv 2026.10](https://arxiv.org/abs/2610.27387), Training Controllable World Models via Action Influence Maximization
 - [arXiv 2026.10](https://arxiv.org/abs/2610.02159), When Do Intrinsic Rewards Lead to Exploration?
 - [arXiv 2026.09](https://arxiv.org/abs/2609.40134), Tactile Curiosity Drives Robot Interaction

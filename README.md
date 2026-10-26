@@ -46,6 +46,9 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.32977), UniAction: Unified Action Conditioning for World Models
+- [arXiv 2026.10](https://arxiv.org/abs/2610.32177), Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model
+- [arXiv 2026.10](https://arxiv.org/abs/2610.31779), FLORA: An Open Model Suite for Scaling Robotics Data Engines
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30814), DRILL: Training World Models to Improve Policies, Not Predict Pixels
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30136), Agentic World Action Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.29716), SpatialDex: Learning Bimanual Dexterity from RGB-Only Human Videos with Spatial Context
