@@ -46,6 +46,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.33565), WorldFailBench: Do World Models Understand Policy Failures?
 - [arXiv 2026.10](https://arxiv.org/abs/2610.32977), UniAction: Unified Action Conditioning for World Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.32177), Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model
 - [arXiv 2026.10](https://arxiv.org/abs/2610.31779), FLORA: An Open Model Suite for Scaling Robotics Data Engines
