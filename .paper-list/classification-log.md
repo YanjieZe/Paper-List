@@ -47,3 +47,11 @@ All entries present in `README.md` at the baseline commit are intentionally trea
 - [UniAction](https://arxiv.org/abs/2610.32977) → `topics/world_action_models.md` / `World models and interactive simulators`
 - [Ψ-0.6](https://arxiv.org/abs/2610.32177) → `topics/world_action_models.md` / `World models and interactive simulators`
 - [FLORA](https://arxiv.org/abs/2610.31779) → `topics/self_improving_robots_agents.md` / `Curiosity, exploration and data engines`
+
+## 2026-10-28 — daily scan
+
+### Classified
+- [ThinkWorld](https://arxiv.org/abs/2610.37666) → `topics/human_video_to_robot.md` / `Learning from internet and human video`
+- [Just Action Models](https://arxiv.org/abs/2610.37219) → `topics/world_action_models.md` / `World-action models (WAM)`
+- [Understanding the limits of latent world models](https://arxiv.org/abs/2610.37588) → `topics/world_action_models.md` / `Latent and model-based world models for control`
+- [Scaling Laws for Tool-Use Agents](https://arxiv.org/abs/2610.37648) → `topics/self_improving_robots_agents.md` / `Self-improving AI research and digital agents`

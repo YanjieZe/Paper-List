@@ -46,6 +46,10 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.37666), ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning
+- [arXiv 2026.10](https://arxiv.org/abs/2610.37219), Vision-Language-Action or World-Action? Just Action Models
+- [arXiv 2026.10](https://arxiv.org/abs/2610.37588), Understanding the limits of latent world models
+- [arXiv 2026.10](https://arxiv.org/abs/2610.37648), Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis
 - [arXiv 2026.10](https://arxiv.org/abs/2610.32977), UniAction: Unified Action Conditioning for World Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.32177), Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model
 - [arXiv 2026.10](https://arxiv.org/abs/2610.31779), FLORA: An Open Model Suite for Scaling Robotics Data Engines

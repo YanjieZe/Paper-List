@@ -5,6 +5,7 @@ World models, video-generation-as-policy, and joint world-action models (WAM/VAM
 Sections: [World-action models (WAM)](#world-action-models-wam) · [World models and interactive simulators](#world-models-and-interactive-simulators) · [Latent and model-based world models for control](#latent-and-model-based-world-models-for-control) · [Video prediction for policies and rewards](#video-prediction-for-policies-and-rewards)
 
 ## World-action models (WAM)
+- [arXiv 2026.10](https://arxiv.org/abs/2610.37219), Vision-Language-Action or World-Action? Just Action Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.30136), Agentic World Action Models
 - [arXiv 2026.09](https://arxiv.org/abs/2609.39870), Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence
 - [arXiv 2026.09](https://arxiv.org/abs/2609.40153), Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling
@@ -49,6 +50,7 @@ Sections: [World-action models (WAM)](#world-action-models-wam) · [World models
 - ICLR 2024 oral, **UniSim**: Learning Interactive Real-World Simulators, [OpenReview](https://openreview.net/forum?id=sFyTZEqmUY)
 
 ## Latent and model-based world models for control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.37588), Understanding the limits of latent world models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10515), RoboJEPA: Scaling Robotic Latent World Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10846), Cross-Embodiment Robot Foundation World Models with Latent Actions
 - [arXiv 2026.09](https://arxiv.org/abs/2609.20820), Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision

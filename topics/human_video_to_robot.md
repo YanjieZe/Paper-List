@@ -31,6 +31,7 @@ Sections: [Egocentric and human data pretraining](#egocentric-and-human-data-pre
 - arXiv 2024.02, **Universal Manipulation Interface**: In-The-Wild Robot Teaching Without In-The-Wild Robots, [Website](https://umi-gripper.github.io/)
 
 ## Learning from internet and human video
+- [arXiv 2026.10](https://arxiv.org/abs/2610.37666), ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning
 - [arXiv 2026.10](https://arxiv.org/abs/2610.28880), Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration
 - [arXiv 2025.06](https://arxiv.org/abs/2506.01944), Feel the Force: Contact-Driven Learning from Humans
 - arXiv 2025.01, Predicting 4D Hand Trajectory from Monocular Videos, [website](https://judyye.github.io/haptic-www/)

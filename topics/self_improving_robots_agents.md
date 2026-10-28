@@ -50,6 +50,7 @@ Sections: [Agentic robot self-improvement](#agentic-robot-self-improvement) · [
 - arXiv 2023.10, **Eureka**: Human-Level Reward Design via Coding Large Language Models, [Website](https://eureka-research.github.io/)
 
 ## Self-improving AI research and digital agents
+- [arXiv 2026.10](https://arxiv.org/abs/2610.37648), Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis
 - [arXiv 2026.09](https://arxiv.org/abs/2609.26457), Recursive self-improvement of AI research agents
 - [arXiv 2026.09](https://arxiv.org/abs/2609.24972), RRSI: Regularized Recursive Self-Improvement of Agent Harnesses
 - [arXiv 2026.09](https://arxiv.org/abs/2609.17930), Locating Hidden Failures Makes Long-Horizon Agents More Reliable
