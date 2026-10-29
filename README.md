@@ -46,6 +46,9 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.35075), Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data
+- [arXiv 2026.10](https://arxiv.org/abs/2610.36791), RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions
+- [arXiv 2026.10](https://arxiv.org/abs/2610.34663), Video World Models Need Predictable Latents
 - [arXiv 2026.10](https://arxiv.org/abs/2610.37666), ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning
 - [arXiv 2026.10](https://arxiv.org/abs/2610.37219), Vision-Language-Action or World-Action? Just Action Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.37588), Understanding the limits of latent world models

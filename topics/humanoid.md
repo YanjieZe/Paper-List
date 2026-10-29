@@ -1,5 +1,6 @@
 # Humanoid
 ## Added from README inbox
+- [arXiv 2026.10](https://arxiv.org/abs/2610.35075), Zero-HLM: Generalizable Humanoid Loco-Manipulation without Real Robot Data
 - [arXiv 2026.10](https://arxiv.org/abs/2610.28480), SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12435), VioLA: Learning Generalist Humanoid Control Policies from Human Data
 - [arXiv 2026.09](https://arxiv.org/abs/2609.38172), Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation

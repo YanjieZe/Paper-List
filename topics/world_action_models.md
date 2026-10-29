@@ -50,6 +50,8 @@ Sections: [World-action models (WAM)](#world-action-models-wam) · [World models
 - ICLR 2024 oral, **UniSim**: Learning Interactive Real-World Simulators, [OpenReview](https://openreview.net/forum?id=sFyTZEqmUY)
 
 ## Latent and model-based world models for control
+- [arXiv 2026.10](https://arxiv.org/abs/2610.36791), RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions
+- [arXiv 2026.10](https://arxiv.org/abs/2610.34663), Video World Models Need Predictable Latents
 - [arXiv 2026.10](https://arxiv.org/abs/2610.37588), Understanding the limits of latent world models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10515), RoboJEPA: Scaling Robotic Latent World Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.10846), Cross-Embodiment Robot Foundation World Models with Latent Actions

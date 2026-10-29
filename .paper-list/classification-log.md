@@ -55,3 +55,10 @@ All entries present in `README.md` at the baseline commit are intentionally trea
 - [Just Action Models](https://arxiv.org/abs/2610.37219) → `topics/world_action_models.md` / `World-action models (WAM)`
 - [Understanding the limits of latent world models](https://arxiv.org/abs/2610.37588) → `topics/world_action_models.md` / `Latent and model-based world models for control`
 - [Scaling Laws for Tool-Use Agents](https://arxiv.org/abs/2610.37648) → `topics/self_improving_robots_agents.md` / `Self-improving AI research and digital agents`
+
+## 2026-10-29 — daily scan
+
+### Classified
+- [Zero-HLM](https://arxiv.org/abs/2610.35075) → `topics/humanoid.md` / `Added from README inbox`
+- [RynnWorld-Latent](https://arxiv.org/abs/2610.36791) → `topics/world_action_models.md` / `Latent and model-based world models for control`
+- [Video World Models Need Predictable Latents](https://arxiv.org/abs/2610.34663) → `topics/world_action_models.md` / `Latent and model-based world models for control`
