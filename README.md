@@ -46,6 +46,9 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.34356), RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions
+- [arXiv 2026.10](https://arxiv.org/abs/2610.40564), Training Foundation Models with a Single Algorithm
+- [arXiv 2026.10](https://arxiv.org/abs/2610.34593), What Does World Modeling Actually Improve in Robot Action Learning?
 - [arXiv 2026.10](https://arxiv.org/abs/2610.37666), ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning
 - [arXiv 2026.10](https://arxiv.org/abs/2610.37219), Vision-Language-Action or World-Action? Just Action Models
 - [arXiv 2026.10](https://arxiv.org/abs/2610.37588), Understanding the limits of latent world models
