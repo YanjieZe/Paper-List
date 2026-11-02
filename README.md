@@ -46,6 +46,9 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.10](https://arxiv.org/abs/2610.41877), Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos
+- [arXiv 2026.10](https://arxiv.org/abs/2610.40748), WorldBridge: Bridging Video and Action for Task Generalization in World Action Models
+- [arXiv 2026.10](https://arxiv.org/abs/2610.41654), ∇Mimic: Ultra-Efficient Humanoid Control with Differentiable Simulation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.34356), RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions
 - [arXiv 2026.10](https://arxiv.org/abs/2610.40564), Training Foundation Models with a Single Algorithm
 - [arXiv 2026.10](https://arxiv.org/abs/2610.34593), What Does World Modeling Actually Improve in Robot Action Learning?
