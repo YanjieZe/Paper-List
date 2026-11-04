@@ -5,6 +5,7 @@ Learning manipulation and whole-body skills from human video, egocentric data, m
 Sections: [Egocentric and human data pretraining](#egocentric-and-human-data-pretraining) · [Capture hardware, retargeting and teleoperation](#capture-hardware-retargeting-and-teleoperation) · [Learning from internet and human video](#learning-from-internet-and-human-video)
 
 ## Egocentric and human data pretraining
+- [arXiv 2026.11](https://arxiv.org/abs/2611.03815), AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data
 - [arXiv 2026.10](https://arxiv.org/abs/2610.29716), SpatialDex: Learning Bimanual Dexterity from RGB-Only Human Videos with Spatial Context
 - [arXiv 2026.10](https://arxiv.org/abs/2610.12435), VioLA: Learning Generalist Humanoid Control Policies from Human Data
 - [arXiv 2026.10](https://arxiv.org/abs/2610.00438), Towards a General Humanoid Loco-Manipulation Model via Egocentric Whole-Body Human Data Pretraining

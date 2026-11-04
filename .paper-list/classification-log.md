@@ -55,3 +55,8 @@ All entries present in `README.md` at the baseline commit are intentionally trea
 - [Just Action Models](https://arxiv.org/abs/2610.37219) → `topics/world_action_models.md` / `World-action models (WAM)`
 - [Understanding the limits of latent world models](https://arxiv.org/abs/2610.37588) → `topics/world_action_models.md` / `Latent and model-based world models for control`
 - [Scaling Laws for Tool-Use Agents](https://arxiv.org/abs/2610.37648) → `topics/self_improving_robots_agents.md` / `Self-improving AI research and digital agents`
+
+## 2026-11-04 daily arXiv run
+- [AIRoA-0](https://arxiv.org/abs/2611.03815) → `topics/human_video_to_robot.md` / `Egocentric and human data pretraining`
+- [PrimeSim](https://arxiv.org/abs/2611.04870) → `topics/world_action_models.md` / `World models and interactive simulators`
+- [Hybrid Particle-Voxel Dynamics](https://arxiv.org/abs/2611.04492) → `topics/world_action_models.md` / `World models and interactive simulators`

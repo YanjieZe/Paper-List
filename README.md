@@ -46,6 +46,9 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.11](https://arxiv.org/abs/2611.03815), AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data
+- [arXiv 2026.11](https://arxiv.org/abs/2611.04870), PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations
+- [arXiv 2026.11](https://arxiv.org/abs/2611.04492), Hybrid Particle-Voxel Dynamics for Multimodal 3D World Simulation
 - [arXiv 2026.11](https://arxiv.org/abs/2611.03648), Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation
 - [arXiv 2026.11](https://arxiv.org/abs/2611.02497), RoboColosseum: Evaluating Physical Intelligence at Scale In-The-Wild
 - [arXiv 2026.10](https://arxiv.org/abs/2610.41877), Movens-Zero: Scaling Humanoid Motion Foundation Models with Large-Scale Human Videos
