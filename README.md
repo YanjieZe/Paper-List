@@ -46,6 +46,9 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.11](https://arxiv.org/abs/2611.06905), Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement
+- [arXiv 2026.11](https://arxiv.org/abs/2611.06908), Perceptive Humanoid Motion from Simulation
+- [arXiv 2026.11](https://arxiv.org/abs/2611.06817), Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models
 - [arXiv 2026.11](https://arxiv.org/abs/2611.03815), AIRoA-0: Long-Horizon, Precise, Cross-Embodiment Manipulation from Handheld Data
 - [arXiv 2026.11](https://arxiv.org/abs/2611.04870), PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations
 - [arXiv 2026.11](https://arxiv.org/abs/2611.04492), Hybrid Particle-Voxel Dynamics for Multimodal 3D World Simulation
