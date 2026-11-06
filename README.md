@@ -46,6 +46,9 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.11](https://arxiv.org/abs/2611.08338), GPWM: Modeling the World as 3D Particle Motion
+- [arXiv 2026.11](https://arxiv.org/abs/2611.07229), Spatial-UMI-Dream: Scaling World Action Models with Metric Geometry for UMI Manipulation
+- [arXiv 2026.11](https://arxiv.org/abs/2611.08209), RoboARCade: Benchmarking Agentic Robot Control
 - [arXiv 2026.11](https://arxiv.org/abs/2611.06905), Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement
 - [arXiv 2026.11](https://arxiv.org/abs/2611.06908), Perceptive Humanoid Motion from Simulation
 - [arXiv 2026.11](https://arxiv.org/abs/2611.06817), Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models
