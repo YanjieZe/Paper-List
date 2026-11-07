@@ -46,6 +46,7 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.11](https://arxiv.org/abs/2611.08156), La-JEPA: Compact Robot Policies with Latent World Modeling
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08338), GPWM: Modeling the World as 3D Particle Motion
 - [arXiv 2026.11](https://arxiv.org/abs/2611.07229), Spatial-UMI-Dream: Scaling World Action Models with Metric Geometry for UMI Manipulation
 - [arXiv 2026.11](https://arxiv.org/abs/2611.08209), RoboARCade: Benchmarking Agentic Robot Control

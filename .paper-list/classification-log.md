@@ -60,3 +60,6 @@ All entries present in `README.md` at the baseline commit are intentionally trea
 - [AIRoA-0](https://arxiv.org/abs/2611.03815) → `topics/human_video_to_robot.md` / `Egocentric and human data pretraining`
 - [PrimeSim](https://arxiv.org/abs/2611.04870) → `topics/world_action_models.md` / `World models and interactive simulators`
 - [Hybrid Particle-Voxel Dynamics](https://arxiv.org/abs/2611.04492) → `topics/world_action_models.md` / `World models and interactive simulators`
+
+## 2026-11-07 daily arXiv run
+- [La-JEPA](https://arxiv.org/abs/2611.08156) → `topics/world_action_models.md` / `World-action models (WAM)`
