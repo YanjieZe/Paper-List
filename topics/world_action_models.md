@@ -32,6 +32,7 @@ Sections: [World-action models (WAM)](#world-action-models-wam) · [World models
 - arXiv 2024.03, **VQ-BeT**: Behavior Generation with Latent Actions, [arXiv](https://arxiv.org/abs/2403.03181) / [Website](https://sjlee.cc/vq-bet/)
 
 ## World models and interactive simulators
+- [arXiv 2026.11](https://arxiv.org/abs/2611.11085), ObjectWorld: Scaling Object-Centric World Models with A Large-Scale 3D Full-Object Flow Dataset
 - [arXiv 2026.11](https://arxiv.org/abs/2611.04870), PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations
 - [arXiv 2026.11](https://arxiv.org/abs/2611.04492), Hybrid Particle-Voxel Dynamics for Multimodal 3D World Simulation
 - [arXiv 2026.10](https://arxiv.org/abs/2610.32977), UniAction: Unified Action Conditioning for World Models

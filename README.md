@@ -46,6 +46,8 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.11](https://arxiv.org/abs/2611.11085), ObjectWorld: Scaling Object-Centric World Models with A Large-Scale 3D Full-Object Flow Dataset
+- [arXiv 2026.11](https://arxiv.org/abs/2611.10148), BATCH: Behavior Alignment for Cross-Embodiment Learning from Humans
 - [arXiv 2026.11](https://arxiv.org/abs/2611.09892), On Agentic Manipulation Policies
 - [arXiv 2026.11](https://arxiv.org/abs/2611.09030), A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics
 - [arXiv 2026.11](https://arxiv.org/abs/2611.09847), Computer-Use Agents Are Embodied Generalists

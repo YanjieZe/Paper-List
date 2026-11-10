@@ -63,3 +63,7 @@ All entries present in `README.md` at the baseline commit are intentionally trea
 
 ## 2026-11-07 daily arXiv run
 - [La-JEPA](https://arxiv.org/abs/2611.08156) → `topics/world_action_models.md` / `World-action models (WAM)`
+
+## 2026-11-10 daily arXiv run
+- [ObjectWorld](https://arxiv.org/abs/2611.11085) → `topics/world_action_models.md` / `World models and interactive simulators`
+- [BATCH](https://arxiv.org/abs/2611.10148) → `topics/human_video_to_robot.md` / `Egocentric and human data pretraining`
