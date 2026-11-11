@@ -46,6 +46,10 @@ Papers:
 
 
 # Recent Random Papers
+- [arXiv 2026.11](https://arxiv.org/abs/2611.13160), How Much of Your VLA Is kNN
+- [arXiv 2026.11](https://arxiv.org/abs/2611.14467), A Theory of Policy Optimization in Post-Training: Coverage Collapse and Reference Resets
+- [arXiv 2026.11](https://arxiv.org/abs/2611.14420), OnlyAct: Extracting Action Representations from Foundation Models for World Models
+- [arXiv 2026.11](https://arxiv.org/abs/2611.14365), From Video Frames to Robot Meta-Frames: A Unified Latent Interface for World Action Models
 - [arXiv 2026.11](https://arxiv.org/abs/2611.09892), On Agentic Manipulation Policies
 - [arXiv 2026.11](https://arxiv.org/abs/2611.09030), A Controlled Study of Models, Skills, Feedback, and Curriculum in Agentic Robotics
 - [arXiv 2026.11](https://arxiv.org/abs/2611.09847), Computer-Use Agents Are Embodied Generalists
